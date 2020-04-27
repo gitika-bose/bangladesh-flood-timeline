@@ -1,0 +1,3398 @@
+[
+  {
+    "abstract": "Monsoon floods that lasted three times longer than any other in Bangladesh's history finally recede and millions of people begin cleaning muck from their homes; but country is still struggling to cope with aftermath: hunger, disease and homelessness (M)",
+    "web_url": "https://www.nytimes.com/1998/10/09/world/2-month-flood-breeds-havoc-and-spreads-disease-in-bangladesh.html",
+    "snippet": "Monsoon floods that lasted three times longer than any other in Bangladesh's history finally recede and millions of people begin cleaning muck from their homes; but country is still struggling to cope with aftermath: hunger, disease and homelessne...",
+    "lead_paragraph": "Monsoon floods that lasted three times longer than any other in Bangladesh's history have finally receded and millions of people have begun cleaning the muck from their homes.",
+    "print_section": "A",
+    "print_page": "11",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "2-Month Flood Breeds Havoc and Spreads Disease in Bangladesh",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "2-Month Flood Breeds Havoc and Spreads Disease in Bangladesh",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Weather",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Monsoons",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Rain",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Floods",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-10-09T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Celia W. Dugger",
+      "person": [
+        {
+          "firstname": "Celia",
+          "middlename": "W.",
+          "lastname": "Dugger",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/4d0b6999-7325-5e04-8fc0-5c6f28c87c6e",
+    "word_count": 520,
+    "uri": "nyt://article/4d0b6999-7325-5e04-8fc0-5c6f28c87c6e"
+  },
+  {
+    "abstract": "Monsoon floods have swamped Bangladesh for almost two months, twice as long as any other recorded flooding; have inundated more than half of nation, killed over 520 people, closed many roads, wiped out part of rice crop and threaten to bring deadly diarrhea and other diseases; Prime Min Sheik Hasina Wazed appeals for international aid, interview; more than half of capital, Dhaka, city of nine million people, is flooded; slum dwellers must wade through, wash dishes in and even drink water thick with sewage and garbage; map; photos (M)",
+    "web_url": "https://www.nytimes.com/1998/09/07/world/monsoon-hangs-on-swamping-bangladesh.html",
+    "snippet": "Monsoon floods have swamped Bangladesh for almost two months, twice as long as any other recorded flooding; have inundated more than half of nation, killed over 520 people, closed many roads, wiped out part of rice crop and threaten to bring deadl...",
+    "lead_paragraph": "For two months, the people of this village have been marooned on the tin roofs of their shacks, unwilling to abandon their homesteads even as the Jamuna River engulfed them in the longest-lasting flood in the history of this disaster-prone country.",
+    "print_section": "A",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Monsoon Hangs On, Swamping Bangladesh",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Monsoon Hangs On, Swamping Bangladesh",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Dhaka (Bangladesh)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Wazed, Hasina",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Weather",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Diarrhea",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Roads and Traffic",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Monsoons",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Grain",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreign Aid",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Floods",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-09-07T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Celia W. Dugger",
+      "person": [
+        {
+          "firstname": "Celia",
+          "middlename": "W.",
+          "lastname": "Dugger",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/8b87c3e0-fdeb-520f-b62f-5aade2bde4b3",
+    "word_count": 1396,
+    "uri": "nyt://article/8b87c3e0-fdeb-520f-b62f-5aade2bde4b3"
+  },
+  {
+    "abstract": "Tens of thousands of Bangladeshi villagers are slowly dying from biggest mass poisoning ever, victims of naturally occuring arsenic in ground water; crisis is unintended result of 25-year-old safe-water program, in which Unicef and other aid groups weaned villagers from disease-carrying pond water and helped them build vast system of tube wells; map; photos (M)",
+    "web_url": "https://www.nytimes.com/1998/11/10/world/death-by-arsenic-a-special-report-new-bangladesh-disaster-wells-that-pump-poison.html",
+    "snippet": "Tens of thousands of Bangladeshi villagers are slowly dying from biggest mass poisoning ever, victims of naturally occuring arsenic in ground water; crisis is unintended result of 25-year-old safe-water program, in which Unicef and other aid group...",
+    "lead_paragraph": "This fall, the young mother found out that her own slow dying was nothing unusual, that tens of thousands of Bangladeshi villagers were suffering the same ghastly decay, with their skin spotted like spoiled fruit and warts and sores covering their hands and feet.",
+    "print_section": "A",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "DEATH BY ARSENIC: A special report.; New Bangladesh Disaster: Wells That Pump Poison",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "DEATH BY ARSENIC: A special report.; New Bangladesh Disaster: Wells That Pump Poison",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Nations Children's Fund",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Water Pollution",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "ARSENIC",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-11-10T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Barry Bearak",
+      "person": [
+        {
+          "firstname": "Barry",
+          "middlename": null,
+          "lastname": "Bearak",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Special Report",
+    "_id": "nyt://article/9e3b62d9-26dd-5c6c-b316-0c72f988ed40",
+    "word_count": 2531,
+    "uri": "nyt://article/9e3b62d9-26dd-5c6c-b316-0c72f988ed40"
+  },
+  {
+    "abstract": "Francis Robinson reviews Henry Glassie book Art and Life in Bangladesh (M)",
+    "web_url": "https://www.nytimes.com/1998/03/08/books/quotidian-treasures.html",
+    "snippet": "Francis Robinson reviews Henry Glassie book Art and Life in Bangladesh (M)",
+    "lead_paragraph": "ART AND LIFE IN BANGLADESH By Henry Glassie. Illustrated. 511 pp. Bloomington: Indiana University Press. $49.95.",
+    "print_section": "7",
+    "print_page": "24",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Quotidian Treasures",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Quotidian Treasures",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Robinson, Francis",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Glassie, Henry",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Reviews",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "Art and Life in Bangladesh (Book)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-03-08T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Book Review Desk",
+    "section_name": "Books",
+    "subsection_name": "Book Review",
+    "byline": {
+      "original": "By Francis Robinson",
+      "person": [
+        {
+          "firstname": "Francis",
+          "middlename": null,
+          "lastname": "Robinson",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "nyt://article/8215993e-5369-50fe-b22b-d4e1cca39601",
+    "word_count": 1168,
+    "uri": "nyt://article/8215993e-5369-50fe-b22b-d4e1cca39601"
+  },
+  {
+    "abstract": "Tina Rosenberg Editorial Observer column holds deforestation multiplied damage from tropical storm Mitch in El Salvador, Honduras and Nicaragua, contributing to lethal mudslides and flooding (M)",
+    "web_url": "https://www.nytimes.com/1998/11/26/opinion/editorial-observer.html",
+    "snippet": "Tina Rosenberg Editorial Observer column holds deforestation multiplied damage from tropical storm Mitch in El Salvador, Honduras and Nicaragua, contributing to lethal mudslides and flooding (M)",
+    "lead_paragraph": "On the second day of tropical storm Mitch in Maria Salgado's house, the family watched in horror as the mud floor caved in and the bed was swept away. Then the refrigerator. Soon the walls, made of palm fronds and sticks of wood lashed together, and the corrugated tin roof collapsed. Ms. Salgado's youngest child, 1 1/2-year-old Victor Antonio, vanished in the debris.",
+    "print_section": "A",
+    "print_page": "38",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Editorial Observer",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Editorial Observer",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Nicaragua",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "El Salvador",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Honduras",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Forests and Forestry",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "HURRICANE MITCH",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Floods",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hurricanes and Tropical Storms",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-11-26T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "byline": {
+      "original": "By Tina Rosenberg",
+      "person": [
+        {
+          "firstname": "Tina",
+          "middlename": null,
+          "lastname": "Rosenberg",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/9b2fcdd2-d29c-5fdf-b929-1b0cab80f57c",
+    "word_count": 669,
+    "uri": "nyt://article/9b2fcdd2-d29c-5fdf-b929-1b0cab80f57c"
+  },
+  {
+    "abstract": "The average temperature of Earth's atmosphere reached the highest level ever recorded in the first two-thirds of 1998, jumping off the charts. Six of the first eight months of the year were the warmest since records began in 1866..The accelerating pace",
+    "web_url": "https://www.nytimes.com/1998/11/02/opinion/IHT-rapid-climate-change-leaves-politicians-behind.html",
+    "snippet": "The average temperature of Earth's atmosphere reached the highest level ever recorded in the first two-thirds of 1998, jumping off the charts. Six of the first eight months of the year were the warmest since records began in 1866..The accelerating...",
+    "lead_paragraph": "The average temperature of Earth's atmosphere reached the highest level ever recorded in the first two-thirds of 1998, jumping off the charts. Six of the first eight months of the year were the warmest since records began in 1866.",
+    "source": "International Herald Tribune",
+    "multimedia": [],
+    "headline": {
+      "main": "Rapid Climate Change Leaves Politicians Behind",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Rapid Climate Change Leaves Politicians Behind",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [],
+    "pub_date": "1998-11-02T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "IHT News",
+    "section_name": "Opinion",
+    "byline": {
+      "original": "By Christopher Flavin and Seth Dunn, International Herald Tribune",
+      "person": [
+        {
+          "firstname": "Christopher",
+          "middlename": null,
+          "lastname": "Flavin",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Seth",
+          "middlename": null,
+          "lastname": "Dunn",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        },
+        {
+          "firstname": "International",
+          "middlename": "Herald",
+          "lastname": "Tribune",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 3
+        }
+      ],
+      "organization": null
+    },
+    "_id": "nyt://article/360c909c-fb78-5035-9567-841f0bc9acea",
+    "word_count": 4810,
+    "uri": "nyt://article/360c909c-fb78-5035-9567-841f0bc9acea"
+  },
+  {
+    "abstract": "Walter Goodman reviews PBS production The Dynasty: The Nehru-Gandhi Story, on family that led India for 42 of first 50 years of country's independence (M)",
+    "web_url": "https://www.nytimes.com/1998/01/07/arts/television-review-the-family-that-shaped-modern-india.html",
+    "snippet": "Walter Goodman reviews PBS production The Dynasty: The Nehru-Gandhi Story, on family that led India for 42 of first 50 years of country's independence (M)",
+    "lead_paragraph": "For sheer color, a history of India seems made for television, yet it also seems too big and unmanageable to fit into a few hours on a small screen. All that colorful ceremony amid a pall of misery; the ravishing ideals ravaged by sectarian slaughter; the aspirations to democracy undermined by politicking, corruption and flirtations with dictatorship. And spilling over the screen, the dangerous masses, worshipful, suffering, cruel. Floods of humanity and floods of hatred.",
+    "print_section": "E",
+    "print_page": "5",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "The Family That Shaped Modern India",
+      "kicker": "TELEVISION REVIEW",
+      "content_kicker": null,
+      "print_headline": "TELEVISION REVIEW; The Family That Shaped Modern India",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Nehru, Jawaharlal",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Gandhi, Indira",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "DYNASTY, THE: THE NEHRU-GANDHI STORY (TV PROGRAM)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-01-07T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "The Arts/Cultural Desk",
+    "section_name": "Arts",
+    "byline": {
+      "original": "By Walter Goodman",
+      "person": [
+        {
+          "firstname": "Walter",
+          "middlename": null,
+          "lastname": "Goodman",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "nyt://article/b5566a3a-d00e-577b-81ae-a59981adf97f",
+    "word_count": 541,
+    "uri": "nyt://article/b5566a3a-d00e-577b-81ae-a59981adf97f"
+  },
+  {
+    "abstract": "In this lesson, students assess the causes and effects of massive arsenic contamination in the water supplies of 43 of Bangladesh\u2019s 64 districts.  Students evaluate why this contamination occurred, how it affects the population of Bangladesh, and why this environmental catastrophe is proving so difficult to solve.  Students then locate related news articles and compare the presentation of this news to that found in the New York Times article read in class.",
+    "web_url": "https://learning.blogs.nytimes.com/1998/11/11/testing-bangladeshs-waters/",
+    "snippet": "In this lesson, students assess the causes and effects of massive arsenic contamination in the water supplies of 43 of Bangladesh\u2019s 64 districts.  Students evaluate why this contamination occurred, how it affects the population of Bangladesh, and ...",
+    "lead_paragraph": "Note: This lesson was originally published on an older version of The Learning Network; the link to the related Times article will take you to a page on the old site.",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Testing Bangladesh\u2019s Waters",
+      "kicker": "The Learning Network",
+      "content_kicker": null,
+      "print_headline": null,
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [],
+    "pub_date": "1998-11-11T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "",
+    "section_name": "Education",
+    "byline": {
+      "original": "By Alison Zimbalist",
+      "person": [
+        {
+          "firstname": "Alison",
+          "middlename": null,
+          "lastname": "Zimbalist",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/b65d6321-cdce-5789-8a7f-041ff38762b8",
+    "word_count": 2585,
+    "uri": "nyt://article/b65d6321-cdce-5789-8a7f-041ff38762b8"
+  },
+  {
+    "abstract": "Water supply of Sydney, Australia, is declared unsafe after the parasites giardia and cryptosporidium are discovered in its largest treatment plant; news hurts pride of city that regards itself as perhaps the most livable on earth; photo (M)",
+    "web_url": "https://www.nytimes.com/1998/08/02/world/proud-sydney-is-aghast-its-tap-water-is-unsafe.html",
+    "snippet": "Water supply of Sydney, Australia, is declared unsafe after the parasites giardia and cryptosporidium are discovered in its largest treatment plant; news hurts pride of city that regards itself as perhaps the most livable on earth; photo (M)",
+    "lead_paragraph": "For the three million residents of a city that prides itself as perhaps the most livable on earth, the municipal government's warning this week came as a humbling shock. In Sydney, you can't drink the water.",
+    "print_section": "1",
+    "print_page": "10",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Proud Sydney Is Aghast: Its Tap Water Is Unsafe",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Proud Sydney Is Aghast: Its Tap Water Is Unsafe",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Sydney (Australia)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Australia",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Water Pollution",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Water",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "CRYPTOSPORIDIUM (PARASITE)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "GIARDIA LAMBIA (PARASITE)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-08-02T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Philip Shenon",
+      "person": [
+        {
+          "firstname": "Philip",
+          "middlename": null,
+          "lastname": "Shenon",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/59f71458-5a30-5100-b89b-b25174b547d2",
+    "word_count": 449,
+    "uri": "nyt://article/59f71458-5a30-5100-b89b-b25174b547d2"
+  },
+  {
+    "abstract": " EUROPE    YUGOSLAVIA: KOSOVO INQUIRY CANCELED -- On-site investigations into war crimes allegedly committed in the Serbian province of Kosovo were called off after Yugoslavia refused to issue visas to the investigative team, the United Nations war crimes tribunal said. The chief prosecutor, Louise Arbour, had planned to lead the team herself to  assert the tribunal's jurisdiction over crimes committed in the latest province wracked by ethnic conflict.   (Agence France-Presse)    AUSTRIA: VOTE TO RETURN ART -- The Austrian Parliament unanimously approved legislation allowing works of art seized by the Nazis and later incorporated into state museums to be returned to their rightful owners. Hundreds of Austrian Jews lost valuable artworks confiscated during Nazi rule of Austria between 1938 and 1945, as well as after the end of World War II when the Government imposed an export ban. Research in state archives this year showed that several Austrian museums had called hundreds of objects of doubtful origin their own for more than 50 years.   (Reuters)",
+    "web_url": "https://www.nytimes.com/1998/11/06/world/world-briefing.html",
+    "snippet": "",
+    "lead_paragraph": "EUROPE",
+    "print_section": "A",
+    "print_page": "10",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "WORLD BRIEFING",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "WORLD BRIEFING",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [],
+    "pub_date": "1998-11-06T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "Compiled by Christopher S. Wren",
+      "person": [
+        {
+          "firstname": "Christopher",
+          "middlename": "S.",
+          "lastname": "Wren",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/93b25ca4-848e-550b-b8dc-42532676b210",
+    "word_count": 1291,
+    "uri": "nyt://article/93b25ca4-848e-550b-b8dc-42532676b210"
+  },
+  {
+    "abstract": " EUROPE    BRITAIN: PINOCHET IS DENIED TRIP TO MASS -- A British court said Gen. Augusto Pinochet cannot leave the suburban house where he is living under police guard to attend Christmas Eve midnight Mass because of the elaborate security needed to transport the 83-year-old former Chilean dictator. A priest will instead say Mass at his house.    Warren Hoge (NYT)",
+    "web_url": "https://www.nytimes.com/1998/12/24/world/world-briefing.html",
+    "snippet": "",
+    "lead_paragraph": "EUROPE",
+    "print_section": "A",
+    "print_page": "11",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "World Briefing",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "World Briefing",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [],
+    "pub_date": "1998-12-24T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "Compiled by Christopher S. Wren",
+      "person": [
+        {
+          "firstname": "Christopher",
+          "middlename": "S.",
+          "lastname": "Wren",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/869b6ed2-650f-58f1-ac77-639553f3a2aa",
+    "word_count": 888,
+    "uri": "nyt://article/869b6ed2-650f-58f1-ac77-639553f3a2aa"
+  },
+  {
+    "abstract": " INTERNATIONAL   A3-8    Warning of Chaos in Russia Unless Political Fights End  Viktor S. Chernomyrdin warned on national television that Russia has entered a fiscal nosedive and that further political squabbling could lead to social chaos, on the night before Russia's Parliament was to vote again on whether to confirm him as the country's Prime Minister.   A1    Floods Ravage Bangladesh  More than 20 million homes in Bangladesh have been swamped by monsoon season flooding that has lasted almost two months, twice as long as other recorded floods. The waters have inundated more than half of the country, killed more than 520 people, shut down roads, damaged more than 4,000 schools and wiped out a big portion of the rice crop.   A1",
+    "web_url": "https://www.nytimes.com/1998/09/07/nyregion/news-summary-736503.html",
+    "snippet": "",
+    "lead_paragraph": "INTERNATIONAL A3-8",
+    "print_section": "A",
+    "print_page": "2",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "NEWS SUMMARY",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "NEWS SUMMARY",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [],
+    "pub_date": "1998-09-07T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Summary",
+    "_id": "nyt://article/eee70657-b379-51a6-af3e-c8bd4ab8cfa1",
+    "word_count": 1666,
+    "uri": "nyt://article/eee70657-b379-51a6-af3e-c8bd4ab8cfa1"
+  },
+  {
+    "abstract": "William K Stevens article surveys man's effects on the earth's water cycle and progress toward mitigating some of the harm he has done; photos; map; graph (M)",
+    "web_url": "https://www.nytimes.com/1998/12/08/world/water-pushing-the-limits-of-an-irreplaceable-resource.html",
+    "snippet": "William K Stevens article surveys man's effects on the earth's water cycle and progress toward mitigating some of the harm he has done; photos; map; graph (M)",
+    "lead_paragraph": "THE earth came into being, according to the ascendant view among scientists, when chunks of rocky matter that had coalesced from the particles of an interstellar nebula, the same one from which the sun materialized, began clumping together under the force of mutual gravity about 4.6 billion years ago. More chunks along with comets continued to bombard the planet's growing mass, according to this view, bringing with them one of the earth's most basic materials: water.",
+    "print_section": "G",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Pushing the Limits Of an Irreplaceable Resource",
+      "kicker": "WATER",
+      "content_kicker": null,
+      "print_headline": "WATER; Pushing the Limits Of an Irreplaceable Resource",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Water",
+        "rank": 1,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-12-08T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "The Natural World",
+    "section_name": "World",
+    "byline": {
+      "original": "By William K. Stevens",
+      "person": [
+        {
+          "firstname": "William",
+          "middlename": "K.",
+          "lastname": "Stevens",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/085e591a-276d-5316-bdd6-5df0c2513b25",
+    "word_count": 1772,
+    "uri": "nyt://article/085e591a-276d-5316-bdd6-5df0c2513b25"
+  },
+  {
+    "abstract": "Study by international aid groups finds that more than five years of severe food shortages and near-total breakdown in public health system have led to devastating malnutrition in North Korea and probably left entire generation of children physically and mentally impaired; study is first scientific nutritional survey of isolated and secretive country; researchers from World Food Program, Unicef and European Union say 62 percent of children under 7 years old suffer from stunted growth because of long-term food shortages; say severe malnutrition is still widespread among toddlers despite huge international food aid program in last three years; graphs; map; photos (M)",
+    "web_url": "https://www.nytimes.com/1998/12/10/world/in-north-korean-hunger-legacy-is-stunted-children.html",
+    "snippet": "Study by international aid groups finds that more than five years of severe food shortages and near-total breakdown in public health system have led to devastating malnutrition in North Korea and probably left entire generation of children physica...",
+    "lead_paragraph": "More than five years of severe food shortages and a near-total breakdown in the public health system have led to devastating malnutrition in North Korea and probably left an entire generation of children physically and mentally impaired, a new study by international aid groups has found.",
+    "print_section": "A",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "In North Korean Hunger, Legacy Is Stunted Children",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In North Korean Hunger, Legacy Is Stunted Children",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "North Korea",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "European Union",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "World Food Program",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Nations Children's Fund",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Diet and Nutrition",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mental Retardation",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Shortages",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Famine",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-12-10T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Elisabeth Rosenthal",
+      "person": [
+        {
+          "firstname": "Elisabeth",
+          "middlename": null,
+          "lastname": "Rosenthal",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/3bd3bad7-e3fe-59aa-a7e8-bc5c5a82e92d",
+    "word_count": 2121,
+    "uri": "nyt://article/3bd3bad7-e3fe-59aa-a7e8-bc5c5a82e92d"
+  },
+  {
+    "abstract": "United Nations warns that it might sharply reduce assistance to Afghanistan unless Taliban, radical Islamic movement that rules country, ceases harassment of international officials stops and pays more attention to women's rights; message is delivered by Unicef executive director, Carol Bellamy, whose arrival in Kabul sends another message: that woman has power to affect Afghanistan's national development and cannot be ignored; photo (M)",
+    "web_url": "https://www.nytimes.com/1998/04/02/world/afghans-meet-with-un-official-who-is-er-a-woman.html",
+    "snippet": "United Nations warns that it might sharply reduce assistance to Afghanistan unless Taliban, radical Islamic movement that rules country, ceases harassment of international officials stops and pays more attention to women's rights; message is deliv...",
+    "lead_paragraph": "Confronted with growing hostility in Afghanistan, the United Nations told the radical Islamic movement Taliban today that unless harassment of international officials stops and more attention is paid to the rights of women, the organization could sharply reduce its assistance. This is the only substantial aid flowing into this country, one of the world's poorest and least developed.",
+    "print_section": "A",
+    "print_page": "6",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Afghans Meet With U.N. Official Who Is, er, a Woman",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Afghans Meet With U.N. Official Who Is, er, a Woman",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "AFGHANISTAN",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Taliban",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Nations",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Nations Children's Fund",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bellamy, Carol",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Women",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Freedom and Human Rights",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-04-02T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Barbara Crossette",
+      "person": [
+        {
+          "firstname": "Barbara",
+          "middlename": null,
+          "lastname": "Crossette",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/e3b4a154-8d7e-5639-9df9-2aecdbc9df15",
+    "word_count": 740,
+    "uri": "nyt://article/e3b4a154-8d7e-5639-9df9-2aecdbc9df15"
+  },
+  {
+    "abstract": " INTERNATIONAL   A3-12    U.S. Embassy in Kenya Was Seen as Easy Target  The American Embassy in Nairobi was apparently an easy target for terrorists. A reconstruction of the Nairobi bombing, based on interviews, shows that the embassy was vulnerable to the most rudimentary attack.   A6",
+    "web_url": "https://www.nytimes.com/1998/09/09/nyregion/news-summary-762288.html",
+    "snippet": "",
+    "lead_paragraph": "INTERNATIONAL A3-12",
+    "print_section": "A",
+    "print_page": "2",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "NEWS SUMMARY",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "NEWS SUMMARY",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [],
+    "pub_date": "1998-09-09T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Summary",
+    "_id": "nyt://article/f4be168a-a8e0-5a8b-aab4-c9c039dc4d7e",
+    "word_count": 1291,
+    "uri": "nyt://article/f4be168a-a8e0-5a8b-aab4-c9c039dc4d7e"
+  },
+  {
+    "abstract": " INTERNATIONAL   A3-10    U.S. Prepares 2 Plans For Attack on Iraq  The Pentagon has drafted separate plans for a sharp, swift strike against Iraq that could begin at any time and a larger, more punishing assault that would require sending more forces to the region, officials say. As the Administration once again considers using force against Iraq, President Clinton met for two hours with his senior national security aides at Camp David, Md., to discuss strategies for responding to Iraq's new defiance of the United Nations weapons inspections.   A1    Dalai Lama Courts Support  The Dalai Lama, courting support for a new initiative that he hopes will lead to talks with Chinese leaders, is expected to meet with Vice President Al Gore at the White House during his current visit to Washington. While China's position on Tibet has yet to soften, on the surface China's political climate seems more open to talks on Tibet than at any time in a decade.   A1",
+    "web_url": "https://www.nytimes.com/1998/11/09/nyregion/news-summary-767549.html",
+    "snippet": "",
+    "lead_paragraph": "INTERNATIONAL A3-10",
+    "print_section": "A",
+    "print_page": "2",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "NEWS SUMMARY",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "NEWS SUMMARY",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [],
+    "pub_date": "1998-11-09T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Summary",
+    "_id": "nyt://article/e4bfc1ff-ae89-5593-b3c8-9a2abaf8015e",
+    "word_count": 1395,
+    "uri": "nyt://article/e4bfc1ff-ae89-5593-b3c8-9a2abaf8015e"
+  },
+  {
+    "abstract": "Regarding \"Economic Slump Imperils Life in Siberia\" (Oct. 22): . The article on an impending food and fuel crisis in northeastern Siberia practically winks at the virtual hijacking of an unpaid-for shipment of food supplies by the regional gover",
+    "web_url": "https://www.nytimes.com/1998/10/27/opinion/IHT-hard-cash-in-siberia-letters-to-the-editor.html",
+    "snippet": "Regarding \"Economic Slump Imperils Life in Siberia\" (Oct. 22): . The article on an impending food and fuel crisis in northeastern Siberia practically winks at the virtual hijacking of an unpaid-for shipment of food supplies by the regional gover",
+    "lead_paragraph": "Regarding \"Economic Slump Imperils Life in Siberia\" (Oct. 22):",
+    "source": "International Herald Tribune",
+    "multimedia": [],
+    "headline": {
+      "main": "Hard Cash in Siberia : LETTERS TO THE EDITOR",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Hard Cash in Siberia : LETTERS TO THE EDITOR",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [],
+    "pub_date": "1998-10-27T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "IHT News",
+    "section_name": "Opinion",
+    "byline": {
+      "original": ", International Herald Tribune",
+      "person": [],
+      "organization": null
+    },
+    "_id": "nyt://article/fff2d2ac-1458-51ea-8f71-1457225b67c6",
+    "word_count": 673,
+    "uri": "nyt://article/fff2d2ac-1458-51ea-8f71-1457225b67c6"
+  },
+  {
+    "abstract": "Kiran Continental and Indian Cuisine Restaurant, which serves Indian-Italian dishes at modest prices, open last month in midtown Manhattan; owner Ajid Saha comments (S)",
+    "web_url": "https://www.nytimes.com/1998/03/29/nyregion/new-yorkers-co-indian-italian-eating-at-modest-prices.html",
+    "snippet": "Kiran Continental and Indian Cuisine Restaurant, which serves Indian-Italian dishes at modest prices, open last month in midtown Manhattan; owner Ajid Saha comments (S)",
+    "lead_paragraph": "Although Indian-Continental fusion cuisine is now popular, not all of it is expensive. Ajid Saha (pronounced SHA-ha) opened his modest Kiran Continental and Indian Cuisine at 401 West 53d Street at Ninth Avenue last month.",
+    "print_section": "14",
+    "print_page": "4",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Indian-Italian Eating At Modest Prices",
+      "kicker": "NEW YORKERS & CO.",
+      "content_kicker": null,
+      "print_headline": "NEW YORKERS & CO.; Indian-Italian Eating At Modest Prices",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Kiran Continental and Indian Cuisine Restaurant",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Saha, Ajid",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Restaurants",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-03-29T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "The City Weekly Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/d8045d83-b472-5478-b2df-e72358e8873d",
+    "word_count": 83,
+    "uri": "nyt://article/d8045d83-b472-5478-b2df-e72358e8873d"
+  },
+  {
+    "abstract": "Florence Fabricant Food Stuff column; comments on Belgian-style French fries made by Sham Sul Miah at his storefront in Greenwich Village; photo; notes razor clams from Maine are now available at Citarella in Manhattan; photo; Mobil Travel Guides adds only one restaurant, the Grill Room in Windsor Court Hotel in New Orleans, to its list of 15 that have been awarded five stars (M)",
+    "web_url": "https://www.nytimes.com/1998/01/21/dining/food-stuff.html",
+    "snippet": "Florence Fabricant Food Stuff column; comments on Belgian-style French fries made by Sham Sul Miah at his storefront in Greenwich Village; photo; notes razor clams from Maine are now available at Citarella in Manhattan; photo; Mobil Travel Guides ...",
+    "lead_paragraph": "French Fries The Belgian Way",
+    "print_section": "F",
+    "print_page": "2",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Food Stuff",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Food Stuff",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New Orleans (La)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Mobil Travel Guides",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Grill Room",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Miah, Sham Sul",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Restaurants",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Potatoes",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Clams",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fish and Other Marine Life",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-01-21T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Dining In, Dining Out/Style Desk",
+    "section_name": "Food",
+    "byline": {
+      "original": "By Florence Fabricant",
+      "person": [
+        {
+          "firstname": "Florence",
+          "middlename": null,
+          "lastname": "Fabricant",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/17034b85-c40e-5e91-81be-6a75389fd651",
+    "word_count": 635,
+    "uri": "nyt://article/17034b85-c40e-5e91-81be-6a75389fd651"
+  },
+  {
+    "abstract": "Mobil gas station at First Avenue and 90th Street, gathering spot for South Asian cabdrivers, closes to make way for high-rise apartment building; photo (S)",
+    "web_url": "https://www.nytimes.com/1998/03/22/nyregion/neighborhood-report-upper-east-side-gas-station-goes-to-make-way-for-high-rise.html",
+    "snippet": "Mobil gas station at First Avenue and 90th Street, gathering spot for South Asian cabdrivers, closes to make way for high-rise apartment building; photo (S)",
+    "lead_paragraph": "The transition was startling. For years, the Mobil filling station at the southeast corner of First Avenue and 90th Street was a thriving corner of Islam. Pakistani station attendants would pray in corners on musallahs, or prayer mats, while South Asian cabdrivers -- mostly Pakistani, Indian and Bangladeshi -- used the station as a dispenser of coffee, gasoline and neighborly gossip.",
+    "print_section": "14",
+    "print_page": "5",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Gas Station Goes To Make Way For High-Rise",
+      "kicker": "NEIGHBORHOOD REPORT: UPPER EAST SIDE",
+      "content_kicker": null,
+      "print_headline": "NEIGHBORHOOD REPORT: UPPER EAST SIDE; Gas Station Goes To Make Way For High-Rise",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "UPPER EAST SIDE (MANHATTAN)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Mobil Corp",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Indian-Americans",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Taxicabs and Taxicab Drivers",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "IMMIGRATION AND REFUGEES",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "GARAGES AND SERVICE STATIONS",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pakistani-Americans",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Islam",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-03-22T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "The City Weekly Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": "By Anthony Ramirez",
+      "person": [
+        {
+          "firstname": "Anthony",
+          "middlename": null,
+          "lastname": "Ramirez",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/2425adc6-e8f8-5b7c-8c5a-5ee5f54ec57f",
+    "word_count": 338,
+    "uri": "nyt://article/2425adc6-e8f8-5b7c-8c5a-5ee5f54ec57f"
+  },
+  {
+    "abstract": "New-York Historical Society exhibit on dining in New York at turn of twentieth century invites comparisons with food and restaurant fashions of today; photos (M)",
+    "web_url": "https://www.nytimes.com/1998/12/01/nyregion/food-ritual-dining-theater-then-now-new-york-sates-its-hungers-public.html",
+    "snippet": "New-York Historical Society exhibit on dining in New York at turn of twentieth century invites comparisons with food and restaurant fashions of today; photos (M)",
+    "lead_paragraph": "Along a narrow hallway deep inside the Beaux Arts palace known as the New-York Historical Society, there is a single wall of artifacts from 100 years ago. It tells the story of food in New York City at the turn of this century. And it inspires a peculiar sense of deja vu.",
+    "print_section": "B",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Food as Ritual, Dining as Theater; Then as Now, New York Sates Its Hungers in Public",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Food as Ritual, Dining as Theater; Then as Now, New York Sates Its Hungers in Public",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New-York Historical Society",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Restaurants",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "History",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Customs, Etiquette and Manners",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-12-01T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": "By Somini Sengupta",
+      "person": [
+        {
+          "firstname": "Somini",
+          "middlename": null,
+          "lastname": "Sengupta",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/06efcdcf-a5ac-5da3-923d-747894871005",
+    "word_count": 1319,
+    "uri": "nyt://article/06efcdcf-a5ac-5da3-923d-747894871005"
+  },
+  {
+    "abstract": "Hundreds of sidewalk food vendors shut down their carts and parade through lower Manhattan to protest Mayor Rudolph W Giuliani's plan to restrict street sales in two broad sections of Manhattan next month; their 24-hour work stoppage leaves city bereft of ubiquitous carts that Giuliani considers main cause of sidewalk congestion; time-pressed New Yorkers grumble about their absence, but proprietors of coffee shops and restaurants are delighted at prospect of losing their meals-on-wheels competition; work stoppage by food vendors, which appears to be nearly total, was organized by Big Apple Food Vendors Assn; group's president, Jeffrey J Cicio, threatens to bring suit against city; photo (M)",
+    "web_url": "https://www.nytimes.com/1998/06/04/nyregion/sidewalk-vendors-rally-to-protest-street-restrictions.html",
+    "snippet": "Hundreds of sidewalk food vendors shut down their carts and parade through lower Manhattan to protest Mayor Rudolph W Giuliani's plan to restrict street sales in two broad sections of Manhattan next month; their 24-hour work stoppage leaves city b...",
+    "lead_paragraph": "As secretaries and stockbrokers alike came to their defense, hundreds of sidewalk food vendors shut down their carts yesterday and paraded through lower Manhattan to protest Mayor Rudolph W. Giuliani's plan to restrict street sales in two broad sections of Manhattan next month.",
+    "print_section": "B",
+    "print_page": "3",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Sidewalk Vendors Rally to Protest Street Restrictions",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Sidewalk Vendors Rally to Protest Street Restrictions",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Big Apple Food Vendors Assn",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Giuliani, Rudolph W",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Cicio, Jeffrey J",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Vendors, Street",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "SUITS AND CLAIMS AGAINST GOVERNMENT",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Demonstrations and Riots",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-06-04T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": "By Mike Allen",
+      "person": [
+        {
+          "firstname": "Mike",
+          "middlename": null,
+          "lastname": "Allen",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/245df97a-db3b-5f2a-a087-9ce5f01a22b8",
+    "word_count": 1124,
+    "uri": "nyt://article/245df97a-db3b-5f2a-a087-9ce5f01a22b8"
+  },
+  {
+    "abstract": "American palates are awakening to bold tastes of India, whose cuisine is being prepared with greater authority and flare than ever before in America; profiles of chefs Raji Jallepallli, of Restaurant Raji in Memphis, and Floyd Cardoz, of Tabla, in New York City; recipes; photos (M)",
+    "web_url": "https://www.nytimes.com/1998/03/25/dining/american-palates-awaken-bold-tastes-india-latest-fusion-star-creative-indian.html",
+    "snippet": "American palates are awakening to bold tastes of India, whose cuisine is being prepared with greater authority and flare than ever before in America; profiles of chefs Raji Jallepallli, of Restaurant Raji in Memphis, and Floyd Cardoz, of Tabla, in...",
+    "lead_paragraph": "THE soup may look familiar enough -- at least at first. It's a tomato soup, after all, and it's served with croutons. But the croutons are made of the Indian bread called nan, and the dish is spiked with roasted cumin and coriander seeds, and soothed with yogurt. It's Western comfort food married to Indian spice.",
+    "print_section": "F",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "American Palates Awaken To the Bold Tastes of India; As the latest fusion star, creative Indian cuisine vies with its Asian rivals.",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "American Palates Awaken To the Bold Tastes of India; As the latest fusion star, creative Indian cuisine vies with its Asian rivals.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Jallepalli, Raji",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Cardoz, Floyd",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Restaurants",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recipes",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-03-25T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Dining In, Dining Out/Style Desk",
+    "section_name": "Food",
+    "byline": {
+      "original": "By Florence Fabricant",
+      "person": [
+        {
+          "firstname": "Florence",
+          "middlename": null,
+          "lastname": "Fabricant",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/24b6dbc6-22b9-521d-916b-8e42579c3e71",
+    "word_count": 2288,
+    "uri": "nyt://article/24b6dbc6-22b9-521d-916b-8e42579c3e71"
+  },
+  {
+    "abstract": " INTERNATIONAL   A3-16    Arsenic Poses Threat To Millions in Bangladesh  Bangladesh is in the midst of what some experts say could be the biggest mass poisoning in history. Dangerous levels of arsenic have been found in the ground water, entering millions of people sip by sip as they drink from a vast system of tube wells.   A1",
+    "web_url": "https://www.nytimes.com/1998/11/10/nyregion/news-summary-781002.html",
+    "snippet": "",
+    "lead_paragraph": "INTERNATIONAL A3-16",
+    "print_section": "A",
+    "print_page": "2",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "NEWS SUMMARY",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "NEWS SUMMARY",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [],
+    "pub_date": "1998-11-10T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Summary",
+    "_id": "nyt://article/bdc605c2-8d5c-5419-83a9-515c6707c47a",
+    "word_count": 1145,
+    "uri": "nyt://article/bdc605c2-8d5c-5419-83a9-515c6707c47a"
+  },
+  {
+    "abstract": "Gail Collins, in Editorial Observer column, notes that Morshed Alam, school board member and president of New American Democratic Club in Queens, volunteered to run for State Senate seat long held by Republican Frank Padavan; says Queens Democratic Chmn Thomas Manton told him that he wanted to give Padavan free ride so Senator's supporters would stay home in Nov, making life easier for other Democrats in area; says Alam persisted in getting onto ballot (M)",
+    "web_url": "https://www.nytimes.com/1998/08/16/opinion/editorial-observer-welcome-new-york-place-where-two-candidates-are-crowd.html",
+    "snippet": "Gail Collins, in Editorial Observer column, notes that Morshed Alam, school board member and president of New American Democratic Club in Queens, volunteered to run for State Senate seat long held by Republican Frank Padavan; says Queens Democrati...",
+    "lead_paragraph": "Thirty Second Job Aptitude Quiz: Take this test to determine whether you have what it takes to be a Democratic party boss in New York City.",
+    "print_section": "4",
+    "print_page": "14",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Editorial Observer; Welcome to New York: The Place Where Two Candidates Are a Crowd",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Editorial Observer; Welcome to New York: The Place Where Two Candidates Are a Crowd",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New York State",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "New American Democratic Club",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "MANTON, THOMAS",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Padavan, Frank",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Alam, Morshed",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Legislatures and Parliaments",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-08-16T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "byline": {
+      "original": "By Gail Collins",
+      "person": [
+        {
+          "firstname": "Gail",
+          "middlename": null,
+          "lastname": "Collins",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Editorial",
+    "_id": "nyt://article/2853155a-c12a-5883-9d26-2ddf0cfc41ca",
+    "word_count": 775,
+    "uri": "nyt://article/2853155a-c12a-5883-9d26-2ddf0cfc41ca"
+  },
+  {
+    "abstract": "Former tenants, local elected officials and community activists score New York City's rush to raze Lower East Side tenement in January after bricks fell from building's century-old facade; city officials defend decision; tenants, evacuated without their possessions, are still living fractured, uncertain lives; map; photos (M)",
+    "web_url": "https://www.nytimes.com/1998/05/10/nyregion/the-angry-urban-refugees.html",
+    "snippet": "Former tenants, local elected officials and community activists score New York City's rush to raze Lower East Side tenement in January after bricks fell from building's century-old facade; city officials defend decision; tenants, evacuated without...",
+    "lead_paragraph": "A CENTURY-OLD facade tumbles, tenants are roused from their beds, and reporters arrive to chronicle yet another faltering building in the city.",
+    "print_section": "14",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "The Angry Urban Refugees",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "The Angry Urban Refugees",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "ACCIDENTS AND SAFETY",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Demolition",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-05-10T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "The City Weekly Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": "By Andrew Jacobs",
+      "person": [
+        {
+          "firstname": "Andrew",
+          "middlename": null,
+          "lastname": "Jacobs",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/08a34ecc-c847-5427-b51d-47420461e0d5",
+    "word_count": 3284,
+    "uri": "nyt://article/08a34ecc-c847-5427-b51d-47420461e0d5"
+  },
+  {
+    "abstract": "Interview with Sam Oglesby, UN aide who recently bought $113,000 town house in landmarked block in Mott Haven section of Bronx; photos; map (M)",
+    "web_url": "https://www.nytimes.com/1998/11/15/realestate/habitats-419-east-140th-street-wandering-un-aide-finds-a-home-in-south-bronx.html",
+    "snippet": "Interview with Sam Oglesby, UN aide who recently bought $113,000 town house in landmarked block in Mott Haven section of Bronx; photos; map (M)",
+    "lead_paragraph": "SAM OGLESBY had worked overseas in economic development for the United Nations for 25 years, living in Thailand, Burma, Indonesia, Bhutan and Bangladesh.",
+    "print_section": "11",
+    "print_page": "7",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Habitats / 419 East 140th Street; Wandering U.N. Aide Finds a Home in South Bronx",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Habitats / 419 East 140th Street; Wandering U.N. Aide Finds a Home in South Bronx",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Oglesby, Sam",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Housing",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Biographical Information",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-11-15T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Real Estate Desk",
+    "section_name": "Real Estate",
+    "byline": {
+      "original": "By By Trish Hall",
+      "person": [
+        {
+          "firstname": "Trish",
+          "middlename": null,
+          "lastname": "Hall",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/9b090218-acaa-5744-965f-75acd5f15389",
+    "word_count": 1371,
+    "uri": "nyt://article/9b090218-acaa-5744-965f-75acd5f15389"
+  },
+  {
+    "abstract": "Fran Schumer reviews Namaskaar, Indian restaurant in Paramus, NJ; photo (M)",
+    "web_url": "https://www.nytimes.com/1998/04/05/nyregion/restaurants-spice-world.html",
+    "snippet": "Fran Schumer reviews Namaskaar, Indian restaurant in Paramus, NJ; photo (M)",
+    "lead_paragraph": "THE term Namaskaar refers to the Indian pressed-palms greeting, and it suits the restaurant, a bit of grace in an otherwise drab mall. Beyond the concrete face of the mall, which is also appropriately named, the unlyrical Mall at IV, Namaskaar drapes its tables in linen, covers its walls with mirrors and brightens its mood with red carnations. The vast space and otherworldly demeanor of the servers also obscures the fact that you are in Paramus and not in, say, the Marabar Caves.",
+    "print_section": "NJ",
+    "print_page": "14",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Spice World",
+      "kicker": "RESTAURANTS",
+      "content_kicker": null,
+      "print_headline": "RESTAURANTS; Spice World",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Namaskaar",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Reviews",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Restaurants",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-04-05T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "New Jersey Weekly Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": "By Fran Schumer",
+      "person": [
+        {
+          "firstname": "Fran",
+          "middlename": null,
+          "lastname": "Schumer",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "nyt://article/9c967f54-94c6-52e4-a34e-e5e407f8b78e",
+    "word_count": 1047,
+    "uri": "nyt://article/9c967f54-94c6-52e4-a34e-e5e407f8b78e"
+  },
+  {
+    "abstract": "Scientists attending American Anthropological Society meeting in Philadelphia debate proposition that human species is a 'cancer' on the planet; those who think it is argue that feeding the world's masses, the focus of Malthus's dire analysis 200 years ago, is only part of problem and that just as dangerous is the omnivorous consumption of nonrenewable resources, irreversible destruction of habitats and species, fouling of air and seas and consequent changes in climate; Malthus portrait (M)",
+    "web_url": "https://www.nytimes.com/1998/12/08/science/will-humans-overwhelm-the-earth-the-debate-continues.html",
+    "snippet": "Scientists attending American Anthropological Society meeting in Philadelphia debate proposition that human species is a 'cancer' on the planet; those who think it is argue that feeding the world's masses, the focus of Malthus's dire analysis 200 ...",
+    "lead_paragraph": "Two hundred years ago the Rev. Thomas Robert Malthus, an English economist and mathematician, anonymously published an essay predicting that the world's burgeoning human population would overwhelm the Earth's capacity to sustain it.",
+    "print_section": "F",
+    "print_page": "5",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Will Humans Overwhelm the Earth? The Debate Continues",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Will Humans Overwhelm the Earth? The Debate Continues",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "AMERICAN ANTHROPOLOTICAL SOCIETY",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Malthus, Thomas Robert",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Water Pollution",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Weather",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Population",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Environment",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "AIR POLLUTION",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-12-08T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Science Desk",
+    "section_name": "Science",
+    "byline": {
+      "original": "By Malcolm W. Browne",
+      "person": [
+        {
+          "firstname": "Malcolm",
+          "middlename": "W.",
+          "lastname": "Browne",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/4334a88b-8354-58b4-a710-a45e1078e794",
+    "word_count": 1271,
+    "uri": "nyt://article/4334a88b-8354-58b4-a710-a45e1078e794"
+  },
+  {
+    "abstract": "U.S. Deputy Secretary of State Strobe Talbott will resume talks in New Delhi Monday with Jaswant Singh, the Indian government's point man in defending its nuclear tests to the world..Their meeting comes amid signs of increasing realism in Washington ab",
+    "web_url": "https://www.nytimes.com/1998/07/20/opinion/IHT-next-to-subcontinent-faceoff-the-cold-war-looks-safe.html",
+    "snippet": "U.S. Deputy Secretary of State Strobe Talbott will resume talks in New Delhi Monday with Jaswant Singh, the Indian government's point man in defending its nuclear tests to the world..Their meeting comes amid signs of increasing realism in Washingt...",
+    "lead_paragraph": "U.S. Deputy Secretary of State Strobe Talbott will resume talks in New Delhi Monday with Jaswant Singh, the Indian government's point man in defending its nuclear tests to the world.",
+    "source": "International Herald Tribune",
+    "multimedia": [],
+    "headline": {
+      "main": "Next to Subcontinent Face-Off, the Cold War Looks Safe",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Next to Subcontinent Face-Off, the Cold War Looks Safe",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [],
+    "pub_date": "1998-07-20T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "IHT News",
+    "section_name": "Opinion",
+    "byline": {
+      "original": "By Ramesh Thakur, International Herald Tribune",
+      "person": [
+        {
+          "firstname": "Ramesh",
+          "middlename": null,
+          "lastname": "Thakur",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "International",
+          "middlename": "Herald",
+          "lastname": "Tribune",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "_id": "nyt://article/5de18665-9875-56c1-97f4-21aa37e0c431",
+    "word_count": 4998,
+    "uri": "nyt://article/5de18665-9875-56c1-97f4-21aa37e0c431"
+  },
+  {
+    "abstract": "Public Lives profile of Ruth Abram, founder and president of Lower East Side Tenement Museum; museum, housed in apartment building that was home to 10,000 people from 25 countries from 1863 to 1935, was recently designated national historic area; photo (M)",
+    "web_url": "https://www.nytimes.com/1998/12/17/nyregion/public-lives-honoring-immigrants-and-how-they-lived.html",
+    "snippet": "Public Lives profile of Ruth Abram, founder and president of Lower East Side Tenement Museum; museum, housed in apartment building that was home to 10,000 people from 25 countries from 1863 to 1935, was recently designated national historic area; ...",
+    "lead_paragraph": "RUTH ABRAM'S life is the story of how personal hurts grew into a museum that no one ever imagined.",
+    "print_section": "B",
+    "print_page": "2",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Honoring Immigrants, and How They Lived",
+      "kicker": "PUBLIC LIVES",
+      "content_kicker": null,
+      "print_headline": "PUBLIC LIVES; Honoring Immigrants, and How They Lived",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Lower East Side Tenement Museum",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Abram, Ruth",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Historic Buildings and Sites",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Biographical Information",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-12-17T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": "By Elisabeth Bumiller",
+      "person": [
+        {
+          "firstname": "Elisabeth",
+          "middlename": null,
+          "lastname": "Bumiller",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Biography",
+    "_id": "nyt://article/e1a5fe54-005d-5b3d-a93e-de4d3edc0d61",
+    "word_count": 920,
+    "uri": "nyt://article/e1a5fe54-005d-5b3d-a93e-de4d3edc0d61"
+  },
+  {
+    "abstract": "Leaders of seven Southeast Asian nations end three-day summit in Sri Lanka, vowing to hasten efforts to break down economic barriers among them; pledges leave critics skeptical over any end to suspicions and enmities that have blocked economic ties that could lift people out of poverty (M)",
+    "web_url": "https://www.nytimes.com/1998/08/03/world/south-asians-lament-economic-rifts.html",
+    "snippet": "Leaders of seven Southeast Asian nations end three-day summit in Sri Lanka, vowing to hasten efforts to break down economic barriers among them; pledges leave critics skeptical over any end to suspicions and enmities that have blocked economic tie...",
+    "lead_paragraph": "When the seven nations of South Asia held a summit meeting in Sri Lanka last week, their leaders engaged in what has become an annual lament, acknowledging that the region has been an economic backwater for decades. Ending their three-day meeting on Friday, they vowed, as they have at such meetings for years, to hasten efforts to break down economic barriers among them.",
+    "print_section": "A",
+    "print_page": "8",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "South Asians Lament Economic Rifts",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "South Asians Lament Economic Rifts",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Far East, South and Southeast Asia and Pacific Areas",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Conditions and Trends",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-08-03T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By John F. Burns",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": "F.",
+          "lastname": "Burns",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/ec3dab18-f60b-5752-8461-17ab6d85fc3b",
+    "word_count": 1010,
+    "uri": "nyt://article/ec3dab18-f60b-5752-8461-17ab6d85fc3b"
+  },
+  {
+    "abstract": "Pres Clinton leaves on 12-day trip to Africa, longest foreign visit of his Presidency; trip is first in extensive series of foreign trips planned for next four months; aides deny he seeks to distract attention from woes stemming from Paula Corbin Jones's suit against him; photo (M)",
+    "web_url": "https://www.nytimes.com/1998/03/23/world/clinton-packs-up-his-care-and-woe-to-trot-the-globe.html",
+    "snippet": "Pres Clinton leaves on 12-day trip to Africa, longest foreign visit of his Presidency; trip is first in extensive series of foreign trips planned for next four months; aides deny he seeks to distract attention from woes stemming from Paula Corbin ...",
+    "lead_paragraph": "President Clinton left the country today. And you had better get used to it.",
+    "print_section": "A",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Clinton Packs Up His Care and Woe To Trot the Globe",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Clinton Packs Up His Care and Woe To Trot the Globe",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "AFRICA",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Clinton, Bill",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Jones, Paula Corbin",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ethics",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Sexual Harassment",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-03-23T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By James Bennet",
+      "person": [
+        {
+          "firstname": "James",
+          "middlename": null,
+          "lastname": "Bennet",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/ed2f866f-3530-5cf1-87fd-234c15ffe4ce",
+    "word_count": 1323,
+    "uri": "nyt://article/ed2f866f-3530-5cf1-87fd-234c15ffe4ce"
+  },
+  {
+    "abstract": "Traveler's Notebook article by Nicholas D Kristof, New York Times foreign correspondent, describes contents of backpack he takes on assignment to third world countries; backpack contains high-tech equipment, including satellite telephone, that serves as his communications center, but pack also includes low-tech gadgetry to assure his survival long enough to use his high-tech toys; photos (M)",
+    "web_url": "https://www.nytimes.com/1998/09/24/technology/traveler-s-notebook-have-adapter-will-travel.html",
+    "snippet": "Traveler's Notebook article by Nicholas D Kristof, New York Times foreign correspondent, describes contents of backpack he takes on assignment to third world countries; backpack contains high-tech equipment, including satellite telephone, that ser...",
+    "lead_paragraph": "IN the old days, travel meant getting away. Now it means going, but not getting away. To explore the third world may still mean lugging a backpack, but inside it you can have a trove of high-tech devices that tether you as securely to the first world as a ball and chain.",
+    "print_section": "G",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Traveler's Notebook; Have Adapter, Will Travel",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Traveler's Notebook; Have Adapter, Will Travel",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Third World and Developing Countries",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Telephones and Telecommunications",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-09-24T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Circuits",
+    "section_name": "Technology",
+    "byline": {
+      "original": "By Nicholas D. Kristof",
+      "person": [
+        {
+          "firstname": "Nicholas",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/eee32e8a-2119-5156-8987-dafb18bf9e5f",
+    "word_count": 2029,
+    "uri": "nyt://article/eee32e8a-2119-5156-8987-dafb18bf9e5f"
+  },
+  {
+    "abstract": "New traffic pattern begins at Columbus Circle in midtown Manhattan; new configuration described; map; photo (M)",
+    "web_url": "https://www.nytimes.com/1998/08/11/nyregion/traffic-on-columbus-circle-finally-comes-well-full-circle.html",
+    "snippet": "New traffic pattern begins at Columbus Circle in midtown Manhattan; new configuration described; map; photo (M)",
+    "lead_paragraph": "For the last 40 of its 106 years, the one thing Columbus Circle has not been is a traffic circle. What this putative monument to a great navigator's vision has been instead is the chaotic, confusing center of one of the busiest crossroads in the city.",
+    "print_section": "B",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Traffic on Columbus Circle Finally Comes, Well, Full Circle",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Traffic on Columbus Circle Finally Comes, Well, Full Circle",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "COLUMBUS CIRCLE (NYC)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Roads and Traffic",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-08-11T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": "By Andy Newman",
+      "person": [
+        {
+          "firstname": "Andy",
+          "middlename": null,
+          "lastname": "Newman",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/077f5768-452a-507e-88a1-48a907268a49",
+    "word_count": 1096,
+    "uri": "nyt://article/077f5768-452a-507e-88a1-48a907268a49"
+  },
+  {
+    "abstract": "Taxicab drivers' less-than-flattering view of passengers, drivers, jaywalkers and other assorted New Yorkers quoted; photos; opinions offset recent stereotypes of cabbies in city as turbaned third-world men short on cash and long on frenzied driving (S)",
+    "web_url": "https://www.nytimes.com/1998/05/24/weekinreview/nation-parallel-universe-listen-up-there-here-s-what-cabbies-think-you.html",
+    "snippet": "Taxicab drivers' less-than-flattering view of passengers, drivers, jaywalkers and other assorted New Yorkers quoted; photos; opinions offset recent stereotypes of cabbies in city as turbaned third-world men short on cash and long on frenzied drivi...",
+    "lead_paragraph": "TIME was, the stereotypical New York cabdriver was a gabby if slightly gruff man with a Brooklyn accent who knew every pothole in every street in every borough and greeted people with the world-weary query, ''Where to, Mac?''",
+    "print_section": "4",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "The Nation: Parallel Universe; Listen Up, Out There. Here's What Cabbies Think of You.",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "The Nation: Parallel Universe; Listen Up, Out There. Here's What Cabbies Think of You.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Taxicabs and Taxicab Drivers",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "PUBLIC OPINION",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-05-24T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Week in Review Desk",
+    "section_name": "Week in Review",
+    "byline": {
+      "original": "By Barry Bearak",
+      "person": [
+        {
+          "firstname": "Barry",
+          "middlename": null,
+          "lastname": "Bearak",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/69337bc9-a162-55aa-a936-5b340bfda0f8",
+    "word_count": 1177,
+    "uri": "nyt://article/69337bc9-a162-55aa-a936-5b340bfda0f8"
+  },
+  {
+    "abstract": "At least five members of Congress and dozens of Congressional aides have traveled a grueling 9,000 miles, crossed nine time zones and endured serious jet lag, all in the name of diligent fact finding.    Their destination: Saipan, a volcanic island and capital of the Northern Marianas, a chain of 14 islands in the western Pacific that is a commonwealth of the United States. The islands, which are about 3,500 miles west of Hawaii, boast crystalline lagoons, balmy climes, championship golf courses and, for the free-market minded, relaxed wage and immigration rules.  ",
+    "web_url": "https://www.nytimes.com/1998/01/20/us/congressional-fact-finding-in-saipan-they-came-they-saw-they-golfed.html",
+    "snippet": "",
+    "lead_paragraph": "At least five members of Congress and dozens of Congressional aides have traveled a grueling 9,000 miles, crossed nine time zones and endured serious jet lag, all in the name of diligent fact finding.",
+    "print_section": "A",
+    "print_page": "14",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Congressional Fact-Finding in Saipan: They Came. They Saw. They Golfed.",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Congressional Fact-Finding in Saipan: They Came. They Saw. They Golfed.",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [],
+    "pub_date": "1998-01-20T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "byline": {
+      "original": "By Lizette Alvarez",
+      "person": [
+        {
+          "firstname": "Lizette",
+          "middlename": null,
+          "lastname": "Alvarez",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/03b6aff0-7f40-51be-96c8-e85ae0d11af4",
+    "word_count": 1427,
+    "uri": "nyt://article/03b6aff0-7f40-51be-96c8-e85ae0d11af4"
+  },
+  {
+    "abstract": "The Baby Bust, special report on rapid, sustained decline in birth rates in many countries around world; millions of women throughout developed world are choosing to have fewer children, driven largely by prosperity and freedom; women stay in school longer, put more emphasis on work and marry later; never before--except at times of plague, war and deep economic depression--have birth rates fallen so low, for so long; low birth rates, once regarded as industrial world's cherished goal, are now cause for alarm; with life expectancy rising at same time that fertility drops, most developed countries may soon find themselves with lopsided societies that will be nearly impossible to sustain: large number of elderly and not enough young people working to support them; change will affect every program that requires public funds; nowhere in Europe are people having enough children to replace themselves when they die; large pool of new immigrants to US help keep fertility rate higher than in any other prosperous country, but figure is still below 2.1 children per woman--magic number needed to keep population from starting to shrink; photos; maps (L)",
+    "web_url": "https://www.nytimes.com/1998/07/10/world/the-baby-bust-a-special-report-population-implosion-worries-a-graying-europe.html",
+    "snippet": "The Baby Bust, special report on rapid, sustained decline in birth rates in many countries around world; millions of women throughout developed world are choosing to have fewer children, driven largely by prosperity and freedom; women stay in scho...",
+    "lead_paragraph": "Mia Hulton is a true woman of the late 20th century. Soft-spoken, well-educated and thoughtful, she sings Renaissance music in a choral group, lives quietly with the man she loves and works like a demon seven days a week.",
+    "print_section": "A",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "THE BABY BUST: A special report.; Population Implosion Worries a Graying Europe",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "THE BABY BUST: A special report.; Population Implosion Worries a Graying Europe",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Europe",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Population",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Surveys and Series",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "BIRTHS",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-07-10T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Michael Specter",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": null,
+          "lastname": "Specter",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Special Report",
+    "_id": "nyt://article/22bc8691-bee5-532e-abdd-b865a105adaa",
+    "word_count": 3175,
+    "uri": "nyt://article/22bc8691-bee5-532e-abdd-b865a105adaa"
+  },
+  {
+    "abstract": "Years of social activism and legislation have only partly eased plight of 33 million Hindu widows in India; problem arises because brides traditionally largely sever ties with own families; custom leaves woman dependent on in-laws, whose main interest after husband's death is to rid family of burden of supporting her; many widows flock to Vrindavan, devoting lives to prayer, to escape lives as outcasts in native villages; others are abandoned there by families; map; photo (L)",
+    "web_url": "https://www.nytimes.com/1998/03/29/world/once-widowed-in-india-twice-scorned.html",
+    "snippet": "Years of social activism and legislation have only partly eased plight of 33 million Hindu widows in India; problem arises because brides traditionally largely sever ties with own families; custom leaves woman dependent on in-laws, whose main inte...",
+    "lead_paragraph": "Govind Dasi has only a vague sense of the passing years, but this much she knows: She was married at 12 in her native village outside Calcutta, widowed at 14 when her teen-age husband died of tuberculosis, then forced to work as an unpaid servant for her mother-in-law for about 30 years.",
+    "print_section": "1",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Once Widowed in India, Twice Scorned",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Once Widowed in India, Twice Scorned",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "VRINDAVAN (INDIA)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hinduism",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Conditions and Trends",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Women",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-03-29T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By John F. Burns",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": "F.",
+          "lastname": "Burns",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/82c9a93c-4ec3-50a2-a6d4-a4efbe6a3790",
+    "word_count": 1505,
+    "uri": "nyt://article/82c9a93c-4ec3-50a2-a6d4-a4efbe6a3790"
+  },
+  {
+    "abstract": "Weekly guide to cultural and recreational activities in New Jersey; photos (M)",
+    "web_url": "https://www.nytimes.com/1998/08/30/nyregion/on-the-towns-559059.html",
+    "snippet": "Weekly guide to cultural and recreational activities in New Jersey; photos (M)",
+    "lead_paragraph": "An opinionated guide to cultural and recreational goings-on around the state this week. To submit items for consideration, write to On the Towns, Sunday New Jersey Section, The New York Times, 229 West 43d Street, New York, N.Y. 10036, or send a fax to (212) 556-7219.",
+    "print_section": "NJ",
+    "print_page": "14",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "ON THE TOWNS",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "ON THE TOWNS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New Jersey",
+        "rank": 1,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-08-30T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "New Jersey Weekly Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Schedule",
+    "_id": "nyt://article/9dfc9364-5686-557e-927e-445b2e115dfc",
+    "word_count": 2639,
+    "uri": "nyt://article/9dfc9364-5686-557e-927e-445b2e115dfc"
+  },
+  {
+    "abstract": "An opinionated guide to cultural and recreational goings-on around the state this week. To submit items for consideration, write to On the Towns, Sunday New Jersey Section, The New York Times, 229 West 43d Street, New York, N.Y. 10036, or send a fax to (212) 556-7219.    MUSIC    CLASSICAL NEW JERSEY ''An Afternoon with the Stars,'' featuring Valerie Siracki-Pineda, soprano, Juan Pineda, tenor, and David Reeves, pianist, in music of Richard Hundley and Dennis Hyams. Today at 3 P.M. Tickets: $10. Mary E. Wilson Memorial Church, 7 Valley Road, Watchung. (908) 789-1130.",
+    "web_url": "https://www.nytimes.com/1998/09/06/nyregion/on-the-towns-679216.html",
+    "snippet": "",
+    "lead_paragraph": "An opinionated guide to cultural and recreational goings-on around the state this week. To submit items for consideration, write to On the Towns, Sunday New Jersey Section, The New York Times, 229 West 43d Street, New York, N.Y. 10036, or send a fax to (212) 556-7219.",
+    "print_section": "NJ",
+    "print_page": "14",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "ON THE TOWNS",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "ON THE TOWNS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [],
+    "pub_date": "1998-09-06T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "New Jersey Weekly Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Schedule",
+    "_id": "nyt://article/2d0dd210-e502-53ed-8d27-a7a4eb8e58b9",
+    "word_count": 3256,
+    "uri": "nyt://article/2d0dd210-e502-53ed-8d27-a7a4eb8e58b9"
+  },
+  {
+    "abstract": "Article discusses plight of Chinese immigrant Wei Lang Li, who is currently being held in Federal Detention Center in Elizabeth, NJ, where he awaits deportation to China; Li's predicament is an object lesson on how everything can go wrong when immigrants who do not speak English and do not understand laws of US try, by themselves or by following bad advice of inept or corrupt lawyers, to decipher intricate ways of immigration laws; Li's wife, Li Yu Mei, says her husband is victim of bad lawyer who filed political asylum claim on his behalf three and a half years ago; she contends that he only wanted a work permit; photo (M)",
+    "web_url": "https://www.nytimes.com/1998/10/23/nyregion/lawyer-s-fall-rends-immigrants-lives-search-for-help-gaining-work-permit-leads.html",
+    "snippet": "Article discusses plight of Chinese immigrant Wei Lang Li, who is currently being held in Federal Detention Center in Elizabeth, NJ, where he awaits deportation to China; Li's predicament is an object lesson on how everything can go wrong when imm...",
+    "lead_paragraph": "In the tightly ordered, self-contained world of Li Yu Mei and Wei Liang Li there is little room for chaos.",
+    "print_section": "B",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Lawyer's Fall Rends Immigrants' Lives; Search for Help in Gaining Work Permit Leads to Deportation",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Lawyer's Fall Rends Immigrants' Lives; Search for Help in Gaining Work Permit Leads to Deportation",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "China",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Li, Wei Lang",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Mei, Li Yu",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Asylum (Political)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "IMMIGRATION AND REFUGEES",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-10-23T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": "By Mirta Ojito",
+      "person": [
+        {
+          "firstname": "Mirta",
+          "middlename": null,
+          "lastname": "Ojito",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/7e556c07-9d68-5f8e-b4e9-92bfec969ace",
+    "word_count": 1794,
+    "uri": "nyt://article/7e556c07-9d68-5f8e-b4e9-92bfec969ace"
+  },
+  {
+    "abstract": "Article on role of Prince Karim Aga Khan in influencing and awarding modern Islamic architecture; Aga Khan's awards go to projects rather than architects and are based on assessment of social needs, economic growth, environmental impact and relationship between traditions and innovations; photos (M)",
+    "web_url": "https://www.nytimes.com/1998/10/11/arts/an-islamic-reminder-of-the-sacred-in-design.html",
+    "snippet": "Article on role of Prince Karim Aga Khan in influencing and awarding modern Islamic architecture; Aga Khan's awards go to projects rather than architects and are based on assessment of social needs, economic growth, environmental impact and relati...",
+    "lead_paragraph": "AGA KHAN: the name shimmers with glamour. Fabulous wealth. Palatial houses. Racehorses. Yachts. Jewels. Royal prerogative. As if that weren't enough, the Aga Khan is also the most important figure in the world of architecture today. In a ceremony at the Alhambra in Spain last Friday, Prince Karim Aga Khan honored seven buildings and urban plans, winners of the 1998 Aga Khan Awards for Architecture.",
+    "print_section": "2",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "An Islamic Reminder of the Sacred in Design",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "An Islamic Reminder of the Sacred in Design",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Aga Khan, Karim",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "ARCHITECTURE",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Awards, Decorations and Honors",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-10-11T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Arts and Leisure Desk",
+    "section_name": "Arts",
+    "byline": {
+      "original": "By Herbert Muschamp",
+      "person": [
+        {
+          "firstname": "Herbert",
+          "middlename": null,
+          "lastname": "Muschamp",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/ae02fb6e-ecd1-5d9c-b649-56133b52d45d",
+    "word_count": 3623,
+    "uri": "nyt://article/ae02fb6e-ecd1-5d9c-b649-56133b52d45d"
+  },
+  {
+    "abstract": "More than 500 companies now have ethics officers to maintain employee, and even boardroom, rectitude, although enforcement varies; Nancy Higgins, sentinel at Boeing, reports to corporate responsibility board and is encouraged to contact directors when necessary; she notes steady rise in number of people willing to give names when calling ethics hot line; her photo; reality at other companies is less compelling than public face of virtue they assume; Shirley Peterson, formerly with Northrop, describes difficulties of wading into ethics controversies; examples from Boeing's ethics training program (M)",
+    "web_url": "https://www.nytimes.com/1998/02/08/business/earning-it-charting-a-course-to-ethical-profits.html",
+    "snippet": "More than 500 companies now have ethics officers to maintain employee, and even boardroom, rectitude, although enforcement varies; Nancy Higgins, sentinel at Boeing, reports to corporate responsibility board and is encouraged to contact directors ...",
+    "lead_paragraph": "SAY your co-worker sends his Christmas presents from the company mailroom, your boss publicly upbraids sub-",
+    "print_section": "3",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Charting A Course To Ethical Profits",
+      "kicker": "EARNING IT",
+      "content_kicker": null,
+      "print_headline": "EARNING IT; Charting A Course To Ethical Profits",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Boeing Co",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Northrop Grumman Corp",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Higgins, Nancy",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Peterson, Shirley",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "LABOR",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "HOT LINES",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Boards of Directors",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ethics",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Corporations",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-02-08T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Money and Business/Financial Desk",
+    "section_name": "Business Day",
+    "byline": {
+      "original": "By Tina Kelley",
+      "person": [
+        {
+          "firstname": "Tina",
+          "middlename": null,
+          "lastname": "Kelley",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/0db5a79f-55d4-5bea-91dd-364a73c9408a",
+    "word_count": 2322,
+    "uri": "nyt://article/0db5a79f-55d4-5bea-91dd-364a73c9408a"
+  },
+  {
+    "abstract": "Weekly guide to cultural events in New Jersey; photo (M)",
+    "web_url": "https://www.nytimes.com/1998/08/23/nyregion/on-the-towns-455601.html",
+    "snippet": "Weekly guide to cultural events in New Jersey; photo (M)",
+    "lead_paragraph": "An opinionated guide to cultural and recreational goings-on around the state this week. To submit items for consideration, write to On the Towns, Sunday New Jersey Section, The New York Times, 229 West 43d Street, New York, N.Y. 10036, or send a fax to (212) 556-7219.",
+    "print_section": "NJ",
+    "print_page": "14",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "ON THE TOWNS",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "ON THE TOWNS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New Jersey",
+        "rank": 1,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-08-23T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "New Jersey Weekly Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Schedule",
+    "_id": "nyt://article/c6f89374-dd10-553f-bf6c-090544145fe7",
+    "word_count": 3021,
+    "uri": "nyt://article/c6f89374-dd10-553f-bf6c-090544145fe7"
+  },
+  {
+    "abstract": "Special report Hailing Danger, on issue of taxi safety in New York City; Mayor Giuliani's proposals to crack down on unsafe taxi drivers prompted drivers to stay home on May 13; there are deeply embedded problems in complicated $1.5 billion industry: unforgiving arithmetic in leasing of taxis and medallions, inadequate scrutiny in hiring of drivers, grueling 12-hour shifts and high turnover in what is now largely an entry-level immigrant industry, likened by some to sweatshop on wheels; photos (L)",
+    "web_url": "https://www.nytimes.com/1998/05/15/nyregion/hailing-danger-a-special-report-behind-the-wheel-long-hours-and-hard-feelings.html",
+    "snippet": "Special report Hailing Danger, on issue of taxi safety in New York City; Mayor Giuliani's proposals to crack down on unsafe taxi drivers prompted drivers to stay home on May 13; there are deeply embedded problems in complicated $1.5 billion indust...",
+    "lead_paragraph": "Like generations of poor immigrants before him, the Bangladeshi Mamun Masud sought to fulfill the sunny promise of America behind the wheel of a yellow taxi. Each day spent amid Manhattan's potholes and gridlock was a gift to his young daughters, whose lives, he said, ''should be better than mine.''",
+    "print_section": "A",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "HAILING DANGER: A special report.; Behind the Wheel: Long Hours and Hard Feelings",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "HAILING DANGER: A special report.; Behind the Wheel: Long Hours and Hard Feelings",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Giuliani, Rudolph W",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "ACCIDENTS AND SAFETY",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Taxicabs and Taxicab Drivers",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "IMMIGRATION AND REFUGEES",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-05-15T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": "By Barry Bearak",
+      "person": [
+        {
+          "firstname": "Barry",
+          "middlename": null,
+          "lastname": "Bearak",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Special Report",
+    "_id": "nyt://article/7a9c9df2-454b-5043-8171-0937766df715",
+    "word_count": 3719,
+    "uri": "nyt://article/7a9c9df2-454b-5043-8171-0937766df715"
+  },
+  {
+    "abstract": "An opinionated guide to cultural and recreational goings-on around the state this week. To submit items for consideration, write to On the Towns, Sunday New Jersey Section, The New York Times, 229 West 43d Street, New York, N.Y. 10036, or send a fax to (212) 556-7219.    MUSIC    APPEL FARM Patty Larkin, guitarist, singer and songwriter. Friday at 8 P.M. Tickets: $12 to $25. The Arden String Quartet. Saturday at 7 P.M. Tickets: $15; $12 in advance; $8 for children; $5 in advance for children. 457 Shirley Road, Elmer. (800) 394-1211.    CEDAR GROVE INN ''Swing's the Thing,'' featuring the James L. Dean Big Band. Tonight, 7:30 to 11:30. Tickets: $12, including buffet.  30 Pompton Avenue, Cedar Grove.  (973) 239-8911.    CLUB BENE Dianne Schuur. Tonight at 8. Tickets: $22.50. Optional dinner before shows, $12.50. Route 35, Sayreville. (732) 727-3000.",
+    "web_url": "https://www.nytimes.com/1998/10/11/nyregion/on-the-towns-250163.html",
+    "snippet": "",
+    "lead_paragraph": "An opinionated guide to cultural and recreational goings-on around the state this week. To submit items for consideration, write to On the Towns, Sunday New Jersey Section, The New York Times, 229 West 43d Street, New York, N.Y. 10036, or send a fax to (212) 556-7219.",
+    "print_section": "NJ",
+    "print_page": "14",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "ON THE TOWNS",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "ON THE TOWNS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [],
+    "pub_date": "1998-10-11T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "New Jersey Weekly Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Schedule",
+    "_id": "nyt://article/65e82929-ad2a-59d1-aa14-edd88869a0a7",
+    "word_count": 3817,
+    "uri": "nyt://article/65e82929-ad2a-59d1-aa14-edd88869a0a7"
+  },
+  {
+    "abstract": "An opinionated guide to cultural and recreational goings-on around the state this week. To submit items for consideration, write to On the Towns, Sunday New Jersey Section, The New York Times, 229 West 43d Street, New York, N.Y. 10036, or send a fax to (212) 556-7219.",
+    "web_url": "https://www.nytimes.com/1998/09/27/nyregion/on-the-towns-013650.html",
+    "snippet": "",
+    "lead_paragraph": "An opinionated guide to cultural and recreational goings-on around the state this week. To submit items for consideration, write to On the Towns, Sunday New Jersey Section, The New York Times, 229 West 43d Street, New York, N.Y. 10036, or send a fax to (212) 556-7219.",
+    "print_section": "NJ",
+    "print_page": "14",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "ON THE TOWNS",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "ON THE TOWNS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [],
+    "pub_date": "1998-09-27T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "New Jersey Weekly Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/d4ba98e3-4e38-56c3-8bac-061098a8c15c",
+    "word_count": 4803,
+    "uri": "nyt://article/d4ba98e3-4e38-56c3-8bac-061098a8c15c"
+  },
+  {
+    "abstract": " MUSIC    ALL SEASON'S CHAMBER PLAYERS Festival String Quintet in music of Mozart and Brahms. Today at 3 P.M. Free. 895 Piermont Avenue, Piermont on Hudson, New York. (201) 768-1331.    BARRON ARTS CENTER Paul Salomone Jazz Group. Friday at 8 P.M. Free; reservations required. 582 Rahway Avenue, Woodbridge. (732) 634-0413.    CLUB BENE ''Oh! Calcutta.'' a musical comedy. Fridays and Saturdays, 8:30 P.M.; next Sunday, 7:30 P.M. Tickets: $25. Optional dinner before shows, $12.50. Route 35, Sayreville. (732) 727-3000.    ELIZABETH PUBLIC LIBRARY The Elizabeth Guitar Duo in Spanish flamenco and classical music. Saturday at 2 P.M. Free. 11 South Broad Street, Elizabeth. (908) 354-6060.    FAIRLEIGH DICKINSON UNIVERSITY ''Autumn Nocturne,'' jazz concert with the John Tank Group. Wednesday at 7:30 P.M. Free. Edward Williams College Auditorium, 150 Kotte Place, Hackensack. (201) 692-7026.    FIVE CORNERS LIBRARY Michele Weigl, soprano, and Timothy Walton, tenor. Today at 2:30 P.M. Free. Newark and Summit Avenues, Jersey City. (201) 547-4543.    FOLK PROJECT Vasen, Swedish band rooted in folk. Wednesday at 7:30 P.M. Tickets: $15; $10 in advance. Somerset County Environmental Education Center, 190 Lord Stirling Road, Basking Ridge. (908) 766-9696.    MANVILLE PUBLIC LIBRARY Russ Locandro, keyboardist and clarinetist. Tuesday at 7 P.M. Free. 100 South 10th Avenue, Manville. (908) 722-9722.    MAXWELL'S Swingin' Neckbreakers, Girl Trouble and Detroit Cobras. Friday at 10 P.M. Tickets: $7. ''12:01.'' Saturday at 10 P.M. Tickets: $7. 1039 Washington Street, Hoboken. (201) 653-1703.    MINE STREET COFFEEHOUSE Armor and Sturtevant, folk duo. Saturday at 8:30 P.M. Tickets: $4. First Reformed Church, Neilson and Bayard Streets, New Brunswick. (732) 828-1945.    MINSTREL COFFEEHOUSE Kallet, Epstein and Ciccone, folk band. Friday at 8:30 P.M. Tickets: $5. 190 Lord Stirling Road, Basking Ridge. (973) 335-9489.    NEW JERSEY PERFORMING ARTS CENTER Smokey Robinson. Saturday at 8 P.M. Tickets: $25 to $100. 1 Center Street, Newark. (888) 466-5722.    OCEAN CITY MUSIC PIER Ocean City Pops Orchestra with Laura Geoffrey, violinist, presents ''Hear Come the British.'' Tonight at 8. Tickets: $5 and $8. Moorlyn Terrace, Ocean City. (609) 525-9248.    OUTPOST IN THE BURBS Vance Gilbert, guitarist. Friday at 8:30 P.M. Tickets: $10 and $12. First Congregational Church, 40 South Fullerton Avenue, Montclair. (973) 744-6560.    PRINCETON UNIVERSITY The Orion String Quartet. Thursday at 8 P.M. Tickets: $19 to $29; $2 for students. ''Concert Royal,'' German Baroque masterworks. Saturday at 8 P.M. Tickets: $25 and $28; $5 for students. Richardson Auditorium in Alexander Hall, 126 Alexander Street, Princeton. (609) 258-4239.    PRINCETON UNIVERSITY CHAPEL Joan Lippincott, organist. Wednesday, 12:30 to 1 P.M. Free. William Street and Washington Road, Princeton. (609) 258-3654.    ST. JOSEPH PLAZA ''Jazz Priorities: Vital Voices,'' featuring David (Fathead) Newman. Thursday at 6:30 P.M. and 9 P.M. Tickets: $20. Bruce Williams, saxophonist. Friday, 7 to 11 P.M. No cover charge; food or beverage required. 233 West Market Street, Newark. (973)242-8012.    SHANGHAI JAZZ Ronny Whyte in cabaret. Tonight at 6. Harry Allen Trio, jazz. Wednesday at 7 P.M. Warren Vache Trio, jazz. Thursday at 7 P.M. Eric Olsen Trio, jazz. Friday at 7 P.M. Earl May Trio, jazz. Saturday at 6:30 and 8:45 P.M. No cover charge; $15 to $25 minimum for food and beverages. 24 Main Street, Madison. (201) 822-2899.    WATCHUNG ARTS CENTER ''An Evening of Jazz and Elegance,'' featuring Carrie Jackson. Friday at 8 P.M. Tickets: $20; $15 in advance. Risky Business, bluegrass band. Saturday at 8 P.M. Tickets: $10. Watchung Circle, 18 Sterling Road, Watchung. (908) 753-0190.    THEATER    BERGEN COUNTY PLAYERS ''Gypsy.'' Through Oct. 11. Fridays and Saturdays at 8:30 P.M.; Sundays at 2 P.M. Tickets: $15. Little Firehouse Theater, 298 Kinderkamack Road, Oradell. (201) 261-4200.    BURGDORFF CULTURAL CENTER ''Work =Pain =Success,'' a one-man satire written by and starring Harry Prichett. Friday through Sept. 27. Fridays and Saturdays at 8 P.M.; Sundays at 3 P.M. Tickets: $17.50; $15 for the elderly; $8 for students. Maplewood Avenue, Maplewood. (973) 378-2133.    CAPE MAY STAGE ''True West.'' Through Oct. 11. Wednesdays through Sundays at 8 P.M. Tickets: $18; $15 for the elderly and students; $8 for children. Welcome Center, Lafayette and Bank Streets, Cape May. (609) 884-1341.    CHURCH OF THE ASSUMPTION ''Christsong.'' Wednesday at 7:30 P.M. Tickets: $7; $5 for the elderly and those under 18. 29 Jefferson Avenue, Emerson. (201) 262-1122.    CIRCLE PLAYHOUSE ''Moon Over Buffalo.'' Through Oct. 10. Fridays and Saturdays at 8:30 P.M. Tickets: $12 and $13. 416 Victoria Avenue, Piscataway. (732) 968-7555.    GEORGE STREET PLAYHOUSE ''After-Play.'' written by and starring Anne Meara. Wednesday through Oct. 18. Tuesdays through Saturdays, 8 P.M.; Sundays, 2 P.M. and 7 P.M. No 7 P.M. performance on Oct. 11 and Oct. 18. Tickets: $24 to $36. 9 Livingston Avenue, New Brunswick. (732) 246-7717.    HELEN HAYES PERFORMING ARTS CENTER ''Much Ado About Everything,'' comedy by Jackie Mason. Through Oct. 18. Tuesday, Thursday, Friday and Saturday at 8 P.M.; Wednesday and next Sunday at 2 P.M. Tickets: $25 to $40. 117 Main Street, Nyack, N.Y. (914) 358-6333.    MAIN STREET ARTS ''Loot,'' by Joe Orton. Today and next Sunday at 7 P.M.; Friday and Saturday at 8 P.M. Tickets: $15. 94 Main Street, Nyack, N.Y. (914) 358-7701.    McCARTER THEATER ''Electra,'' by Sophocles. Through Oct. 4. Wednesday through Friday at 8 P.M.; Saturday at 4 and 8:30 P.M.; next Sunday at 2 and 7:30 P.M. Tickets: $25 to $36. 91 University Place, Princeton. (609) 683-8000.    NEW JERSEY PERFORMING ARTS CENTER George Carlin, comedian, with Dennis Blair. Thursday at 7:30 P.M. Tickets: $25 to $45. 1 Center Street, Newark. (888) 466-5722.    NEW JERSEY SHAKESPEARE FESTIVAL ''King Lear.'' Through next Sunday. Tonight at 7 P.M.; Tuesday through Friday at 8 P.M.; Saturday at 2 and 8 P.M.; next Sunday at 2 P.M. Tickets: $20 to $35. F. M. Kirby Shakespeare Theater, 36 Madison Avenue, Madison. (973) 408-5600.    PAPER MILL PLAYHOUSE ''Gypsy.'' Through Oct. 25. Wednesdays and Fridays at 8 P.M.; Thursdays at 2 and 8 P.M.; Saturdays at 2:30 and 8 P.M.; Sundays at 2 and 7:30 P.M. Tickets: $25 to $55; $10 for students 15 minutes prior to curtain. Brookside Drive, Millburn. (973) 376-4343.    ROYALE THEATER ''Cabaret.'' Through Oct. 3. Fridays and Saturdays at 8 P.M. Tickets: $18. 42 Monmouth Street, Red Bank. (732) 219-0081.    TWO RIVER THEATER COMPANY ''The Real Thing,'' by Tom Stoppard. Through next Sunday. Tonight at 7; Wednesday through Friday at 8 P.M.; Saturday at 4 and 8:30 P.M.; next Sunday at 3 P.M. Tickets: $21 to $29. Algonquin Arts Theater, 171 Main Street, Manasquan. (732) 345-1400.    VILLAGERS THEATER ''Little Shop of Horrors.'' Through Oct. 3. Friday and Saturday at 8:30 P.M.; next Sunday at 3 P.M. Tickets: $15 to $17. 475 DeMott Lane, Somerset. (732) 873-2710.    MUSEUMS AND GALLERIES    ALJIRA: A CENTER FOR CONTEMPORARY ART ''Aljira National IV,'' a group exhibition.  Through Oct. 23. Hours: Wednesdays through Fridays, noon to 5 P.M.; Saturdays, noon to 4 P.M. 2 Washington Place, Newark. (973) 643-6877.    AMERICAN LABOR MUSEUM ''Global Visions: The International Agitprop Art of Mike Alewitz.'' Through Dec. 31. Hours: Wednesdays through Saturdays, 1 to 4 P.M. Botto House National Landmark, 83 Norwood Street, Haledon. (201) 595-7953.    BELSKIE MUSEUM OF ART AND SCIENCE ''Welcome to My World: The Surrealism of Lewis Lang.'' Through Oct. 15. Hours: Mondays and Wednesdays, 10 A.M. to 9 P.M.; Tuesdays, Thursdays and Fridays, noon to 5 P.M. 280 High Street, Closter. (201) 768-0286.    BIJOU ART GALLERY ''Mixed Blessings,'' featuring paintings, serigraphs, prints, sculpture and photography. Through Dec. 31. Hours: Tuesdays through Saturdays, 11 A.M. to 6 P.M. 191 East Franklin Turnpike, Ho-Ho-Kus. (201) 493-8220.    BRION GALLERIES ''The Fantasy and Surreal Worlds of Tim Jacobus.'' Through Nov. 1. Hours: Wednesdays and Thursdays, 10 A.M. to 6 P.M.; Fridays and Saturdays, 9 A.M. to 7 P.M.; Sundays, 11 A.M. to 7 P.M. 1293 Route 179, Lambertville. (609) 397-7030.    CHALFONTE HOTEL ''Friends and Neighbors,'' watercolors by Alice Steer Wilson. Through Oct. 10. Hours: daily, 11 A.M. to 5 P.M. 301 Howard Street, Cape May.  (609) 884-8409.    CHAMOT GALLERY Charles Chamot retrospective. Through Nov. 1. Hours: Tuesdays through Sundays, noon to 3 P.M.; other times by appointment. 111 First Street, Jersey City. (201) 610-1468.    CITY WITHOUT WALLS New Members Show, with works by more than 70 artists. Through Oct. 23. Hours: Tuesdays through Fridays, noon to 6 P.M.; Saturdays, 11 A.M. to 4 P.M. 1 Gateway Center, Newark. (973) 622-1188.    COOPER GALLERY ''Faces of War: Children of Belfast,'' photographs by Michael Schwartz. Through Oct. 3. ''Torsoscapes,'' sculpture by Casey Schwarz. Through Dec. 4. Hours: Tuesdays through Saturdays, noon to 7 P.M. 295 Grove Street, Jersey City. (201) 451-1074.    ENGLEWOOD PUBLIC LIBRARY ''Abstract Compositions,'' paintings and sculpture by Marlene Bremer. Through Sept. 30. Hours: Mondays through Thursdays, 9 A.M. to 9 P.M.; Fridays and Saturdays, 9 A.M. to 5 P.M.; Sundays, 1 P.M. to 5 P.M. 31 Engle Street, Englewood. (201) 568-2215.    EXTENSION GALLERY Sculpture by Shane Stratton. Through Oct. 1. Hours: Mondays through Thursdays, 10 A.M. to 4 P.M. 60 Ward Avenue Extension, Mercerville.  (609) 890-7777.    FAIRLEIGH DICKINSON UNIVERSITY Recent paintings and pastels by Sumayyah Samaha. Through Oct. 16. Hours: Monday through Friday, 9 A.M. to 9 P.M.; Saturdays, 9 A.M. to 2 P.M. Edgar Williams Hall, 150 Kotte Place, Hackensack.  (201) 692-7337.    FIREHOUSE GALLERY ''Gigantic Show of Tiny Art,'' miniature paintings and sculptures. Through Oct. 4. Hours: Tuesdays through Fridays, 11 A.M. to 4 P.M.; Wednesdays until 9 P.M.; Saturdays, noon to 4 P.M. 8 Walnut Street, Bordentown. (609) 298-3742.    GALLERY OF SOUTH ORANGE ''Essex Exposed,'' a juried exhibition featuring works by 46 Essex County artists. Through Oct. 18. Hours: Wednesdays and Thursdays, 10 A.M. to 2 P.M. and 4 to 6 P.M.; Saturdays and Sundays, 1 to 4 P.M. Baird Center, 5 Mead Street, South Orange. (973) 378-7754.    GRACE CHURCH VAN VORST Paintings by Margaret Murphy and mosaics by Andrea Raphael. Through Oct. 23. Hours: Wednesdays, 7 to 9 P.M.; other times by appointment. 39 Erie Street, Jersey City. (201) 521-1661.    HERMITAGE ''Remember Me... Funeral Traditions of Yesteryear,'' featuring 19th-century coffins, mourning jewelry and banners. Wednesday through Sept. 30. Wednesday through Saturday, 10 A.M. to 4 P.M.; Sunday, noon to 4 P.M. 335 North Franklin Turnpike, Ho-Ho-Kus. (201) 445-8311.    MUSEUM OF THE AMERICAN HUNGARIAN FOUNDATION Victor Vasarely retrospective. Through next Sunday. Hours: Tuesdays through Saturdays, 11 A.M. to 4 P.M.; Sundays, 1 to 4 P.M. Free. 300 Somerset Street, New Brunswick. (732) 846-5777.    HUNTERDON MUSEUM OF ART ''At Home,'' sculpture and pottery by Toshiko Takaezu. Through Oct. 11. Hours: Tuesdays through Sundays, 11 A.M. to 5 P.M. 7 Lower Center Street, Clinton. (908) 735-8415.    KENT PLACE GALLERY ''Woodland Whispers,'' paintings and pastels by Robert W. Starkey. Through Oct. 30. Hours: Mondays through Fridays, 9 A.M. to 4 P.M. 42 Norwood Avenue, Summit. (908) 273-0900.    KERYGMA GALLERY ''One Thing on Top of Another,'' still life paintings by the Zeuxis group. Through Oct. 10. Hours: Tuesdays through Saturdays, 10 A.M. to 5 P.M.; Sundays, 1 to 5 P.M. 38 Oak Street, Ridgewood. (201) 444-5510.    LIBERTY SCIENCE CENTER ''On Assignment: Bangladesh,'' photographs by Marilyn Pfaltz. Daily, 9:30 A.M. to 5:30 P.M. Liberty State Park, 251 Phillip Street, Jersey City. (201) 451-0006.    LONG BEACH ISLAND FOUNDATION OF THE ARTS AND SCIENCES ''New Jersey State Teen Arts Touring Exhibition.'' Through Oct. 12. Hours: Mondays through Fridays, 9 A.M. to 5 P.M.; Saturdays and Sundays, 10 A.M. to 4 P.M. Free. 120 Long Beach Drive, Loveladies. (609) 494-1241.    MACCULLOCH HALL HISTORICAL MUSEUM ''Worldly Wares: Ceramics From 1750 to 1850.' Through Jan. 10. Admission: $3; $2 for students and the elderly. Hours: Wednesdays, Thursdays and Sundays, 1 to 4 P.M. 45 Macculloch Avenue, Morristown. (973) 538-2404.    MONMOUTH MUSEUM Works by the New Jersey Water Color Society. Through Nov. 7. Hours: Tuesdays through Saturdays, 2 to 4:30 P.M.; Sundays, 1 to 5 P.M. 761 Newman Springs Road, Lincroft. (908) 747-2266.    MONTCLAIR ART MUSEUM ''Strokes of Genius,'' an artist-designed nine-hole miniature golf course. Through Oct. 25. $5. Wednesdays through Fridays, 3 to sunset; Saturdays and Sundays, noon to sunset. ''Masterworks on Paper,'' featuring watercolors, gouaches, pastels and drawings. Through Jan. 10. ''William H. Johnson: Truth Be Told,'' featuring paintings, watercolors, drawings and prints. Through Jan. 10. Hours: Tuesdays, Wednesdays, Fridays and Saturdays, 11 A.M. to 5 P.M.; Thursdays and Sundays, 1 to 5 P.M. Admission: $5; $4 for students with ID and the elderly; free for children under 12. 3 South Mountain Avenue, Montclair. (973) 746-5555.    RUTH MORPETH GALLERY Landscape paintings by Paul Mordetsky. Through Oct. 3. Hours: Tuesdays through Saturdays, 11 A.M. to 5 P.M. 18 North Main Street, Pennington. (609) 737-9313.    MORRIS COUNTY LIBRARY ''The 1939-1940 New York World's Fair.'' Through Nov. 30. Hours: Mondays through Thursdays, 9 A.M. to 9 P.M.; Fridays and Saturdays, 9 A.M. to 5 P.M.; Sundays, noon to 5 P.M. 30 East Hanover Avenue, Whippany. (973) 285-6979.    MORRIS MUSEUM Multi-media sculpture by Bisa Washington. Through Sept. Saturday. ''Wedding Gowns in Color: 1850-1950.'' Through Oct. 18. ''The Community Food Bank of New Jersey,'' photographs by Barbara T. Beirne. Through Nov. 22. ''Henri Matisse: Florilege des Amours de Ronsard.'' Through Jan. 3. ''Puppets,'' 19th- and 20th-century puppets. Through July 4. Hours: Sundays, 1 to 5 P.M.; Mondays through Saturdays, 10 A.M. to 5 P.M.; Thursdays to 8 P.M. Admission: $5; $3 for the elderly. 6 Normandy Heights Road, Morristown. (973) 538-0454.    NABISCO GALLERY ''Favorite New Jersey Artists '98.'' Through Sept. 30. Hours: daily, noon to 4 P.M. 100 DeForest Avenue, East Hanover. (973) 503-3238.    NEW JERSEY AUDUBON SOCIETY Wildlife paintings by Carol Decker. Through Sept. 31. Hours: Tuesdays through Saturdays, 9 A.M. to 5 P.M.; Sundays, noon to 5 P.M. Scherman-Hoffman Sanctuaries, 11 Hardscrabble Road, Bernardsville. (908) 766-5787.    NEW JERSEY CENTER FOR VISUAL ARTS ''Works on Paper,'' paintings by Valeri Larko. Through Sept. 30. ''David Bates and Betty Woodman: Paradox in Paint, Wood and Clay.'' Through Nov. 1. Hours: Mondays through Fridays, noon to 4 P.M.; Saturdays and Sundays, 2 to 4 P.M. 68 Elm Street, Summit. (908) 273-9121.    NEW JERSEY CITY UNIVERSITY ''Zero Latitude: Contemporary Ecuadorean Artists,'' featuring works by Feliz Arauz, Manuel Ugarte and Hector Anchundia. Through Friday. ''Paper Weavings,'' abstract work by Lynette D. Carsten. Through Oct. 2. Hours: Mondays through Fridays, 11 A.M. to 4 P.M. 2039 Kennedy Boulevard, Jersey City. (201) 200-3270.    NEW JERSEY HISTORICAL SOCIETY ''Paul Robeson: Bearer of a Culture,'' featuring photographs, manuscripts, diaries, sculpture and memorabilia from the Paul Robeson estate. Through May. Hours: Tuesdays through Saturdays 10 A.M. to 5 P.M. 52 Park Place, Newark. (973) 483-3939.    NEW JERSEY STATE MUSEUM Paintings by Fay Sciarra. Through Oct. 25. ''Two Worlds: The Work of Bogdan Grom,'' a retrospective. Through Dec. 27. ''The Moon: Fact and Fiction.'' Through February. ''Realism from the Fine Art Collection.'' Through Jan. 10. Hours: Tuesdays through Saturdays, 9 A.M. to 4:45 P.M.; Sundays, noon to 5 P.M. Free. 205 West State Street, Trenton. (609) 292-6464.    NEWARK ACADEMY ''Beyond the Wall,'' installation of drawings, sculpture and video by Mona Brody. Through Oct. 2. Hours: Mondays through Fridays, 8 A.M. to 4 P.M. 91 South Orange Avenue, Livingston. (973) 992-7000.    NEWARK MUSEUM ''Ancient Land, New Style: Jewish Arts and Crafts From Jerusalem, 1906-1980.'' Through Oct. 25. ''Tibetan Buddhist Costumes and Ceremonial Textiles.'' Through Dec. 31. ''Artisans of Ancient Rome: Production Into Art.'' Through Dec. 31. ''Masterworks of Contemporary Craft.'' Through Dec. 31. ''Wrapped in Pride: Ghanaian Kente and African American Identity,'' ''Africa: The Arts of Power,'' featuring a Ghanian eagle coffin. Through 1999. ''Destination Mars.'' Through 1999. Hours: Wednesdays through Sundays, noon to 5 P.M. 49 Washington Street, Newark. (973) 596-6550.    NEWARK PUBLIC LIBRARY ''Puerto Rico 1898-1998: A Century of Change and Uncertainty.'' Through Nov. 15. Hours: Mondays through Fridays, 9 A.M. to 5:30 P.M.; Wednesdays to 8:30 P.M.; Saturdays, 9:30 A.M. to 1:30 P.M. Free. 5 Washington Street, Newark. (973) 624-3713.    NOYES MUSEUM OF ART Installation in progress by Francisco Alvarado-Juarez. Through next Sunday. Folk art from the Noyes collection. Through Sept 30. ''Through the Lens: Photographers' Visions of Atlantic City.'' Through Dec. 20. Hours: Wednesdays through Sundays, 11 A.M. to 4 P.M. Admission: $3; $2 for the elderly and students. Lily Lake Road, Oceanville. (609) 652-8848.    OLD CHURCH CULTURAL CENTER Works by the faculty of the Center's School of Art. Through Oct. 7. Hours: Mondays through Fridays, 10 A.M. to 4:30 P.M.; other times by appointment. 561 Piermont Road, Demarest. (201) 767-7160.    PALMYRA ART GALLERY ''New Work,'' paintings by Rone Del and mixed-media sculpture by Fred Palmer. Through Oct. 3. Hours: Tuesdays through Sundays, 11:30 A.M. to 2 A.M. 22 Hamilton Street, Bound Brook. (732) 302-0515.    PATERSON FREE PUBLIC LIBRARY ''Printmaking at William Paterson University.'' Through Sept. 30. Hours: Mondays through Thursdays, 9 A.M. to 8 P.M.; Fridays and Saturdays, 9 A.M. to 5 P.M. Main Library, 250 Broadway, Paterson. (973) 357-3000.    PATERSON MUSEUM ''Impressions of Paterson, 1985-98,'' paintings by Dennis Marshall. Through Oct. 10. Hours: Tuesdays through Fridays, 10 A.M. to 4 P.M.; Saturdays and Sundays, 12:30 to 4:30 P.M. 2 Market Street, Paterson. (973) 991-3874.    POLISH CULTURAL FOUNDATION ''Emotionalism,'' by the In Tune With Nature multi-media arts group. Through Oct. 6. Hours: Tuesdays through Fridays, 5 to 9 P.M.; Saturdays, 10 A.M. to 2 P.M. Skulski Art Gallery, 177 Broadway, Clark. (732) 382-7197.    QUIETUDE GARDEN GALLERY Sculptures by Neal Borowsky, Sara D'Alessandro, Ralph Greco and others. Through Nov. 8. Fridays through Sundays, noon to 5 P.M.; other times by appointment. 24 Fern Road, East Brunswick. (732)257-4340.    RAMAPO COLLEGE ''Appeal to This Age: Photography of the Civil Rights Movement, 1954-1968.'' Through Oct. 16. Hours: Mondays through Fridays, 11 A.M.to 2 P.M.; Wednesdays also 6 to 8 P.M. 505 Ramapo Valley Road, Mahwah. (201) 529-7362.    RARITAN VALLEY COMMUNITY COLLEGE ''Ambivalence,'' photography by Linda Cummings. Through Oct. 1. Hours: Mondays, 3 to 8 P.M.; Tuesdays and Thursdays, noon to 3 P.M.; Wednesdays, 1 to 8 P.M. Art Gallery, Route 28 and Lamington Road, North Branch. (908) 218-8876.    RIDER UNIVERSITY ''Three Perspectives: Contemporary Russian Fiber Art,'' featuring works by Natasha Muradova, Ludmila Uspenskaya and Ludmila Aristova. Thursday through Oct. 25. Hours: Mondays through Thursdays, 2 to 8 P.M.; Fridays through Sundays, 2 to 5 P.M. Art Gallery, 2083 Lawrenceville Road, Lawrenceville. (609) 895-5440.    RIDGEWOOD ART INSTITUTE Annual Instructor's Show, featuring paintings and drawings. Through Oct. 2. Hours: Mondays through Thursdays, 2 to 4 P.M. and 8 to 10 P.M.; Saturdays, 10 A.M. to noon. 12 East Glen Avenue, Ridgewood. (201) 652-9615.    RINGWOOD MANOR ASSOCIATION OF THE ARTS Annual fall exhibition, featuring oils, pastels, drawings, mixed-media works and sculpture. Through Oct. 4. Hours: Wednesdays, Saturdays and Sundays, 1 to 4 P.M. The Barn Gallery, Ringwood State Park, Sloatsburg Road, Ringwood. (973) 835-5314.    RUTGERS UNIVERSITY ''Women in the Public Sphere in New Jersey, 1920 -- 1970,'' including documents, photographs and artifacts. Through Oct. 31. Hours: Mondays through Fridays 8 A.M. to 8 P.M. Alexander Library, College Avenue, New Brunswick. (732) 932-7505.    SCHERING-PLOUGH GALLERY Needlework by the Embroiderers' Guild of America. Through Oct. 14. Hours: Mondays through Fridays, 10 A.M. to 4 P.M. Executive Offices, 1 Giralda Farms, Madison. (973) 822-7000.    SETON HALL UNIVERSITY ''New Directions,'' works by the art faculty. Through Oct. 17. Hours: Mondays through Fridays, 10:30 A.M. to 4:30 P.M., or by appointment. Walsh Library Gallery, 400 South Orange Avenue, South Orange. (973) 275-2033.    SIMON GALLERY Prints by Sy Shames and multi-media works by Sally Spofford. Through Oct. 10. Hours: Tuesdays through Fridays, noon to 6 P.M.; Saturdays, noon to 5 P.M.; other times by appointment. 48 Bank Street, Morristown. (973) 538-5456.    STOCKTON COLLEGE ART GALLERY Recent landscape paintings by Marilyn Brent. Through Sept. 30. Hours: Mondays through Fridays, 11:30 A.M. to 4 P.M.; Tuesdays until 8 P.M.; Sundays, noon to 4 P.M. Jim Leeds Road, Pomona. (609) 652-4556.    SWAIN GALLERIES ''New York, New York,'' a salute to the centenary of the consolidation of New York City's five boroughs with works by contemporary New Jersey artists, vintage prints and maps. Through Oct. 2. Hours: Mondays through Fridays, 9:30 A.M. to 5:30 P.M.; Saturdays, 9:30 A.M. to 4 P.M. 703 Watchung Avenue, Plainfield. (908) 756-1707.    TEANECK PUBLIC LIBRARY Block prints by Caren Belle Loebel-Fried. Through Oct. 23. Hours: Mondays through Thursdays, 9 A.M. to 9 P.M.; Fridays, 9 A.M. to 5 P.M.; Saturdays, 9 A.M. to 5 P.M.; Sundays, 1 to 5 P.M. 840 Teaneck Road, Teaneck. (201) 837-4171.    TOM JAMES GALLERY Paintings and seriographs by Jane Wooster Scott. Through Oct. 28. Hours: Mondays through Fridays, 10 A.M. to 6 P.M.; Saturdays, 10 A.M. to 5 P.M. 10 Westwood Avenue, Westwood. (201) 666-5048.    TRENTON CITY MUSEUM ''Invention and Diversity,'' fiber art. Through Oct. 18. Hours: Tuesdays through Saturdays, 11 A.M. to 3 P.M.; Sundays, 2 to 4 P.M. Free. Ellarslie, Cadwalader Park, Trenton. (609) 989-3632.    VALY STUDIO GALLERY ''Legends and Beauty; A Retrospective,'' photography by Barry Morgenstein. Through Oct. 15. Hours: Tuesdays through Sundays, 11:30 A.M. to 4:30 P.M. and 8 to 10:30 P.M. 7 South Fullerton Avenue, Montclair. (973) 783-2131.    WHEATON VILLAGE ''The Human Form in Allegory, Metaphor and Myth,'' flame-worked glass. Through Oct. 11. ''Folk Art in Glass.'' Through Oct. 25. Hours: daily, 10 A.M. to 5 P.M. Free. Gallery of American Craft, 1501 Glasstown Road, Millville. (609) 825-6800.    WILLIAM PATTERSON UNIVERSITY Paintings by Serena Bocchino and video sculpture by Ray Rapp. Through Oct. 16 at the Court Gallery. ''Borrowed Views,'' paintings by Connie Hayes. Through Oct. 16 at the East Gallery. ''Annual Art Faculty Exhibition.'' Through Oct. 16 at the South Gallery. Hours: Mondays  through Fridays, 10 A.M. to 5 P.M. Ben Shahn Galleries, 300 Pompton Road, Wayne. (973) 720-2654.    WILLIAMS GALLERY ''A Selection of Landscape and Still Life Paintings by Robin Gary Wood.'' Through Oct. 3. Hours: Wednesdays through Saturdays, 11 A.M. to 5 P.M. 8 Chambers Street, Princeton. (609) 921-1142.    WYCKOFF GALLERY ''Tenth Anniversary Show - From Realism to Abstraction.'' Saturday through Nov. 14. Hours: Tuesdays through Saturdays, 11:30 A.M. to 4:30 P.M. 648 Wyckoff Avenue, Wyckoff. (201) 891-7436.    JAMES YAROSH FINE ART AND DESIGN Painting and pottery by Joyce Urbanski. Through Sept. 30. Hours: Saturdays, noon to 4 P.M.; other times by appointment. 43 East Main Street, Holmdel. (732) 332-0056.    ZIMMERLI ART MUSEUM ''The Art of Giving,'' recent additions to the Japonisme collection. Through Oct. 25. ''Unrealities: Abstraction in Contemporary Printmaking.'' Through Jan. 24. ''The Rutgers Collection of Original Illustrations for Children's Literature.'' Through Jan. 24. ''The Art of Selling: The Emergence of the Art of Advertising at the Turn of the Century in France.'' Ongoing. Hours: Tuesdays through Fridays, 10 A.M. to 4:30 P.M.; Saturdays and Sundays, noon to 5 P.M. Rutgers University, George and Hamilton Streets, New Brunswick. (732) 932-7237.    FOR CHILDREN    FORUM THEATER COMPANY ''Alice in Wonderland.'' Through Oct. 3. Saturdays at 11 A.M. Tickets: $8. 314 Main Street, Metuchen. (732) 548-0582.    NEW JERSEY CHILDREN'S MUSEUM Daily programs: ''Fairy Tale Play,'' 10:30 A.M. ''Storytime,'' noon. Crafts, 2:30 P.M. Museum hours: Mondays through Fridays, 9 A.M. to 5 P.M.; Saturdays and Sundays, 10 A.M. to 5 P.M. Admission: $7. 599 Industrial Avenue, Paramus. (201) 262-2638.    NEW JERSEY PERFORMING ARTS CENTER ''Electric Shadows,'' shadow puppetry presented by Shadowlight Theater. Friday at 7 P.M.; next Sunday at 2 P.M.For ages 8 and up. Tickets: $18; $9 for children. 1 Center Street, Newark. (888) 466-5722    NEWARK MUSEUM Dreyfuss Planetarium programs: ''In Search of Intelligence,'' for ages 8 to 12, examines intelligent life on Earth. Saturdays and Sundays, 1 and 3 P.M. ''Weather Machine,'' for ages 10 and up. Wednesdays, Thursdays and Fridays, 2 P.M.; Saturdays and Sundays, 2 and 4 P.M. Tickets: $3; $1 for children and the elderly. 49 Washington Street, Newark. (973) 596-6550.    SPOKEN WORD    ATLANTIC COMMUNITY COLLEGE Christopher Dickey discusses his book, ''Summer of Deliverance.'' Thursday at 8 P.M. Free. 5100 Black Horse Pike, Mays Landing. (609) 343-4909 or (609) 886-7189, extension 4909.    RUTGERS UNIVERSITY Panel discussion on the role of African American women in the struggle for the vote and the efforts of New Jersey women in the suffrage movement. Wednesday at 7 P.M. Free. Douglass campus, Mabel Smith Douglass Library, George Street and Nichol Avenue, New Brunswick. (732) 932-7505.    SAINT PETER'S COLLEGE Patricia Bosworth, editor at Vanity Fair and biographer of Diane Arbus, lectures as part of the ''Contemporary Views of the Twentieth Century.'' Tomorrow at 10 A.M. Free. Roy Irving Theater, 2641 Kennedy Boulevard. (201) 915-9160.    ETC.    BERGEN COMMUNITY COLLEGE Third Annual Native American Day Celebration. Thursday and Friday, all-day. Free; $10 for Spiderwoman Theater production on Friday at 8 P.M. 400 Paramus Road, Paramus. (201) 447-7201.    HISTORIC SPEEDWELL The estate of Stephen Vail, owner of the Speedwell Iron Works. Through September 30. Hours: Thursdays, noon to 4 P.M.; Sundays, 1 to 5 P.M. Tickets: $3; $2 for the elderly; $1 for children. 333 Speedwell Avenue, Morristown. (973) 540-0211.    MOUNT TABOR Fifth Annual House Show, featuring tours of more than 25 private and public buildings and gardens. Saturday, 11 A.M. to 4 P.M. Tickets: $12. Purchase tickets at the gazebo in the park on Simpson Avenue, Mount Tabor. (973) 425-8729.    NEW JERSEY CONVENTION/ EXPO CENTER New Jersey Fall Boat Show. Friday, 1 to 10 P.M.; Saturday, 10 A.M. to 9 P.M.; next Sunday, 11 A.M. to 6 P.M. Tickets: $6; $4 for those under 17; free for children under 12. Main Hall and Expansion, 97 Sunfield Avenue, Edison. (800) 332-3976.    TIP SEAMAN COUNTY PARK Sixteenth Annual Ocean County Decoy and Gunning Show. Saturday and Sunday, 8 A.M. to 5 P.M. Free. Route 9 and 120 Lakeside Drive, Tuckerton. (609) 971-3085.    ",
+    "web_url": "https://www.nytimes.com/1998/09/20/nyregion/on-the-towns-905755.html",
+    "snippet": "",
+    "lead_paragraph": "MUSIC",
+    "print_section": "NJ",
+    "print_page": "14",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "ON THE TOWNS",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "ON THE TOWNS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [],
+    "pub_date": "1998-09-20T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "New Jersey Weekly Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Schedule",
+    "_id": "nyt://article/c839e71e-46a4-5634-9095-fcef8a268228",
+    "word_count": 4072,
+    "uri": "nyt://article/c839e71e-46a4-5634-9095-fcef8a268228"
+  },
+  {
+    "abstract": "An opinionated guide to cultural and recreational goings-on around the state this week. To submit items for consideration, write to On the Towns, Sunday New Jersey Section, The New York Times, 229 West 43d Street, New York, N.Y. 10036, or send a fax to (212) 556-7219.    MUSIC    CEDAR GROVE INN ''Swing's the Thing,'' featuring the James L. Dean Big Band. Next Sunday, 7:30 to 11:30. Tickets: $12, including buffet. 30 Pompton Avenue, Cedar Grove. (973) 239-8911.",
+    "web_url": "https://www.nytimes.com/1998/10/04/nyregion/on-the-towns-130206.html",
+    "snippet": "",
+    "lead_paragraph": "An opinionated guide to cultural and recreational goings-on around the state this week. To submit items for consideration, write to On the Towns, Sunday New Jersey Section, The New York Times, 229 West 43d Street, New York, N.Y. 10036, or send a fax to (212) 556-7219.",
+    "print_section": "NJ",
+    "print_page": "14",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "ON THE TOWNS",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "ON THE TOWNS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [],
+    "pub_date": "1998-10-04T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "New Jersey Weekly Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Schedule",
+    "_id": "nyt://article/6fa2828b-416f-52b9-9767-54e536206896",
+    "word_count": 5057,
+    "uri": "nyt://article/6fa2828b-416f-52b9-9767-54e536206896"
+  },
+  {
+    "abstract": "An opinionated guide to cultural and recreational goings-on around the state this week. To submit items for consideration, write to On the Towns, Sunday New Jersey Section, The New York Times, 229 West 43d Street, New York, N.Y. 10036, or send a fax to (212) 556-7219.    MUSIC  ",
+    "web_url": "https://www.nytimes.com/1998/10/18/nyregion/on-the-towns-401218.html",
+    "snippet": "",
+    "lead_paragraph": "An opinionated guide to cultural and recreational goings-on around the state this week. To submit items for consideration, write to On the Towns, Sunday New Jersey Section, The New York Times, 229 West 43d Street, New York, N.Y. 10036, or send a fax to (212) 556-7219.",
+    "print_section": "NJ",
+    "print_page": "14",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "ON THE TOWNS",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "ON THE TOWNS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [],
+    "pub_date": "1998-10-18T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "New Jersey Weekly Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Schedule",
+    "_id": "nyt://article/155ca07c-0ba6-567d-9a4b-99d27e13cce9",
+    "word_count": 5106,
+    "uri": "nyt://article/155ca07c-0ba6-567d-9a4b-99d27e13cce9"
+  },
+  {
+    "abstract": "First article in series Here and There, on modern wave of immigrants in US who straddle two worlds unlike Europeans in early part of century who fled war and persecution and abandoned motherlands forever; as world has grown smaller and immigrant experience inevitably changed, more modern immigrants are immersing themselves in two societies at once--economically, culturally and politically; while basing themselves more fully in US, they are maintaining ties so vital that homeland is part of their American-born childern's identify; here-there phenomenon, while common in every immigrant center in world, makes particularly clear stamp on psyche of New York, American city with largest and most diverse population of immigrants; evolved during newest wave of immigration, which began in late 1960's, eventually driving city's immigrant population to all-time high of 2.7 million; more than one-third of city's residents are foreign born, and about 60 percent are either immigrants or their children, and most are black, Latino or Asian unlike Europeans of yesteryear; for newest wave, technological advances and global economic and political changes have revolutionized relationship with homeland, just as American embrace of multiculturalism allows it to flourish as never before; in recent years, proliferation of dual nationality laws has allowed many immigrants to formalize double identities; photos; charts (L)",
+    "web_url": "https://www.nytimes.com/1998/07/19/nyregion/the-new-immigrant-tide-a-shuttle-between-worlds.html",
+    "snippet": "First article in series Here and There, on modern wave of immigrants in US who straddle two worlds unlike Europeans in early part of century who fled war and persecution and abandoned motherlands forever; as world has grown smaller and immigrant e...",
+    "lead_paragraph": "Fernando Mateo has been shuttling between New York City and Santo Domingo since he was in utero. His pint-sized immigrant mother, belly swelling, flew back to her homeland so Mr. Mateo, now 40, could be born a Dominican. After that, his childhood was split between here and there, between a cramped Lower East Side apartment and a pink house beneath a mahogany tree in the Dominican capital.",
+    "print_section": "1",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "The New Immigrant Tide: A Shuttle Between Worlds",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "The New Immigrant Tide: A Shuttle Between Worlds",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Surveys and Series",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "IMMIGRATION AND REFUGEES",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Blacks",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Asian-Americans",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hispanic-Americans",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1998-07-19T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": "By Deborah Sontag and Celia W. Dugger",
+      "person": [
+        {
+          "firstname": "Deborah",
+          "middlename": null,
+          "lastname": "Sontag",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Celia",
+          "middlename": "W.",
+          "lastname": "Dugger",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Series",
+    "_id": "nyt://article/397da826-5ce5-5528-a8b5-df2e30b1aacb",
+    "word_count": 6308,
+    "uri": "nyt://article/397da826-5ce5-5528-a8b5-df2e30b1aacb"
+  }
+]
