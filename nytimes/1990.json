@@ -1,0 +1,3656 @@
+[
+  {
+    "abstract": "LEAD: Flooding in dozens of northern villages has killed 14 children, stranded tens of thousands of people and damaged crops across wide areas of Bangladesh in the last several days, news organizations reported today.",
+    "web_url": "https://www.nytimes.com/1990/10/01/world/northern-bangladesh-floods-kill-14-and-strand-thousands.html",
+    "snippet": "",
+    "lead_paragraph": "Flooding in dozens of northern villages has killed 14 children, stranded tens of thousands of people and damaged crops across wide areas of Bangladesh in the last several days, news organizations reported today.",
+    "print_section": "A",
+    "print_page": "15",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Northern Bangladesh Floods Kill 14 and Strand Thousands",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Northern Bangladesh Floods Kill 14 and Strand Thousands",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Weather",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Floods",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-10-01T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "AP",
+      "person": [],
+      "organization": "AP"
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/70e6cf8c-5968-5847-b8b6-2eda9e4ab3c3",
+    "word_count": 190,
+    "uri": "nyt://article/70e6cf8c-5968-5847-b8b6-2eda9e4ab3c3"
+  },
+  {
+    "abstract": "LEAD: Sirajul Islam, who makes his living selling bamboo poles, said he was having breakfast with his assistants early this morning when the political goons came for him. The local leader of Bangladesh's ruling Jatiya Party wanted to see him, he was told.",
+    "web_url": "https://www.nytimes.com/1990/02/16/world/sonargaon-journal-where-politics-like-the-rivers-can-turn-nasty.html",
+    "snippet": "",
+    "lead_paragraph": "Sirajul Islam, who makes his living selling bamboo poles, said he was having breakfast with his assistants early this morning when the political goons came for him. The local leader of Bangladesh's ruling Jatiya Party wanted to see him, he was told.",
+    "print_section": "A",
+    "print_page": "4",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Sonargaon Journal;   Where Politics, Like the Rivers, Can Turn Nasty",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Sonargaon Journal;   Where Politics, Like the Rivers, Can Turn Nasty",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-02-16T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Barbara Crossette, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Barbara",
+          "middlename": null,
+          "lastname": "Crossette",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/924c8653-c539-557d-8861-b45d13cdf29a",
+    "word_count": 921,
+    "uri": "nyt://article/924c8653-c539-557d-8861-b45d13cdf29a"
+  },
+  {
+    "abstract": "  As politicians struggle to fill the vacuum left by the abrupt resignation of President H. M. Ershad a week ago, many Bangladeshis say they fear that economic collapse and widespread civil strife may be unavoidable.    \"The ports are not functioning, and we are going to run out of food in the countryside,\" a businessman said, placing the blame for the situation on Mr. Ershad, who encouraged imports of basic commodities rather than increasing local production.",
+    "web_url": "https://www.nytimes.com/1990/12/12/world/with-nation-in-turmoil-bangladeshis-fear-strife.html",
+    "snippet": "",
+    "lead_paragraph": "As politicians struggle to fill the vacuum left by the abrupt resignation of President H. M. Ershad a week ago, many Bangladeshis say they fear that economic collapse and widespread civil strife may be unavoidable.",
+    "print_section": "A",
+    "print_page": "15",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "With Nation in Turmoil, Bangladeshis Fear Strife",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "With Nation in Turmoil, Bangladeshis Fear Strife",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "ERSHAD, H M",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Civil War and Guerrilla Warfare",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-12-12T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Barbara Crossette, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Barbara",
+          "middlename": null,
+          "lastname": "Crossette",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/ff30b592-32a8-51c4-9a08-425cf5344142",
+    "word_count": 668,
+    "uri": "nyt://article/ff30b592-32a8-51c4-9a08-425cf5344142"
+  },
+  {
+    "abstract": "LEAD: Treasury Secretary Nicholas F. Brady urged the World Bank and the International Monetary Fund today to cushion the economic shock of the Persian Gulf crisis for developing countries.",
+    "web_url": "https://www.nytimes.com/1990/09/27/business/brady-urges-aid-to-lands-hurt-in-crisis.html",
+    "snippet": "",
+    "lead_paragraph": "Treasury Secretary Nicholas F. Brady urged the World Bank and the International Monetary Fund today to cushion the economic shock of the Persian Gulf crisis for developing countries.",
+    "print_section": "D",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Brady Urges Aid to Lands Hurt in Crisis",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Brady Urges Aid to Lands Hurt in Crisis",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Middle East",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "International Monetary Fund",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "International Bank for Reconstruction and Development",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Brady, Nicholas F",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Third World and Developing Countries",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-09-27T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business Day",
+    "byline": {
+      "original": "By Clyde H. Farnsworth, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Clyde",
+          "middlename": "H.",
+          "lastname": "Farnsworth",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/1f97be2e-ebc2-5b38-8f2c-24abc407707d",
+    "word_count": 921,
+    "uri": "nyt://article/1f97be2e-ebc2-5b38-8f2c-24abc407707d"
+  },
+  {
+    "abstract": "Now that the cold war has ended, we should try to end one of its most evil side effects: the reckless arming of third-world countries with modern weapons. \n\nOnce a vital tool of the Soviet Union's global influence-seeking strategy, and sometimes profitable too, weapons sales no longer serve Moscow's drastically recast ambitions. Nor are they particularly profitable -- almost all hard-currency buyers prefer Western products.",
+    "web_url": "https://www.nytimes.com/1990/11/04/opinion/stop-arming-the-third-world.html",
+    "snippet": "Now that the cold war has ended, we should try to end one of its most evil side effects: the reckless arming of third-world countries with modern weapons. \n\nOnce a vital tool of the Soviet Union's global influence-seeking strategy, and sometimes p...",
+    "lead_paragraph": "Now that the cold war has ended, we should try to end one of its most evil side effects: the reckless arming of third-world countries with modern weapons. ",
+    "print_section": "4",
+    "print_page": "19",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Stop Arming the Third World",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Stop Arming the Third World",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Middle East",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Luttwak, Edward N",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "ARMS SALES ABROAD",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "ARMAMENT, DEFENSE AND MILITARY FORCES",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Third World and Developing Countries",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-11-04T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "byline": {
+      "original": "By Edward N. Luttwak",
+      "person": [
+        {
+          "firstname": "Edward",
+          "middlename": "N.",
+          "lastname": "Luttwak",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "nyt://article/0985bd0c-ec66-58c4-9784-117a86cbdf37",
+    "word_count": 948,
+    "uri": "nyt://article/0985bd0c-ec66-58c4-9784-117a86cbdf37"
+  },
+  {
+    "abstract": "LEAD: For thousands of Asians fleeing Kuwait, misery has pitched a tent at this Turkish outpost on the border with Iraq.",
+    "web_url": "https://www.nytimes.com/1990/09/17/world/confrontation-gulf-for-refugees-kuwait-tent-turkey-least-comes-with-food-water.html",
+    "snippet": "",
+    "lead_paragraph": "For thousands of Asians fleeing Kuwait, misery has pitched a tent at this Turkish outpost on the border with Iraq.",
+    "print_section": "A",
+    "print_page": "10",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "  For Refugees From Kuwait, a Tent in Turkey at Least Comes With Food and Water",
+      "kicker": "CONFRONTATION IN THE GULF",
+      "content_kicker": null,
+      "print_headline": "CONFRONTATION IN THE GULF;   For Refugees From Kuwait, a Tent in Turkey at Least Comes With Food and Water",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Kuwait",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Pakistan",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Middle East",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Jordan",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Turkey",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "REFUGEES AND EXPATRIATES",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreign Aid",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-09-17T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Clyde Haberman, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Clyde",
+          "middlename": null,
+          "lastname": "Haberman",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/3495a985-222c-5390-81c9-56245057b84f",
+    "word_count": 1031,
+    "uri": "nyt://article/3495a985-222c-5390-81c9-56245057b84f"
+  },
+  {
+    "abstract": "LEAD: President Bush told Pentagon employees today that American freedom and ''our way of life'' would suffer if President Saddam Hussein of Iraq ever gained control of Saudi Arabia.",
+    "web_url": "https://www.nytimes.com/1990/08/16/world/confrontation-in-the-gulf-bush-says-iraqi-aggression-threatens-our-way-of-life.html",
+    "snippet": "",
+    "lead_paragraph": "President Bush told Pentagon employees today that American freedom and ''our way of life'' would suffer if President Saddam Hussein of Iraq ever gained control of Saudi Arabia.",
+    "print_section": "A",
+    "print_page": "14",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "  Bush Says Iraqi Aggression Threatens 'Our Way of Life'",
+      "kicker": "CONFRONTATION IN THE GULF",
+      "content_kicker": null,
+      "print_headline": "CONFRONTATION IN THE GULF;   Bush Says Iraqi Aggression Threatens 'Our Way of Life'",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Iraq",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Persian Gulf",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Middle East",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Jordan",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Saudi Arabia",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bush, George",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Hussein I",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Hussein, Saddam",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "STEALTH AIRCRAFT",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "UNITED STATES ARMAMENT AND DEFENSE",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-08-16T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By R W. Apple Jr., Special To the New York Times",
+      "person": [
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/ed0fedb0-aaa0-570a-9448-dc29cef9e55f",
+    "word_count": 1441,
+    "uri": "nyt://article/ed0fedb0-aaa0-570a-9448-dc29cef9e55f"
+  },
+  {
+    "abstract": "LEAD: When a giant Soviet AN-124 cargo jet landed here at midnight on Thursday, United Nations officials supervised the unloading of 50 tons of American-bought rice that had been flown from Bangladesh to help feed tens of thousands of Asian refugees from Kuwait in Jordan's desert transit camps.",
+    "web_url": "https://www.nytimes.com/1990/09/08/world/confrontation-gulf-indecision-mistakes-hamper-relief-efforts-camps-jordan.html",
+    "snippet": "",
+    "lead_paragraph": "According to Lars Bjorkman of the United Nations' Rome-based World Food Program, concern had arisen that the Asians should be provided with a means of cooking the rice, and that a equitable system for distributing it be set up.",
+    "print_section": "1",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "  Indecision and Mistakes Hamper Relief Efforts at Camps in Jordan",
+      "kicker": "CONFRONTATION IN THE GULF",
+      "content_kicker": null,
+      "print_headline": "CONFRONTATION IN THE GULF;   Indecision and Mistakes Hamper Relief Efforts at Camps in Jordan",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Kuwait",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Middle East",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Jordan",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "FOREIGN LABOR",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "REFUGEES AND EXPATRIATES",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreign Aid",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-09-08T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By John F. Burns, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": "F.",
+          "lastname": "Burns",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/fe2b67cc-8dc8-5d61-884f-0106c76850e2",
+    "word_count": 1137,
+    "uri": "nyt://article/fe2b67cc-8dc8-5d61-884f-0106c76850e2"
+  },
+  {
+    "abstract": "  JUST when you thought it was safe to procreate, the population bomb is back. Two decades ago, mainstream economists brushed aside the vision of a future chronically short of food and fuel. Now some are having second thoughts, prompted by new concerns about possible global warming and other strains imposed by population and economic growth on the planet's ecology.    Most economists remain confident that the conventional analysis of the population problem is substantially correct: a steady flow of new technology that uses resources ever more efficiently will offset any scarcity of minerals and arable land, at the very least dampening the tendency for commodity prices to rise.",
+    "web_url": "https://www.nytimes.com/1990/12/18/science/economists-start-to-fret-again-about-population.html",
+    "snippet": "",
+    "lead_paragraph": "JUST when you thought it was safe to procreate, the population bomb is back. Two decades ago, mainstream economists brushed aside the vision of a future chronically short of food and fuel. Now some are having second thoughts, prompted by new concerns about possible global warming and other strains imposed by population and economic growth on the planet's ecology.",
+    "print_section": "C",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Economists Start To Fret Again About Population",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Economists Start To Fret Again About Population",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "MALTHUS, THOMAS",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Conditions and Trends",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Population",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "STANDARD OF LIVING",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-12-18T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Science Desk",
+    "section_name": "Science",
+    "byline": {
+      "original": "By Peter Passell",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "Passell",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/ef6e7acb-716d-5a4c-b46c-55bbe0c74ddb",
+    "word_count": 1624,
+    "uri": "nyt://article/ef6e7acb-716d-5a4c-b46c-55bbe0c74ddb"
+  },
+  {
+    "abstract": "LEAD: A European diplomat who just left Kuwait said today that hundreds of thousands of Asian workers were still trapped in the country without food or shelter. He said the situation dwarfed the problem of the tens of thousands of refugees suffering in squalid desert camps on the border between Iraq and Jordan.",
+    "web_url": "https://www.nytimes.com/1990/09/10/world/confrontation-gulf-envoy-reports-hundreds-thousands-asians-trapped-kuwait.html",
+    "snippet": "",
+    "lead_paragraph": "''This is a very, very important problem,'' Mr. Longva said. ''Unless somebody does something about it, there will be a catastrophe.''",
+    "print_section": "A",
+    "print_page": "10",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Confrontation in the Gulf;   Envoy Reports Hundreds of Thousands of Asians Trapped in Kuwait",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Confrontation in the Gulf;   Envoy Reports Hundreds of Thousands of Asians Trapped in Kuwait",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Iraq",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Kuwait",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Middle East",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Norway",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Jordan",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "LONGVA, HANS",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "ARMAMENT, DEFENSE AND MILITARY FORCES",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "FOREIGN LABOR",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "REFUGEES AND EXPATRIATES",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-09-10T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By John Kifner, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "Kifner",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/8a8897b5-fa46-5a1b-a8d1-4f121b5537ec",
+    "word_count": 780,
+    "uri": "nyt://article/8a8897b5-fa46-5a1b-a8d1-4f121b5537ec"
+  },
+  {
+    "abstract": "    Bangladesh President Quits       As protests intensified, President H. M. Ershad resigned and asked the opposition to name an interim leader until elections next year. Page A7.       A New Daily News      Trying to regain circulation, The Daily News tried a new tack: It printed an afternoon edition called \"PM Edition.\" Page B1.       New Rules for Blood Donors       The Government will stop banning blood donations by Haitians and will ask new AIDS-related questions of all prospective donors. Page A24.       'Catholic-Bashing' Charged       John Cardinal O'Connor has reacted with unusual vehemence against a German theologian's new book about women and sexuality. Page C19.      Kasparov Wins a Marathon      Gary Kasparov beat Anatoly Karpov in 102 moves, perhaps the longest victory ever in World Championship chess. He leads 8 1/2 to 7 1/2. Page B4.",
+    "web_url": "https://www.nytimes.com/1990/12/05/nyregion/inside-239011.html",
+    "snippet": "",
+    "lead_paragraph": "Bangladesh President Quits",
+    "print_section": "A",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "INSIDE",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "INSIDE",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "NO INDEX TERMS",
+        "rank": 1,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-12-05T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Summary",
+    "_id": "nyt://article/63a5a7f4-30a5-5036-87bb-a8a1908001ad",
+    "word_count": 120,
+    "uri": "nyt://article/63a5a7f4-30a5-5036-87bb-a8a1908001ad"
+  },
+  {
+    "abstract": "  Bangladesh President Quits  As protests intensified, President H. M. Ershad resigned and asked the opposition to name an interim leader until elections next year. Page A7.  A New Daily News Trying to regain circulation, The Daily News tried a new tack: It printed an afternoon edition called \"PM Edition.\" Page B1.  New Rules for Blood Donors  The Government will stop banning blood donations by Haitians and will ask new AIDS-related questions of all prospective donors. Page A24.  'Catholic-Bashing' Charged  John Cardinal O'Connor has reacted with unusual vehemence against a German theologian's new book about women and sexuality. Page C19. Kasparov Wins a Marathon Gary Kasparov beat Anatoly Karpov in 102 moves, perhaps the longest victory ever in World Championship chess. He leads 8 1/2 to 7 1/2. Page B4.",
+    "web_url": "https://www.nytimes.com/1990/12/05/nyregion/inside-995790.html",
+    "snippet": "",
+    "lead_paragraph": "Bangladesh President Quits As protests intensified, President H. M. Ershad resigned and asked the opposition to name an interim leader until elections next year. Page A7. A New Daily News Trying to regain circulation, The Daily News tried a new tack: It printed an afternoon edition called \"PM Edition.\" Page B1. New Rules for Blood Donors The Government will stop banning blood donations by Haitians and will ask new AIDS-related questions of all prospective donors. Page A24. 'Catholic-Bashing' Charged John Cardinal O'Connor has reacted with unusual vehemence against a German theologian's new book about women and sexuality. Page C19. Kasparov Wins a Marathon Gary Kasparov beat Anatoly Karpov in 102 moves, perhaps the longest victory ever in World Championship chess. He leads 8 1/2 to 7 1/2. Page B4.",
+    "print_section": "A",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "INSIDE",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "INSIDE",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "NO INDEX TERMS",
+        "rank": 1,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-12-05T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Summary",
+    "_id": "nyt://article/57dc0ad0-d370-54fe-b92b-507938db0b97",
+    "word_count": 135,
+    "uri": "nyt://article/57dc0ad0-d370-54fe-b92b-507938db0b97"
+  },
+  {
+    "abstract": "LEAD: In his acclaimed novel ''The Invisible Man,'' Ralph Ellison depicted a category of human beings whose suffering was so thoroughly ignored that they, and it, might as well not have existed. Thirty-eight years later, these people remain very much with us - and still very much unseen.",
+    "web_url": "https://www.nytimes.com/1990/02/24/opinion/still-invisible-and-dying-in-harlem.html",
+    "snippet": "LEAD: In his acclaimed novel ''The Invisible Man,'' Ralph Ellison depicted a category of human beings whose suffering was so thoroughly ignored that they, and it, might as well not have existed. Thirty-eight years later, these people remain very m...",
+    "lead_paragraph": "LEAD: In his acclaimed novel ''The Invisible Man,'' Ralph Ellison depicted a category of human beings whose suffering was so thoroughly ignored that they, and it, might as well not have existed. Thirty-eight years later, these people remain very much with us - and still very much unseen.",
+    "print_section": "1",
+    "print_page": "25",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Still Invisible, and Dying, in Harlem",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Still Invisible, and Dying, in Harlem",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "HARLEM (NYC)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Konner, Melvin",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-02-24T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "byline": {
+      "original": "By Melvin Konner",
+      "person": [
+        {
+          "firstname": "Melvin",
+          "middlename": null,
+          "lastname": "Konner",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "nyt://article/b626dc16-5018-5433-b008-f0472ebcf736",
+    "word_count": 901,
+    "uri": "nyt://article/b626dc16-5018-5433-b008-f0472ebcf736"
+  },
+  {
+    "abstract": "LEAD: Asian refugees from Kuwait and Iraq continue to pour into Jordan's desert refugee camps at the rate of 10,000 a day, relief officials said today.",
+    "web_url": "https://www.nytimes.com/1990/09/05/world/confrontation-in-the-gulf-a-crisis-builds-at-jordan-sites-housing-asians.html",
+    "snippet": "",
+    "lead_paragraph": "[In Baghdad, the large-scale evacuation of Western and Japanese women and children stranded in Iraq and Kuwait resumed. Page A15.]",
+    "print_section": "A",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "  A Crisis Builds At Jordan Sites Housing Asians",
+      "kicker": "CONFRONTATION IN THE GULF",
+      "content_kicker": null,
+      "print_headline": "CONFRONTATION IN THE GULF;   A Crisis Builds At Jordan Sites Housing Asians",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Sri Lanka",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Far East, South and Southeast Asia and Pacific Areas",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Middle East",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Jordan",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Nations",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "ESSAFI, MOHAMMED",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "HASSAN, CROWN PRINCE OF JORDAN",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "AIRLIFTS",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "REFUGEES AND EXPATRIATES",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreign Aid",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-09-05T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By John F. Burns, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": "F.",
+          "lastname": "Burns",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/5505ba77-b0bc-52e5-82d4-3ef8c9195f05",
+    "word_count": 928,
+    "uri": "nyt://article/5505ba77-b0bc-52e5-82d4-3ef8c9195f05"
+  },
+  {
+    "abstract": "LEAD: The human and economic costs of the Persian Gulf crisis are coming home to the third world, whose poor nations sent hundreds of thousands of workers to clean the floors, build the offices, service the cars and doctor the sick in lands where streets seemed paved with gold.",
+    "web_url": "https://www.nytimes.com/1990/09/09/weekinreview/the-world-shocks-from-kuwait-hit-the-third-world.html",
+    "snippet": "",
+    "lead_paragraph": "More than a million Arab workers are on the run from Kuwait and Iraq, and the loss of the wages they sent home or saved for a new life will particularly affect Egypt, Jordan and the scattered Palestinians. In Kuwait, much of the bureaucracy was made up of Palestinians, while Egyptians were represented as teachers and doctors. Jordan, with few resources of its own, became an exporter of people, building an educational system that sent skilled engineers and other workers to the Gulf.",
+    "print_section": "4",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "The World;   Shocks From Kuwait Hit the Third World",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "The World;   Shocks From Kuwait Hit the Third World",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Persian Gulf",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Iraq",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Kuwait",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Middle East",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "FOREIGN LABOR",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "LABOR",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Trade and World Market",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "PRICES",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Third World and Developing Countries",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-09-09T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Week in Review Desk",
+    "section_name": "Week in Review",
+    "byline": {
+      "original": "By Barbara Crossette",
+      "person": [
+        {
+          "firstname": "Barbara",
+          "middlename": null,
+          "lastname": "Crossette",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/782ac250-214e-5962-a371-73f9a82e85a3",
+    "word_count": 1414,
+    "uri": "nyt://article/782ac250-214e-5962-a371-73f9a82e85a3"
+  },
+  {
+    "abstract": "LEAD: India said today that food and medicine must be rushed to Iraq, Kuwait and Jordan in an international aid effort supervised by the United Nations and the Red Cross to avert epidemics and starvation.",
+    "web_url": "https://www.nytimes.com/1990/09/08/world/confrontation-gulf-india-insists-gulf-refugee-aid-while-supporting-embargo.html",
+    "snippet": "",
+    "lead_paragraph": "Mr. Seth accused the West of insensitivity to the desperate condition of scores of thousands of third world refugees trapped in Jordan, Iraq and Kuwait.",
+    "print_section": "1",
+    "print_page": "6",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "  India Insists on Gulf Refugee Aid While Supporting Embargo",
+      "kicker": "CONFRONTATION IN THE GULF",
+      "content_kicker": null,
+      "print_headline": "CONFRONTATION IN THE GULF;   India Insists on Gulf Refugee Aid While Supporting Embargo",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Iraq",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Kuwait",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Middle East",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Jordan",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Nations",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "RED CROSS",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-09-08T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Sanjoy Hazarika, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Sanjoy",
+          "middlename": null,
+          "lastname": "Hazarika",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/37e502cd-a797-5e23-955b-fb87c2b9ec08",
+    "word_count": 489,
+    "uri": "nyt://article/37e502cd-a797-5e23-955b-fb87c2b9ec08"
+  },
+  {
+    "abstract": "LEAD: A desperate encampment of at least 70,000 Asian refugees from Kuwait has sprung up in the last three weeks here on a bleak desert strip on the Iraqi-Jordanian border.",
+    "web_url": "https://www.nytimes.com/1990/09/04/world/confrontation-in-the-gulf-asian-refugees-from-kuwait-wait-in-jordan-desert-camps.html",
+    "snippet": "",
+    "lead_paragraph": "''There is not enough food, there is not enough water, and just to get what there is you have to run like a dog,'' said a 35-year-old plumber named Azmirullah, who had spent eight years in Kuwait after arriving from Dhaka, the capital of Bangladesh.",
+    "print_section": "A",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Confrontation in the Gulf;   Asian Refugees From Kuwait Wait in Jordan Desert Camps",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Confrontation in the Gulf;   Asian Refugees From Kuwait Wait in Jordan Desert Camps",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Sri Lanka",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Iraq",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Thailand",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Kuwait",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Pakistan",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Middle East",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Philippines",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "FOREIGN LABOR",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hostages",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "REFUGEES AND EXPATRIATES",
+        "rank": 12,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-09-04T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By John F. Burns, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": "F.",
+          "lastname": "Burns",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/5b05527d-7181-587b-8237-6d25f92a88d2",
+    "word_count": 1318,
+    "uri": "nyt://article/5b05527d-7181-587b-8237-6d25f92a88d2"
+  },
+  {
+    "abstract": "  President Bush now has taken directly on himself the responsibility for the lives and futures of all those millions of Soviet citizens who want to leave their country. The duty now becomes his not to feed them but to free them, not to save their Government but to allow them to escape from it.   Whether Mr. Bush acknowledges it or not, that is the moral and political consequence of his decision to send $1 billion worth of food on credit to the Soviet Union without condition -- and to channel all of it directly through the faltering Government of Mikhail Gorbachev.",
+    "web_url": "https://www.nytimes.com/1990/12/14/opinion/on-my-mind-us-food-and-soviet-freedom.html",
+    "snippet": "",
+    "lead_paragraph": "President Bush now has taken directly on himself the responsibility for the lives and futures of all those millions of Soviet citizens who want to leave their country. The duty now becomes his not to feed them but to free them, not to save their Government but to allow them to escape from it.",
+    "print_section": "A",
+    "print_page": "39",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "U.S. Food and Soviet Freedom",
+      "kicker": "ON MY MIND",
+      "content_kicker": null,
+      "print_headline": "ON MY MIND; U.S. Food and Soviet Freedom",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "UNION OF SOVIET SOCIALIST REPUBLICS (USSR)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Gorbachev, Mikhail S",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Travel Restrictions",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "JEWS",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Immigration and Emigration",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreign Aid",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Freedom and Human Rights",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-12-14T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "byline": {
+      "original": "By A. M. Rosenthal",
+      "person": [
+        {
+          "firstname": "A.",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "nyt://article/3d415c94-3785-51ed-bbb6-743a90e1bf97",
+    "word_count": 760,
+    "uri": "nyt://article/3d415c94-3785-51ed-bbb6-743a90e1bf97"
+  },
+  {
+    "abstract": "LEAD: The Mayor of this drab factory town north of Tokyo is upset that some people viewed recent statements of his as racist, especially his comment that with so many dark-skinned foreigners in town, Japanese were having trouble seeing them at night.",
+    "web_url": "https://www.nytimes.com/1990/01/03/world/kawaguchi-journal-fellow-asians-yes-but-where-s-the-fellowship.html",
+    "snippet": "",
+    "lead_paragraph": "The Mayor of this drab factory town north of Tokyo is upset that some people viewed recent statements of his as racist, especially his comment that with so many dark-skinned foreigners in town, Japanese were having trouble seeing them at night.",
+    "print_section": "A",
+    "print_page": "4",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Kawaguchi Journal;   Fellow Asians, Yes, but Where's the Fellowship?",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Kawaguchi Journal;   Fellow Asians, Yes, but Where's the Fellowship?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Japan",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Pakistan",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "KAWAGUCHI (JAPAN)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Conditions and Trends",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "FOREIGN LABOR",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "LABOR",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "FOREIGN POPULATION AND FOREIGN DESCENT GROUPS",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "RACIAL RELATIONS",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "MINORITIES (ETHNIC, RACIAL, RELIGIOUS)",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Immigration and Emigration",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-01-03T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Steven R. Weisman, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": "R.",
+          "lastname": "Weisman",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/0f50a8b7-41d4-5aa4-8ce4-8a9531ef3d01",
+    "word_count": 1130,
+    "uri": "nyt://article/0f50a8b7-41d4-5aa4-8ce4-8a9531ef3d01"
+  },
+  {
+    "abstract": "LEAD: In drawing up the burden-sharing plan announced today by President Bush to help sustain United States forces in the Persian Gulf, the Administration was mindful that the American people and Congress might become impatient with a drawn-out crisis, State Department officials said.",
+    "web_url": "https://www.nytimes.com/1990/08/31/world/confrontation-in-the-gulf-in-tallying-its-gulf-costs-us-counts-impatience.html",
+    "snippet": "",
+    "lead_paragraph": "In drawing up the burden-sharing plan announced today by President Bush to help sustain United States forces in the Persian Gulf, the Administration was mindful that the American people and Congress might become impatient with a drawn-out crisis, State Department officials said.",
+    "print_section": "A",
+    "print_page": "11",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Confrontation in the Gulf;   In Tallying Its Gulf Costs, U.S. Counts Impatience",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Confrontation in the Gulf;   In Tallying Its Gulf Costs, U.S. Counts Impatience",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Egypt",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Middle East",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Jordan",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Turkey",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bush, George",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "SANCTIONS (ECONOMIC)",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "PUBLIC OPINION",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "MIDDLE EAST-INTERNATIONAL RELATIONS-US",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Finances",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Budgets and Budgeting",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreign Aid",
+        "rank": 13,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "EMBARGOES",
+        "rank": 14,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "UNITED STATES ARMAMENT AND DEFENSE",
+        "rank": 15,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-08-31T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Clifford Krauss, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Clifford",
+          "middlename": null,
+          "lastname": "Krauss",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/5ddf5e33-0827-56c8-9df0-9ff7f392718b",
+    "word_count": 770,
+    "uri": "nyt://article/5ddf5e33-0827-56c8-9df0-9ff7f392718b"
+  },
+  {
+    "abstract": "LEAD: In a gesture aimed at breaking the trade embargo, President Saddam Hussein of Iraq offered today to give oil to developing countries free of charge.",
+    "web_url": "https://www.nytimes.com/1990/09/11/world/confrontation-in-the-gulf-iraq-offers-free-oil-to-nations-that-run-embargo.html",
+    "snippet": "",
+    "lead_paragraph": "Self-Service Delivery",
+    "print_section": "A",
+    "print_page": "17",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "  Iraq Offers Free Oil to Nations That Run Embargo",
+      "kicker": "CONFRONTATION IN THE GULF",
+      "content_kicker": null,
+      "print_headline": "CONFRONTATION IN THE GULF;   Iraq Offers Free Oil to Nations That Run Embargo",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Iraq",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Great Britain",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Kuwait",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Middle East",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Nations",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Hussein, Saddam",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "SANCTIONS (ECONOMIC)",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Women",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Third World and Developing Countries",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "EMBARGOES",
+        "rank": 13,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-09-11T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Joseph B. Treaster, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Joseph",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/d6afc57f-539f-5670-84be-c1b442adf2aa",
+    "word_count": 698,
+    "uri": "nyt://article/d6afc57f-539f-5670-84be-c1b442adf2aa"
+  },
+  {
+    "abstract": "LEAD:    International    A3-21       Iraq must withdraw from Kuwait, President Bush said in a speech, reaffirming his determination to drive Iraq out. He came closer than ever to saying military force could be used if economic sanctions fail.    Page A1       News analysis: President Bush spoke to two constituencies that matter greatly to him at the moment - one vast, the other composed of a single man, far away.",
+    "web_url": "https://www.nytimes.com/1990/09/12/nyregion/news-summary-580690.html",
+    "snippet": "",
+    "lead_paragraph": "Senators question control of gulf aid A19",
+    "print_section": "A",
+    "print_page": "2",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "News Summary",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "News Summary",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "NO INDEX TERMS",
+        "rank": 1,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-09-12T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Summary",
+    "_id": "nyt://article/1ac3497a-3fd8-5d00-af0f-cbcc4d398a40",
+    "word_count": 897,
+    "uri": "nyt://article/1ac3497a-3fd8-5d00-af0f-cbcc4d398a40"
+  },
+  {
+    "abstract": "LEAD: Kjell Madsen looked out across the stony desert toward Iraq, and pondered for a moment the two questions that hang like storm clouds over the effort to assist Asian refugees fleeing to Jordan from Kuwait: How many are of the Asians are yet to come, and how long will they have to remain here, in conditions that even nomads would not envy?",
+    "web_url": "https://www.nytimes.com/1990/09/10/world/confrontation-in-the-gulf-at-jordan-desert-camp-no-end-to-the-refugees.html",
+    "snippet": "",
+    "lead_paragraph": "For the last two weeks, the relief workers, together with Jordanian officials, have struggled with mixed success to cope with conditions that have threatened to overwhelm them, creating what many involved have warned could turn into a human disaster.",
+    "print_section": "A",
+    "print_page": "10",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Confrontation in the Gulf;   At Jordan Desert Camp, No End to the Refugees",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Confrontation in the Gulf;   At Jordan Desert Camp, No End to the Refugees",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Kuwait",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Middle East",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Jordan",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "FOREIGN LABOR",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "REFUGEES AND EXPATRIATES",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-09-10T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By John F. Burns, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": "F.",
+          "lastname": "Burns",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/9249a1ae-a0ed-5481-8d70-ed579ecbc188",
+    "word_count": 969,
+    "uri": "nyt://article/9249a1ae-a0ed-5481-8d70-ed579ecbc188"
+  },
+  {
+    "abstract": "LEAD: Robert Fridman, French and therefore dapperly dressed as if for cocktails in St. Tropez, gazed past the 19th-century wooden row houses on Sylvan Terrace in Harlem and reflected on the American Condition. ''Our Manhattan friends said we were crazy to come here. I don't think New Yorkers refuse to visit Harlem because of fear,'' Mr.",
+    "web_url": "https://www.nytimes.com/1990/08/18/nyregion/about-new-york-french-palates-crave-a-taste-of-harlem-spice.html",
+    "snippet": "",
+    "lead_paragraph": "Robert Fridman, French and therefore dapperly dressed as if for cocktails in St. Tropez, gazed past the 19th-century wooden row houses on Sylvan Terrace in Harlem and reflected on the American Condition. ''Our Manhattan friends said we were crazy to come here. I don't think New Yorkers refuse to visit Harlem because of fear,'' Mr. Fridman said meditatively, ''They have a guilty conscience - they realize they have done nothing for the blacks.''",
+    "print_section": "1",
+    "print_page": "27",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "About New York;   French Palates Crave a Taste Of Harlem Spice",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "About New York;   French Palates Crave a Taste Of Harlem Spice",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "HARLEM (NYC)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "France",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Travel and Vacations",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-08-18T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": "By Alessandra Stanley",
+      "person": [
+        {
+          "firstname": "Alessandra",
+          "middlename": null,
+          "lastname": "Stanley",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/348b4cd6-4dc2-5561-8d2d-1dc56da8ac08",
+    "word_count": 837,
+    "uri": "nyt://article/348b4cd6-4dc2-5561-8d2d-1dc56da8ac08"
+  },
+  {
+    "abstract": "LEAD: While other states grapple with crime or drugs or unemployment, the Minnesota gubernatorial race this year may hinge on one question: Is Gov. Rudy Perpich an arrogant autocrat who lives in a Middle Western Taj Mahal or an offbeat populist who carries his own luggage?",
+    "web_url": "https://www.nytimes.com/1990/02/01/us/st-paul-journal-he-says-populist-but-foes-say-pasha.html",
+    "snippet": "",
+    "lead_paragraph": "While other states grapple with crime or drugs or unemployment, the Minnesota gubernatorial race this year may hinge on one question: Is Gov. Rudy Perpich an arrogant autocrat who lives in a Middle Western Taj Mahal or an offbeat populist who carries his own luggage?",
+    "print_section": "A",
+    "print_page": "16",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "St. Paul Journal;   He Says Populist but Foes Say Pasha",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "St. Paul Journal;   He Says Populist but Foes Say Pasha",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Minnesota",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "PERPICH, RUDY",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Governors (US)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-02-01T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "byline": {
+      "original": "By Isabel Wilkerson, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Isabel",
+          "middlename": null,
+          "lastname": "Wilkerson",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/0751d59e-aac7-5c52-90e6-c62e527cc78f",
+    "word_count": 866,
+    "uri": "nyt://article/0751d59e-aac7-5c52-90e6-c62e527cc78f"
+  },
+  {
+    "abstract": "  Armed with resumes, years of experience and tenuous hopes for employment, thousands of people stood for three hours or more yesterday, waiting to enter a job fair and gain the attention of receptive industry recruiters.    As a sign of the current economic climate, the event, which was held at the Roosevelt Hotel in Manhattan by a private job fair organizer called National Career Centers-USA Inc., offered a bleak snapshot of New York City's economic mood. Recent college graduates rubbed elbows with jaded longtime jobholders who had either been laid off or who feared the prospect was imminent. Along a line that snaked around four city blocks from Madison to Vanderbilt Avenues on East 45th and 46th Streets, well-dressed people carrying attache cases talked of recesssion, of months without income, of dreams scaled down. Billing the event as a minority professional recruiting center, advertisements said the focus would be on \"women, African-American, Asian, Hispanic, American Indian, over-40, veteran and disabled professionals,\" and indeed the crowd seemed diverse, although there seemed to be few people over 50 years old in attendance.",
+    "web_url": "https://www.nytimes.com/1990/11/13/nyregion/job-fair-is-bleak-portrait-of-economic-mood.html",
+    "snippet": "",
+    "lead_paragraph": "Armed with resumes, years of experience and tenuous hopes for employment, thousands of people stood for three hours or more yesterday, waiting to enter a job fair and gain the attention of receptive industry recruiters.",
+    "print_section": "B",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Job Fair Is Bleak Portrait of Economic Mood",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Job Fair Is Bleak Portrait of Economic Mood",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "NATIONAL CAREER CENTERS-USA INC",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "ROOSEVELT HOTEL",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "UNEMPLOYMENT AND JOB MARKET",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "LABOR",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Hiring and Promotion",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "MINORITIES (ETHNIC, RACIAL, RELIGIOUS)",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-11-13T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": "By Nadine Brozan",
+      "person": [
+        {
+          "firstname": "Nadine",
+          "middlename": null,
+          "lastname": "Brozan",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/c7ce8e39-7eb4-5c6f-a93a-9ac2c0c1c19d",
+    "word_count": 988,
+    "uri": "nyt://article/c7ce8e39-7eb4-5c6f-a93a-9ac2c0c1c19d"
+  },
+  {
+    "abstract": "LEAD: At a base camp in northern Saudi Arabia, the commander of Arab forces from the Persian Gulf countries is waiting for more troops to arrive before taking up defensive positions near the Kuwaiti border.",
+    "web_url": "https://www.nytimes.com/1990/09/05/world/confrontation-in-the-gulf-combined-force-in-saudi-arabia-is-light-on-arabs.html",
+    "snippet": "",
+    "lead_paragraph": "Some Arab Units Overdue",
+    "print_section": "A",
+    "print_page": "15",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Confrontation in the Gulf;   Combined Force in Saudi Arabia Is Light on Arabs",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Confrontation in the Gulf;   Combined Force in Saudi Arabia Is Light on Arabs",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Egypt",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Morocco",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Syria",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Kuwait",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Middle East",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Saudi Arabia",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Nunn, Sam",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "SHEHRI, MOHAMMED AL-",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "ARMAMENT, DEFENSE AND MILITARY FORCES",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "UNITED STATES ARMAMENT AND DEFENSE",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-09-05T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Michael R. Gordon, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Michael",
+          "middlename": "R.",
+          "lastname": "Gordon",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/e5be60f7-31ed-58ff-a0c0-db8348e94d3e",
+    "word_count": 868,
+    "uri": "nyt://article/e5be60f7-31ed-58ff-a0c0-db8348e94d3e"
+  },
+  {
+    "abstract": "LEAD: As Billy Arjan Singh, one of India's foremost conservationists and the world's leading expert on solitary big cats, says, ''While the tiger may be behind us in intellect, he's got some qualities we lack.''",
+    "web_url": "https://www.nytimes.com/1990/02/18/opinion/a-death-warrant-for-tigers.html",
+    "snippet": "LEAD: As Billy Arjan Singh, one of India's foremost conservationists and the world's leading expert on solitary big cats, says, ''While the tiger may be behind us in intellect, he's got some qualities we lack.''",
+    "lead_paragraph": "LEAD: As Billy Arjan Singh, one of India's foremost conservationists and the world's leading expert on solitary big cats, says, ''While the tiger may be behind us in intellect, he's got some qualities we lack.''",
+    "print_section": "4",
+    "print_page": "19",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "A Death Warrant for Tigers?",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A Death Warrant for Tigers?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Far East, South and Southeast Asia and Pacific Areas",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Giles, Sarah",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tigers",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Endangered and Extinct Species",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-02-18T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "byline": {
+      "original": "By Sarah Giles",
+      "person": [
+        {
+          "firstname": "Sarah",
+          "middlename": null,
+          "lastname": "Giles",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "nyt://article/54955afa-e170-57d6-b064-b7f96f4dd8bb",
+    "word_count": 902,
+    "uri": "nyt://article/54955afa-e170-57d6-b064-b7f96f4dd8bb"
+  },
+  {
+    "abstract": "LEAD: With Iraqi soldiers crushing roads under the weight of their tanks and reportedly mining public utilities and oilfields, how quickly would Kuwait be able to rebuild its economy if it is liberated?",
+    "web_url": "https://www.nytimes.com/1990/09/17/business/international-report-experts-tally-the-cost-of-rebuilding-kuwait.html",
+    "snippet": "",
+    "lead_paragraph": "With Iraqi soldiers crushing roads under the weight of their tanks and reportedly mining public utilities and oilfields, how quickly would Kuwait be able to rebuild its economy if it is liberated?",
+    "print_section": "D",
+    "print_page": "4",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "  Experts Tally the Cost Of Rebuilding Kuwait",
+      "kicker": "INTERNATIONAL REPORT",
+      "content_kicker": null,
+      "print_headline": "INTERNATIONAL REPORT;   Experts Tally the Cost Of Rebuilding Kuwait",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Kuwait",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Middle East",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oil (Petroleum) and Gasoline",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-09-17T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business Day",
+    "byline": {
+      "original": "By Keith Bradsher",
+      "person": [
+        {
+          "firstname": "Keith",
+          "middlename": null,
+          "lastname": "Bradsher",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/0488e0b1-798b-5cbb-8a91-582ced20ddd7",
+    "word_count": 1285,
+    "uri": "nyt://article/0488e0b1-798b-5cbb-8a91-582ced20ddd7"
+  },
+  {
+    "abstract": "LEAD: In the last week the United States crossed a threshold in confronting Iraq over its Aug. 2 invasion of Kuwait. It became more than a nation responding firmly to an international crisis; in its collective consciousness and in cold fact, it began preparing for war.",
+    "web_url": "https://www.nytimes.com/1990/08/26/weekinreview/preparing-for-the-worst-the-stuff-wars-are-made-of.html",
+    "snippet": "",
+    "lead_paragraph": "In the last week the United States crossed a threshold in confronting Iraq over its Aug. 2 invasion of Kuwait. It became more than a nation responding firmly to an international crisis; in its collective consciousness and in cold fact, it began preparing for war.",
+    "print_section": "4",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "  The Stuff Wars Are Made Of",
+      "kicker": "PREPARING FOR THE WORST",
+      "content_kicker": null,
+      "print_headline": "PREPARING FOR THE WORST;   The Stuff Wars Are Made Of",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Iraq",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Middle East",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "ARMAMENT, DEFENSE AND MILITARY FORCES",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "UNITED STATES ARMAMENT AND DEFENSE",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-08-26T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Week in Review Desk",
+    "section_name": "Week in Review",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/0cf2cfc6-ec1e-5d2f-b158-3fd4f9e25c78",
+    "word_count": 1473,
+    "uri": "nyt://article/0cf2cfc6-ec1e-5d2f-b158-3fd4f9e25c78"
+  },
+  {
+    "abstract": "LEAD: To be a woman, 40 and unmarried in a farming village of rural Pakistan is virtually to count for nothing. About all the attention a single woman can attract is negative: social ostracism and sometimes physical abuse. But here in Shah Jewna, nobody fools with Jivni.",
+    "web_url": "https://www.nytimes.com/1990/07/09/world/shah-jewna-journal-village-women-earn-respect-and-rupees-too.html",
+    "snippet": "",
+    "lead_paragraph": "To be a woman, 40 and unmarried in a farming village of rural Pakistan is virtually to count for nothing. About all the attention a single woman can attract is negative: social ostracism and sometimes physical abuse. But here in Shah Jewna, nobody fools with Jivni.",
+    "print_section": "A",
+    "print_page": "4",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Shah Jewna Journal;   Village Women Earn Respect (and Rupees, Too)",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Shah Jewna Journal;   Village Women Earn Respect (and Rupees, Too)",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Pakistan",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Women",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-07-09T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Barbara Crossette, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Barbara",
+          "middlename": null,
+          "lastname": "Crossette",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/79b1b989-7037-5da8-a090-a5e60013e7d4",
+    "word_count": 999,
+    "uri": "nyt://article/79b1b989-7037-5da8-a090-a5e60013e7d4"
+  },
+  {
+    "abstract": "LEAD: In a country like no other in South Asia, a country where icy peaks glitter in an unpolluted sky and protected pine forests still cover the mountain slopes, where rhododendrons bloom in the glens, a 34-year-old King armed with modern technology and an ancient culture is fighting to save the last Shangri",
+    "web_url": "https://www.nytimes.com/1990/06/03/world/now-tries-to-be-then-in-land-of-thunder-dragon.html",
+    "snippet": "",
+    "lead_paragraph": "In a country like no other in South Asia, a country where icy peaks glitter in an unpolluted sky and protected pine forests still cover the mountain slopes, where rhododendrons bloom in the glens, a 34-year-old King armed with modern technology and an ancient culture is fighting to save the last Shangri-La.",
+    "print_section": "1",
+    "print_page": "20",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Now Tries to Be Then in Land of Thunder Dragon",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Now Tries to Be Then in Land of Thunder Dragon",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Bhutan",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Jigme Singye Wangchuck",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Conditions and Trends",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "NYTRAVEL",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-06-03T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Barbara Crossette, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Barbara",
+          "middlename": null,
+          "lastname": "Crossette",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/bdf8d976-764c-59a4-a328-2b77be12d341",
+    "word_count": 1334,
+    "uri": "nyt://article/bdf8d976-764c-59a4-a328-2b77be12d341"
+  },
+  {
+    "abstract": "LEAD: Just down the block from the shouting boycotters, the police barricade and the embattled Korean grocery store that have become fixtures on Church Avenue in Flatbush, a man in the everyday garb of Pakistan and Afghanistan - long, baggy, pajama-like shalwar kamiz and sandals - looked over the merchandise in the Home Boy's Discount",
+    "web_url": "https://www.nytimes.com/1990/05/18/nyregion/in-central-brooklyn-a-branch-of-3d-world.html",
+    "snippet": "",
+    "lead_paragraph": "Just down the block from the shouting boycotters, the police barricade and the embattled Korean grocery store that have become fixtures on Church Avenue in Flatbush, a man in the everyday garb of Pakistan and Afghanistan - long, baggy, pajama-like shalwar kamiz and sandals - looked over the merchandise in the Home Boy's Discount Store the other day.",
+    "print_section": "B",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "In Central Brooklyn, a Branch of 3d World",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In Central Brooklyn, a Branch of 3d World",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Brooklyn (NYC)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Flatbush (NYC)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "SPANISH-SPEAKING GROUPS (US)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "BLACKS (IN US)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "MINORITIES (ETHNIC, RACIAL, RELIGIOUS)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Immigration and Emigration",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "MANNERS AND CUSTOMS",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Women",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "GROCERY STORES AND TRADE",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Boycotts",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Third World and Developing Countries",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 13,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Conditions and Trends",
+        "rank": 14,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "JEWS",
+        "rank": 15,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "FOREIGN POPULATION AND FOREIGN DESCENT GROUPS",
+        "rank": 16,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "GEOGRAPHIC PROFILES",
+        "rank": 17,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Asian-Americans",
+        "rank": 18,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Korean-Americans",
+        "rank": 19,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Haitian-Americans",
+        "rank": 20,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-05-18T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": "By John Kifner",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "Kifner",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/2027b5ff-c7e3-5fc6-9af8-470b55aac6c3",
+    "word_count": 1510,
+    "uri": "nyt://article/2027b5ff-c7e3-5fc6-9af8-470b55aac6c3"
+  },
+  {
+    "abstract": "LEAD: Iraq has transferred between $3 billion and $4 billion in gold bullion, foreign currencies and goods seized from Kuwaiti financial and commercial institutions to Baghdad, Arab bankers in London and the Persian Gulf region said today.",
+    "web_url": "https://www.nytimes.com/1990/08/14/world/confrontation-gulf-iraqis-are-reported-send-home-3-billion-taken-kuwaitis.html",
+    "snippet": "",
+    "lead_paragraph": "Iraq has transferred between $3 billion and $4 billion in gold bullion, foreign currencies and goods seized from Kuwaiti financial and commercial institutions to Baghdad, Arab bankers in London and the Persian Gulf region said today.",
+    "print_section": "A",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "  Iraqis Are Reported to Send Home $3 Billion Taken From Kuwaitis",
+      "kicker": "CONFRONTATION IN THE GULF",
+      "content_kicker": null,
+      "print_headline": "CONFRONTATION IN THE GULF;   Iraqis Are Reported to Send Home $3 Billion Taken From Kuwaitis",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Egypt",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Iraq",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Kuwait",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Middle East",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ships and Shipping",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "MARINE INSURANCE",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Currency",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-08-14T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Youssef M. Ibrahim, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Youssef",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/da4a32d5-31a7-5bdd-82c8-ea5f53fd0e39",
+    "word_count": 1166,
+    "uri": "nyt://article/da4a32d5-31a7-5bdd-82c8-ea5f53fd0e39"
+  },
+  {
+    "abstract": "  INTERNATIONAL A3-21    Only military force will oust Iraq from Kuwait, Defense Secretary Dick Cheney told Congress. Waiting for sanctions to work would strengthen Iraqi defenses and weaken the coalition facing Iraq, he said. Page A1    A peaceful solution worries Israel, several influential Government leaders said. They warned that Saddam Hussein should not be left with his army and weapons intact. A13    Hundreds of Iraqi children have died because of what Iraq said was a shortage of medicine caused by international sanctions, the Iraqi Health Minister said. A13    U.N. committee votes to condemn Iraqi rights violations A12    Turkey's military chief quits in dispute over the gulf crisis A13    Lebanon's Christian militia withdrew entirely from Beirut, leaving the Lebanese Army closer to its goal of reuniting Beirut for the first time in 15 years of civil war. A11 In Algiers, bananas are emblematic of economic troubles A9    A violent army mutiny in Argentina was put down by troops loyal to President Menem. About 300 rebels briefly held the Army headquarters. At least 13 people were reportedly killed, including five civilians. A1    Black Cubans say Castro fails to deliver equality A15 News analysis: The German election underscored the sense that the new Germany, reunited after 45 years, has finally returned to its place in the ranks of normal nations. A20    Economics Minister of Germany resigns unexpectedly A20    Russians would be able to own farms under a program approved by the Russian Parliament, but the plan stopped short of allowing the private sale of land between farmers. A20    Austria decides not to deport 1,200 Romanians A18    The leader of Bulgaria's main opposition party resigns A19    South Africa has imposed curfews on four black townships near Johannesburg after a new outbreak of factional violence that has claimed 71 lives since Sunday. A3    Liberia's capital is calm; workers prepare to distribute food A10    Afghanistan's provisional leaders have begun an election in areas controlled by guerrillas. The vote, which comes two years after they formed a government in exile, is being criticized as too restrictive. A3    Bangladeshi president offers concessions to opposition A6    Thai Prime Minister faces pressure for new election A16 NATIONAL A22-29, B14-16    Continental filed for bankruptcy, attributing the move to the jump in fuel prices and the cost of interest on its huge debts. The airline said its service would not be disrupted. A1    Two jets collided on a foggy runway at Detroit Metropolitan Airport, igniting a fire that destroyed one of the planes. At least 8 people were reportedly killed; 22 were injured. B16    New limits on police interrogation were imposed by the Supreme Court, which ruled that once a suspect has invoked his right to a lawyer, the police may not question him further unless the lawyer is present. A1    Miami police officers cleared in murder case, sparking riotsA23    Government workers cannot get paid for writing articles or giving speeches, even if the subject is completely unrelated to their work, a Federal ethics agency said. A24    Senator Cranston's chief fund-raiser said there was a link between political contributions and legislative action in Mr. Cranston's relationship with Charles Keating. B14    House Republicans re-elect their top leaders B14    North Carolina House is likely to get black Speaker A28    The doctor in a right-to-die case in Michigan was charged with murder for connecting a woman to a suicide device he made and watching as she pushed the button. A1    All that was missing was the quake. As the day began to slip away, residents of New Madrid, Mo., not to mention a mess of visitors, waited -- some anxiously, some merrily -- for the fulfillment of a prediction. A22    A plan to legalize riverboat gambling in some Mississippi counties has divided voters. But the idea, which officials say would lure needed development, is gaining ground. A22    Errant campus chief gets right to resume teaching A22    Group questions safety of genetically engineered hormone A29 REGIONAL B1-12    A plan to give condoms to students in New York City's high schools, even without parental consent, will be announced by Chancellor Joseph Fernandez. The plan would be the most far-reaching in the nation. A1    New York City adopts rules to spread housing projects fairly B5    After fire, squatters are told to leave building in the Bronx B2    The Voter Assistance Commission of New York City has failed to aggressively register voters, monitor the Board of Elections, or champion changes in the state's laws on voting, the commission's director said. B1    Head of state workers' union breaks off talks with Cuomo B3    The Daily News and its unions remain far apart in talks B6    Assembly Democrats avert a revolt in Trenton B8    The top contender to head the M.T.A. is the president of the Metro-NorthCommuter Railroad, Peter Stangl. He would replace Robert Kiley, who resigned last week. B1    A false report of child abuse involving a Scarsdale family has raised questions about whether the law protects innocent parents and children from unfounded charges. B1    Bus supervisor charged in sex abuse of handicapped students B3    Woman is killed as she walks into a gunfight B3    The landfill in Hempstead, L.I., is emitting a stench, caused by illegally dumped garbage. Officials say the smell is not dangerous, but residents, suffering nausea and eye irritation, are worried about their health. B1    Neediest Cases B4 BUSINESS DIGEST D1 Science Times    The monarch butterfly's epic journey is endangered C1    X-ray lasers may revolutionize computer chips C1    Chronic fatigue syndrome still puzzles doctors C1    Cell adhesion factors, immune system's traffic directors C3  Arts/Entertainment    A new musical from South Africa C15    American Indian music in concert tonight C15    Van Gogh goes unsold at auction C15    Theater: \"Nightingale\" C16    Music: A Copland appreciation C15    Word and Image:Relating the Bible and literature C19 Fashion Page B18 Obituaries B20-21    Robert Cummings, actor B20    Vladimir Dedijer, biographer of Tito B21 Sports    Baseball: Giants sign McGee and Expos sign Martinez D27    Proposal for helping young players D27    Mets close in on Coleman deal D27    Basketball: Knicks dismiss Stu Jackson D23    Football: 49ers shut down Giants, 7-3 D23    Hofstra quarterback admits to steroid use D23    Hockey: Rangers routed by Penguins D25 Editorials/Letters/Op-Ed    Editorials A30    Left behind in Germany    Albany's cutting choices    Argentina's mutineers   Topics: Who has the rights?   Letters A30    A. M. Rosenthal: A week in Jerusalem A31    Russell Baker: Fooling with faces A31   Thomas Ewald: An Iraqi hostage, on the way it was A31    Stanley Crouch: New York's rhythm, despite its blues A31",
+    "web_url": "https://www.nytimes.com/1990/12/04/nyregion/news-summary-012790.html",
+    "snippet": "",
+    "lead_paragraph": "INTERNATIONAL A3-21",
+    "print_section": "A",
+    "print_page": "2",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "NEWS SUMMARY",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "NEWS SUMMARY",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "NO INDEX TERMS",
+        "rank": 1,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-12-04T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Summary",
+    "_id": "nyt://article/0a52d19d-3cd1-566b-aaa3-a7ec4cce1b9c",
+    "word_count": 1009,
+    "uri": "nyt://article/0a52d19d-3cd1-566b-aaa3-a7ec4cce1b9c"
+  },
+  {
+    "abstract": "LEAD: Operating around the clock since the invasion of Kuwait, a small staff of Pentagon officials has served as the pivot point for the United States military deployment in the Persian Gulf, coordinating a sprawling operation involving a large-scale air and sealift, the mobilization of troops and daily revisions in battle plans.",
+    "web_url": "https://www.nytimes.com/1990/08/23/world/confrontation-in-the-gulf-planning-at-the-helm-for-troops-in-the-sand.html",
+    "snippet": "",
+    "lead_paragraph": "Operating around the clock since the invasion of Kuwait, a small staff of Pentagon officials has served as the pivot point for the United States military deployment in the Persian Gulf, coordinating a sprawling operation involving a large-scale air and sealift, the mobilization of troops and daily revisions in battle plans.",
+    "print_section": "A",
+    "print_page": "15",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Confrontation in the Gulf;   Planning at the Helm For Troops in the Sand",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Confrontation in the Gulf;   Planning at the Helm For Troops in the Sand",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "TERMS NOT AVAILABLE",
+        "rank": 1,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-08-23T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Eric Schmitt, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Eric",
+          "middlename": null,
+          "lastname": "Schmitt",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/9386d426-6c21-5bf9-91dc-37bc0271368d",
+    "word_count": 1259,
+    "uri": "nyt://article/9386d426-6c21-5bf9-91dc-37bc0271368d"
+  },
+  {
+    "abstract": "  INTERNATIONAL A3-19    More hostages left Iraq and Kuwait but only one American emerged from hiding in Kuwait to board one of the three Boeing 707's sent there for what had been described as a final evacuation effort. Page A1    News analysis: Bush was determined not to repeat mistakes A19    Security Council will meet to put more pressure on Iraq A18    France sends another 4,000 troops to the gulf A18    Keeper of Baghdad's synagogue tells of Hussein's tolerance A19    President Bush met Yitzhak Shamir to smooth over American-Israeli differences, but the meeting ended with signs of the same tensions that have recently irritated relations. A19    Editor of Dead Sea Scrolls fired because of remarks on Jews A14    Is Lebanon on its way to recovery? After 15 years of civil war that left 150,000 people dead, Beirut has shaken off the rule of various militias and reunited under a legitimate Government and national army. A1    Elderly citizens in the Soviet Union have taken over a vital family task: waiting in store lines and hauling shopping bags when there is some- thing to buy. \"We are the best at this,\" an old woman said. A1    South Korea held talks with Moscow that Korean officials said could lead to several billion dollars in trade, investment and aid for the Soviet Union in the next five years. A3     Baker urges the Soviet Union to speed up economic changes A9    Aleksandr Solzhenitsyn rejects Russian literary prize A10    The Communist Party of Albania, which has held uncontested power for 46 years, endorsed the creation of independent political parties and shook up its own top eschelon. A3    Hamburg Journal: A countess braves the ghosts of Prussia A4    Factional violence in Natal Province, overshadowed by a recent wave of clashes in black townships near Johannesburg, is continuing, and many people fear the strife, fueled by the new clashes, will worsen. A7    Many Bangladeshis fear civil strife after the abrupt resignation of President H. M. Ershad last week. As politicians struggle to fill the vacuum, the country appears headed toward economic and political turmoil. A15    Colombian troops reach guerrillas' base in the Andes A12 NATIONAL A20-24, B9-13    President Bush will seek a limit on the term of members of Congress, John Sununu said. Passage of such an amendment is unlikely, but Mr. Bush has thrown his support behind an idea that is popular among voters. A1    Washington at Work: A loyal and powerful White House counsel B12    A meeting of Republican governors concluded with governors saying that the party, still bruised from November's elections, had to address core economic and tax issues to avoid bigger problems in 1992. B9    Judge limits Government's infiltration of religious groups A24    Shuttle lands in good shape, but NASA says puzzles remain B12    Banks are incorrectly billing people who bought their homes with adjustable-rate mortgages because of errors in calculating interest rates, a report says. Some are paying too much; others too little. A1    F.D.I.C. will probably lose $4 billion this year D1     A banking aide to Senator Cranston testified that she did not warn him against dealing closely with Charles Keating and that she considered his demands no different from those of other constituents. B10    Insurers for small employers indicted for fraud A20    Doctors are given millions by drug companies B13    I.B.M. will build child-care centers at five locations near its offices and plants around the country. It joins an increasing number of corporations frustrated by the shortage of good child care for their employees. A20    The report of a rape struck fear on the George Washington University campus. But the day after the story appeared in a student newspaper, the source of information about the attack said she had made it up. A21    Collision in dense fog kills 15 and injures 51 in Tennessee A20    Four die as balloon crashes in downtown Columbus B12    Navajo Nation Journal: A gulf prayer is nearly silenced A20 REGIONAL B1-8    John Gotti was arrested again on Federal racketeering charges. Law-enforcement officials have three times tried and failed to convict Mr. Gotti, who they say is the reputed boss of the Gambino family. A1     The jury in the second jogger trial convicted Kevin Richardson, 16, of attempted murder and rape but convicted Kharey Wise, 18, only of sexual abuse and assault. A1    A juror says Kharey Wise's \"remorse\" helped him B6    Mel Miller and an aide were indicted on fraud charges that involved the buying and selling of co-ops in New York City. Mr. Miller, the Speaker of the State Assembly, said he intended to remain in his post. B3    New York City must cut more jobs to help close a $250 million budget gap in the current fiscal year, the Dinkins administration said. As many as 10,000 jobs would be lost. B1    The Daily News will keep publishing as long as it shows progress in overcoming the seven-week-old strike, itspublisher, James Hoge, said after a meeting of the board of The News's parent, the Tribune Company. B1 Employee unions say Cuomo is exploiting Daily News strike B8    The strike by sanitation workers is the latest shock wave from New York City's decision to more than double the price it charges private haulers to dump trash at the Fresh Kills landfill in Staten Island. B1    Man in the news: N.Y.U.'s new president, L. Jay Oliva B2    Trumps get their divorce; next question is who gets what B3    New construction at Newark Airport has been proposed by the Florio Administration. The projects, which would cost $1.7 billion, include a rail connection between the airport and Newark. B1    Ruling in New Jersey on evidence of intoxication B3    Neediest Cases B2 BUSINESS DIGEST D1 Education Page B14    The U.S. Department of Education has decided to begin prohibiting colleges and universities that receive Federal funds from offering scholarships especially for members of minorities.  A1 The Living Section    Food    Drinks for holiday tables C1    No schmaltz? No way.  C1    Eating Well C3    Microwave Cooking C4    European-style spirits C6    Living    Pay phones for the deaf C1    Metropolitan Diary C2    Store scuttles a dream C8  Arts/Entertainment    Checking in with Hunter Thompson C15    Film: \"Havana\" C15    \"The Sheltering Sky\" C15    Music: The Pop Life C14    Richard Goode in piano recital C16    Word and Image: Ismail Kadare's \"Broken April\" C21  Sports    Basketball: Knicks win first for MacLeod D21    Column: Vecsey on N.B.A. old- timers D21    Football: Parcells heading back to work D21    Hockey: Islanders edge Devils D21 Obituaries    William A. Owens, a folklorist, author and professor D18    George Peter Stavropoulos, fashion designer D19    Armand Hammer, entrepreneur D20 Editorials/Letters/Op-Ed    Editorials A22    How to put space in its place   Budget cuts: real and right   Capitalist in the Kremlin   Topics: What Regan raised   Letters A22    Flora Lewis: After five years A23    Tom Wicker: Who's a partisan?  A23    Karel Von Wolferen: Why militarism still haunts Japan A23    Monroe Price: Cityspire -- music at its peak A23",
+    "web_url": "https://www.nytimes.com/1990/12/12/nyregion/news-summary-618390.html",
+    "snippet": "",
+    "lead_paragraph": "INTERNATIONAL A3-19",
+    "print_section": "A",
+    "print_page": "2",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "NEWS SUMMARY",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "NEWS SUMMARY",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "NO INDEX TERMS",
+        "rank": 1,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-12-12T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Summary",
+    "_id": "nyt://article/c3fd49d2-62ed-5ef1-ba61-e51b560d53c0",
+    "word_count": 1084,
+    "uri": "nyt://article/c3fd49d2-62ed-5ef1-ba61-e51b560d53c0"
+  },
+  {
+    "abstract": "LEAD:    AMERICA'S ECONOMIC RESURGENCE    A Bold New Strategy.    By Richard Rosecrance.    230 pp. New York: Harper & Row. $22.50.",
+    "web_url": "https://www.nytimes.com/1990/05/06/books/playing-to-our-strengths.html",
+    "snippet": "",
+    "lead_paragraph": "AMERICA'S ECONOMIC RESURGENCE",
+    "print_section": "7",
+    "print_page": "15",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "PLAYING TO OUR STRENGTHS",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "PLAYING TO OUR STRENGTHS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Rosecrance, Richard",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "BOOK REVIEWS",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "AMERICA'A ECONOMIC RESURGENCE (BOOK)",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-05-06T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Book Review Desk",
+    "section_name": "Books",
+    "byline": {
+      "original": "By Robert Kuttner",
+      "person": [
+        {
+          "firstname": "Robert",
+          "middlename": null,
+          "lastname": "Kuttner",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "nyt://article/1ccb8efb-56b4-5b35-81a0-20cd605ae587",
+    "word_count": 1300,
+    "uri": "nyt://article/1ccb8efb-56b4-5b35-81a0-20cd605ae587"
+  },
+  {
+    "abstract": "LEAD: At a World Summit for Children, the requisite prop for every world leader was a child. They were all given the opportunity to pose for cameras hand-in-hand with a tiny, winsome constituent from their own country.",
+    "web_url": "https://www.nytimes.com/1990/10/01/world/world-summit-for-children-reporter-s-notebook-for-each-leader-there-was-child.html",
+    "snippet": "",
+    "lead_paragraph": "At a World Summit for Children, the requisite prop for every world leader was a child. They were all given the opportunity to pose for cameras hand-in-hand with a tiny, winsome constituent from their own country.",
+    "print_section": "A",
+    "print_page": "14",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "  For Each Leader There Was a Child And an Encounter With New York",
+      "kicker": "WORLD SUMMIT FOR CHILDREN: REPORTER'S NOTEBOOK",
+      "content_kicker": null,
+      "print_headline": "WORLD SUMMIT FOR CHILDREN: REPORTER'S NOTEBOOK;   For Each Leader There Was a Child And an Encounter With New York",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Nations",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bush, George",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Children and Youth",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Summit Conferences",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-10-01T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Alessandra Stanley, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Alessandra",
+          "middlename": null,
+          "lastname": "Stanley",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/e38391b8-c7bf-5a8e-b1ab-03bcf9270f34",
+    "word_count": 1295,
+    "uri": "nyt://article/e38391b8-c7bf-5a8e-b1ab-03bcf9270f34"
+  },
+  {
+    "abstract": "  While Americans elsewhere are living longer, healthier lives, residents of the inner cities inhabit islands of illness, epidemics and premature death. After decades of gradual improvement, the health of the urban poor took a turn for the worse in the late 1980's and has now reached critical condition.    Experts blame new depths of urban poverty and inadequate medical services for the situation. Struggling for day-to-day survival, people have little time for niceties like doctor's visits. Poor nutrition and overcrowded housing create ideal conditions for the spread of disease. The arrival of AIDS and crack pushed chronic hardship into crisis, shattering families and monopolizing scarce health dollars.",
+    "web_url": "https://www.nytimes.com/1990/12/24/us/health-problems-of-inner-city-poor-reaching-crisis-point.html",
+    "snippet": "",
+    "lead_paragraph": "While Americans elsewhere are living longer, healthier lives, residents of the inner cities inhabit islands of illness, epidemics and premature death. After decades of gradual improvement, the health of the urban poor took a turn for the worse in the late 1980's and has now reached critical condition.",
+    "print_section": "1",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Health Problems of Inner City Poor Reaching Crisis Point",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Health Problems of Inner City Poor Reaching Crisis Point",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Urban Areas",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-12-24T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "byline": {
+      "original": "By Elisabeth Rosenthal",
+      "person": [
+        {
+          "firstname": "Elisabeth",
+          "middlename": null,
+          "lastname": "Rosenthal",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Special Report",
+    "_id": "nyt://article/c073ea17-153c-54bd-8d83-487190d2804b",
+    "word_count": 2336,
+    "uri": "nyt://article/c073ea17-153c-54bd-8d83-487190d2804b"
+  },
+  {
+    "abstract": "LEAD: BUFFALOES THUNDER ACROSS POSTERS, POSE FOR BUMPER STICKERS and glower from coffee mugs in Frank Popper's crowded office at Rutgers University in New Jersey. There is even a sack of dried buffalo droppings. ''Genuine Virgin Buffalo Chips,'' the label reads. ''Pioneer Fertilizer and Fuel. Not for Microwave Ovens.",
+    "web_url": "https://www.nytimes.com/1990/06/24/magazine/the-poppers-and-the-plains.html",
+    "snippet": "",
+    "lead_paragraph": "BUFFALOES THUNDER ACROSS POSTERS, POSE FOR BUMPER STICKERS and glower from coffee mugs in Frank Popper's crowded office at Rutgers University in New Jersey. There is even a sack of dried buffalo droppings. ''Genuine Virgin Buffalo Chips,'' the label reads. ''Pioneer Fertilizer and Fuel. Not for Microwave Ovens. Contents Public Domain.''",
+    "print_section": "6",
+    "print_page": "24",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "The Poppers and the Plains",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "The Poppers and the Plains",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Great Plains",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "BUFFALO COMMONS (PROPOSED)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "RUTGERS, THE STATE UNIVERSITY",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "POPPER, FRANK",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "POPPER, DEBORAH",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Population",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "BUFFALOES",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "AREA PLANNING AND RENEWAL",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Parks and Other Recreation Areas",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Land Use Policies",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "National Parks, Monuments and Seashores",
+        "rank": 13,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-06-24T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Magazine Desk",
+    "section_name": "Magazine",
+    "byline": {
+      "original": "By Anne Matthews",
+      "person": [
+        {
+          "firstname": "Anne",
+          "middlename": null,
+          "lastname": "Matthews",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/0ff4ca15-4714-5d1f-a70c-f5f7a7419a33",
+    "word_count": 4512,
+    "uri": "nyt://article/0ff4ca15-4714-5d1f-a70c-f5f7a7419a33"
+  },
+  {
+    "abstract": "LEAD: To the Editor:",
+    "web_url": "https://www.nytimes.com/1990/08/30/opinion/l-in-pakistan-martial-law-waits-to-return-452190.html",
+    "snippet": "",
+    "lead_paragraph": "To the Editor:",
+    "print_section": "A",
+    "print_page": "22",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "In Pakistan, Martial Law Waits to Return",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "In Pakistan, Martial Law Waits to Return",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Pakistan",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "SHAIKH, ANWAR M",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Martial Law",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-08-30T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Letter",
+    "_id": "nyt://article/aaee476e-78e7-52bd-9206-15463e92dcd2",
+    "word_count": 376,
+    "uri": "nyt://article/aaee476e-78e7-52bd-9206-15463e92dcd2"
+  },
+  {
+    "abstract": "  To the Editor:   King James I of England quite succinctly summarized my position on the use of tobacco in 1604:   \"A custome lothesome to the Eye, hatefull to the Nose, harmfull to the Brain, dangerous to the Lungs, and in the black stinking fume thereof, nearest resembling the horrible, stigian smoke of the pit that is bottomlesse.\"",
+    "web_url": "https://www.nytimes.com/1990/10/30/opinion/l-death-by-the-pack-for-the-third-world-355790.html",
+    "snippet": "",
+    "lead_paragraph": "To the Editor:",
+    "print_section": "A",
+    "print_page": "24",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Death by the Pack for the Third World",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Death by the Pack for the Third World",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Thailand",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "GENERAL AGREEMENT ON TARIFFS AND TRADE",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "SEELY, DANIEL R",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Trade and World Market",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "ADVERTISING",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ethics",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "SMOKING",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "CIGARETTES",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "TOBACCO",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Third World and Developing Countries",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1990-10-30T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Letter",
+    "_id": "nyt://article/f0e819b4-aded-5cfc-8aa2-e89b0cf6df50",
+    "word_count": 471,
+    "uri": "nyt://article/f0e819b4-aded-5cfc-8aa2-e89b0cf6df50"
+  }
+]

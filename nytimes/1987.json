@@ -1,0 +1,3151 @@
+[
+  {
+    "abstract": "LEAD: Jainab Begum, who says her age is about 30, marched through the streets of Dhaka the other day along with 300 other flood victims demanding food and work.",
+    "web_url": "https://www.nytimes.com/1987/09/05/world/misery-rising-in-the-floods-in-bangladesh.html",
+    "snippet": "",
+    "lead_paragraph": "Jainab Begum, who says her age is about 30, marched through the streets of Dhaka the other day along with 300 other flood victims demanding food and work.",
+    "print_section": "1",
+    "print_page": "3",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Misery Rising In the Floods In Bangladesh",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Misery Rising In the Floods In Bangladesh",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Floods",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-09-05T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "Special to the New York Times",
+      "person": [
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/8898f1a4-a0c0-5121-a2e0-b6d8ab0043d6",
+    "word_count": 820,
+    "uri": "nyt://article/8898f1a4-a0c0-5121-a2e0-b6d8ab0043d6"
+  },
+  {
+    "abstract": "LEAD: Bangladesh is seeking emergency international aid for the victims of floods that have afflicted one-sixth of its 105 million people, Government officials said today.",
+    "web_url": "https://www.nytimes.com/1987/08/24/world/bangladesh-asking-flood-aid.html",
+    "snippet": "",
+    "lead_paragraph": "Bangladesh is seeking emergency international aid for the victims of floods that have afflicted one-sixth of its 105 million people, Government officials said today.",
+    "print_section": "A",
+    "print_page": "8",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Bangladesh Asking Flood Aid",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Bangladesh Asking Flood Aid",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreign Aid",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Floods",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-08-24T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "Reuters",
+      "person": [],
+      "organization": "Reuters"
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/2f20cf61-32df-5668-9781-2e65c673aaa7",
+    "word_count": 247,
+    "uri": "nyt://article/2f20cf61-32df-5668-9781-2e65c673aaa7"
+  },
+  {
+    "abstract": "LEAD: Rainstorms that lashed the Bay of Bengal earlier this week killed at least 200 people, the authorities said today, and unofficial reports said as many as 3,000 were missing.",
+    "web_url": "https://www.nytimes.com/1987/08/29/world/bangladesh-storms-kill-200-in-week-3000-are-missing.html",
+    "snippet": "",
+    "lead_paragraph": "Rainstorms that lashed the Bay of Bengal earlier this week killed at least 200 people, the authorities said today, and unofficial reports said as many as 3,000 were missing.",
+    "print_section": "1",
+    "print_page": "32",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Bangladesh Storms Kill 200 in Week; 3,000 Are Missing",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Bangladesh Storms Kill 200 in Week; 3,000 Are Missing",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Weather",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Rain",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Floods",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-08-29T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "AP",
+      "person": [],
+      "organization": "AP"
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/71e16024-d274-5d66-8751-7d8104f8c2ec",
+    "word_count": 401,
+    "uri": "nyt://article/71e16024-d274-5d66-8751-7d8104f8c2ec"
+  },
+  {
+    "abstract": "LEAD: The United States agreed today to send $1.5 million worth of wheat seed to Bangladesh to replace seed washed away by recent flooding. The United States has also given a $25,000 emergency grant and has donated $15 million worth of rice, the Agency for International Development announced. Floods in Bangladesh in July and August killed 700 people, created hardship for 23 million others, polluted water supplies, and destroyed more than two million acres of farm land, the agency said.",
+    "web_url": "https://www.nytimes.com/1987/09/26/world/bangladesh-getting-us-aid.html",
+    "snippet": "",
+    "lead_paragraph": "The United States agreed today to send $1.5 million worth of wheat seed to Bangladesh to replace seed washed away by recent flooding. The United States has also given a $25,000 emergency grant and has donated $15 million worth of rice, the Agency for International Development announced. Floods in Bangladesh in July and August killed 700 people, created hardship for 23 million others, polluted water supplies, and destroyed more than two million acres of farm land, the agency said.",
+    "print_section": "1",
+    "print_page": "49",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Bangladesh Getting U.S. Aid",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Bangladesh Getting U.S. Aid",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Grain",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreign Aid",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-09-26T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "AP",
+      "person": [],
+      "organization": "AP"
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/1fecb2b7-23ae-5d5c-a11f-35ce613f80ea",
+    "word_count": 162,
+    "uri": "nyt://article/1fecb2b7-23ae-5d5c-a11f-35ce613f80ea"
+  },
+  {
+    "abstract": "LEAD: When the tide comes in, life pauses on the little silt islands that dot the great river delta of Bangladesh, and for miles around it seems that herds of cattle are standing up to their knees in the Bay of Bengal.",
+    "web_url": "https://www.nytimes.com/1987/06/21/world/life-in-bangladesh-delta-on-the-edge-of-disaster.html",
+    "snippet": "",
+    "lead_paragraph": "When the tide comes in, life pauses on the little silt islands that dot the great river delta of Bangladesh, and for miles around it seems that herds of cattle are standing up to their knees in the Bay of Bengal.",
+    "print_section": "1",
+    "print_page": "8",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Life in Bangladesh Delta: On the Edge of Disaster",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Life in Bangladesh Delta: On the Edge of Disaster",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Ganges River",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "BRAHMAPUTRA RIVER",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "AGRICULTURE",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Weather",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Cyclones",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-06-21T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Seth Mydans, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Seth",
+          "middlename": null,
+          "lastname": "Mydans",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/bf6150bb-1ba4-5646-9b34-51113c4a6b6e",
+    "word_count": 1849,
+    "uri": "nyt://article/bf6150bb-1ba4-5646-9b34-51113c4a6b6e"
+  },
+  {
+    "abstract": "LEAD: Bangladesh outlawed public demonstrations in the capital today and said more than 1,100 people had been arrested for political activities. The arrests were made to thwart a huge anti-Government protest scheduled for Tuesday.",
+    "web_url": "https://www.nytimes.com/1987/11/10/world/1100-held-as-bangladesh-bans-protest-in-capital.html",
+    "snippet": "",
+    "lead_paragraph": "Bangladesh outlawed public demonstrations in the capital today and said more than 1,100 people had been arrested for political activities. The arrests were made to thwart a huge anti-Government protest scheduled for Tuesday.",
+    "print_section": "A",
+    "print_page": "11",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "1,100 Held as Bangladesh Bans Protest in Capital",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "1,100 Held as Bangladesh Bans Protest in Capital",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Dhaka (Bangladesh)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Political Prisoners",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Demonstrations and Riots",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-11-10T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Steven R. Weisman, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": "R.",
+          "lastname": "Weisman",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/ab5fdec9-d855-5e41-90a7-2ecaabb760f3",
+    "word_count": 648,
+    "uri": "nyt://article/ab5fdec9-d855-5e41-90a7-2ecaabb760f3"
+  },
+  {
+    "abstract": "LEAD: Opposition leaders today ended a 54-hour general strike but immediately announced a new series of protests intended to keep pressure on the President, Lieut. Gen. H. M. Ershad, through next week.",
+    "web_url": "https://www.nytimes.com/1987/07/25/world/opposition-in-bangladesh-calls-an-end-to-strike.html",
+    "snippet": "",
+    "lead_paragraph": "Opposition leaders today ended a 54-hour general strike but immediately announced a new series of protests intended to keep pressure on the President, Lieut. Gen. H. M. Ershad, through next week.",
+    "print_section": "1",
+    "print_page": "4",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Opposition in Bangladesh Calls an End to Strike",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Opposition in Bangladesh Calls an End to Strike",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "ERSHAD, HUSSAIN MOHAMMED",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Demonstrations and Riots",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-07-25T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "Special to the New York Times",
+      "person": [
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/7fd72282-1dd8-5ea1-9f11-190e97fa8b19",
+    "word_count": 217,
+    "uri": "nyt://article/7fd72282-1dd8-5ea1-9f11-190e97fa8b19"
+  },
+  {
+    "abstract": "LEAD: Immediately before this week's anti-Government riots, President H. M. Ershad dropped in on some of his constituents. Among the stops was the Ninth Division headquarters of the Bangladesh Army, where he announced financing for a new mosque.",
+    "web_url": "https://www.nytimes.com/1987/11/15/world/army-seen-as-key-for-bangladesh.html",
+    "snippet": "",
+    "lead_paragraph": "Immediately before this week's anti-Government riots, President H. M. Ershad dropped in on some of his constituents. Among the stops was the Ninth Division headquarters of the Bangladesh Army, where he announced financing for a new mosque.",
+    "print_section": "1",
+    "print_page": "11",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "ARMY SEEN AS KEY FOR BANGLADESH",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "ARMY SEEN AS KEY FOR BANGLADESH",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "ERSHAD, HUSSAIN MOHAMMED",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "ARMAMENT, DEFENSE AND MILITARY FORCES",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-11-15T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Steven R. Weisman, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": "R.",
+          "lastname": "Weisman",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/5fbfdde5-1c9e-5a08-87e5-bacc94396bf8",
+    "word_count": 928,
+    "uri": "nyt://article/5fbfdde5-1c9e-5a08-87e5-bacc94396bf8"
+  },
+  {
+    "abstract": "LEAD: At least three people were shot and killed by the police here today as thousands of rioters set fire to cars and buildings, and threw bricks and homemade bombs in an attempt to force President H. M. Ershad from office.",
+    "web_url": "https://www.nytimes.com/1987/11/11/world/3-die-as-police-clash-with-protesters-in-bangladesh.html",
+    "snippet": "",
+    "lead_paragraph": "At least three people were shot and killed by the police here today as thousands of rioters set fire to cars and buildings, and threw bricks and homemade bombs in an attempt to force President H. M. Ershad from office.",
+    "print_section": "A",
+    "print_page": "3",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "3 Die as Police Clash With Protesters in Bangladesh",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "3 Die as Police Clash With Protesters in Bangladesh",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Dhaka (Bangladesh)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "ERSHAD, HUSSAIN MOHAMMED",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "BOMBS AND BOMB PLOTS",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Demonstrations and Riots",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-11-11T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Steven R. Weisman, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": "R.",
+          "lastname": "Weisman",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/c10effe4-7576-5180-91e9-83b7ef2a229a",
+    "word_count": 706,
+    "uri": "nyt://article/c10effe4-7576-5180-91e9-83b7ef2a229a"
+  },
+  {
+    "abstract": "LEAD: An American priest who has spent 35 years teaching and leading relief and development efforts in Bangladesh has been honored by the Rockefeller Brothers Foundation for ''exemplary work on behalf of the Asian people.''",
+    "web_url": "https://www.nytimes.com/1987/08/16/nyregion/priest-is-honored-for-work-in-asia.html",
+    "snippet": "",
+    "lead_paragraph": "An American priest who has spent 35 years teaching and leading relief and development efforts in Bangladesh has been honored by the Rockefeller Brothers Foundation for ''exemplary work on behalf of the Asian people.''",
+    "print_section": "1",
+    "print_page": "56",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "PRIEST IS HONORED FOR WORK IN ASIA",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "PRIEST IS HONORED FOR WORK IN ASIA",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "ROCKEFELLER BROTHERS FUND",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "HOLY CROSS FATHERS",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "JASSIN, HANS BAGUE",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "TIMM, RICHARD WILLIAM",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "HANAFIAH BIN HAJI AHMAN, DATO HAJI",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "VALYASEVI, AREE",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "YING, DIANE",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Awards, Decorations and Honors",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "MAGSAYSAY AWARD",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-08-16T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": "By Kathleen Teltsch",
+      "person": [
+        {
+          "firstname": "Kathleen",
+          "middlename": null,
+          "lastname": "Teltsch",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/edc8b181-2b56-5df4-95a7-18d617204603",
+    "word_count": 435,
+    "uri": "nyt://article/edc8b181-2b56-5df4-95a7-18d617204603"
+  },
+  {
+    "abstract": "LEAD: The government of the northeastern state of Assam is demanding that Prime Minister Rajiv Gandhi block the migration of other Indians to the area, and deport millions of immigrants from Bangladesh.",
+    "web_url": "https://www.nytimes.com/1987/09/13/world/india-s-assam-state-demanding-ban-on-migration.html",
+    "snippet": "",
+    "lead_paragraph": "The government of the northeastern state of Assam is demanding that Prime Minister Rajiv Gandhi block the migration of other Indians to the area, and deport millions of immigrants from Bangladesh.",
+    "print_section": "1",
+    "print_page": "12",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "India's Assam State Demanding Ban on Migration",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "India's Assam State Demanding Ban on Migration",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "ASSAM (INDIA)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Gandhi, Rajiv",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Immigration and Emigration",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-09-13T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Sanjoy Hazarika, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Sanjoy",
+          "middlename": null,
+          "lastname": "Hazarika",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/22cb3de5-6743-500a-a17c-54e90d58af42",
+    "word_count": 1295,
+    "uri": "nyt://article/22cb3de5-6743-500a-a17c-54e90d58af42"
+  },
+  {
+    "abstract": "LEAD: The Government placed Bangladesh's two most prominent opposition leaders under house arrest today in an attempt to stop the spread of anti-Government riots in Dhaka and elsewhere.",
+    "web_url": "https://www.nytimes.com/1987/11/12/world/two-key-opposition-leaders-in-bangladesh-seized.html",
+    "snippet": "",
+    "lead_paragraph": "The Government placed Bangladesh's two most prominent opposition leaders under house arrest today in an attempt to stop the spread of anti-Government riots in Dhaka and elsewhere.",
+    "print_section": "A",
+    "print_page": "19",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Two Key Opposition Leaders in Bangladesh Seized",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Two Key Opposition Leaders in Bangladesh Seized",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Dhaka (Bangladesh)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "WAJED, HASINA",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "ZIA RAHMAN, KHALEDA",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Demonstrations and Riots",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-11-12T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Steven R. Weisman, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": "R.",
+          "lastname": "Weisman",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/e9ae7d5d-ff6f-564e-b307-e82c24161d2d",
+    "word_count": 754,
+    "uri": "nyt://article/e9ae7d5d-ff6f-564e-b307-e82c24161d2d"
+  },
+  {
+    "abstract": "LEAD: The campaign literature reads like boilerplate out of Pravda: ''The magnificent successes of the socialist world and the happy and prosperous life of the common people prove to the international community the superiority of the socialist system. . . .'' But the enduring success of the Communist Party of West Bengal, democratically elected to rule one of India's poorest states, owes more to clever politicking than it does to the theories of Karl",
+    "web_url": "https://www.nytimes.com/1987/04/16/opinion/the-editorial-notebook-india-s-practical-communists.html",
+    "snippet": "",
+    "lead_paragraph": "The campaign literature reads like boilerplate out of Pravda: ''The magnificent successes of the socialist world and the happy and prosperous life of the common people prove to the international community the superiority of the socialist system. . . .'' But the enduring success of the Communist Party of West Bengal, democratically elected to rule one of India's poorest states, owes more to clever politicking than it does to the theories of Karl Marx.",
+    "print_section": "A",
+    "print_page": "22",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "The Editorial Notebook; India's Practical Communists",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "The Editorial Notebook; India's Practical Communists",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "West Bengal (India)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "BASU, JHOTI",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Elections",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-04-16T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "byline": {
+      "original": "By Peter Passell",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "Passell",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Editorial",
+    "_id": "nyt://article/ce543418-3371-5bb9-8807-48fff280ee49",
+    "word_count": 654,
+    "uri": "nyt://article/ce543418-3371-5bb9-8807-48fff280ee49"
+  },
+  {
+    "abstract": "LEAD: THE doors of Western Europe are slamming shut on the poor, the persecuted and the merely adventurous from Africa, Asia and the Arab world.",
+    "web_url": "https://www.nytimes.com/1987/05/10/weekinreview/europe-seeks-to-dam-a-stream-of-third-world-refugees.html",
+    "snippet": "",
+    "lead_paragraph": "THE doors of Western Europe are slamming shut on the poor, the persecuted and the merely adventurous from Africa, Asia and the Arab world.",
+    "print_section": "4",
+    "print_page": "3",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "EUROPE SEEKS TO DAM A STREAM OF THIRD WORLD REFUGEES",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "EUROPE SEEKS TO DAM A STREAM OF THIRD WORLD REFUGEES",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "EUROPE, WEST",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Asylum (Political)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Immigration and Emigration",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "REFUGEES AND EXPATRIATES",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Third World and Developing Countries",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-05-10T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Week in Review Desk",
+    "section_name": "Week in Review",
+    "byline": {
+      "original": "By James M. Markham",
+      "person": [
+        {
+          "firstname": "James",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/191d0b7e-e852-5b8f-a37f-7408e94acaac",
+    "word_count": 904,
+    "uri": "nyt://article/191d0b7e-e852-5b8f-a37f-7408e94acaac"
+  },
+  {
+    "abstract": "LEAD: Dawn broke in these parched farmlands today with gray clouds, raising a few hopes of rain. But by midmorning the sun was ablaze, once again burning farmers' hopes of relief from India's driest rainy season in decades.",
+    "web_url": "https://www.nytimes.com/1987/08/16/world/india-s-drought-is-worst-in-decades.html",
+    "snippet": "",
+    "lead_paragraph": "Dawn broke in these parched farmlands today with gray clouds, raising a few hopes of rain. But by midmorning the sun was ablaze, once again burning farmers' hopes of relief from India's driest rainy season in decades.",
+    "print_section": "1",
+    "print_page": "16",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "India's Drought Is Worst in Decades",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "India's Drought Is Worst in Decades",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drought",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Weather",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Rain",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-08-16T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Steven R. Weisman, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": "R.",
+          "lastname": "Weisman",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/a225d4eb-0e3f-53e7-9b0d-733f44313cd4",
+    "word_count": 1143,
+    "uri": "nyt://article/a225d4eb-0e3f-53e7-9b0d-733f44313cd4"
+  },
+  {
+    "abstract": "LEAD:  INTERNATIONAL/2-5  Mathias Rust was convicted in Moscow by the Soviet Supreme Court and sentenced to a four-year term in a labor camp for flying his single-engine plane across the Soviet border to the edge of Red Square. Page 1",
+    "web_url": "https://www.nytimes.com/1987/09/05/world/news-summary-saturday-september-5-1987.html",
+    "snippet": "",
+    "lead_paragraph": "INTERNATIONAL/2-5 Mathias Rust was convicted in Moscow by the Soviet Supreme Court and sentenced to a four-year term in a labor camp for flying his single-engine plane across the Soviet border to the edge of Red Square. Page 1",
+    "print_section": "1",
+    "print_page": "2",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "NEWS SUMMARY: SATURDAY, SEPTEMBER 5, 1987",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "NEWS SUMMARY: SATURDAY, SEPTEMBER 5, 1987",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "creative_works",
+        "value": "NEWS SUMMARY (NYT)",
+        "rank": 1,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-09-05T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Summary",
+    "_id": "nyt://article/54186ef8-23a2-5eab-bcf5-a6b0df021083",
+    "word_count": 1183,
+    "uri": "nyt://article/54186ef8-23a2-5eab-bcf5-a6b0df021083"
+  },
+  {
+    "abstract": "LEAD:  International A2-9",
+    "web_url": "https://www.nytimes.com/1987/08/24/nyregion/news-summary-monday-august-24-1987.html",
+    "snippet": "",
+    "lead_paragraph": "International A2-9",
+    "print_section": "A",
+    "print_page": "2",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "NEWS SUMMARY: MONDAY, AUGUST 24, 1987",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "NEWS SUMMARY: MONDAY, AUGUST 24, 1987",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 1,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-08-24T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Summary",
+    "_id": "nyt://article/d9ae9262-48d1-5d01-934d-12bbaa69ba1a",
+    "word_count": 1031,
+    "uri": "nyt://article/d9ae9262-48d1-5d01-934d-12bbaa69ba1a"
+  },
+  {
+    "abstract": "LEAD: RABEA stepped out of her dirt-floored house, stamped one bare foot on the ground and snapped a smart salute. Rabea is so poor that she cannot offer a visitor a chair or protect her children from rain leaking though her thatched roof. But she is a proud borrower at an innovative rural bank. Like nearly 300,000 other landless",
+    "web_url": "https://www.nytimes.com/1987/07/12/weekinreview/a-bank-battles-poverty.html",
+    "snippet": "",
+    "lead_paragraph": "RABEA stepped out of her dirt-floored house, stamped one bare foot on the ground and snapped a smart salute. Rabea is so poor that she cannot offer a visitor a chair or protect her children from rain leaking though her thatched roof. But she is a proud borrower at an innovative rural bank. Like nearly 300,000 other landless Bangladeshis, she has managed, without collateral, to borrow enough to start a small business and slowly advance her family's standard of living.",
+    "print_section": "4",
+    "print_page": "3",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "A Bank Battles Poverty",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A Bank Battles Poverty",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Grameen Bank",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Women",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-07-12T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Week in Review Desk",
+    "section_name": "Week in Review",
+    "byline": {
+      "original": "By Seth Mydans",
+      "person": [
+        {
+          "firstname": "Seth",
+          "middlename": null,
+          "lastname": "Mydans",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/4a5f9396-ba4d-5fd2-b1ad-8fab8df7ab45",
+    "word_count": 673,
+    "uri": "nyt://article/4a5f9396-ba4d-5fd2-b1ad-8fab8df7ab45"
+  },
+  {
+    "abstract": "LEAD: AZT was all but forgotten, an ineffective cancer drug, when the Burroughs Wellcome Company moved its North American headquarters and research laboratories in 1970 from New York's Westchester County to the Research Triangle Park near here.",
+    "web_url": "https://www.nytimes.com/1987/04/26/business/triangle-park-north-carolina-s-high-tech-payoff.html",
+    "snippet": "",
+    "lead_paragraph": "AZT was all but forgotten, an ineffective cancer drug, when the Burroughs Wellcome Company moved its North American headquarters and research laboratories in 1970 from New York's Westchester County to the Research Triangle Park near here.",
+    "print_section": "3",
+    "print_page": "12",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "TRIANGLE PARK: NORTH CAROLINA'S HIGH-TECH PAYOFF",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "TRIANGLE PARK: NORTH CAROLINA'S HIGH-TECH PAYOFF",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "RESEARCH TRIANGLE PARK (NC)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "North Carolina",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "North Carolina State University",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Duke University",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "NORTH CAROLINA, UNIVERSITY OF",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "SEMICONDUCTORS",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Biology and Biochemistry",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Science and Technology",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Genetic Engineering",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-04-26T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business Day",
+    "byline": {
+      "original": "By Thomas C. Hayes",
+      "person": [
+        {
+          "firstname": "Thomas",
+          "middlename": "C.",
+          "lastname": "Hayes",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/3a50a36a-4188-587c-92aa-4f95a81b2585",
+    "word_count": 1807,
+    "uri": "nyt://article/3a50a36a-4188-587c-92aa-4f95a81b2585"
+  },
+  {
+    "abstract": "LEAD: \nTHE HUNGER MACHINE: The Politics of Food. By Jon Bennett. Introduction and Conclusion by Susan George. (Polity Press/Basil Blackwell, Cloth, $34.95; Paper, $12.95.) In 1985, a total of $2.5 billion was raised for famine victims in Africa - while those starving countries paid back, in debt service to financial institutions, twice as much.",
+    "web_url": "https://www.nytimes.com/1987/08/23/books/in-short-nonfiction.html",
+    "snippet": "LEAD: \nTHE HUNGER MACHINE: The Politics of Food. By Jon Bennett. Introduction and Conclusion by Susan George. (Polity Press/Basil Blackwell, Cloth, $34.95; Paper, $12.95.) In 1985, a total of $2.5 billion was raised for famine victims in Africa - ...",
+    "lead_paragraph": "LEAD: THE HUNGER MACHINE: The Politics of Food. By Jon Bennett. Introduction and Conclusion by Susan George. (Polity Press/Basil Blackwell, Cloth, $34.95; Paper, $12.95.) In 1985, a total of $2.5 billion was raised for famine victims in Africa - while those starving countries paid back, in debt service to financial institutions, twice as much.",
+    "print_section": "7",
+    "print_page": "17",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "IN SHORT;\nNONFICTION",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "IN SHORT;\nNONFICTION",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "PULLMAN, PETER",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "BENNETT, JON",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "BOOK REVIEWS",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "HUNGER MACHINE, THE (BOOK)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-08-23T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Book Review Desk",
+    "section_name": "Books",
+    "subsection_name": "Book Review",
+    "byline": {
+      "original": "By Peter Pullman",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "Pullman",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "nyt://article/7b14e3d2-b72e-5c1b-9237-82416770fdde",
+    "word_count": 342,
+    "uri": "nyt://article/7b14e3d2-b72e-5c1b-9237-82416770fdde"
+  },
+  {
+    "abstract": "LEAD: Disgraced and threatened with public whipping, the lovers have turned against each other, and their stories, told in sullen monotones, are now at odds.",
+    "web_url": "https://www.nytimes.com/1987/06/15/world/dhaka-journal-stark-village-justice-must-the-lovers-be-flogged.html",
+    "snippet": "",
+    "lead_paragraph": "Disgraced and threatened with public whipping, the lovers have turned against each other, and their stories, told in sullen monotones, are now at odds.",
+    "print_section": "A",
+    "print_page": "4",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "STARK VILLAGE JUSTICE: MUST THE LOVERS BE FLOGGED?",
+      "kicker": "DHAKA JOURNAL",
+      "content_kicker": null,
+      "print_headline": "DHAKA JOURNAL; STARK VILLAGE JUSTICE: MUST THE LOVERS BE FLOGGED?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "BHOLAIL (BANGLADESH)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "TRIALS",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Women",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-06-15T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Seth Mydans, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Seth",
+          "middlename": null,
+          "lastname": "Mydans",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/2ade102a-398f-5e6f-a729-7df63c33de3a",
+    "word_count": 1161,
+    "uri": "nyt://article/2ade102a-398f-5e6f-a729-7df63c33de3a"
+  },
+  {
+    "abstract": "LEAD: In 1970, Prem Kumar Pangasa won his first garment export order of 5,000 summer dresses and shirts for Macy's, the department store.",
+    "web_url": "https://www.nytimes.com/1987/09/28/business/international-report-india-apparel-s-growth-woes.html",
+    "snippet": "",
+    "lead_paragraph": "In 1970, Prem Kumar Pangasa won his first garment export order of 5,000 summer dresses and shirts for Macy's, the department store.",
+    "print_section": "D",
+    "print_page": "9",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "India Apparel's Growth Woes",
+      "kicker": "INTERNATIONAL REPORT",
+      "content_kicker": null,
+      "print_headline": "INTERNATIONAL REPORT; India Apparel's Growth Woes",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Trade and World Market",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "DIVERSIFICATION OF BUSINESS",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Protectionism (Trade)",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "APPAREL",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-09-28T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business Day",
+    "byline": {
+      "original": "By Sanjoy Hazarika, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Sanjoy",
+          "middlename": null,
+          "lastname": "Hazarika",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/6f0ec879-a4eb-52a4-88e9-4ad190e81bf1",
+    "word_count": 1049,
+    "uri": "nyt://article/6f0ec879-a4eb-52a4-88e9-4ad190e81bf1"
+  },
+  {
+    "abstract": "LEAD: Defying the Sri Lanka Government, India sent transport planes and jet fighters over the country's northern territory today and dropped 25 tons of food and medicine by parachute into areas held by embattled insurgents.",
+    "web_url": "https://www.nytimes.com/1987/06/05/world/india-airlifts-aid-to-tamil-rebels.html",
+    "snippet": "",
+    "lead_paragraph": "Defying the Sri Lanka Government, India sent transport planes and jet fighters over the country's northern territory today and dropped 25 tons of food and medicine by parachute into areas held by embattled insurgents.",
+    "print_section": "A",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "INDIA AIRLIFTS AID TO TAMIL REBELS",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "INDIA AIRLIFTS AID TO TAMIL REBELS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "SRI LANKA, REPUBLIC OF",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Nations",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Relations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Civil War and Guerrilla Warfare",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tamils (Ethnic Group)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Medicine and Health",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreign Aid",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-06-05T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Steven R. Weisman, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": "R.",
+          "lastname": "Weisman",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/cc5ad417-36a9-5032-b14c-784202570cd8",
+    "word_count": 907,
+    "uri": "nyt://article/cc5ad417-36a9-5032-b14c-784202570cd8"
+  },
+  {
+    "abstract": "LEAD: Despite repeated international pledges to eliminate hunger in the world, the number of hungry, undernourished people now appears to be increasing at a quickening pace, according to new findings by a United Nations agency.",
+    "web_url": "https://www.nytimes.com/1987/06/28/world/world-hunger-found-still-growing.html",
+    "snippet": "",
+    "lead_paragraph": "Despite repeated international pledges to eliminate hunger in the world, the number of hungry, undernourished people now appears to be increasing at a quickening pace, according to new findings by a United Nations agency.",
+    "print_section": "1",
+    "print_page": "3",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "World Hunger Found Still Growing",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "World Hunger Found Still Growing",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "UNITED NATIONS WORLD FOOD COUNCIL",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "PRICES",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Third World and Developing Countries",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Famine",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-06-28T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Paul Lewis, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Paul",
+          "middlename": null,
+          "lastname": "Lewis",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/01cfd271-9864-5f9d-836b-f44654ecdb67",
+    "word_count": 892,
+    "uri": "nyt://article/01cfd271-9864-5f9d-836b-f44654ecdb67"
+  },
+  {
+    "abstract": "LEAD: India proposed talks with Sri Lanka here next week to resolve their bitter dispute over Indian assistance to the Tamil population in Northern Province in Sri Lanka, where the Government is fighting Tamil separatist guerrillas.",
+    "web_url": "https://www.nytimes.com/1987/06/06/world/india-seeks-talks-with-sri-lanka.html",
+    "snippet": "",
+    "lead_paragraph": "India proposed talks with Sri Lanka here next week to resolve their bitter dispute over Indian assistance to the Tamil population in Northern Province in Sri Lanka, where the Government is fighting Tamil separatist guerrillas.",
+    "print_section": "1",
+    "print_page": "4",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "INDIA SEEKS TALKS WITH SRI LANKA",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "INDIA SEEKS TALKS WITH SRI LANKA",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "SRI LANKA, REPUBLIC OF",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Relations",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Civil War and Guerrilla Warfare",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tamils (Ethnic Group)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreign Aid",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-06-06T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Sannjoy Hazarika, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Sannjoy",
+          "middlename": null,
+          "lastname": "Hazarika",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/c0b2f810-b11e-556b-bfa0-7248746b96cb",
+    "word_count": 477,
+    "uri": "nyt://article/c0b2f810-b11e-556b-bfa0-7248746b96cb"
+  },
+  {
+    "abstract": "LEAD:  International A3-15",
+    "web_url": "https://www.nytimes.com/1987/11/11/nyregion/news-summary-wednesday-november-11-1987.html",
+    "snippet": "",
+    "lead_paragraph": "International A3-15",
+    "print_section": "A",
+    "print_page": "2",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "NEWS SUMMARY: WEDNESDAY, NOVEMBER 11, 1987",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "NEWS SUMMARY: WEDNESDAY, NOVEMBER 11, 1987",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 1,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-11-11T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Summary",
+    "_id": "nyt://article/83114789-8e03-5347-b2bf-7c66c4a49614",
+    "word_count": 970,
+    "uri": "nyt://article/83114789-8e03-5347-b2bf-7c66c4a49614"
+  },
+  {
+    "abstract": "LEAD: ASIAN economies now compete with the American economy; we know that already.",
+    "web_url": "https://www.nytimes.com/1987/05/18/arts/tv-review-adam-smith-s-money-world-on-the-pacific-rim.html",
+    "snippet": "",
+    "lead_paragraph": "ASIAN economies now compete with the American economy; we know that already.",
+    "print_section": "C",
+    "print_page": "18",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "'ADAM SMITH'S MONEY WORLD' ON THE PACIFIC RIM",
+      "kicker": "TV REVIEW",
+      "content_kicker": null,
+      "print_headline": "TV REVIEW; 'ADAM SMITH'S MONEY WORLD' ON THE PACIFIC RIM",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Reviews",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Television",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "ADAM SMITH'S MONEY WORLD (TV PROGRAM)",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-05-18T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Cultural Desk",
+    "section_name": "Arts",
+    "byline": {
+      "original": "By John Corry",
+      "person": [
+        {
+          "firstname": "John",
+          "middlename": null,
+          "lastname": "Corry",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "nyt://article/e3959796-7705-54d3-98ec-5c6d14491e62",
+    "word_count": 629,
+    "uri": "nyt://article/e3959796-7705-54d3-98ec-5c6d14491e62"
+  },
+  {
+    "abstract": "LEAD: India, under international criticism for violating Sri Lankan airspace last week, offered today to discuss with Colombo any future aid to ethnic Tamils in this country, the Sri Lankan Foreign Minister said tonight.",
+    "web_url": "https://www.nytimes.com/1987/06/07/world/sri-lanka-welcomes-indian-offer-to-negotiate.html",
+    "snippet": "",
+    "lead_paragraph": "India, under international criticism for violating Sri Lankan airspace last week, offered today to discuss with Colombo any future aid to ethnic Tamils in this country, the Sri Lankan Foreign Minister said tonight.",
+    "print_section": "1",
+    "print_page": "21",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "SRI LANKA WELCOMES INDIAN OFFER TO NEGOTIATE",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "SRI LANKA WELCOMES INDIAN OFFER TO NEGOTIATE",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Jaffna (Sri Lanka)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "SRI LANKA, REPUBLIC OF",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "HAMEED, A C S",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Relations",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tamils (Ethnic Group)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreign Aid",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-06-07T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Barbara Crossette, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Barbara",
+          "middlename": null,
+          "lastname": "Crossette",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/4e57f605-ca59-50df-a751-58b5584678fa",
+    "word_count": 705,
+    "uri": "nyt://article/4e57f605-ca59-50df-a751-58b5584678fa"
+  },
+  {
+    "abstract": "LEAD: Scores of urban areas in underdeveloped countries are growing at an explosive rate that may create severe economic and social strains, according to experts gathered at the United Nations this week for a population conference.",
+    "web_url": "https://www.nytimes.com/1987/02/08/world/growth-of-cities-concerns-experts.html",
+    "snippet": "",
+    "lead_paragraph": "Scores of urban areas in underdeveloped countries are growing at an explosive rate that may create severe economic and social strains, according to experts gathered at the United Nations this week for a population conference.",
+    "print_section": "1",
+    "print_page": "15",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "GROWTH OF CITIES CONCERNS EXPERTS",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "GROWTH OF CITIES CONCERNS EXPERTS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "United Nations",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Third World and Developing Countries",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Urban Areas",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-02-08T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "Special to the New York Times",
+      "person": [
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/dc6ff0a1-540c-5e5e-bd01-e90feff4f51c",
+    "word_count": 740,
+    "uri": "nyt://article/dc6ff0a1-540c-5e5e-bd01-e90feff4f51c"
+  },
+  {
+    "abstract": "LEAD: India announced today that it would send a convoy of unarmed ships to northern Sri Lanka on Wednesday to provide ''humanitarian assistance'' to ethnic Tamils besieged by a weeklong offensive by Government forces.",
+    "web_url": "https://www.nytimes.com/1987/06/02/world/indians-to-send-convoy-to-sri-lanka.html",
+    "snippet": "",
+    "lead_paragraph": "India announced today that it would send a convoy of unarmed ships to northern Sri Lanka on Wednesday to provide ''humanitarian assistance'' to ethnic Tamils besieged by a weeklong offensive by Government forces.",
+    "print_section": "A",
+    "print_page": "8",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "INDIANS TO SEND CONVOY TO SRI LANKA",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "INDIANS TO SEND CONVOY TO SRI LANKA",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "SRI LANKA, REPUBLIC OF",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ships and Shipping",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Relations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tamils (Ethnic Group)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreign Aid",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-06-02T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Steven R. Weisman, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": "R.",
+          "lastname": "Weisman",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/240e0830-4384-5daa-b5cd-0f79442b2160",
+    "word_count": 733,
+    "uri": "nyt://article/240e0830-4384-5daa-b5cd-0f79442b2160"
+  },
+  {
+    "abstract": "LEAD: It's hard to imagine officials of the Immigration and Naturalization Service as devotees of the French surrealist Jean-Paul Sartre. Yet a jail they have established in a luxury hotel at Kennedy Airport so closely resembles Sartre's vision of hell in his play ''No Exit'' - perpetual and unrelieved confinement in a small room with three strangers - that one is hard-pressed to avoid such a conclusion.",
+    "web_url": "https://www.nytimes.com/1987/09/23/opinion/a-hotel-jail-for-refugees.html",
+    "snippet": "",
+    "lead_paragraph": "It's hard to imagine officials of the Immigration and Naturalization Service as devotees of the French surrealist Jean-Paul Sartre. Yet a jail they have established in a luxury hotel at Kennedy Airport so closely resembles Sartre's vision of hell in his play ''No Exit'' - perpetual and unrelieved confinement in a small room with three strangers - that one is hard-pressed to avoid such a conclusion.",
+    "print_section": "A",
+    "print_page": "31",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "A Hotel-Jail for Refugees",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A Hotel-Jail for Refugees",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "New York City",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "KENNEDY, JOHN F, INTERNATIONAL AIRPORT",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "IMMIGRATION AND NATURALIZATION SERVICE",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "ILLEGAL ALIENS",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Immigration and Emigration",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-09-23T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "byline": {
+      "original": "By Arthur C. Helton",
+      "person": [
+        {
+          "firstname": "Arthur",
+          "middlename": "C.",
+          "lastname": "Helton",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "nyt://article/0ef8863a-bc3c-5b7c-bc85-401c0eb9105b",
+    "word_count": 799,
+    "uri": "nyt://article/0ef8863a-bc3c-5b7c-bc85-401c0eb9105b"
+  },
+  {
+    "abstract": "LEAD:  INTERNATIONAL/3-22",
+    "web_url": "https://www.nytimes.com/1987/11/15/nyregion/news-summary-sunday-november-15-1987.html",
+    "snippet": "",
+    "lead_paragraph": "INTERNATIONAL/3-22",
+    "print_section": "1",
+    "print_page": "2",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "NEWS SUMMARY: SUNDAY, NOVEMBER 15, 1987",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "NEWS SUMMARY: SUNDAY, NOVEMBER 15, 1987",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "NEWS SUMMARY (NYT COLUMN)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "NEWS SUMMARY (NYT)",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-11-15T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Summary",
+    "_id": "nyt://article/11493e25-0c3c-5337-8f0a-209b0b3046ee",
+    "word_count": 925,
+    "uri": "nyt://article/11493e25-0c3c-5337-8f0a-209b0b3046ee"
+  },
+  {
+    "abstract": "LEAD: IT was portrayed by India as a mission of mercy and by Sri Lanka as ''naked act of aggression.'' But diplomats and other experts said the air drop of aid to the ethnic Tamil minority in northern Sri Lanka last week mainly underscored India's growing aspirations to regional power status. The air drop was made after Sri Lankan naval vessels turned back a flotilla of fishing boats carrying the aid.",
+    "web_url": "https://www.nytimes.com/1987/06/07/weekinreview/india-s-aid-to-tamils-is-aggression-to-sri-lanka.html",
+    "snippet": "",
+    "lead_paragraph": "IT was portrayed by India as a mission of mercy and by Sri Lanka as ''naked act of aggression.'' But diplomats and other experts said the air drop of aid to the ethnic Tamil minority in northern Sri Lanka last week mainly underscored India's growing aspirations to regional power status. The air drop was made after Sri Lankan naval vessels turned back a flotilla of fishing boats carrying the aid. Prime Minister Rajiv Gandhi's unexpected decision to dispatch 25 tons of food and medicine, most of it to territory held by Tamil guerrillas battling for an independent nation in Sri Lanka, abruptly transformed perceptions and politics in South Asia.",
+    "print_section": "4",
+    "print_page": "3",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "INDIA'S AID TO TAMILS IS 'AGGRESSION' TO SRI LANKA",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "INDIA'S AID TO TAMILS IS 'AGGRESSION' TO SRI LANKA",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "SRI LANKA, REPUBLIC OF",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Gandhi, Rajiv",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Relations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "INDEPENDENCE MOVEMENTS",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Civil War and Guerrilla Warfare",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Politics and Government",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tamils (Ethnic Group)",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-06-07T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Week in Review Desk",
+    "section_name": "Week in Review",
+    "byline": {
+      "original": "By Steven R. Weisman",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": "R.",
+          "lastname": "Weisman",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/ae0b3643-f953-51f1-8440-fa2d85a1f66c",
+    "word_count": 868,
+    "uri": "nyt://article/ae0b3643-f953-51f1-8440-fa2d85a1f66c"
+  },
+  {
+    "abstract": "LEAD:  International A3-12",
+    "web_url": "https://www.nytimes.com/1987/11/13/nyregion/news-summary-friday-november-13-1987.html",
+    "snippet": "",
+    "lead_paragraph": "International A3-12",
+    "print_section": "A",
+    "print_page": "2",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "NEWS SUMMARY: FRIDAY, NOVEMBER 13, 1987",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "NEWS SUMMARY: FRIDAY, NOVEMBER 13, 1987",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 1,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-11-13T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Summary",
+    "_id": "nyt://article/e8757cc0-c82c-53f6-94ef-9aae0311d368",
+    "word_count": 1049,
+    "uri": "nyt://article/e8757cc0-c82c-53f6-94ef-9aae0311d368"
+  },
+  {
+    "abstract": "LEAD:  International A2-6  U.S. ability to detect mines and destroy them in the Persian Gulf will be increased, Defense Secretary Caspar W. Weinberger said. The United States is capable of retaliating against whatever side laid the mines, he said. Page A1",
+    "web_url": "https://www.nytimes.com/1987/07/27/nyregion/news-summary-monday-july-27-1987.html",
+    "snippet": "",
+    "lead_paragraph": "International A2-6 U.S. ability to detect mines and destroy them in the Persian Gulf will be increased, Defense Secretary Caspar W. Weinberger said. The United States is capable of retaliating against whatever side laid the mines, he said. Page A1",
+    "print_section": "A",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "NEWS SUMMARY: MONDAY, JULY 27, 1987",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "NEWS SUMMARY: MONDAY, JULY 27, 1987",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 1,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-07-27T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Summary",
+    "_id": "nyt://article/42b4026f-8c2c-51c9-a91d-7be1940c23e3",
+    "word_count": 1062,
+    "uri": "nyt://article/42b4026f-8c2c-51c9-a91d-7be1940c23e3"
+  },
+  {
+    "abstract": "LEAD: International health experts here began a campaign today to conquer a third-world health problem that has been largely overcome in the West: the death of women in childbirth.",
+    "web_url": "https://www.nytimes.com/1987/02/14/world/third-world-concern-deaths-during-childbirth.html",
+    "snippet": "",
+    "lead_paragraph": "International health experts here began a campaign today to conquer a third-world health problem that has been largely overcome in the West: the death of women in childbirth.",
+    "print_section": "1",
+    "print_page": "5",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "THIRD-WORLD CONCERN: DEATHS DURING CHILDBIRTH",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "THIRD-WORLD CONCERN: DEATHS DURING CHILDBIRTH",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "World Health Organization",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "International Bank for Reconstruction and Development",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "CONABLE, BARBER B JR",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Pregnancy and Obstetrics",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreign Aid",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Third World and Developing Countries",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-02-14T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By James Brooke, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "James",
+          "middlename": null,
+          "lastname": "Brooke",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/f018ca4e-14d3-556a-a4ed-3f4154e867a0",
+    "word_count": 978,
+    "uri": "nyt://article/f018ca4e-14d3-556a-a4ed-3f4154e867a0"
+  },
+  {
+    "abstract": "LEAD:  International A3-21",
+    "web_url": "https://www.nytimes.com/1987/11/12/nyregion/news-summary-thursday-november-12-1987.html",
+    "snippet": "",
+    "lead_paragraph": "International A3-21",
+    "print_section": "A",
+    "print_page": "2",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "NEWS SUMMARY: THURSDAY, NOVEMBER 12, 1987",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "NEWS SUMMARY: THURSDAY, NOVEMBER 12, 1987",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 1,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-11-12T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Summary",
+    "_id": "nyt://article/b0567567-556e-573d-9215-ad3f7f285142",
+    "word_count": 1017,
+    "uri": "nyt://article/b0567567-556e-573d-9215-ad3f7f285142"
+  },
+  {
+    "abstract": "LEAD:  INTERNATIONAL 3-7, 28  A Nicaraguan cease-fire plan was presented by that country's president. It would oblige Managua's rebel opponents to surrender their weapons after one month and accept a political amnesty. Page 1  News analysis: Boris Yeltsin's ouster has raised questions about the Soviet leader as he prepares for his first visit to the United States.",
+    "web_url": "https://www.nytimes.com/1987/11/14/nyregion/news-summary-saturday-november-14-1987.html",
+    "snippet": "",
+    "lead_paragraph": "INTERNATIONAL 3-7, 28 A Nicaraguan cease-fire plan was presented by that country's president. It would oblige Managua's rebel opponents to surrender their weapons after one month and accept a political amnesty. Page 1 News analysis: Boris Yeltsin's ouster has raised questions about the Soviet leader as he prepares for his first visit to the United States. Mr. Yelstin was once regarded as one of Mikhail S. Gorbachev's closest political supporters. 1 U.S. policy toward Moscow will not be influenced by internal maneuvering in the Soviet leadership, officials said. They are emphatic that it would be a mistake to tailor policy to try to bolster the Soviet leader. 6 Tariffs against imports from Brazil totaling more than $100 million will be imposed, President Reagan said. The punitive action is aimed at a Brazilian requirement effectively barring foreign participation in their computer market. 1 West German and French leaders concluded a two-day meeting with agreements to jointly develop a combat helicopter and to set up joint councils on military and economic policy. 3 In the Iran-Contra investigation, seven House Democrats on the Con-gressional committees will attach a statement to the panels' report disagreeing with its conclusion that theWhite House was fully cooperative with the inquiry. 3 Iraq restored relations with Egypt, the official Iraqi press agency reported. The agency said both countries would nominate ambassadors immediately. Links were severed after Egypt signed a peace treaty with Israel in 1979. 7 Arsonists and looters in Bangladesh will be shot on sight, President H. Ershad declared after days of sporadic unrest in several cities. ''We are not going to tolerate any more of this nonsense,'' he said. 28 U.N. body calls for widening of test ban treaty 3 Buenos Aires journal: Timerman in strange lands 4 Chinese dissident said to die in jail 5 Alexandria recovering its Arab soul 7 NATIONAL 8-9, 35-36 Consumers are still spending freely, seemingly unworried by the stock-market plunge that began in mid-October, the Government's monthly report on retail sales indicates. 1 Beech-Nut sold phony apple juice intended for babies from December 1981 to March 1983. The Beech-Nut Nutrition Corporation pleaded guilty yesterday to charges that it violated the Food, Drug and Cosmetic Act through the sales. 1 Scientists repaired crushed nerves connecting the extremities to the spinal cord in mammals for the first time, they reported. The research is pointing the way toward treatment of what are now intractable neurological problems. 1 Charges of parental sexual abuse are made in thousands of cases every year across all class lines. The dispute over one girl could almost be an object lesson in how convoluted such cases can become. 1 The budget talks got back on track as negotiators set aside disagreements and began to consider ways to delay the automatic spending cuts that are to take effect next Friday. 9 A compromise military budget that cuts sharply into several weapon programs was approved by Congressional negotiators. The bill sets priorities indicating which military programs will be cut, but it does not set a final spending total. 9 A partisan fight in Florida is deepening. The state Legislature and the Governor continue to be mired in a battle over the state's 5 percent tax on services and bogged down even more on medical malpractice insurance. 35 George Bush and Pat Robertson prepared for a showdown in a straw poll of Florida Republicans by staking out positions designed to minimize possible setbacks. About 2,500 delegates will vote at the state Republican convention. 35 Reagan papers find a home 8 Exclusionary club may pose problems for Judge Kennedy 8 Ginsburg role in cable television case under scrutiny 9 Escape tests set on space shuttle 9 Coal miners open labor talks 9 Shake-up expected in Dole campaign 35 Dupont and Bush taking off gloves 35 Dukakis release personal records 35 Jackson adds 2 officials to campaign 35 REGIONAL 29-32, 34 A new state investigative agency to combat ''systemic corrupution'' and racketeering in New York City's construction business was called for by Governor Cuomo as part of a campaign to clean up the industry. 1 Leading experts on homicide are meeting for three days in Albany to swap stories, talking of knives and cyanide and killings in the night. In other words, they have been having a wonderful time. 29 The release of a homeless woman was temporarily barred by a New York State appellate court. The woman, Joyce Brown, was the first person hospitalized under a plan to remove disturbed homeless people from the streets. 29 The judge in the Joyce Brown case has long been known for his interests in housing for the poor. Acting Justice Robert D. Lippmann ruled Thursday that the homeless woman should be allowed to return to a life on the streets. 30 No damage seen to homeless plan 30 Lisa Steinberg's violent death has left parents of her schoolmates with differences over the questions it raised. The parents have struggled to find ways to explain the girl's death to their children. 29 A radar search for a bed of a brook was conducted in Washington Square Park by two geology professors and a graduate student. By using the radar equipment, the team could search for the underground brook without moving so much as a pebble. 29 A Connecticut woman was murdered in August after her 16-year-old daughter ''begged'' her boyfriend to do the killing and they discussed several nights on which to do it, according to an arrest warrant. 31 In the Howard Beach murder trial, an expert on the effects of drugs on human behavior testified that Michael Griffith had used cocaine too long before he died for it to have influenced his decision to run onto a highway. 31 Times Company and pressmen's union in tentative accord 31 Verdict set aside in mercury case 31 Officers and firefighters have history of ties 31",
+    "print_section": "1",
+    "print_page": "2",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "NEWS SUMMARY: SATURDAY, NOVEMBER 14, 1987",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "NEWS SUMMARY: SATURDAY, NOVEMBER 14, 1987",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "creative_works",
+        "value": "NEWS SUMMARY (NYT)",
+        "rank": 1,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-11-14T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Summary",
+    "_id": "nyt://article/7ab6ccf9-6806-5cc9-813a-5c778f747826",
+    "word_count": 1080,
+    "uri": "nyt://article/7ab6ccf9-6806-5cc9-813a-5c778f747826"
+  },
+  {
+    "abstract": "LEAD:  International A3-10",
+    "web_url": "https://www.nytimes.com/1987/06/15/nyregion/news-summary-monday-june-15-1987.html",
+    "snippet": "",
+    "lead_paragraph": "International A3-10",
+    "print_section": "A",
+    "print_page": "2",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "NEWS SUMMARY: MONDAY, JUNE 15, 1987",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "NEWS SUMMARY: MONDAY, JUNE 15, 1987",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "News and News Media",
+        "rank": 1,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-06-15T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Summary",
+    "_id": "nyt://article/0f5c0a7b-8e56-5721-8214-dd4f3498cf29",
+    "word_count": 997,
+    "uri": "nyt://article/0f5c0a7b-8e56-5721-8214-dd4f3498cf29"
+  },
+  {
+    "abstract": "LEAD:  BEYOND OUR MEANS  How America's Long Years of Debt, Deficits and Reckless Borrowing Now Threaten to Overwhelm Us. By Alfred L. Malabre Jr. 174 pp. New York: Random House. $17.95.",
+    "web_url": "https://www.nytimes.com/1987/04/12/books/debt-the-grim-reaper.html",
+    "snippet": "",
+    "lead_paragraph": "BEYOND OUR MEANS How America's Long Years of Debt, Deficits and Reckless Borrowing Now Threaten to Overwhelm Us. By Alfred L. Malabre Jr. 174 pp. New York: Random House. $17.95.",
+    "print_section": "7",
+    "print_page": "7",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "DEBT, THE GRIM REAPER",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "DEBT, THE GRIM REAPER",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "TERMS NOT AVAILABLE",
+        "rank": 1,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-04-12T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Book Review Desk",
+    "section_name": "Books",
+    "byline": {
+      "original": "ADAM SMITH",
+      "person": [
+        {
+          "firstname": "Adam",
+          "middlename": null,
+          "lastname": "SMITH",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "nyt://article/e27e24a7-cb88-5b59-a523-309ab3967864",
+    "word_count": 1841,
+    "uri": "nyt://article/e27e24a7-cb88-5b59-a523-309ab3967864"
+  },
+  {
+    "abstract": "LEAD: The world's stock markets continued to show strength in the sixth year of the bull market, although the pace of expansion slowed. In the quarter ending Sept. 30, stock prices worldwide rose by 5.7 percent, according to figures compiled by Morgan Stanley Capital International.",
+    "web_url": "https://www.nytimes.com/1987/10/05/business/international-report-stock-exchanges-strong-in-quarter.html",
+    "snippet": "",
+    "lead_paragraph": "The world's stock markets continued to show strength in the sixth year of the bull market, although the pace of expansion slowed. In the quarter ending Sept. 30, stock prices worldwide rose by 5.7 percent, according to figures compiled by Morgan Stanley Capital International.",
+    "print_section": "D",
+    "print_page": "12",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Stock Exchanges Strong in Quarter",
+      "kicker": "INTERNATIONAL REPORT",
+      "content_kicker": null,
+      "print_headline": "INTERNATIONAL REPORT; Stock Exchanges Strong in Quarter",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "STOCK EXCHANGES",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Stocks and Bonds",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "STOCK PRICES AND TRADING VOLUME",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-10-05T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business Day",
+    "byline": {
+      "original": "By Lawrence J. de Maria",
+      "person": [
+        {
+          "firstname": "Lawrence",
+          "middlename": "J.",
+          "lastname": "de Maria",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/abc385b3-4754-53c4-82a4-bbb9dda3fbdb",
+    "word_count": 2232,
+    "uri": "nyt://article/abc385b3-4754-53c4-82a4-bbb9dda3fbdb"
+  },
+  {
+    "abstract": "LEAD: Cradled in a great sling of the southern Himalayas, the ancient Buddhist kingdom of Bhutan is held separate by its formidable mountains. To east and west are Indian hill states, to the south the plains of India and to the north the bleak and merciless Chomo Lhari range, an expanse of ice and sky, is the barricade of the Himalayans shouldering the",
+    "web_url": "https://www.nytimes.com/1987/10/11/travel/amid-bhutan-s-peaks-rituals-and-temples.html",
+    "snippet": "",
+    "lead_paragraph": "Cradled in a great sling of the southern Himalayas, the ancient Buddhist kingdom of Bhutan is held separate by its formidable mountains. To east and west are Indian hill states, to the south the plains of India and to the north the bleak and merciless Chomo Lhari range, an expanse of ice and sky, is the barricade of the Himalayans shouldering the Tibetan plateau.",
+    "print_section": "10",
+    "print_page": "19",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Amid Bhutan's Peaks, Rituals And Temples",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Amid Bhutan's Peaks, Rituals And Temples",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Himalayas",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Bhutan",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Travel and Vacations",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Buddhism",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-10-11T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Travel Desk",
+    "section_name": "Travel",
+    "byline": {
+      "original": "By Moana Tregaskis",
+      "person": [
+        {
+          "firstname": "Moana",
+          "middlename": null,
+          "lastname": "Tregaskis",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/f8140b4a-45fd-5ad3-896c-0b334e2bf9df",
+    "word_count": 3803,
+    "uri": "nyt://article/f8140b4a-45fd-5ad3-896c-0b334e2bf9df"
+  },
+  {
+    "abstract": "LEAD: ARGENTINA is a lot more than Buenos Aires, its cosmopolitan capital. Its million square miles stretch from the Tropic of Capricorn almost to the Antarctic, and from the Atlantic deep into the Andes. The two-hour air journey from Buenos Aires to Salta, where the mountains meet the tropics, is a voyage into a different geography, climate and culture.",
+    "web_url": "https://www.nytimes.com/1987/11/08/travel/another-face-of-argentina.html",
+    "snippet": "",
+    "lead_paragraph": "ARGENTINA is a lot more than Buenos Aires, its cosmopolitan capital. Its million square miles stretch from the Tropic of Capricorn almost to the Antarctic, and from the Atlantic deep into the Andes. The two-hour air journey from Buenos Aires to Salta, where the mountains meet the tropics, is a voyage into a different geography, climate and culture.",
+    "print_section": "10",
+    "print_page": "23",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Another Face Of Argentina",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Another Face Of Argentina",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Salta (Argentina)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "ARGENTINA",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-11-08T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Travel Desk",
+    "section_name": "Travel",
+    "byline": {
+      "original": "By David C. Unger",
+      "person": [
+        {
+          "firstname": "David",
+          "middlename": "C.",
+          "lastname": "Unger",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/ff264743-391c-575a-be67-dbb71689c4ab",
+    "word_count": 2579,
+    "uri": "nyt://article/ff264743-391c-575a-be67-dbb71689c4ab"
+  },
+  {
+    "abstract": "LEAD: AMERICANS have always been on the move, but never have so many moved so far so fast.",
+    "web_url": "https://www.nytimes.com/1987/11/01/magazine/was-man-meant-to-fly.html",
+    "snippet": "",
+    "lead_paragraph": "AMERICANS have always been on the move, but never have so many moved so far so fast.",
+    "print_section": "6",
+    "print_page": "42",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "WAS MAN MEANT TO FLY?",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "WAS MAN MEANT TO FLY?",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "PASSENGER SERVICES",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "AIRLINES AND AIRPLANES",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Consumer Protection",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Delays (Transportation)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Regulation and Deregulation of Industry",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-11-01T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Magazine Desk",
+    "section_name": "Magazine",
+    "byline": {
+      "original": "By Morton Hunt",
+      "person": [
+        {
+          "firstname": "Morton",
+          "middlename": null,
+          "lastname": "Hunt",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/8e845f1a-2adb-5247-9206-d68a2e07b262",
+    "word_count": 3860,
+    "uri": "nyt://article/8e845f1a-2adb-5247-9206-d68a2e07b262"
+  },
+  {
+    "abstract": "LEAD: The need for population control is so critical that at the risk of belaboring the point, I would like to rebut the arguments challenging Diana Gerhardt's article.",
+    "web_url": "https://www.nytimes.com/1987/12/06/nyregion/l-population-bomb-concern-for-future-generations-092687.html",
+    "snippet": "",
+    "lead_paragraph": "The need for population control is so critical that at the risk of belaboring the point, I would like to rebut the arguments challenging Diana Gerhardt's article.",
+    "print_section": "LI",
+    "print_page": "11",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "POPULATION BOMB': CONCERN FOR FUTURE GENERATIONS",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "POPULATION BOMB': CONCERN FOR FUTURE GENERATIONS",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "KRANTZ, HELEN",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Birth Control and Family Planning",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1987-12-06T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Long Island Weekly Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Letter",
+    "_id": "nyt://article/ede79682-8829-553c-afde-c96b8660691d",
+    "word_count": 317,
+    "uri": "nyt://article/ede79682-8829-553c-afde-c96b8660691d"
+  }
+]

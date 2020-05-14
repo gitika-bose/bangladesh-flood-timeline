@@ -1,0 +1,3131 @@
+[
+  {
+    "abstract": "LEAD: As monsoon rains begin to fall again on Bangladesh, the World Bank is mobilizing an international force of scientists and aid officials to draft a comprehensive, long-term plan to save this vulnerable nation from perennial catastrophe.",
+    "web_url": "https://www.nytimes.com/1989/07/06/world/studies-seek-flood-control-in-bangladesh.html",
+    "snippet": "",
+    "lead_paragraph": "As monsoon rains begin to fall again on Bangladesh, the World Bank is mobilizing an international force of scientists and aid officials to draft a comprehensive, long-term plan to save this vulnerable nation from perennial catastrophe.",
+    "print_section": "A",
+    "print_page": "3",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Studies Seek Flood Control In Bangladesh",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Studies Seek Flood Control In Bangladesh",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Dhaka (Bangladesh)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "International Bank for Reconstruction and Development",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Weather",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Floods",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-07-06T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Barbara Crossette, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Barbara",
+          "middlename": null,
+          "lastname": "Crossette",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/d0cd47d8-8a3d-5576-9e07-adcf413a6e90",
+    "word_count": 704,
+    "uri": "nyt://article/d0cd47d8-8a3d-5576-9e07-adcf413a6e90"
+  },
+  {
+    "abstract": "LEAD: Bangladesh will be even poorer next year as economic growth slows because of flooding and a trade imbalance, the World Bank reported this week. It said the economy would grow only 1.2 percent in the fiscal year that began last July 1.",
+    "web_url": "https://www.nytimes.com/1989/03/03/business/slow-bangladesh-growth.html",
+    "snippet": "",
+    "lead_paragraph": "Bangladesh will be even poorer next year as economic growth slows because of flooding and a trade imbalance, the World Bank reported this week. It said the economy would grow only 1.2 percent in the fiscal year that began last July 1.",
+    "print_section": "D",
+    "print_page": "14",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Slow Bangladesh Growth",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Slow Bangladesh Growth",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "International Bank for Reconstruction and Development",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Forecasts",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-03-03T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business Day",
+    "byline": {
+      "original": "Reuters",
+      "person": [],
+      "organization": "Reuters"
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/7c246c78-e712-52b4-bb34-61566e91da7f",
+    "word_count": 89,
+    "uri": "nyt://article/7c246c78-e712-52b4-bb34-61566e91da7f"
+  },
+  {
+    "abstract": "LEAD: The world can expect widespread economic decline and social disruption in the 1990's unless national leaders make a serious commitment to reverse the deterioration of the earth's environmental systems, a Washington-based research group said today.",
+    "web_url": "https://www.nytimes.com/1989/02/12/world/high-cost-of-deteriorating-environment-is-charted.html",
+    "snippet": "",
+    "lead_paragraph": "The world can expect widespread economic decline and social disruption in the 1990's unless national leaders make a serious commitment to reverse the deterioration of the earth's environmental systems, a Washington-based research group said today.",
+    "print_section": "1",
+    "print_page": "4",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "High Cost of Deteriorating Environment Is Charted",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "High Cost of Deteriorating Environment Is Charted",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "TERMS NOT AVAILABLE",
+        "rank": 1,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-02-12T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "Special to the New York Times",
+      "person": [
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/970928e7-fa4b-53b4-b300-55a1314bf0f5",
+    "word_count": 575,
+    "uri": "nyt://article/970928e7-fa4b-53b4-b300-55a1314bf0f5"
+  },
+  {
+    "abstract": "LEAD: Fold back to page 24.",
+    "web_url": "https://www.nytimes.com/1989/04/09/education/as-the-world-learns-answers-to-geography-quiz.html",
+    "snippet": "",
+    "lead_paragraph": "Fold back to page 24.",
+    "print_section": "A",
+    "print_page": "4",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Answers  [ to Geography Quiz ]",
+      "kicker": "AS THE WORLD LEARNS",
+      "content_kicker": null,
+      "print_headline": "AS THE WORLD LEARNS; Answers  [ to Geography Quiz ]",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Geography",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "SPECIAL SECTIONS",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-04-09T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Education Life",
+    "section_name": "Education",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/766411bf-e591-5418-9f70-38fb77a92a18",
+    "word_count": 538,
+    "uri": "nyt://article/766411bf-e591-5418-9f70-38fb77a92a18"
+  },
+  {
+    "abstract": "LEAD: As the leaders of the seven leading industrialized democracies prepare to meet here on Friday, President Francois Mitterrand of France is pushing for the annual Group of Seven summit conference to focus on helping the world's poor nations.",
+    "web_url": "https://www.nytimes.com/1989/07/11/business/shaping-a-summit-agenda-mitterrand-and-bush-goals.html",
+    "snippet": "",
+    "lead_paragraph": "As the leaders of the seven leading industrialized democracies prepare to meet here on Friday, President Francois Mitterrand of France is pushing for the annual Group of Seven summit conference to focus on helping the world's poor nations.",
+    "print_section": "D",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Shaping a Summit Agenda: Mitterrand and Bush Goals",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Shaping a Summit Agenda: Mitterrand and Bush Goals",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "France",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Poland",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bush, George",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Mitterrand, Francois",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Summit Conferences",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Third World and Developing Countries",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Floods",
+        "rank": 11,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-07-11T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business Day",
+    "byline": {
+      "original": "By Steven Greenhouse, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Steven",
+          "middlename": null,
+          "lastname": "Greenhouse",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/9df6aef8-d55e-57bb-b39e-eb1630b3c5d8",
+    "word_count": 1245,
+    "uri": "nyt://article/9df6aef8-d55e-57bb-b39e-eb1630b3c5d8"
+  },
+  {
+    "abstract": "LEAD: A cold wave in normally tropical northern Bangladesh has killed at least 33 people in the last week, a newspaper reported today.",
+    "web_url": "https://www.nytimes.com/1989/12/29/world/33-in-northern-bangladesh-are-reported-killed-by-cold.html",
+    "snippet": "",
+    "lead_paragraph": "A cold wave in normally tropical northern Bangladesh has killed at least 33 people in the last week, a newspaper reported today.",
+    "print_section": "A",
+    "print_page": "3",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "33 in Northern Bangladesh Are Reported Killed by Cold",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "33 in Northern Bangladesh Are Reported Killed by Cold",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Weather",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-12-29T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "AP",
+      "person": [],
+      "organization": "AP"
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/f0c65d8e-93ad-5478-901c-207a4877e26e",
+    "word_count": 174,
+    "uri": "nyt://article/f0c65d8e-93ad-5478-901c-207a4877e26e"
+  },
+  {
+    "abstract": "LEAD: The earth's capacity to support a rapidly expanding population is declining ominously. So the $2.25 billion Japan is offering the third world for environmental purposes is too little and dangerously near too late.",
+    "web_url": "https://www.nytimes.com/1989/07/14/opinion/in-the-nation-reality-at-the-summit.html",
+    "snippet": "",
+    "lead_paragraph": "The earth's capacity to support a rapidly expanding population is declining ominously. So the $2.25 billion Japan is offering the third world for environmental purposes is too little and dangerously near too late.",
+    "print_section": "A",
+    "print_page": "29",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Reality at the Summit",
+      "kicker": "IN THE NATION",
+      "content_kicker": null,
+      "print_headline": "IN THE NATION; Reality at the Summit",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Japan",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Population",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Environment",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Summit Conferences",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-07-14T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "byline": {
+      "original": "By Tom Wicker",
+      "person": [
+        {
+          "firstname": "Tom",
+          "middlename": null,
+          "lastname": "Wicker",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Op-Ed",
+    "_id": "nyt://article/a6ad3fea-be13-566c-8d24-ff0919bf2ff3",
+    "word_count": 789,
+    "uri": "nyt://article/a6ad3fea-be13-566c-8d24-ff0919bf2ff3"
+  },
+  {
+    "abstract": "LEAD: LAST year's killing drought in the United States was caused by massive, naturally occurring climatic forces in the tropical Pacific Ocean and had little to do with global warming caused by the greenhouse effect, according to new evidence.",
+    "web_url": "https://www.nytimes.com/1989/01/03/science/scientists-link-88-drought-to-natural-cycle-in-tropical-pacific.html",
+    "snippet": "",
+    "lead_paragraph": "LAST year's killing drought in the United States was caused by massive, naturally occurring climatic forces in the tropical Pacific Ocean and had little to do with global warming caused by the greenhouse effect, according to new evidence.",
+    "print_section": "C",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Scientists Link '88 Drought to Natural Cycle in Tropical Pacific",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Scientists Link '88 Drought to Natural Cycle in Tropical Pacific",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Far East, South and Southeast Asia and Pacific Areas",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Pacific Ocean",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Drought",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Weather",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Greenhouse Effect",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Wind",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Floods",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-01-03T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Science Desk",
+    "section_name": "Science",
+    "byline": {
+      "original": "By William K. Stevens",
+      "person": [
+        {
+          "firstname": "William",
+          "middlename": "K.",
+          "lastname": "Stevens",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/e4d4d60e-19f1-5621-891b-bff4aee973cc",
+    "word_count": 2175,
+    "uri": "nyt://article/e4d4d60e-19f1-5621-891b-bff4aee973cc"
+  },
+  {
+    "abstract": "LEAD: To the presumed pleasure of the French host and the palpable discomfort of the Americans here, the conference of the seven mightiest democracies has opened with a political and philosophical struggle over helping the world's poorer countries.",
+    "web_url": "https://www.nytimes.com/1989/07/15/world/summit-debate-how-to-help-the-poorer-nations.html",
+    "snippet": "",
+    "lead_paragraph": "To the presumed pleasure of the French host and the palpable discomfort of the Americans here, the conference of the seven mightiest democracies has opened with a political and philosophical struggle over helping the world's poorer countries.",
+    "print_section": "1",
+    "print_page": "5",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Summit Debate: How to Help the Poorer Nations",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Summit Debate: How to Help the Poorer Nations",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Paris (France)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "France",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "Group of Seven",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Mitterrand, Francois",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Summit Conferences",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "History",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Third World and Developing Countries",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-07-15T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Peter T. Kilborn, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": "T.",
+          "lastname": "Kilborn",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "An Analysis; News Analysis",
+    "_id": "nyt://article/5cc95e6f-9d2a-5230-ab82-769cf1a1b3e9",
+    "word_count": 1000,
+    "uri": "nyt://article/5cc95e6f-9d2a-5230-ab82-769cf1a1b3e9"
+  },
+  {
+    "abstract": "LEAD: A dispute with India is forcing Nepal, one of the world's poorest and least accessible countries, to fight for its economic survival, a fight that is also testing its political stability.",
+    "web_url": "https://www.nytimes.com/1989/04/11/world/nepal-s-economy-is-gasping-as-india-a-huge-neighbor-squeezes-it-hard.html",
+    "snippet": "",
+    "lead_paragraph": "A dispute with India is forcing Nepal, one of the world's poorest and least accessible countries, to fight for its economic survival, a fight that is also testing its political stability.",
+    "print_section": "A",
+    "print_page": "12",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Nepal's Economy Is Gasping as India, a Huge Neighbor, Squeezes It Hard",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Nepal's Economy Is Gasping as India, a Huge Neighbor, Squeezes It Hard",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "CHINA, PEOPLE'S REPUBLIC OF",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Nepal",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "INDIA-INTERNATIONAL RELATIONS-NEPAL",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Relations",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Trade and World Market",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "BOUNDARIES AND TERRITORIAL ISSUES",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Treaties",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-04-11T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Barbara Crossette, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Barbara",
+          "middlename": null,
+          "lastname": "Crossette",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/46b5238f-612a-549f-bab4-672da5e10948",
+    "word_count": 1199,
+    "uri": "nyt://article/46b5238f-612a-549f-bab4-672da5e10948"
+  },
+  {
+    "abstract": "LEAD: The latest draft of the economic communique being worked out by the major industrial democracies known as the Group of Seven calls for ''decisive action'' to protect the global environment.",
+    "web_url": "https://www.nytimes.com/1989/07/16/world/nations-call-for-action-on-environment.html",
+    "snippet": "",
+    "lead_paragraph": "The latest draft of the economic communique being worked out by the major industrial democracies known as the Group of Seven calls for ''decisive action'' to protect the global environment.",
+    "print_section": "1",
+    "print_page": "17",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Nations Call for Action on Environment",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Nations Call for Action on Environment",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "Environment",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Summit Conferences",
+        "rank": 2,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-07-16T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Peter T. Kilborn, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": "T.",
+          "lastname": "Kilborn",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/ed5c222e-3c95-5767-94c4-caa9d362de18",
+    "word_count": 1147,
+    "uri": "nyt://article/ed5c222e-3c95-5767-94c4-caa9d362de18"
+  },
+  {
+    "abstract": "LEAD: ACTING out of desperation, many of the poorest people in the world are cutting down forests, razing grasslands and slowly destroying fragile ecosystems to survive, environmental researchers say.",
+    "web_url": "https://www.nytimes.com/1989/11/28/science/land-is-losing-to-the-poor-s-fight-for-short-term-survival.html",
+    "snippet": "",
+    "lead_paragraph": "ACTING out of desperation, many of the poorest people in the world are cutting down forests, razing grasslands and slowly destroying fragile ecosystems to survive, environmental researchers say.",
+    "print_section": "C",
+    "print_page": "4",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Land Is Losing to the Poor's Fight for Short-Term Survival",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Land Is Losing to the Poor's Fight for Short-Term Survival",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "International Monetary Fund",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "International Bank for Reconstruction and Development",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Social Conditions and Trends",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Environment",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Third World and Developing Countries",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-11-28T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Science Desk",
+    "section_name": "Science",
+    "byline": {
+      "original": "Special to The New York Times",
+      "person": [
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/ec6576a6-c185-5e19-a831-1dd2340aee5a",
+    "word_count": 915,
+    "uri": "nyt://article/ec6576a6-c185-5e19-a831-1dd2340aee5a"
+  },
+  {
+    "abstract": "LEAD: Two United Nations officers stood in silence in the Iraqi observation post, peering through binoculars at Iranian positions across a no man's land and a waterway.",
+    "web_url": "https://www.nytimes.com/1989/04/04/world/with-iraqi-troops-at-the-truce-line-where-legions-died-deathly-quiet.html",
+    "snippet": "",
+    "lead_paragraph": "Two United Nations officers stood in silence in the Iraqi observation post, peering through binoculars at Iranian positions across a no man's land and a waterway.",
+    "print_section": "A",
+    "print_page": "10",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "With Iraqi Troops at the Truce Line: Where Legions Died, Deathly Quiet",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "With Iraqi Troops at the Truce Line: Where Legions Died, Deathly Quiet",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Iraq",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Iran",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "FAO (IRAQ)",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Nations",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-04-04T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Paul Lewis, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Paul",
+          "middlename": null,
+          "lastname": "Lewis",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/bbde075b-1be3-5710-8caa-8bbed89802f5",
+    "word_count": 1370,
+    "uri": "nyt://article/bbde075b-1be3-5710-8caa-8bbed89802f5"
+  },
+  {
+    "abstract": "LEAD: To be globally educated is to be globally aware, an elusive notion that suggests a sense of one's geographical place in the world. But competency in geography involves more than knowing the capital of Belize (it is Belmopan). Much of what takes place on the earth's surface is the geographer's domain: climate, natural resources, industries and inhabitants of continents and countries, and more.",
+    "web_url": "https://www.nytimes.com/1989/04/09/education/as-the-world-learns-geography-quiz.html",
+    "snippet": "",
+    "lead_paragraph": "To be globally educated is to be globally aware, an elusive notion that suggests a sense of one's geographical place in the world. But competency in geography involves more than knowing the capital of Belize (it is Belmopan). Much of what takes place on the earth's surface is the geographer's domain: climate, natural resources, industries and inhabitants of continents and countries, and more. Americans are not noted for their geographical knowledge: Students repeatedly have had difficulty just naming and locating the capital of the United States. How geographically savvy are you? To find out, try your hand at this quiz, designed with the help of Donald J. Zeigler, associate professor of geography at Old Dominion University, Norfolk, Va., and president of the Virginia Geographical Society. (Answers are on page 64.)",
+    "print_section": "A",
+    "print_page": "4",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Geography Quiz",
+      "kicker": "AS THE WORLD LEARNS",
+      "content_kicker": null,
+      "print_headline": "AS THE WORLD LEARNS; Geography Quiz",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "ZIEGLER, DONALD J",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Education and Schools",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Geography",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tests and Testing",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-04-09T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Education Life",
+    "section_name": "Education",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/c132d3ff-2586-56fe-b720-f60794a66478",
+    "word_count": 1339,
+    "uri": "nyt://article/c132d3ff-2586-56fe-b720-f60794a66478"
+  },
+  {
+    "abstract": "LEAD: AS Sri Lanka and India edge toward an agreement that will send 40,000 Indian peacekeeping troops home, people on both sides of the straits that separate the two countries are counting the political costs of New Delhi's ill-fated foray into a foreign war. The conflict the Indians came to end is not over.",
+    "web_url": "https://www.nytimes.com/1989/09/17/weekinreview/the-world-india-tries-to-quit-sri-lanka-s-despair.html",
+    "snippet": "",
+    "lead_paragraph": "AS Sri Lanka and India edge toward an agreement that will send 40,000 Indian peacekeeping troops home, people on both sides of the straits that separate the two countries are counting the political costs of New Delhi's ill-fated foray into a foreign war. The conflict the Indians came to end is not over. On the contrary, the seeds of even more bitter battles have been sown.",
+    "print_section": "4",
+    "print_page": "3",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "India Tries to Quit Sri Lanka's Despair",
+      "kicker": "THE WORLD",
+      "content_kicker": null,
+      "print_headline": "THE WORLD; India Tries to Quit Sri Lanka's Despair",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "SRI LANKA, REPUBLIC OF",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "ARMAMENT, DEFENSE AND MILITARY FORCES",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Civil War and Guerrilla Warfare",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Tamils (Ethnic Group)",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "INDIA-INTERNATIONAL RELATIONS-SRI LANKA",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-09-17T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Week in Review Desk",
+    "section_name": "Week in Review",
+    "byline": {
+      "original": "By Barbara Crossette",
+      "person": [
+        {
+          "firstname": "Barbara",
+          "middlename": null,
+          "lastname": "Crossette",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/ed3138e4-6fc6-5c44-ab4e-ad71335760e0",
+    "word_count": 841,
+    "uri": "nyt://article/ed3138e4-6fc6-5c44-ab4e-ad71335760e0"
+  },
+  {
+    "abstract": "LEAD:  INTERNATIONAL A3-10  Negotiations with the Palestinians by Israel seem unlikely since Prime Minister Yitzhak Shamir agreed to be bound by hard-line conditions for conducting peace talks. Page A1  In a Mexican gubernatorial election, the Institutional Revolutionary Party has acknowledged defeat for the first time in the 60 years it has governed Mexico, ushering in a new era of competitive politics.",
+    "web_url": "https://www.nytimes.com/1989/07/06/nyregion/no-headline-581389.html",
+    "snippet": "",
+    "lead_paragraph": "INTERNATIONAL A3-10 Negotiations with the Palestinians by Israel seem unlikely since Prime Minister Yitzhak Shamir agreed to be bound by hard-line conditions for conducting peace talks. Page A1 In a Mexican gubernatorial election, the Institutional Revolutionary Party has acknowledged defeat for the first time in the 60 years it has governed Mexico, ushering in a new era of competitive politics. A1 In Paris, Mikhail S. Gorbachev said that Poles and Hungarians were free to determine their political future but predicted that Communist countries now in transition would find a new socialist quality of life. A3 To demonstrate arms control at sea, American scientists climbed atop the launching tube of a Soviet nuclear-armed cruise missile and tested its warheard. A1 Global environmental cooperation will be urged by the United States at a summit meeting next week in Paris, in an effort to take the lead on environmental issues. A9 China accused the Voice of America of lying about an incident last month in which Chinese troops opened fire on a diplomatic compound. It was the New China News Agency that accused the radio station. A8 No further steps to isolate China should be taken now, the United States and Japan have agreed. The two countries will ''wait and see'' how the Beijing authorities behave. A8 The Sandinistas' economic ability is in considerable doubt. Per-capita output has fallen by one-fourth since 1980, while average living standards have been cut by more than 60 percent, a study says. A6 To save Bangladesh from flooding, the World Bank is mobilizing an international force of scientists and aid officials to draft a comprehensive, long-term rescue plan. A3 NATIONAL A12-19, B5 Oliver L. North was fined $150,000 for his crimes in the Iran-contra affair but the Federal district judge declined to send him to prison, saying a jail term ''would only harden your misconceptions'' about service. A1 Jesse Jackson may be a candidate for Mayor of Washington and Mr. Jackson's allies are seeking ways to ease the incumbent, Marion S. Barry Jr., out of the race. A1 Domestic vehicle sales plunged 19 percent in late June, confirming recent signs that the economy has slowed. Some experts said the decline did not necessarily signal an economic downturn. D1 Severe Streptococcus infections have been detected in four western states, raising fears that some extremely dangerous forms of the bacteria may be appearing in America. A12 Athletes are going back to school. De Paul University in Chicago is one of 37 colleges that have joined in a program to persuade athletes to finish their education. A12 To enact more abortion restrictions, Gov. Bob Martinez of Florida, an ardent opponent of abortion, announced that he would call a special session of the State Legislature. A16 To protest the abortion decision by the Supreme Court, the president of the National Organization for Women announced plans for a rally in Washington at the end of October. A16 Job-seekers have invaded Valdez, lured by the high paying work of wiping rocks, hosing beaches and skimming the oil spilled off Alaska by the Exxon Valdez. A19 The dollar dropped percipitously against all major currencies, falling back below the ceilings believed set for it by the United States and its economic allies. D1 WASHINGTON TALK B5 A California Democrat, Tom Lantos, has risen from relative obscurity to prominence by conducting a series of hearings into abuses of Federal housing programs. Some question fairness of savings and loan bailout plan REGIONAL B1-5 In a signal to opponents of abortion in New York, Gov. Mario M. Cuomo said he would ''reject'' legislation limiting abortion in ways sanctioned by the Supreme Court on Monday. A1 In the trial of Leona Helmsley, her lawyer argued in remarks to the jury that his wealthy client's extravagant and abrasive personality did not make her a criminal. B1 Inlet residents in Atlantic City do not want to move now that the Casino Reinvestment Development Authority is ready to redevelop their neighborhood. B1 On the trail, Rudolph W. Giuliani has been transforming himself from a stern prosecutor into a candidate who smiles a lot, shakes hands and talks with little children. B1 A measure that will limit smoking in most public places across New York State, including restaurants, offices, and theaters, was signed into law by Gov. Mario M. Cuomo. B1 Max Kowalski, who was murdered, had emigrated from Poland to Brooklyn, where he carved out a place for himself as the unofficial Mayor of Brighton Beach. B4 A potential land-use battle began when the New York City Planning Commission heard a proposal to transfer development rights from Grand Central Terminal to a nearby site for a skyscraper. B3 Investigation of a Camden agency has caused difficulties for Representative James J. Florio, New Jersey's Democratic candidate for governor. The agency had been in trouble before. B2 Congressmen urge inquiry on L.I. housing program abuses B2",
+    "print_section": "A",
+    "print_page": "2",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "No Headline",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "No Headline",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "NO INDEX TERMS",
+        "rank": 1,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-07-06T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Summary",
+    "_id": "nyt://article/4357f3e2-15a4-564d-80a3-df8a20b4bf48",
+    "word_count": 907,
+    "uri": "nyt://article/4357f3e2-15a4-564d-80a3-df8a20b4bf48"
+  },
+  {
+    "abstract": "LEAD: PROVIDING evidence that environmentalists and Brazilian officials say could slow the pace of large-scale clearing of tropical forests, a team of scientists has found that rain forests are worth more if left standing than if cut for timber or cattle grazing.",
+    "web_url": "https://www.nytimes.com/1989/07/04/science/rain-forest-worth-more-if-uncut-study-says.html",
+    "snippet": "",
+    "lead_paragraph": "PROVIDING evidence that environmentalists and Brazilian officials say could slow the pace of large-scale clearing of tropical forests, a team of scientists has found that rain forests are worth more if left standing than if cut for timber or cattle grazing.",
+    "print_section": "1",
+    "print_page": "18",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Rain Forest Worth More if Uncut, Study Says",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Rain Forest Worth More if Uncut, Study Says",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Latin America",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Brazil",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "PETERS, CHARLES M",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Forests and Forestry",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-07-04T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Science Desk",
+    "section_name": "Science",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/c2005773-9523-5833-b3d0-277fa9bda2f9",
+    "word_count": 954,
+    "uri": "nyt://article/c2005773-9523-5833-b3d0-277fa9bda2f9"
+  },
+  {
+    "abstract": "LEAD: On stage, a grieving old man paces, mutters, groans, finally exploding into words. It is a speech from ''Titus Andronicus,'' Shakespeare's early, rarely performed drama of revenge, pitting Romans against Goths, with unhappy endings for all.",
+    "web_url": "https://www.nytimes.com/1989/04/23/theater/theater-life-and-death-are-the-actors-on-her-stage.html",
+    "snippet": "",
+    "lead_paragraph": "On stage, a grieving old man paces, mutters, groans, finally exploding into words. It is a speech from ''Titus Andronicus,'' Shakespeare's early, rarely performed drama of revenge, pitting Romans against Goths, with unhappy endings for all.",
+    "print_section": "2",
+    "print_page": "5",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Life and Death Are the Actors On Her Stage",
+      "kicker": "THEATER",
+      "content_kicker": null,
+      "print_headline": "THEATER; Life and Death Are the Actors On Her Stage",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Royal Shakespeare Co",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Warner, Deborah",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Theater",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "Titus Andronicus (Play)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-04-23T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Arts and Leisure Desk",
+    "section_name": "Theater",
+    "byline": {
+      "original": "By Joan Dupont: Joan Dupont, Who Lives In Paris, Writes On Figures In the Contemporary Arts",
+      "person": [
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": "Who",
+          "middlename": "Lives",
+          "lastname": "In",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/e0a4dc83-d66a-5587-ae31-1d3d755a5735",
+    "word_count": 2276,
+    "uri": "nyt://article/e0a4dc83-d66a-5587-ae31-1d3d755a5735"
+  },
+  {
+    "abstract": "LEAD: At least 75 people, many of them homeless, have died of exposure to the cold in northern India and Bangladesh during the last three days, news reports said today.",
+    "web_url": "https://www.nytimes.com/1989/12/31/world/dozens-die-in-cold-weather-in-south-asia.html",
+    "snippet": "",
+    "lead_paragraph": "At least 75 people, many of them homeless, have died of exposure to the cold in northern India and Bangladesh during the last three days, news reports said today.",
+    "print_section": "1",
+    "print_page": "16",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Dozens Die in Cold Weather in South Asia",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Dozens Die in Cold Weather in South Asia",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Bangladesh",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Weather",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-12-31T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "AP",
+      "person": [],
+      "organization": "AP"
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/f7d96098-ef0b-5d4c-b0a0-549018a19944",
+    "word_count": 203,
+    "uri": "nyt://article/f7d96098-ef0b-5d4c-b0a0-549018a19944"
+  },
+  {
+    "abstract": "LEAD: World political leaders may be rushing to broad accord on the urgent need to halt global warming, but since the mid-1980's economists have been worrying about the bill. Their misgivings have been deepened by recent estimates of the cost of limiting emissions of carbon dioxide, which is the primary cause of the problem.",
+    "web_url": "https://www.nytimes.com/1989/11/19/us/economic-watch-curing-the-greenhouse-effect-could-run-into-the-trillions.html",
+    "snippet": "",
+    "lead_paragraph": "World political leaders may be rushing to broad accord on the urgent need to halt global warming, but since the mid-1980's economists have been worrying about the bill. Their misgivings have been deepened by recent estimates of the cost of limiting emissions of carbon dioxide, which is the primary cause of the problem.",
+    "print_section": "1",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Economic Watch; Curing the Greenhouse Effect Could Run Into the Trillions",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Economic Watch; Curing the Greenhouse Effect Could Run Into the Trillions",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "United States",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Carbon Dioxide",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Weather",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Forecasts",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Greenhouse Effect",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "AIR POLLUTION",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-11-19T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "National Desk",
+    "section_name": "U.S.",
+    "byline": {
+      "original": "By Peter Passell",
+      "person": [
+        {
+          "firstname": "Peter",
+          "middlename": null,
+          "lastname": "Passell",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/1f72dbe5-0453-5edc-bafb-b8588549a87f",
+    "word_count": 1988,
+    "uri": "nyt://article/1f72dbe5-0453-5edc-bafb-b8588549a87f"
+  },
+  {
+    "abstract": "LEAD: IN the quickening international debate over global warming, the spotlight has played mostly on the question of how and whether to control the growing emissions of carbon dioxide and other gases that trap heat in the atmosphere.",
+    "web_url": "https://www.nytimes.com/1989/11/14/science/governments-start-preparing-for-global-warming-disasters.html",
+    "snippet": "",
+    "lead_paragraph": "IN the quickening international debate over global warming, the spotlight has played mostly on the question of how and whether to control the growing emissions of carbon dioxide and other gases that trap heat in the atmosphere.",
+    "print_section": "C",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Governments Start Preparing for Global Warming Disasters",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Governments Start Preparing for Global Warming Disasters",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "AGRICULTURE",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Carbon Dioxide",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "HEAT",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Weather",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Oceans",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Greenhouse Effect",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Research",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "GASES",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "AIR POLLUTION",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-11-14T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Science Desk",
+    "section_name": "Science",
+    "byline": {
+      "original": "By William K. Stevens",
+      "person": [
+        {
+          "firstname": "William",
+          "middlename": "K.",
+          "lastname": "Stevens",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/eb58bead-0471-574d-91a9-0948d658a5b2",
+    "word_count": 2776,
+    "uri": "nyt://article/eb58bead-0471-574d-91a9-0948d658a5b2"
+  },
+  {
+    "abstract": "LEAD: The leaders of the Group of Seven industrial democracies today signaled a shift to a new realm of concern by dedicating a third of their final communique to an appeal for ''decisive action'' to ''understand and protect the earth's ecological balance.''",
+    "web_url": "https://www.nytimes.com/1989/07/17/world/paris-group-urges-decisive-action-for-environment.html",
+    "snippet": "",
+    "lead_paragraph": "The leaders of the Group of Seven industrial democracies today signaled a shift to a new realm of concern by dedicating a third of their final communique to an appeal for ''decisive action'' to ''understand and protect the earth's ecological balance.''",
+    "print_section": "A",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "PARIS GROUP URGES 'DECISIVE ACTION' FOR ENVIRONMENT",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "PARIS GROUP URGES 'DECISIVE ACTION' FOR ENVIRONMENT",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "France",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "UNION OF SOVIET SOCIALIST REPUBLICS (USSR)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bush, George",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Gorbachev, Mikhail S",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Mitterrand, Francois",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Currency",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "ACID RAIN",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Third World and Developing Countries",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 10,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Relations",
+        "rank": 11,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Weather",
+        "rank": 12,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Environment",
+        "rank": 13,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ozone",
+        "rank": 14,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "DRUG TRAFFIC",
+        "rank": 15,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Summit Conferences",
+        "rank": 16,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Greenhouse Effect",
+        "rank": 17,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit",
+        "rank": 18,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "AIR POLLUTION",
+        "rank": 19,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-07-17T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By James M. Markham, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "James",
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/5fbefb6e-18ff-5e15-b4f4-8c5c7834c537",
+    "word_count": 1371,
+    "uri": "nyt://article/5fbefb6e-18ff-5e15-b4f4-8c5c7834c537"
+  },
+  {
+    "abstract": "LEAD: Following are key sections of the communique issued today by the Group of Seven major industrialized democracies:",
+    "web_url": "https://www.nytimes.com/1989/07/17/world/key-sections-of-the-paris-communique-by-the-group-of-seven.html",
+    "snippet": "",
+    "lead_paragraph": "Following are key sections of the communique issued today by the Group of Seven major industrialized democracies:",
+    "print_section": "A",
+    "print_page": "7",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Key Sections of the Paris Communique by the Group of Seven",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Key Sections of the Paris Communique by the Group of Seven",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Paris (France)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "France",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Environment",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "DRUG TRAFFIC",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Currency",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Summit Conferences",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Third World and Developing Countries",
+        "rank": 9,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "AIR POLLUTION",
+        "rank": 10,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-07-17T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "AP",
+      "person": [],
+      "organization": "AP"
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/a45563aa-b56a-5847-be65-b2b5050d868e",
+    "word_count": 3664,
+    "uri": "nyt://article/a45563aa-b56a-5847-be65-b2b5050d868e"
+  },
+  {
+    "abstract": "LEAD: FROM her Upper East Side apartment, Robin Chandler Duke may seem an unlikely soldier in what many consider a nasty battle: World population control and abortion rights.",
+    "web_url": "https://www.nytimes.com/1989/02/05/nyregion/long-island-qa-robin-chandler-duke-soldier-in-an-unpopular-war.html",
+    "snippet": "LEAD: FROM her Upper East Side apartment, Robin Chandler Duke may seem an unlikely soldier in what many consider a nasty battle: World population control and abortion rights.",
+    "lead_paragraph": "LEAD: FROM her Upper East Side apartment, Robin Chandler Duke may seem an unlikely soldier in what many consider a nasty battle: World population control and abortion rights.",
+    "print_section": "12LI",
+    "print_page": "2",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Long Island Q&A;: Robin Chandler Duke;\nSoldier in an Unpopular War: Population Control",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Long Island Q&A;: Robin Chandler Duke;\nSoldier in an Unpopular War: Population Control",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "PLANNED PARENTHOOD FEDERATION",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "POPULATION CRISIS COMMITTEE",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Furio, Joanne",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Duke, Robin Chandler",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Birth Control and Family Planning",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-02-05T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Long Island Weekly Desk",
+    "section_name": "New York",
+    "subsection_name": "Long Island",
+    "byline": {
+      "original": "By Joanne Furio",
+      "person": [
+        {
+          "firstname": "Joanne",
+          "middlename": null,
+          "lastname": "Furio",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/650d1cbf-3202-5631-9d3e-1308a75d49ec",
+    "word_count": 1657,
+    "uri": "nyt://article/650d1cbf-3202-5631-9d3e-1308a75d49ec"
+  },
+  {
+    "abstract": "LEAD: After two years of poor harvests worldwide, poor countries will experience increased hunger and starvation as their bill for imported food soars by more than $5 billion this year, the top United Nations agriculture official says.",
+    "web_url": "https://www.nytimes.com/1989/04/05/world/rise-in-hunger-seen-as-world-s-harvests-fall-and-costs-soar.html",
+    "snippet": "",
+    "lead_paragraph": "After two years of poor harvests worldwide, poor countries will experience increased hunger and starvation as their bill for imported food soars by more than $5 billion this year, the top United Nations agriculture official says.",
+    "print_section": "A",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Rise in Hunger Seen As World's Harvests Fall and Costs Soar",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Rise in Hunger Seen As World's Harvests Fall and Costs Soar",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "United Nations",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "FOOD AND AGRICULTURE ORGANIZATION, UNITED NATIONS",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Forecasts",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Foreign Aid",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Third World and Developing Countries",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Famine",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Food",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-04-05T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Paul Lewis, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Paul",
+          "middlename": null,
+          "lastname": "Lewis",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/d958841b-ecef-5623-8690-b42c5cce4b0a",
+    "word_count": 876,
+    "uri": "nyt://article/d958841b-ecef-5623-8690-b42c5cce4b0a"
+  },
+  {
+    "abstract": "LEAD: A death sentence by Ayatollah Ruhollah Khomeini and other protests have not altered the plans of the novelist Salman Rushdie to come to the United States next week to promote ''The Satanic Verses,'' his American literary agent said yesterday.",
+    "web_url": "https://www.nytimes.com/1989/02/15/world/rushdie-is-still-planning-to-visit-us-next-week.html",
+    "snippet": "",
+    "lead_paragraph": "A death sentence by Ayatollah Ruhollah Khomeini and other protests have not altered the plans of the novelist Salman Rushdie to come to the United States next week to promote ''The Satanic Verses,'' his American literary agent said yesterday.",
+    "print_section": "A",
+    "print_page": "10",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Rushdie Is Still Planning to Visit U.S. Next Week",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Rushdie Is Still Planning to Visit U.S. Next Week",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "VIKING PENGUIN",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Rushdie, Salman",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Islam",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "SATANIC VERSES, THE (BOOK)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-02-15T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Edwin McDowell",
+      "person": [
+        {
+          "firstname": "Edwin",
+          "middlename": null,
+          "lastname": "McDowell",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/17b128f2-6a21-593b-aff0-7e0479cc4140",
+    "word_count": 544,
+    "uri": "nyt://article/17b128f2-6a21-593b-aff0-7e0479cc4140"
+  },
+  {
+    "abstract": "LEAD: The big man at the top of the gangplank wore lots of tattoos and a leer. ''Hiya, sister,'' he said. ''Welcome to the love boat.''",
+    "web_url": "https://www.nytimes.com/1989/05/13/nyregion/about-new-york-a-mother-waits-with-open-arms-at-ports-of-call.html",
+    "snippet": "",
+    "lead_paragraph": "The big man at the top of the gangplank wore lots of tattoos and a leer. ''Hiya, sister,'' he said. ''Welcome to the love boat.''",
+    "print_section": "1",
+    "print_page": "27",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "About New York; A 'Mother' Waits With Open Arms At Ports of Call",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "About New York; A 'Mother' Waits With Open Arms At Ports of Call",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "PROTESTANT EPISCOPAL CHURCH",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "CRAFTON, BARBARA C",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Ships and Shipping",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Biographical Information",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "ABOUT NEW YORK (TIMES COLUMN)",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-05-13T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Metropolitan Desk",
+    "section_name": "New York",
+    "byline": {
+      "original": "By Douglas Martin",
+      "person": [
+        {
+          "firstname": "Douglas",
+          "middlename": null,
+          "lastname": "Martin",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/970abd13-4855-5452-86b0-a65eb8281b52",
+    "word_count": 863,
+    "uri": "nyt://article/970abd13-4855-5452-86b0-a65eb8281b52"
+  },
+  {
+    "abstract": "LEAD: Austerity measures imposed on the poorest countries by the International Monetary Fund as a condition for new loans, have produced no results, according to a United Nations report.",
+    "web_url": "https://www.nytimes.com/1989/09/06/business/un-critical-of-imf-austerity-plan.html",
+    "snippet": "",
+    "lead_paragraph": "Austerity measures imposed on the poorest countries by the International Monetary Fund as a condition for new loans, have produced no results, according to a United Nations report.",
+    "print_section": "D",
+    "print_page": "7",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "U.N. Critical of I.M.F. Austerity Plan",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "U.N. Critical of I.M.F. Austerity Plan",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "International Monetary Fund",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "organizations",
+        "value": "United Nations",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Credit",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Third World and Developing Countries",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-09-06T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business Day",
+    "byline": {
+      "original": "By Burton Bollag, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Burton",
+          "middlename": null,
+          "lastname": "Bollag",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/c67a2bb2-dc43-5949-9701-aefc306b8532",
+    "word_count": 487,
+    "uri": "nyt://article/c67a2bb2-dc43-5949-9701-aefc306b8532"
+  },
+  {
+    "abstract": "LEAD: WHEN India's Ministry of Health submitted its annual report to be considered in framing the country's 1989-90 budget, it included a cry for help. ''Population control can no longer be the responsibility of one ministry or department,'' it said. ''The entire planning process must be geared toward controlling population.",
+    "web_url": "https://www.nytimes.com/1989/07/09/weekinreview/the-world-why-india-is-still-failing-to-stop-its-population-surge.html",
+    "snippet": "",
+    "lead_paragraph": "WHEN India's Ministry of Health submitted its annual report to be considered in framing the country's 1989-90 budget, it included a cry for help. ''Population control can no longer be the responsibility of one ministry or department,'' it said. ''The entire planning process must be geared toward controlling population.''",
+    "print_section": "4",
+    "print_page": "2",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Why India Is Still Failing To Stop Its Population Surge",
+      "kicker": "THE WORLD",
+      "content_kicker": null,
+      "print_headline": "THE WORLD; Why India Is Still Failing To Stop Its Population Surge",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Population",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Birth Control and Family Planning",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-07-09T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Week in Review Desk",
+    "section_name": "Week in Review",
+    "byline": {
+      "original": "By Barbara Crossette",
+      "person": [
+        {
+          "firstname": "Barbara",
+          "middlename": null,
+          "lastname": "Crossette",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/55c7e4ed-562b-5690-a643-096f5de5bf91",
+    "word_count": 1017,
+    "uri": "nyt://article/55c7e4ed-562b-5690-a643-096f5de5bf91"
+  },
+  {
+    "abstract": "LEAD: \nMEATLESS DAYS \nBy Sara Suleri. \n186 pp. Illinois: \nThe University of Chicago Press. $17.95.",
+    "web_url": "https://www.nytimes.com/1989/06/04/books/talking-two-mother-tongues.html",
+    "snippet": "LEAD: \nMEATLESS DAYS \nBy Sara Suleri. \n186 pp. Illinois: \nThe University of Chicago Press. $17.95.",
+    "lead_paragraph": "LEAD: MEATLESS DAYS By Sara Suleri. 186 pp. Illinois: The University of Chicago Press. $17.95.",
+    "print_section": "7",
+    "print_page": "30",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "TALKING TWO MOTHER TONGUES",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "TALKING TWO MOTHER TONGUES",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "WOLFE, DANIEL",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "SULERI, SARA",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "BOOK REVIEWS",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "MEATLESS DAYS (BOOK)",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-06-04T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Book Review Desk",
+    "section_name": "Books",
+    "subsection_name": "Book Review",
+    "byline": {
+      "original": "By Daniel Wolfe",
+      "person": [
+        {
+          "firstname": "Daniel",
+          "middlename": null,
+          "lastname": "Wolfe",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "Review",
+    "_id": "nyt://article/e637678d-97f4-52f5-bcee-b49791c01489",
+    "word_count": 1081,
+    "uri": "nyt://article/e637678d-97f4-52f5-bcee-b49791c01489"
+  },
+  {
+    "abstract": "LEAD: Eight months after the Government approved a method for setting long-distance rates that was expected to lower consumers' telephone bills, the American Telephone and Telegraph Company said yesterday that it would raise prices on domestic long-distance service.",
+    "web_url": "https://www.nytimes.com/1989/11/17/business/at-t-plans-1.3-rise-in-long-distance-rates.html",
+    "snippet": "",
+    "lead_paragraph": "Eight months after the Government approved a method for setting long-distance rates that was expected to lower consumers' telephone bills, the American Telephone and Telegraph Company said yesterday that it would raise prices on domestic long-distance service.",
+    "print_section": "D",
+    "print_page": "2",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "A.T.&T. Plans 1.3% Rise In Long-Distance Rates",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A.T.&T. Plans 1.3% Rise In Long-Distance Rates",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "AMERICAN TELEPHONE & TELEGRAPH CO INC",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "TELEPHONES",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "RATES",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-11-17T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business Day",
+    "byline": {
+      "original": "By Calvin Sims",
+      "person": [
+        {
+          "firstname": "Calvin",
+          "middlename": null,
+          "lastname": "Sims",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/4ec1af82-2b1c-522b-a034-6732a7854f23",
+    "word_count": 711,
+    "uri": "nyt://article/4ec1af82-2b1c-522b-a034-6732a7854f23"
+  },
+  {
+    "abstract": "LEAD: In an era when it is common to talk of Asian economic miracles and a Pacific century, the Indian state of Rajasthan is a reminder that there are, in reality, two Asias. There are the economic tigers and would-be tigers from Japan, South Korea, Singapore and Thailand, but also the struggling, crowded, volatile nations of South Asia, especially India, Pakistan and",
+    "web_url": "https://www.nytimes.com/1989/09/11/world/india-s-bleakest-corner-is-where-all-hope-ends.html",
+    "snippet": "",
+    "lead_paragraph": "In an era when it is common to talk of Asian economic miracles and a Pacific century, the Indian state of Rajasthan is a reminder that there are, in reality, two Asias. There are the economic tigers and would-be tigers from Japan, South Korea, Singapore and Thailand, but also the struggling, crowded, volatile nations of South Asia, especially India, Pakistan and Bangladesh, where survival is difficult.",
+    "print_section": "A",
+    "print_page": "8",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "India's Bleakest Corner Is Where All Hope Ends",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "India's Bleakest Corner Is Where All Hope Ends",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Rajasthan (India)",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "AGRICULTURE",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Livestock",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Population",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Environment",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Illiteracy",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Marriages",
+        "rank": 8,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 9,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-09-11T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Barbara Crossette, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Barbara",
+          "middlename": null,
+          "lastname": "Crossette",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/b6f21199-1963-5f83-9aea-7513fa3d052c",
+    "word_count": 1644,
+    "uri": "nyt://article/b6f21199-1963-5f83-9aea-7513fa3d052c"
+  },
+  {
+    "abstract": "LEAD: The Nepalese Government, digging in for a long siege in a trade war with India that is being seen here as a test of Nepalese sovereignty, has introduced austerity measures and started reordering its development plans, officials here say.",
+    "web_url": "https://www.nytimes.com/1989/05/25/world/india-trade-dispute-brings-austerity-to-nepal.html",
+    "snippet": "",
+    "lead_paragraph": "The Nepalese Government, digging in for a long siege in a trade war with India that is being seen here as a test of Nepalese sovereignty, has introduced austerity measures and started reordering its development plans, officials here say.",
+    "print_section": "A",
+    "print_page": "15",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "India Trade Dispute Brings Austerity to Nepal",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "India Trade Dispute Brings Austerity to Nepal",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Nepal",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "BIRENDRA, KING OF NEPAL",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "INDIA-INTERNATIONAL RELATIONS-NEPAL",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Trade and World Market",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-05-25T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": "By Barbara Crossette, Special To the New York Times",
+      "person": [
+        {
+          "firstname": "Barbara",
+          "middlename": null,
+          "lastname": "Crossette",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        },
+        {
+          "firstname": null,
+          "middlename": null,
+          "lastname": null,
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 2
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/78e33722-7f41-590c-94a0-e717e6b23854",
+    "word_count": 600,
+    "uri": "nyt://article/78e33722-7f41-590c-94a0-e717e6b23854"
+  },
+  {
+    "abstract": "LEAD: Fast of Ramadan Is Soon to Be a Feast",
+    "web_url": "https://www.nytimes.com/1989/05/03/garden/fast-of-ramadan-ends-with-feasts.html",
+    "snippet": "",
+    "lead_paragraph": "Fast of Ramadan Is Soon to Be a Feast",
+    "print_section": "C",
+    "print_page": "10",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Fast of Ramadan Ends With Feasts",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Fast of Ramadan Ends With Feasts",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "subject",
+        "value": "RAMADAN (RELIGIOUS CELEBRATION)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Recipes",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Fasting",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Islam",
+        "rank": 4,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-05-03T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Living Desk",
+    "section_name": "Home & Garden",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/56656fb7-beac-5187-9ad0-1cd85f91971d",
+    "word_count": 1366,
+    "uri": "nyt://article/56656fb7-beac-5187-9ad0-1cd85f91971d"
+  },
+  {
+    "abstract": "LEAD:  Stalin With Warts",
+    "web_url": "https://www.nytimes.com/1989/01/04/books/book-notes-460389.html",
+    "snippet": "",
+    "lead_paragraph": "Stalin With Warts",
+    "print_section": "C",
+    "print_page": "19",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "BOOK NOTES",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "BOOK NOTES",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "JOHNS HOPKINS UNIVERSITY PRESS",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "SLUSSER, ROBERT M",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Lapierre, Dominique",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Shoumatoff, Alex",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "AFRICAN MADNESS (BOOK)",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "STALIN IN OCTOBER: THE MAN WHO MISSED THE REVOLUTION (BOOK)",
+        "rank": 7,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "CITY OF JOY, THE (BOOK)",
+        "rank": 8,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-01-04T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Cultural Desk",
+    "section_name": "Books",
+    "byline": {
+      "original": "By Edwin McDowell",
+      "person": [
+        {
+          "firstname": "Edwin",
+          "middlename": null,
+          "lastname": "McDowell",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/2cda23a2-7f3c-5fc7-af44-8a9d12051e0d",
+    "word_count": 885,
+    "uri": "nyt://article/2cda23a2-7f3c-5fc7-af44-8a9d12051e0d"
+  },
+  {
+    "abstract": "LEAD: B.A.T. Industries, the target of Sir James Goldsmith's $21 billion takeover bid, is one of the most far-flung international corporations, selling insurance in Australia and the United States, producing paper pulp in India and Portugal, and processing tobacco in Zimbabwe and Zaire. Its shares, which are traded in New York as well as London, are widely held by individuals and institutions that specialize in assembling global portfolios.",
+    "web_url": "https://www.nytimes.com/1989/07/12/business/a-far-flung-corporate-empire.html",
+    "snippet": "",
+    "lead_paragraph": "B.A.T. Industries, the target of Sir James Goldsmith's $21 billion takeover bid, is one of the most far-flung international corporations, selling insurance in Australia and the United States, producing paper pulp in India and Portugal, and processing tobacco in Zimbabwe and Zaire. Its shares, which are traded in New York as well as London, are widely held by individuals and institutions that specialize in assembling global portfolios.",
+    "print_section": "D",
+    "print_page": "1",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "A Far-Flung Corporate Empire",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "A Far-Flung Corporate Empire",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "organizations",
+        "value": "Bat Industries PLC",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "SHEEHY, PATRICK",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Goldsmith, James",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Mergers, Acquisitions and Divestitures",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "COMPANY AND ORGANIZATION PROFILES",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-07-12T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Financial Desk",
+    "section_name": "Business Day",
+    "byline": {
+      "original": "By Keith Bradsher",
+      "person": [
+        {
+          "firstname": "Keith",
+          "middlename": null,
+          "lastname": "Bradsher",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/d84e972b-8618-5f77-aa01-8c301240b7b3",
+    "word_count": 1110,
+    "uri": "nyt://article/d84e972b-8618-5f77-aa01-8c301240b7b3"
+  },
+  {
+    "abstract": "LEAD: Satyajit Ray, Sidelined for more than half a decade by heart disease, is about to return to the cinema world with his 26th feature film - and first screen adaptation of a play, Henrik Ibsen's ''Enemy of the People.''",
+    "web_url": "https://www.nytimes.com/1989/05/07/movies/film-satyajit-ray-gives-ibsen-a-bengali-spin.html",
+    "snippet": "",
+    "lead_paragraph": "Satyajit Ray, Sidelined for more than half a decade by heart disease, is about to return to the cinema world with his 26th feature film - and first screen adaptation of a play, Henrik Ibsen's ''Enemy of the People.''",
+    "print_section": "2",
+    "print_page": "15",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Satyajit Ray Gives Ibsen A Bengali Spin",
+      "kicker": "FILM",
+      "content_kicker": null,
+      "print_headline": "FILM; Satyajit Ray Gives Ibsen A Bengali Spin",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "persons",
+        "value": "Ray, Satyajit",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "MOTION PICTURES",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "Ganashatru (Movie)",
+        "rank": 3,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-05-07T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Arts and Leisure Desk",
+    "section_name": "Movies",
+    "byline": {
+      "original": "By Barbara Crossette",
+      "person": [
+        {
+          "firstname": "Barbara",
+          "middlename": null,
+          "lastname": "Crossette",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/5a3d6f80-c12e-506e-9d13-c917c9eab705",
+    "word_count": 1736,
+    "uri": "nyt://article/5a3d6f80-c12e-506e-9d13-c917c9eab705"
+  },
+  {
+    "abstract": "LEAD: Following are excerpts from President Bush's news conference in Paris yesterday, as recorded by The New York Times:  OPENING STATEMENT",
+    "web_url": "https://www.nytimes.com/1989/07/17/world/excerpts-from-the-news-conference-given-by-bush-in-paris.html",
+    "snippet": "",
+    "lead_paragraph": "Following are excerpts from President Bush's news conference in Paris yesterday, as recorded by The New York Times: OPENING STATEMENT",
+    "print_section": "A",
+    "print_page": "8",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "Excerpts From the News Conference Given by Bush in Paris",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "Excerpts From the News Conference Given by Bush in Paris",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Paris (France)",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "France",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Bush, George",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "United States International Relations",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Summit Conferences",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Economic Conditions and Trends",
+        "rank": 6,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-07-17T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Foreign Desk",
+    "section_name": "World",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/102c353d-245f-568f-930b-0118309e375d",
+    "word_count": 4601,
+    "uri": "nyt://article/102c353d-245f-568f-930b-0118309e375d"
+  },
+  {
+    "abstract": "LEAD: BRICK LANE, IN LONDON'S EAST END, IS A neighborhood peopled by those whom the city never expected to accommodate. It is a neighborhood of Asians - as they are called by the English, who are comfortable still with the old colonial term that did not distinguish among the many peoples east of Europe.",
+    "web_url": "https://www.nytimes.com/1989/01/29/magazine/salman-rushdie-fiction-s-embattled-infidel.html",
+    "snippet": "",
+    "lead_paragraph": "BRICK LANE, IN LONDON'S EAST END, IS A neighborhood peopled by those whom the city never expected to accommodate. It is a neighborhood of Asians - as they are called by the English, who are comfortable still with the old colonial term that did not distinguish among the many peoples east of Europe. There are thought to be 40,000 Asians in Brick Lane, mostly Muslims from Bengal, a region cleaved in 1947 when India was partitioned and East Pakistan (now Bangladesh) created. They have come for many reasons - exiles, refugees, schemers - and they have not always been welcomed. ''Asian'' suggests not only the distance the immigrants have traveled but also the distance at which they remain. And something more troubling, a sense of unease and estrangement, is suggested by newer, post-colonial terms: quotas, fourth world, National Front, Paki-bashing.",
+    "print_section": "6",
+    "print_page": "24",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "SALMAN RUSHDIE: FICTION'S EMBATTLED INFIDEL",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "SALMAN RUSHDIE: FICTION'S EMBATTLED INFIDEL",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "Great Britain",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "Rushdie, Salman",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Biographical Information",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Books and Literature",
+        "rank": 5,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "Islam",
+        "rank": 6,
+        "major": "N"
+      },
+      {
+        "name": "creative_works",
+        "value": "SATANIC VERSES, THE (BOOK)",
+        "rank": 7,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-01-29T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Magazine Desk",
+    "section_name": "Magazine",
+    "byline": {
+      "original": "By Gerald Marzorati",
+      "person": [
+        {
+          "firstname": "Gerald",
+          "middlename": null,
+          "lastname": "Marzorati",
+          "qualifier": null,
+          "title": null,
+          "role": "reported",
+          "organization": "",
+          "rank": 1
+        }
+      ],
+      "organization": null
+    },
+    "type_of_material": "News",
+    "_id": "nyt://article/ae6b26f3-c09e-5996-9be2-5323733459e3",
+    "word_count": 5794,
+    "uri": "nyt://article/ae6b26f3-c09e-5996-9be2-5323733459e3"
+  },
+  {
+    "abstract": "LEAD: To the Editor:",
+    "web_url": "https://www.nytimes.com/1989/06/22/opinion/l-india-keeps-border-with-nepal-open-912689.html",
+    "snippet": "",
+    "lead_paragraph": "To the Editor:",
+    "print_section": "A",
+    "print_page": "22",
+    "source": "The New York Times",
+    "multimedia": [],
+    "headline": {
+      "main": "India Keeps Border With Nepal Open",
+      "kicker": null,
+      "content_kicker": null,
+      "print_headline": "India Keeps Border With Nepal Open",
+      "name": null,
+      "seo": null,
+      "sub": null
+    },
+    "keywords": [
+      {
+        "name": "glocations",
+        "value": "India",
+        "rank": 1,
+        "major": "N"
+      },
+      {
+        "name": "glocations",
+        "value": "Nepal",
+        "rank": 2,
+        "major": "N"
+      },
+      {
+        "name": "persons",
+        "value": "DAYAKAR, R",
+        "rank": 3,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "INDIA-INTERNATIONAL RELATIONS-NEPAL",
+        "rank": 4,
+        "major": "N"
+      },
+      {
+        "name": "subject",
+        "value": "International Relations",
+        "rank": 5,
+        "major": "N"
+      }
+    ],
+    "pub_date": "1989-06-22T05:00:00+0000",
+    "document_type": "article",
+    "news_desk": "Editorial Desk",
+    "section_name": "Opinion",
+    "byline": {
+      "original": null,
+      "person": [],
+      "organization": null
+    },
+    "type_of_material": "Letter",
+    "_id": "nyt://article/bac73aa0-7f45-5e22-b937-0a6796af9ee5",
+    "word_count": 289,
+    "uri": "nyt://article/bac73aa0-7f45-5e22-b937-0a6796af9ee5"
+  }
+]
