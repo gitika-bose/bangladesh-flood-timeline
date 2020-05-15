@@ -12,8 +12,8 @@ Examples
 
 * Load documents from file '1981.json' into folder 'pool/articles':
 
-    ./load_json.py config.yaml 1981.json pool/articles >1981.output
+    ./tagtog_load_json.py config.yaml 1981.json pool/articles >1981.output
 
 * Delete all documents from folder 'pool/foo' with the file name that matches '1984_*.txt':
 
-    ./delete.py config.py 'folder:pool/articles AND filename:1981_*.txt'
+    ./tagtog_delete.py config.py 'folder:pool/articles AND filename:1981_*.txt'
