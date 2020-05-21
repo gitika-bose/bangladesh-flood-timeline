@@ -4,8 +4,8 @@ from bs4 import BeautifulSoup
 import json
 from unidecode import unidecode
 
-paper_folder = 'theDailyStar/'
-paper_folder_data = 'theDailyStar/data/'
+paper_folder = 'theDailyStar'
+paper_folder_data = 'data/'
 
 def parse_date(date_obj):
     if not date_obj: return None
@@ -17,8 +17,12 @@ def get_content(soup_obj):
     if not soup_obj: return None
     return soup_obj.get('content')
 
-def scrape(sites, debug=10):
-    site_data, debug_data = [], []
+def scrape(sites_i, debug=True, sites=None):
+    query_info = None
+    if not sites:
+        sites = sites_i['sites']
+        query_info = {"query": sites_i['query'], "paper": sites_i['paper'], "date_range": sites_i['date_range']}
+    site_data = []
     for i,site in enumerate(sites):
         try:
             page = requests.get(site)
@@ -49,42 +53,51 @@ def scrape(sites, debug=10):
                 textp = text.find_all('p')
                 if textp: text = ' '.join([p.text for p in textp])
 
+            if abstract: abstract = unidecode(abstract)
+            if description: description = unidecode(description)
+            if datePublished: datePublished = str(datePublished)
+            if dateModified: dateModified = str(dateModified)
+            if headline: headline = unidecode(headline)
+            if text: text = unidecode(text)
+
             data = {
                 'meta': {
                     'link': site,
-                    'abstract': unidecode(abstract),
-                    'description': unidecode(description),
+                    'abstract': abstract,
+                    'description': description,
                     'keywords': keywords,
                     'news_keywords': news_keywords,
-                    'datePublished': str(datePublished),
-                    'dateModified': str(dateModified)
+                    'datePublished': datePublished,
+                    'dateModified': dateModified,
+                    'query_info': query_info
                 },
                 'article': {
-                    'headline': unidecode(headline),
+                    'headline': headline,
                     'authors': authors,
-                    'text': unidecode(text)
+                    'text': text
                 }
             }
             site_data.append(data)
-            debug_data.append(data)
         except Exception as e:
             print(e)
             print(site)
             continue
-        if i and debug and i%debug==0:
-            print('Sites Completed: {}'.format(i+150))
-            save_file = open(paper_folder_data + 'data{}.json'.format(i+150), 'w')
-            json.dump(debug_data, save_file, indent=2)
-            debug_data = []
-            save_file.close()
+    if debug:
+        debug_date = [s.replace('/','-') for s in sites_i['date_range']]
+        print('Date Range: {}-{}. Sites scraped: {}'.format(debug_date[0], debug_date[1], len(site_data)))
+        save_file = open(paper_folder_data + 'data_{}-{}.json'.format(debug_date[0], debug_date[1]), 'w')
+        json.dump(site_data, save_file, indent=2)
+        save_file.close()
     return site_data
 
 if __name__ == "__main__":
-    load_file = open(paper_folder + 'all_sites.json')
-    sites = json.load(load_file)[150:]
-    scrapped = scrape(sites)
-
-    save_file = open(paper_folder_data + 'theDailyStar_data.json', 'w')
+    load_file = open(paper_folder + '_sites.json')
+    sites_i = json.load(load_file)
+    scrapped = []
+    for s in sites_i:
+        scrapped.extend(scrape(s))
+    print('Total Sites scrapped: {}'.format(len(scrapped)))
+    save_file = open('theDailyStar_data2.json', 'w')
     json.dump(scrapped, save_file, indent=2)
     save_file.close()
     load_file.close()
