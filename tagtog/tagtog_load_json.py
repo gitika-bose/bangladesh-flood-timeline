@@ -15,7 +15,9 @@ def sha1(s: str) -> str:
     return m.hexdigest()
 
 
-def post(folder: str, file_name: str, text: str) -> Dict[str, Any]:
+def post(
+    config: Dict[str, Any], folder: str, file_name: str, text: str
+) -> Dict[str, Any]:
     auth = requests.auth.HTTPBasicAuth(
         username=config["user"], password=config["password"]
     )
@@ -79,7 +81,7 @@ with open(file_path, "r") as f:
         count_characters += characters
         paragraphs = text.count("\n") + (0 if text[-1] == "\n" else 1)
         count_paragraphs += paragraphs
-        res = post(folder, f"{name}_{code}", text)
+        res = post(config, folder, f"{name}_{code}", text)
         results.append(
             dict(
                 res=res,

@@ -1,10 +1,11 @@
 #!/usr/bin/env python
+from typing import Dict, Any
 import sys
 import requests
 import pyaconf
 
 
-def tagtog_delete(search_criterion: str) -> int:
+def tagtog_delete(config: Dict[str, Any], search_criterion: str) -> int:
     auth = requests.auth.HTTPBasicAuth(
         username=config["user"], password=config["password"]
     )
@@ -36,6 +37,6 @@ search_criterion = sys.argv[2]
 
 config = pyaconf.load(config_name, format="yaml")
 
-result = tagtog_delete(search_criterion)
+result = tagtog_delete(config, search_criterion)
 
 print(f"Deleted {result} documents.")
