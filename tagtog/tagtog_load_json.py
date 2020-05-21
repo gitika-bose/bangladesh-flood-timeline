@@ -75,8 +75,8 @@ with open(file_path, "r") as f:
     count_documents += docs
     print(f"{file_path=!r}, {docs=}", file=sys.stderr)
     for index, doc in enumerate(data):
-        text = doc["text"]
-        code = sha1(text)
+        text = doc["article"]["text"]
+        code = doc["id"]
         characters = len(text)
         count_characters += characters
         paragraphs = text.count("\n") + (0 if text[-1] == "\n" else 1)
