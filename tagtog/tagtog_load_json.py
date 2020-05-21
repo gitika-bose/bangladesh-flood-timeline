@@ -26,6 +26,7 @@ def post(folder: str, file_name: str, text: str) -> Dict[str, Any]:
         format="verbatim",
         output="null",
         filename=file_name,
+        distributeToMembers=config["distribute_to_members"],
     )
     payload = dict(text=text)
     resp = requests.post(config["apiurl"], params=params, auth=auth, data=payload)
