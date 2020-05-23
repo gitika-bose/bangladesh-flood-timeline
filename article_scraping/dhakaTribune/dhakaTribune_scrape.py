@@ -3,6 +3,8 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 import json
 import os
+import shutil
+import uuid
 from unidecode import unidecode
 
 paper_folder = 'dhakaTribune'
@@ -71,7 +73,8 @@ def scrape(sites_i=None, debug=True, sites=None):
                     'headline': headline,
                     'authors': authors,
                     'text': text
-                }
+                },
+                'id': str(uuid.uuid4())
             }
             site_data.append(data)
         except Exception as e:
@@ -89,10 +92,12 @@ def scrape(sites_i=None, debug=True, sites=None):
 if __name__ == "__main__":
     # print(scrape(sites=['https://www.dhakatribune.com/world/south-asia/2017/09/21/midwives-come-aid-pregnant-rohingya-women-bangladesh-camps/'],
     #              debug=False))
+    if os.path.isdir('./data'): shutil.rmtree('./data')
+    os.mkdir('./data')
     load_file = open(paper_folder + '_sites.json')
     sites_i = json.load(load_file)
     scrapped = []
-    for s in sites_i[6:]:
+    for s in sites_i:
         scrapped.extend(scrape(s))
     print('Total Sites scrapped: {}'.format(len(scrapped)))
     save_file = open(paper_folder + '_data.json', 'w')

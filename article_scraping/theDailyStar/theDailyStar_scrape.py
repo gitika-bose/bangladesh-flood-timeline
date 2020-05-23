@@ -2,6 +2,9 @@ import requests
 from datetime import datetime
 from bs4 import BeautifulSoup
 import json
+import os
+import shutil
+import uuid
 from unidecode import unidecode
 
 paper_folder = 'theDailyStar'
@@ -75,7 +78,8 @@ def scrape(sites_i, debug=True, sites=None):
                     'headline': headline,
                     'authors': authors,
                     'text': text
-                }
+                },
+                'id': str(uuid.uuid4())
             }
             site_data.append(data)
         except Exception as e:
@@ -91,6 +95,8 @@ def scrape(sites_i, debug=True, sites=None):
     return site_data
 
 if __name__ == "__main__":
+    if os.path.isdir('./data'): shutil.rmtree('./data')
+    os.mkdir('./data')
     load_file = open(paper_folder + '_sites.json')
     sites_i = json.load(load_file)
     scrapped = []

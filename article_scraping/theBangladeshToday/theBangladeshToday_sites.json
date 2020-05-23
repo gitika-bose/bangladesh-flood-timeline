@@ -1,0 +1,32 @@
+[
+  {
+    "query": "bangladesh flood",
+    "paper": "theBangladeshToday",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://thebangladeshtoday.com/?p=11436",
+      "https://thebangladeshtoday.com/?p=15569",
+      "https://thebangladeshtoday.com/?p=15675",
+      "https://thebangladeshtoday.com/?p=11694",
+      "https://thebangladeshtoday.com/?p=11317",
+      "https://thebangladeshtoday.com/?p=16085",
+      "https://thebangladeshtoday.com/?p=7317",
+      "https://thebangladeshtoday.com/?p=16052"
+    ]
+  },
+  {
+    "query": "bangladesh flood",
+    "paper": "theBangladeshToday",
+    "date_range": [
+      "1/1/2020",
+      "12/31/2020"
+    ],
+    "sites": [
+      "https://thebangladeshtoday.com/?p=16637",
+      "https://thebangladeshtoday.com/?p=19606"
+    ]
+  }
+]

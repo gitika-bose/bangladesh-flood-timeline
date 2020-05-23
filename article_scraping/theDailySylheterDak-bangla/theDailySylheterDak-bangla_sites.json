@@ -1,0 +1,101 @@
+[
+  {
+    "query": "\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 \u09ac\u09a8\u09cd\u09af\u09be",
+    "paper": "theDailySylheterDak",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": [
+      "http://sylheterdak.com.bd/details.php?id=4021",
+      "http://sylheterdak.com.bd/details.php?id=1607",
+      "http://sylheterdak.com.bd/details.php?id=4561",
+      "http://sylheterdak.com.bd/details.php?id=2185",
+      "http://sylheterdak.com.bd/details.php?id=2838",
+      "http://sylheterdak.com.bd/details.php?id=2061",
+      "http://sylheterdak.com.bd/details.php?id=2398",
+      "http://sylheterdak.com.bd/details.php?id=4072",
+      "http://sylheterdak.com.bd/details.php?id=1548",
+      "http://sylheterdak.com.bd/details.php?id=3436"
+    ]
+  },
+  {
+    "query": "\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 \u09ac\u09a8\u09cd\u09af\u09be",
+    "paper": "theDailySylheterDak",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "http://sylheterdak.com.bd/details.php?id=8724",
+      "http://sylheterdak.com.bd/details.php?id=9399",
+      "http://sylheterdak.com.bd/details.php?id=7047",
+      "http://www.sylheterdak.com.bd/details.php?id=7294",
+      "http://sylheterdak.com.bd/details.php?id=9123",
+      "http://sylheterdak.com.bd/details.php?id=5312",
+      "http://sylheterdak.com.bd/details.php?id=6822",
+      "http://sylheterdak.com.bd/details.php?id=6505"
+    ]
+  },
+  {
+    "query": "\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 \u09ac\u09a8\u09cd\u09af\u09be",
+    "paper": "theDailySylheterDak",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": [
+      "http://sylheterdak.com.bd/details.php?id=12178",
+      "http://sylheterdak.com.bd/details.php?id=19284",
+      "http://sylheterdak.com.bd/details.php?id=13994",
+      "http://sylheterdak.com.bd/details.php?id=11477",
+      "http://sylheterdak.com.bd/details.php?id=20151",
+      "http://sylheterdak.com.bd/details.php?id=11217",
+      "http://sylheterdak.com.bd/details.php?id=11180",
+      "http://sylheterdak.com.bd/details.php?id=13957",
+      "http://www.sylheterdak.com.bd/details.php?id=15374",
+      "http://sylheterdak.com.bd/details.php?id=11602",
+      "http://sylheterdak.com.bd/details.php?id=12420",
+      "http://sylheterdak.com.bd/details.php?id=11177",
+      "http://sylheterdak.com.bd/details.php?id=18090",
+      "http://www.sylheterdak.com.bd/details.php?id=10496"
+    ]
+  },
+  {
+    "query": "\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 \u09ac\u09a8\u09cd\u09af\u09be",
+    "paper": "theDailySylheterDak",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "http://www.sylheterdak.com.bd/details.php?id=27581",
+      "http://www.sylheterdak.com.bd/details.php?id=25258",
+      "https://sylheterdak.com.bd/details.php?id=21367",
+      "http://sylheterdak.com.bd/details.php?id=21090",
+      "https://sylheterdak.com.bd/details.php?id=30462",
+      "https://sylheterdak.com.bd/details.php?id=32262",
+      "https://sylheterdak.com.bd/details.php?id=25608",
+      "https://sylheterdak.com.bd/details.php?id=28909",
+      "https://sylheterdak.com.bd/details.php?id=30545",
+      "https://sylheterdak.com.bd/details.php?id=31204",
+      "https://sylheterdak.com.bd/details.php?id=29597",
+      "https://sylheterdak.com.bd/details.php?id=30165",
+      "https://sylheterdak.com.bd/details.php?id=29811",
+      "https://sylheterdak.com.bd/details.php?id=30461"
+    ]
+  },
+  {
+    "query": "\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 \u09ac\u09a8\u09cd\u09af\u09be",
+    "paper": "theDailySylheterDak",
+    "date_range": [
+      "1/1/2020",
+      "12/31/2020"
+    ],
+    "sites": [
+      "https://sylheterdak.com.bd/details.php?id=33858",
+      "https://sylheterdak.com.bd/details.php?id=34076",
+      "https://sylheterdak.com.bd/details.php?id=38106"
+    ]
+  }
+]
