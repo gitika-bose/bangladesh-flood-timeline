@@ -15,7 +15,9 @@ def sha1(s: str) -> str:
     return m.hexdigest()
 
 
-def post(folder: str, file_name: str, text: str) -> Dict[str, Any]:
+def post(
+    config: Dict[str, Any], folder: str, file_name: str, text: str
+) -> Dict[str, Any]:
     auth = requests.auth.HTTPBasicAuth(
         username=config["user"], password=config["password"]
     )
@@ -63,25 +65,30 @@ count_documents = 0
 count_characters = 0
 count_paragraphs = 0
 
-results = []
+results = {}
 
 name = file_path.stem
 ext = file_path.suffix
 with open(file_path, "r") as f:
     data = json.load(f)
     docs = len(data)
-    count_documents += docs
     print(f"{file_path=!r}, {docs=}", file=sys.stderr)
     for index, doc in enumerate(data):
-        text = doc["text"]
-        code = sha1(text)
-        characters = len(text)
-        count_characters += characters
-        paragraphs = text.count("\n") + (0 if text[-1] == "\n" else 1)
-        count_paragraphs += paragraphs
-        res = post(folder, f"{name}_{code}", text)
-        results.append(
-            dict(
+        code = doc["id"]
+        text = doc["article"]["text"]
+        if text is None:
+            text = ""
+        code2 = sha1(text)
+        if text != "" and code2 not in results:
+            count_documents += 1
+            characters = len(text)
+            count_characters += characters
+            paragraphs = text.count("\n") + (
+                0 if characters > 0 and text[-1] == "\n" else 1
+            )
+            count_paragraphs += paragraphs
+            res = post(config, folder, f"{name}_{code}", text)
+            results[code2] = dict(
                 res=res,
                 file_path=str(file_path),
                 index=index,
@@ -89,8 +96,12 @@ with open(file_path, "r") as f:
                 characters=characters,
                 paragraphs=paragraphs,
             )
-        )
-        print(f"    {index=}, {code=}, {characters=}, {paragraphs=}", file=sys.stderr)
+            print(
+                f"    LOADED:  {index=}, {code2=}, {code=}, {characters=}, {paragraphs=}",
+                file=sys.stderr,
+            )
+        else:
+            print(f"    SKIPPED: {index=}, {code2=}, {code=}", file=sys.stderr)
 
 print(
     f"Loaded {count_documents=}, {count_paragraphs=}, {count_characters=}",
