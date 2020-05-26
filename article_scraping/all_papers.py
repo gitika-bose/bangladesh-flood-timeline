@@ -115,3 +115,4 @@ def generate_paper_index():
 
 # print(count_sites_all_paper(english=False))
 get_all_paper_data()
+# merge_data('dhakaTribune',0,True)

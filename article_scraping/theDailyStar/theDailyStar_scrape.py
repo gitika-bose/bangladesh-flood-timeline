@@ -77,7 +77,7 @@ def scrape(sites_i, debug=True, sites=None):
                 'article': {
                     'headline': headline,
                     'authors': authors,
-                    'text': text
+                    'text': 'Date Published:{}      \n'.format(datePublished)+text
                 },
                 'id': str(uuid.uuid4())
             }
