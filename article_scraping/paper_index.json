@@ -1,19 +1,200 @@
 {
-  "1": "bangladeshPost",
-  "2": "bdPratidin-bangla",
-  "3": "dailyObserver",
-  "4": "dailySun",
-  "5": "dhakaTribune",
-  "6": "energyBangla",
-  "7": "ittefaq-bangla",
-  "8": "jugantor-bangla",
-  "9": "newAge",
-  "10": "prothomalo",
-  "11": "prothomalo-bangla",
-  "12": "theAsianAge",
-  "13": "theBangladeshToday",
-  "14": "theDailyStar",
-  "15": "theDailySylheterDak-bangla",
-  "16": "theIndependent",
-  "17": "theNewNation"
+  "1": {
+    "paper_name": "bangladeshPost",
+    "site": "www.bangladeshpost.net",
+    "no_sites": 148,
+    "date_range": "2019-2020"
+  },
+  "2": {
+    "paper_name": "bdnews",
+    "site": "bdnews24.com",
+    "no_sites": 223,
+    "date_range": "2014-2020"
+  },
+  "3": {
+    "paper_name": "bssnews",
+    "site": "www.bssnews.net",
+    "no_sites": 17,
+    "date_range": "2017-2020"
+  },
+  "4": {
+    "paper_name": "dailyObserver",
+    "site": "www.observerbd.com",
+    "no_sites": 236,
+    "date_range": "2014-2020"
+  },
+  "5": {
+    "paper_name": "dailySun",
+    "site": "www.daily-sun.com",
+    "no_sites": 848,
+    "date_range": "2014-2020"
+  },
+  "6": {
+    "paper_name": "dhakaTribune",
+    "site": "www.dhakatribune.com",
+    "no_sites": 1188,
+    "date_range": "2013-2020"
+  },
+  "7": {
+    "paper_name": "energyBangla",
+    "site": "energybangla.com",
+    "no_sites": 11,
+    "date_range": "2015-2020"
+  },
+  "8": {
+    "paper_name": "newAge",
+    "site": "www.newagebd.net",
+    "no_sites": 243,
+    "date_range": "2016-2020"
+  },
+  "9": {
+    "paper_name": "ntvbd",
+    "site": "en.ntvbd.com",
+    "no_sites": 8,
+    "date_range": "2016-2020"
+  },
+  "10": {
+    "paper_name": "prothomalo",
+    "site": "en.prothomalo.com",
+    "no_sites": 196,
+    "date_range": "2015-2020"
+  },
+  "11": {
+    "paper_name": "theAsianAge",
+    "site": "dailyasianage.com",
+    "no_sites": 128,
+    "date_range": "2015-2020"
+  },
+  "12": {
+    "paper_name": "theBangladeshToday",
+    "site": "thebangladeshtoday.com",
+    "no_sites": 10,
+    "date_range": "2019-2020"
+  },
+  "13": {
+    "paper_name": "theIndependent",
+    "site": "www.theindependentbd.com",
+    "no_sites": 249,
+    "date_range": "2015-2020"
+  },
+  "14": {
+    "paper_name": "theNewNation",
+    "site": "thedailynewnation.com",
+    "no_sites": 174,
+    "date_range": "2014-2020"
+  },
+  "15": {
+    "paper_name": "thedailystar",
+    "site": "www.thedailystar.net",
+    "no_sites": 2111,
+    "date_range": "2007-2020"
+  },
+  "16": {
+    "paper_name": "alokitobangladesh-bangla",
+    "site": "www.alokitobangladesh.com",
+    "no_sites": 97,
+    "date_range": "2015-2020"
+  },
+  "17": {
+    "paper_name": "bdPratidin-bangla",
+    "site": "www.bd-pratidin.com",
+    "no_sites": 384,
+    "date_range": "2014-2020"
+  },
+  "18": {
+    "paper_name": "bhorerkagoj-bangla",
+    "site": "www.bhorerkagoj.com",
+    "no_sites": 345,
+    "date_range": "2015-2020"
+  },
+  "19": {
+    "paper_name": "coxsbazarnews-bangla",
+    "site": "www.coxsbazarnews.com",
+    "no_sites": 34,
+    "date_range": "2018-2020"
+  },
+  "20": {
+    "paper_name": "dailyinqilab-bangla",
+    "site": "www.dailyinqilab.com",
+    "no_sites": 396,
+    "date_range": "2016-2020"
+  },
+  "21": {
+    "paper_name": "dailyjanakantha-bangla",
+    "site": "www.dailyjanakantha.com",
+    "no_sites": 232,
+    "date_range": "2015-2020"
+  },
+  "22": {
+    "paper_name": "dailynayadiganta-bangla",
+    "site": "www.dailynayadiganta.com",
+    "no_sites": 224,
+    "date_range": "2019-2020"
+  },
+  "23": {
+    "paper_name": "dailysangram-bangla",
+    "site": "www.dailysangram.com",
+    "no_sites": 138,
+    "date_range": "2014-2020"
+  },
+  "24": {
+    "paper_name": "dainikpurbokone-bangla",
+    "site": "dainikpurbokone.net",
+    "no_sites": 6,
+    "date_range": "2019-2020"
+  },
+  "25": {
+    "paper_name": "ittefaq-bangla",
+    "site": "www.ittefaq.com.bd",
+    "no_sites": 117,
+    "date_range": "2014-2020"
+  },
+  "26": {
+    "paper_name": "jaijaidinbd-bangla",
+    "site": "www.jaijaidinbd.com",
+    "no_sites": 38,
+    "date_range": "2018-2020"
+  },
+  "27": {
+    "paper_name": "jugantor-bangla",
+    "site": "www.jugantor.com",
+    "no_sites": 404,
+    "date_range": "2014-2020"
+  },
+  "28": {
+    "paper_name": "kalerkantho-bangla",
+    "site": "www.kalerkantho.com",
+    "no_sites": 879,
+    "date_range": "2014-2020"
+  },
+  "29": {
+    "paper_name": "mzamin-bangla",
+    "site": "www.mzamin.com",
+    "no_sites": 77,
+    "date_range": "2016-2020"
+  },
+  "30": {
+    "paper_name": "prothomalo-bangla",
+    "site": "www.prothomalo.com",
+    "no_sites": 1420,
+    "date_range": "2013-2020"
+  },
+  "31": {
+    "paper_name": "samakal-bangla",
+    "site": "samakal.com",
+    "no_sites": 224,
+    "date_range": "2014-2020"
+  },
+  "32": {
+    "paper_name": "sangbadpratidin-bangla",
+    "site": "www.sangbadpratidin.in",
+    "no_sites": 141,
+    "date_range": "2016-2020"
+  },
+  "33": {
+    "paper_name": "theDailySylheterDak-bangla",
+    "site": "sylheterdak.com.bd",
+    "no_sites": 49,
+    "date_range": "2016-2020"
+  }
 }
