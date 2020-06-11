@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_b03ac32d-d3c2-470f-9b00-4b57d3c9ed9c.txt",
+  "text": "Date Published:2019-05-14 00:00:00      \nThe US is among Bangladesh's top trading partners The economic and commercial ties between Bangladesh and the US will continue to grow rapidly if issues related to the investment climate, intellectual property, and the workforce are addressed. \"I am confident [about the growth of ties],\" said Acting Assistant Secretary of Commerce and Director General of the US and Foreign Commercial Service, Ian Steff.  He visited Dhaka from May 11-13 to participate in a 2019 Trade Winds Indo-Pacific Forum and Mission -- plus to promote US-Bangladesh trade and investment, reports UNB.  He encouraged Bangladesh to realise the full potential of the bilateral commercial relationship by removing remaining trade barriers and improving the ease of doing business.   Trade between the US and Bangladesh has doubled to more than $8 billion over the past decade, the US Embassy said on May 7, 2019. During his first visit to Dhaka, Steff met government officials and discussed intellectual property rights as well as other investment climate issues.  \"US and Bangladeshi business leaders are increasingly expanding their commercial ties and partnerships -- as evidenced by growing trade between our two nations and the strong participation of companies in our trade mission,\" he said.  On May 13, he met Prime Minister Sheikh Hasina's Private Industry and Investment Advisor Salman F Rahman and Energy Advisor Tawfiq-e-Elahi Chowdhury--as well as Commerce Secretary Mofizul Islam--to discuss ways to expand economic ties.  Bangladesh, with its population and economic growth, offers US companies a market of incredible potential with tens of millions of increasingly affluent consumers.   Trade Winds Indo-Pacific is the US Department of Commerce's first major trade mission to Bangladesh in recent history. The trade mission began on May 6 in New Delhi and concluded on May 13 in Dhaka.   The Trade Winds event facilitated meetings between 12 representatives of US companies and more than 40 business-to-business meetings with Bangladeshi companies.   Trade Winds, now in its 11th year, has directly supported more than $3.4 billion in US exports in over 40 countries; in 2018, US exports of goods and services to the Indo-Pacific region were more than $476 billion.   In 2017, the mission brought 100 companies to Southeast Europe and accounted for more than $3 billion in US exports.   Trade Winds has helped US companies conduct over 4,000 pre-vetted, business-to-business meetings and over 6,000 government-to-business meetings around the world."
+}

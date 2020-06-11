@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_0164ade0-a306-468a-8215-994eb9670781.txt",
+  "text": "Date Published:2019-04-14 00:00:00      \nBased on the eponymous film, 'Moana' is an adventurous, strong-willed, and headstrong teenager who sails out on a bold mission to save her people of Polynesia Scholastica Dance, Drama & Music Club members has staged their annual play 'Moana' at the STM Hall of the school's senior campus in Mirpur on Friday.  Media personality and Nagorik TV CEO Dr Abdun Noor Tushar was present at the event as the chief guest.  Senior Vice Principal & Head of Section Farah S Ahmed addressed the gathering. Under the direction of teachers, Subarna Sharmin and Sanuara Jahan Nitu, students from classes II to V performed in the play. Based on the eponymous film, 'Moana' is an adventurous, strong-willed, and headstrong teenager who sails out on a bold mission to save her people of Polynesia."
+}

@@ -1,0 +1,66 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun",
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1988_fa7cd7f3ec8b42efdf7e1f118c7d1681f03282cc.txt",
+  "text": "Killed by Quakes, Hurricanes, Inertia\n1988-09-15T05:00:00.000Z\nLEAD: The news brings us a series of shocks: Hurricane Gilbert, toll as yet unknown; the earthquake in Nepal, maybe a thousand dead. Who knows how many victims in floods of the Sudan and Bangladesh? Natural disasters of this kind have killed nearly three million people in the last 20 years and caused incalculable suffering and untold damage.\nThe news brings us a series of shocks: Hurricane Gilbert, toll as yet unknown; the earthquake in Nepal, maybe a thousand dead. Who knows how many victims in floods of the Sudan and Bangladesh? Natural disasters of this kind have killed nearly three million people in the last 20 years and caused incalculable suffering and untold damage. They've probably killed more people than the wars in Vietnam, Afghanistan or Iran and Iraq combined.\nAnd yet, many of these lives could have been saved through the use of the latest communications technology. Too often, it is either unavailable or just not applied.\nCommunication is essential not only for coordinating relief efforts and issuing warnings but also in preparing for calamities. Following a flood or earthquake, for example, relief agencies often operate in the dark, with no accurate idea of the terrain before the event, the nature and extent of the disaster, what help is needed and how to get it there. In countries with weak communications infrastructures, relief workers have no way of warning people of further problems, such as disease and pollution, and where they can get help.\nWith a little planning and common sense, much of the information gap could be closed. For instance, both the United States and the Soviet Union have deployed enormously costly satellite remote-imaging systems that could provide highly detailed maps of disaster areas before and after the catastrophe. These images would be far quicker and better than the pictures we are beginning to get from commercial imaging satellites, which are not usually available in time to be of much help.\nThe difficulty is that these intelligence systems are secret - so secret that even the discussion of how they might be useful is inhibited by the cloak of national security. Surely, the superpowers could figure out how to make data from their systems regularly available without compromising national security.\nThe media could make their contribution. Sometimes television companies deploy a communications ability far beyond what relief agencies can afford. In that case, prior agreement on the sharing of underused capacity ought to be routine.\nBut institutional and political problems get in the way. For instance, there is no international agreement expediting the free movement of emergency communications equipment across borders. A new international convention is needed to remove these administrative barriers.\nDespite tragic experience, there is still no recognized international clearinghouse of contacts, information and action in case of sudden disaster. There is no central data bank of available relief resources or maps of the world's terrain. Existing international agencies lack the assets and clout to coordinate effectively. And sometimes they don't really understand the new technology.\nRelief agencies need to know what the latest in communications can do for them, and satellite specialists need a real-world understanding of relief work on the ground. Much of the technology already exists and just needs to be adapted to additional tasks at reasonable cost. For example, there are sensors that can give early warning of impending disasters and small satellite earth stations that can be flown in during an emergency to re-establish national and international communication where local telephone systems have been destroyed.\nStill, little changes. Some of the barriers to action are political and some are just institutional drag. Some arise from a lack of understanding. Either way, the sad truth is that thousands of people will die in the next years, or even days, because we can't get organized to do all that we can to save them."
+}

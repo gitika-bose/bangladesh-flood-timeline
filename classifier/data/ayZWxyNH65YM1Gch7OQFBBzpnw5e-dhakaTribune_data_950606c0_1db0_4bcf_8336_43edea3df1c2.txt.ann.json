@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_950606c0-1db0-4bcf-8336-43edea3df1c2.txt",
+  "text": "Date Published:2020-04-15 00:00:00      \nWith this, Rangpur reported three Covid-19 cases so far A Malaysia returnee in Rangpur's Badargonj upazila has tested positive for coronavirus (Covid-19), making him the first such case in the upazila. Badargonj Upazila Nirbahi Officer (UNO) Nabirul Islam confirmed the matter to Dhaka Tribune around 8: 30pm on Wednesday. The 30-year old man, who returned from Malaysia to the upazila recently, went to Narayanganj where he stayed for one month. Few days ago, he came back from Narayanganj and started suffering from fever, cough, and respiratory problems, prompting health authorities to collect samples. They were later sent to Rangpur Medical College Hospital for testing.  On Wednesday, his reports came back positive, said UNO Nabirul Islam. The UNO also added that 10 houses around the patient's residence and a residential quarter of Badargonj Upazila Health Complex, where his brother lives, were put under lockdown. With this, Rangpur reported three Covid-19 cases so far, according to health authorities. "
+}

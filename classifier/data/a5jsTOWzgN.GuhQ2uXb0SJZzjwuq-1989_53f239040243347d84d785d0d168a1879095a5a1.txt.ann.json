@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1989_53f239040243347d84d785d0d168a1879095a5a1.txt",
+  "text": "A.T.&T. Plans 1.3% Rise In Long-Distance Rates\n1989-11-17T05:00:00.000Z\nEight months after the Government approved a method for setting long-distance rates that was expected to lower consumers' telephone bills, the American Telephone and Telegraph Company said yesterday that it would raise prices on domestic long-distance service.\nA.T.&T. said it planned to raise its rates for night and weekend calling an average of 1.3 percent on Nov. 29. The increase will raise about $34 million a year, it said, and cost customers 3 cents a month on an average residential telephone bill. Night and weekend calls are made between 11 P.M. and 8 A.M. weekdays, all day Saturday and until 5 P.M. Sunday.\nAlthough the rate increase is relatively small, consumer advocates said it could spell an end to the trend toward declining long-distance rates and might also set a precedent for A.T.&T. to put sudden rate increases into effect. New Regulatory Format\nA.T.&T. said the rate increase is allowed under the regulatory change approved by the Federal Communications Commission in March. That permitted the company to set its own prices for long-distance services within certain ceilings and floors prescribed by the agency.\nThe new regulatory format allows A.T.&T. to change its rates on 14 days' notice, instead of the 45 days required under the commission's previous form of regulation, which was known as the rate-of-return approach and limited A.T.&T.'s profit from its long-distance business.\nThe price caps allow A.T.&T. unlimited earnings from long-distance and give the company incentives to cut costs, the F.C.C. said; the floors prevent it from undercutting competitors.\nThe No. 2 and No. 3 long-distance companies, the MCI Communications Corporation and the U S Sprint Communications Company, respectively, are not subject to F.C.C. regulation and have generally offered long-distance service at rates slightly below those of A.T.& T. Rates Rising to Ceiling A.T.&T. said the price increase announced yesterday would bring night and weekend rates for residential consumers up to the ceiling of allowable rates. It said current long-distance rates were sharply lower than they would be under rate-of-return regulation.\nA.T.&T. said yesterday that its rates for business customers were priced at about 95 percent of the maximum allowed by the commission.\nDavid Wagenhauser, a spokesman for the Telecommunications Research and Action Center, a Washington consumer group, said the rate increase showed that A.T.& T. planned to keep rates for residential customers ''at the maximum'' while it offered business customers discounts.\n''It's Wall Street and not Main Street U.S.A. that is seeing the benefits of price caps,'' Mr. Wagenhauser said. ''This is just a signal of who will bear the brunt of the new system.''\nWhen the change in regulation took effect in June, residential long-distance rates dropped $97 million. They later fell an additional $48.8 million when the regional phone companies reduced the rates they charge long-distance carriers for connecting to their networks. F.T.C. Statement\n''The commission is never happy to see a rate increase of any kind and we will review it and makes sure that it complies with the established rules of the price cap system,'' said Richard Firestone, chief of the F.C.C.'s common carrier bureau. ''People should understand that this rate increase is just part of the system, and we fully anticipate that there will be future decreases in rates over time.''\nThe F.C.C. has said the new price-cap system will reduce long-distance bills by $900 million in the next four years, with $700 million going to residential customers and $200 million to businesses.\nA.T.&T. also said it planned both to raise and lower its rates for international calling, depending on the country called. Calls to Rumania, Suriname and Macao would increase 20 percent; calls to India would drop to $4.20 from $4.50 for the first minute and to $2.04 from $2.77 for each additional minute, and calls to Pakistan, Sri Lanka, Bangladesh and Nepal would drop to $4.45 from $4.90 for the first minute. The new international rates become effective Dec. 30."
+}

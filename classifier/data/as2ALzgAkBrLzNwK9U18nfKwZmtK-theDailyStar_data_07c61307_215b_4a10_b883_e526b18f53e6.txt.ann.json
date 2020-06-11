@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_07c61307-215b-4a10-b883-e526b18f53e6.txt",
+  "text": "Date Published:2020-04-24 00:00:00      \nApril 24, 1972  IMPORT POLICY ANNOUNCED The country's first import policy for the January-June, 1972 shipping period is announced today. Explaining the salient features of the import policy, Commerce Minister MR Siddiqui says that there will be no import of luxury items for the period. Although the aim of the government is to arrange import through government agencies as far as practicable, it has been decided to allow import in the private sector since the government agencies are not fully equipped to handle all the import requirements and since there is also a need to rehabilitate the trading community engaged in import business. The government has also decided to induct newcomers in the import trade for a number of items. Preference will be given to those newcomers who suffered during the Liberation War including those whose shops and business establishment were damaged. The list of importable items contains essential consumer goods, industrial raw materials, spares and components.  TV CORPORATION ABOLISHED  The government of Bangladesh has decided to abolish Television Corporation. Television will become an attached department of the Ministry of Information and Broadcasting. FARAKKA WILL BE DISCUSSED BM Abbas, Chairman of WAPDA and adviser of Prime Minister Bangabandhu Sheikh Mujibur Rahman on power and flood control, says that all aspects of the Farakka Barrage will be discussed at the high-level India-Bangladesh talks beginning in Dhaka on April 26, 1972 to safeguard the interest of Bangladesh. He adds that the interest of Bangladesh with regard to Farakka Barrage is to obtain from the Indian government a guarantee for a minimum quantum of water for use of Bangladesh. Referring to flood control, Abbas emphasises that joint action is essential to lower flood levels in Bangladesh and ensure increased dry weather flow in the rivers which may be possible through construction of storage dams in upper reaches of the major rivers lying in India. SSC EXAMS BEGIN The Secondary School Certificate examinations begin throughout Bangladesh today. The examinations were due to commence on April 22, 1971. The Pakistan occupation forces made an abortive attempt to hold the examinations in August 1971 in which a handful of candidates appeared. Results of the mocke of examinations were also published in October that year. However, the Bangladesh government declared the results of that farcical examination void in January 1972 and decided to hold the examinations afresh on the free soil of Bangladesh.   SOURCES: April 25, 1972 issues of Bangladesh Observer, Dainik Bangla and Ittefaq"
+}

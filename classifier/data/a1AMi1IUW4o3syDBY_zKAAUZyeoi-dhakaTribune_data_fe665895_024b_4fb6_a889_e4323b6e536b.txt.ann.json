@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_fe665895-024b-4fb6-a889-e4323b6e536b.txt",
+  "text": "Date Published:2019-11-05 00:00:00      \nThe planning minister said concerned experts from Bangladesh Army in cooperation with the experts from Russian Federation would implement the project The Executive Committee of the National Economic Council (Ecnec) has approved the Physical Protection System (PPS) Project for Rooppur Nuclear Power Plant with an estimated cost of Tk3,449.05 crore in a bid to ensure the security of the plant. The approval came at an Ecnec meeting, with its chairperson and Prime Minister Sheikh Hasina in the chair, held at the NEC Conference Room in the city's Sher-e-Bangla Nagar area on Tuesday. While briefing reporters after the meeting, Planning Minister MA Mannan said a total of 6 projects involving an overall estimated cost of Taka 4,447.76 crore were approved, reports BSS. \"Of the total project cost, Tk4,439.86 crore will come from the state exchequer while the rest of Tk7.90 crore will come from the organization's own fund,\" he said. Of the approved six projects, five are new while the other is a revised project. The minister said the Nuclear Security and Physical Protection System Cell and Bangladesh Army, Army Headquarters, GS Section (coordination) will implement the project by March 2023. The main project objectives include ensuring security to the Rooppur Nuclear Power Plant through implementing the physical protection system side by side, creating a supporting environment for generating safe and protected nuclear power. It also aims to face the risks generating from Design Basis Threat (DBT) or outside of DBT for the nuclear power plant. The planning minister said concerned experts from Bangladesh Army in cooperation with the experts from Russian Federation would implement the project. A bilateral protocol between Bangladesh and the Russian Federation was signed on September 17 last year and in light of that agreement, the project has been undertaken. According to the Planning Commission, establishing nuclear security infrastructures is indispensable for implementing any nuclear power plant project and it is also separate from the construction work of nuclear power plant. Besides, establishing an effective national nuclear security infrastructure is also very much important as a precondition for setting up a nuclear power plant. The main project operations include some 300 acres of land acquisition, 1214678 cubic meter of land development, public works for security and physical protection system."
+}

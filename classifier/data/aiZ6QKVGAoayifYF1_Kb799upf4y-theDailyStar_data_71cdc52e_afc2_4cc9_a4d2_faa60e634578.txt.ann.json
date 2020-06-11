@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_71cdc52e-afc2-4cc9-a4d2-faa60e634578.txt",
+  "text": "Date Published:2020-03-04 00:00:00      \nThe proposed Rajshahi BSCIC Industrial Estate-2 project has been revised for a third time, raising its cost by 31 per cent to Tk 172.70 crore. The Executive Committee of the National Economic Council (ECNEC) accepted the new proposal during a meeting chaired by Prime Minister Sheikh Hasina at the NEC conference room in the capital's Sher-e-Bangla Nagar yesterday. The project, which was initially estimated to cost Tk 128.81 crore, received the green light on March 22 in 2016 with construction expected to last from July 2015 to June 2018. The third revision was made to accommodate changes in layout, incorporate new components, lengthen the project's duration and re-estimate the civil work costs. The first revision saw costs increase by 2.27 per cent to Tk 131.74 crore and the second revision maintained the estimated expenditure while the project's duration was extended by a year. As of June 2019, the BSCIC spent Tk 87.23 crore, or 66.21 per cent of the cost. Some of the major activities to be undertaken for the project are the acquisition of 50 acres land, construction of a two-storey building, a pump house and pump driver quarter, entry gate and boundary wall, and setting up of a deep tube-well and water pipeline. The project is expected to create 5,000 jobs. The meeting also approved the expansion and modernisation of the Amin Bazar landfill at a cost of Tk 786.26 crore. The Dhaka North City Corporation (DNCC) will implement the project, for which development will begin in July 2020 and end in June 2023. Under the accepted scheme, the DNCC will set up new landfill sites, incineration plants and infrastructural facilities on 80 acres of land for the resource recovery and disposal of medical waste. The DNCC will also develop an environment-friendly and hygienic way to collect, transport and dump waste materials. At the resource recovery facilities, wastes will be recycled to produce biogas and organic fertilisers. The ECNEC also approved five more projects: emergency water supply; widening and strengthening of the Sheikhpara (Jhenaidah)-Shoilakupa-Langalbandh (Shreepur)-Wapda district highways; protecting the right bank of the Jamuna river from Munshiganj to Khanpura and Kazirhat to Rajdardia of Bera upazila of Pabna; protecting the left and right banks of the Dharala river, including flood control in Kurigram sadar, Rajarhat and Fulbari upazila; and protecting the Padma river from erosion in Charbagdanga and Shajahanpur in Chapainawabganj district."
+}

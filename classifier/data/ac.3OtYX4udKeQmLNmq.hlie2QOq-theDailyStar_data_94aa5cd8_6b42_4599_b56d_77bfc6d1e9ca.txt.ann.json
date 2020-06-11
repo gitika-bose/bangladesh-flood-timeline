@@ -1,0 +1,96 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_56": {
+      "value": "insurance article!",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 0,
+          "text": "Date Published:2019-05-19 00:00:00      \nFeisal Hussain, Team Lead, BFP-B\n Weather index-based insurance is one of BFP-B's"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    }
+  ],
+  "relations": [],
+  "filename": "theDailyStar_data_94aa5cd8-6b42-4599-b56d-77bfc6d1e9ca.txt",
+  "text": "Date Published:2019-05-19 00:00:00      \nFeisal Hussain, Team Lead, BFP-B\n Weather index-based insurance is one of BFP-B's 30 live innovation-investments in Bangladesh. We do rigorous impact assessments to see how the business models are faring. We have completed the assessment of the weather index-based insurance model and have identified the opportunities and challenges the business model presents for the insurance industry, the government of Bangladesh and other private sector actors. One of the crucial challenges is that investments in business models to support agricultural insurance is being held back, given complex and time-consuming regulatory approvals are required across multiple regulators. For example, viable business models require partnerships between insurance companies (regulated by IDRA) and channel partners such as MNOs (regulated by BTRC), MFIs (regulated by MRA), payment service providers (regulated by Bangladesh Bank), and weather data providers (regulated by the meteorological department).  Can we have a one-stop shop (OSS) for insurance companies through for instance, BIDA, where investors in agricultural insurance can secure approval for all regulatory requirements conveniently, efficiently and predictably? Farzanah Chowdhury, MD & CEO, Green Delta Insurance Company Limited\n Agriculture is one of the key driving forces of our economy. More than 72 million people are engaged in the agriculture sector. Its contribution to GDP is around 14 percent. In 2015, we started a pilot project with International Finance Corporation (IFC) to mitigate the risk of financial loss in the cultivation process, thus helping the farmers in risk coverage. IFC has helped us create historical weather data grid and Bangladesh Meteorological Department (BMD) has also supported us by providing historical data from 1981. In 2016, we joined hands with BFP-B. We have covered more than 15,000 farmers through awareness and policies who possess 5,000 acres of land and settled claims of 3,200 farmers till date. One of our unique features is quick claim settlement with an easy and transparent process. The momentum has already been created but we need to create more awareness not only among farmers but also among seed companies, NGO/MFI, banks, input retailers and policymakers about weather-based insurance products. We need robust support from the Ministry of Agriculture, and the government should provide incentives to private organisations to invest in this critical sector. We believe that agri insurance will be the game changer in the insurance sector. We are using the satellite data to track the weather conditions of the insured areas but currently we are dependent on international weather data service provider which is very costly. If we can develop a platform where researchers, practitioners and development partners work together, we can cut down the cost of weather data procurement to one-third of the present cost.   Ali Tareque Parvez, Senior Vice President, Green Delta Insurance Company Limited\n The weather index is basically a weather parametric index with a predetermined trigger point based on historical weather data. We have historical weather data since 1981 coupled with satellite data. We analyse this data, prepare the term sheet and take up coverage collaborating with our distribution partners and finally settle the claims. It is a comprehensive business model that combines multiple channel partners to reach the marginal farmers. We customise our insurance products according to the requirements of customers, so that it is beneficial for their investments. Our system operates in a way that avoids the need for on-site damage verification on a case-by-case basis and eliminates the need to collect payout claims from farmers. We have interpolated data stations in each 10 square kilometers which inform us about the weather in specific locality. Currently, we have more than 1,477 such stations. So far, we have covered perils like droughts, unseasonal rainfall, heavy rain, cold wave, humidity, high temperature etc. We have provided insurance for various cash crops such as industrial potatoes, vegetables, hybrid rice and so on. In 2016, and 2017 we insured against heavy rainfall. According to our offer, farmers could claim payouts if the rainfall was of 16mm. During the period the rainfall was 125mm. We settled the farmers' claims fast, and it helped us gain confidence of the farmers. We arranged a programme in the presence of the then State Minister for Finance and Planning, MA Mannan and IDRA Chairman and local authorities and handed over the claims to the affected 1,000 farmers. In 2018, there was an unprecedented cold wave and we settled claims of 2,000 farmers. Through Value Added Services, enrolled farmers get a weather forecast for seven days and crop advisory in Bangla. We have also launched a toll-free number where farmers can call for any agriculture-related queries. We are trying to cover new areas and new cash crops. For that, we have partnered with distinguished stakeholders such as Info Corp, Syngenta, CARE Bangladesh; there are many more on the pipeline to broaden our service spectrum. If we get adequate support from the government, we can achieve highest coverage of weather index- based insurance products. We are also working on Flood Index Based Crop Insurance in the northern part of Bangladesh and in the haor region with the support of Ministry of Finance, IDRA & SBC. Future technology driven products such as satellite products, germination coverage, bundle with service providers etc. need to be introduced. We should also cover natural disasters such as hailstorm and flash flood. However, as Bangladesh has different weather calamities and parameters like temperature, humidity, sunshine hour, only satellite data will not work. We need to track different types of weather parameters to successfully implement agri insurance across the country.   Muhymin Chowdhury, Deputy Challenge Fund Manager, BFP-B\n We wanted to test whether there is a need for weather index-based insurance. After doing the end-line assessment, we saw that there is a strong need for such a product, and it should be replicated in the market. We have also discovered how insurance companies can partner with field-level players such as farmers' hub and agro-input retailers. Another key finding is that farmers are keen to pay for insurance if the product can address their pain points. When we piloted this project most of the heavy-lifting was done by Green Delta as there is a lack of an appropriate ecosystem to support agricultural insurance market. Due to the absence of structured crop data, Green Delta had to develop crop data through engaging farmers and the Ministry of Agriculture. Green Delta had to undertake a lot of awareness activities to promote the benefits of having weather index-based insurance. There is a willingness to deliver the value, but this willingness is restrained by the high-capital expenditure and operational cost of launching these products. One of the major cost components of launching weather index-based insurance is weather data (37 percent of the total cost of launching a product). Bangladesh Meteorological Department's infrastructure is not available across the country which limits the ability to get government-supplied data. Hence there is an increasing reliance on international weather service providers which is pushing up the cost and limiting the value of the insurance product. There is a misunderstanding about the market potential. The agricultural insurance market is twice the market size of e-commerce. If you look at the total portfolio of non-life insurance companies in Bangladesh, the agri-insurance market would be comparable to the entire sector. There is huge potential of this agri-insurance sector, and the benefit can only be achieved if we can ensure strong coordination between the insurance industry and other relevant stakeholders. There is also an absence of competition and cooperation within the insurance sector.   Shubasish Barua, Head of Product Development & Executive Vice President, Green Delta Insurance Company Limited\n India has made it mandatory for all the insurance companies to do 7 percent business through crop insurance. It has proved to be successful in promoting agri-insurance and supporting farmers. Bangladesh can learn from the example. As per insurance Act 2010 the non-life insurance companies are not allowed to have any corporate agent agreement with any corporate agent. Now if any MNO is interested to provide crop insurance, and deduct the premium from usage, they won't be able to do it as they are not the  authorised premium collector/Agent. Same is applicable for MFIs as agent.  We need to reform the law so that non-life insurance companies can get the same opportunity as life insurance companies.  Moreover, if an insurance company wants to be a content provider to an MNO, they need to have TVAS (Telecom Value Added Service) license from BTRC. An insurance company is not allowed to obtain that license. In that case, they need a fourth party to work as a TVAS content provider which will increase the cost further. IDRA may support us in increasing the insurance awareness and reaching the mass  people with crop insurance by allowing an MoU agreement between NGO/ MFI/MNOs and insurance service providers   Dr. Shameem Hassan Bhuiyan, Consultant, World Bank\n If we can build a strong weather database and necessary infrastructure, we can lower the cost. We have already established 20 weather stations in Bangladesh. But that is not enough for collecting data on the whole country. A weather station can cover only a 20 km radius. If the private sector joins hands with us, we can build a strong weather database and necessary infrastructure for the whole country. The main component for weather index based insurance is real-time location-specific data, not forecast. As per World Meteorological Organization (WMO) recommendations, one Automatic Weather Station (AWS) is required for covering a 10km radius for ensuring accurate and transparent weather data. Through AWS database, every farmer can see the current weather situation. One-stop service (OSS) is a new phenomenon. It has already been established in some sectors such as Bangladesh Investment Development Authority (BIDA) and Bangladesh Economic Zones Authority (BEZA). The industry-promoting agencies have all opened OSS to keep pace with the current demand for OSS. Though our insurance industry is an emerging sector, it still has a long way to go. Our insurance companies have less than one percent coverage while other countries have approximately five percent coverage. Therefore, attention is required to increase the coverage in our country. The government is very accommodating and keen for the insurance sector to grow.     Md. Arafat Hussain, Challenge Fund Manager, BFP-B\n In Africa there are some AWS solutions that costs less than USD 200. In these AWSs, four or five sensors are combined in a small device. We can easily adopt this solution in Bangladesh.       Ahmed Ali, Co-founder, MARS Limited\n We provide weather data for almost all areas of the country. Our forecast accuracy level is more than 93 percent. We work with tea estates, tobacco companies and farmer communities. We have bought two AWS (tile basis) from Canada, each of which cost TK 25,000. If we set it up in Khulna, we can monitor data from our office.             AKM Iftekhar Ahmad, Consultant, Green Delta Insurance Company Limited\n The success story of crop insurance in India is due to patronisation and cooperation of the government of India. Bangladesh's crop insurance also requires the support and patronisation of the government. All the loan giving agencies including microfinance in agri sector needs to be brought under insurance. This will generate higher premium and encourage farmers to join the insurance umbrella.           M. A. Karim, Deputy Manager, Sadharan Bima Corporation\n Sadharan Bima Corporation has tested crop insurance on potato and rice in three areas. It has been found scalable and viable. Also, in the SBC project, 20 AWS (Automatic Weather Station) has been installed in two districts. It is high time for Bangladesh to scale up crop insurance, and a common platform is required for weather data support.             Md. Moneruzzaman, Head of Pricing, Banglalink\n We can support any positive initiative through our distribution system. Currently, we are working with BRAC to distribute different products in deep rural areas.             Gokul Chand Das, Member, IDRA\n The Insurance Act states that it is not possible to do insurance business in Bangladesh without obtaining license from IDRA. Many countries have policies to cover the loan book of the borrower by non-life insurance companies. We simply need to collaborate with the banks. When banks roll out their credit, insurance companies can be there to provide insurance. There are some differences in the types of crop insurance services provided by the insurance providers in our country. For instance, the finance minister directed us to have crop insurance in the low-lying haor areas of Bangladesh. But, companies such as Green Delta Insurance Company and SBC Insurance don't have experience of working in these vulnerable areas which badly require crop insurance or catastrophe insurance. If we want to expand these types of insurance throughout the country, we need to create a win-win situation for both the insurance providers and customers.         Afsana Islam, Deputy Team Leader, Growth & Private Sector Development, DFID\n The importance of agriculture is critical for our economy. We must find ways to provide funding to our farmers. Bangladesh is committed to achieving the SDGs. In this context, one of our goals is to provide people with appropriate financial services. This doesn't involve providing these services solely through banks or MFIs. We need to ensure that they don't get adversely affected by losses arising from instances like natural calamities. Though insurance is an important product, its penetration is quite low in our country. So, the question is, how can we make the insurance market more attractive to the users? And how can we ensure that we provide such services to those who need it the most? The current market requires a one-stop shop(OSS) for demand-driven solutions. I think FID can take the central authority by being the regulator or reporting body of all the regulators; they can take the driving seat to provide solutions which will benefit everyone in the market.   Ajit Kumar Paul, Additional Secretary, FID, Ministry of Finance\n There is a committee known as the co-ordination committee chaired by the central bank governor. A meeting is held on a quarterly basis with Bangladesh Bank, other banks, insurance sector, micro-credit regulatory authorities, registrars of joint stock companies and some other coordinators and regulators. The issue of OSS can be raised in the forum. IDRA has been instructed to implement agriculture insurance in the haor areas. We need to focus on supporting people suffering in haor areas due to such natural disasters and the Government is taking various steps to help them. We are also holding talks with multiple insurance companies in this regard. The government has implemented the VAT law to accommodate people. I would request the organisations present here to make recommendations as to how we can be more accommodating and can resolve the VAT issues. All the concerns will be adjusted in the upcoming budget.  "
+}

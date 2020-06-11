@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_d09ec76b-1991-4606-b4c2-0a33727e1ccd.txt",
+  "text": "Date Published:2019-06-24 00:00:00      \nThe ill-fated lost their lives and 67 others got injured when five bogies of Dhaka-bound Upaban Express train-- coming from Sylhet-- veered off the tracks Five people met their deaths in a train accident in around 11:40pm on Sunday. The ill-fated lost their lives and 67 others got injured when five bogies of Dhaka-bound Upaban Express train-- coming from Sylhet-- veered off the tracks after a culvert over the Barochhara Canal broke down. Two of the bogies fell into the canal and one of them overturned, while the other bogies remained tilted."
+}

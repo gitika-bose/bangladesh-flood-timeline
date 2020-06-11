@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_f42304ac-bdd1-4224-9137-f0e23ec04500.txt",
+  "text": "Date Published:2020-03-29 00:00:00      \nLocals claimed he was missing as he was absent from duty from March 26, amid the ongoing coronavirus pandemic A doctor from Gangni Upazila Health Complex in Meherpur is to face action as he was absent from duty for three days without informing his superiors, says source. Locals claimed he was missing as he was absent from duty from March 26, amid the ongoing coronavirus pandemic.  However, Dr Shamsul Arefin, the medical officer of the hospital, said he was absent from the hospital as he was sick. Dr Riajul Alam, Gangni upazila health and family planning officer, said: \"We contacted him over phone and learnt that he is residing at his village home in Khoksa, Kushtia. We are taking departmental action against him.\" While speaking to Dhaka Tribune over phone, Dr Shamsul said: \"I have been an asthma patient since childhood. I cannot continue my job anymore due to the condition and this was notified to the higher authorities.\""
+}

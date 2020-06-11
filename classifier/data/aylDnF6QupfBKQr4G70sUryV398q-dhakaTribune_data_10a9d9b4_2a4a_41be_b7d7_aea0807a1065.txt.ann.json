@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_10a9d9b4-2a4a-41be-b7d7-aea0807a1065.txt",
+  "text": "Date Published:2020-05-01 00:00:00      \nEnd-of-life vessel, carrying 1500 tons of toxic waste from oil extraction process, heading to Chittagong Environmental rights activists have urged Bangladesh to stop the import of a toxic ship for scrapping at breaking yards the Chittagong. Floating storage and offloading tanker J. Nat, which was used by offshore oil and gas companies, left Indonesian water on April 18 even though local activists warned Indonesian authorities about the toxicity of the vessel, says the NGO Shipbreaking Platform. \"Official documents indicate that the tanker has more than 1500 tons of hazardous waste from the oil extraction process onboard, including 1000 tons of slop oil, 500 tons of oily water and 60 tons of sludge oil contaminated with high concentration of mercury,\" reads a statement by the Platform released on Apr 29.  The vessel likely also contains high amounts of mercury in its structures as well as in ballast waters, it added. As most of the shipbreaking yards use the blow torch method to cut vessels, the high concentration of mercury in the steel hull of J. Nat risks the inhalation of mercury vapour, says the Platform. Exposure to it, even at low levels, has been linked to central nervous system damage, kidney and liver impairment, reproductive and developmental disorders, defects in foetuses and learning deficits, according to the statement.  \"Mercury is a naturally occurring element present in virtually all oil and gas fields. Concentrations are especially high in the South American and East Asian regions,\" it quoted Ingvild Jenssen, executive director and founder of NGO Shipbreaking Platform. Citing a recent court judgement on the illegal import of another oil and gas unit -- North Sea Producer, the rights body said the Bangladesh Supreme Court denounced the fraudulent documents claiming the vessel was toxic-free, when it was contaminated by radioactive substances. The court had then called for full transparency on toxic material in end-of-life vessels brought in to the country.   \"In light of the recent judgment on the North Sea Producer, there is no scope to give any authorization for import, beaching, and breaking of the J. NAT. It is public knowledge that Bangladesh will not be able to deal with the hazardous waste flow downstream. The vessel will simply flood our shores with toxic substances and expose our workers to deadly risks,\" the statement quoted Syeda Rizwana Hasan, director of Bangladesh Environmental Lawyers Association. With many units to be decommissioned in the next few years, it is high time that the oil and gas industry collectively seeks sustainable solutions for the recycling of its floating units, said the Platform's founder Jenssen.  \"All actors involved in the oil and gas supply chain, directly or indirectly, have the responsibility to not cause harm to workers and the environment in developing countries.\""
+}

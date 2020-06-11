@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_5905da45-e6eb-44e9-8683-98b746be309c.txt",
+  "text": "Date Published:2020-02-27 00:00:00      \nThe students gave an ultimatum of a month to the university authority and if their demands are not met within, they will increase their movement to save the campus Students of Chittagong University on Thursday formed a human chain and brought out a rally protesting the indiscriminate felling of trees and razing of hills on the campus. Carrying placards demanding stoppage of the illegal tree felling and hill razing, students formed the human chain in front of the Shahid Minar. Later, they brought out a rally and paraded around the campus. Protesting students said Chittagong University is known for its panoramic beauty surrounded by hills and forests. But some unethical businessmen are cutting down trees and razing hills for transportation. \"From now, students will intercept the vehicles laden with felled trees,\" said Ritu Roy of Institute of Forestry and Environmental Science. The students gave an ultimatum of a month to the university authority and if their demands are not met within, they will increase their movement to save the campus, they said. The students also submitted a memorandum with a seven-point demand to the Proctor of the university demanding punishment for the responsible people who are behind this crime. Meanwhile, a two-member team from Department of Environment (DoE) visited the campus and found evidence of felling trees. Based on the evidence, the DoE served a show-cause notice to the Estate Department and Security Department of the university, timber traders Md Hanif and Md Bazlu. According to a media report, more 7,000 trees have been felled in the last four years on the campus. "
+}

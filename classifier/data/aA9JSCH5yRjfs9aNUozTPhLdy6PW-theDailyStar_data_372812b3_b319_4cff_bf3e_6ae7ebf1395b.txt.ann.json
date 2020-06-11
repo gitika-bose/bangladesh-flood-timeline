@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_372812b3-b319-4cff-bf3e-6ae7ebf1395b.txt",
+  "text": "Date Published:2020-04-29 00:00:00      \nApril 29, 1972 FOREIGN TROOPS SHOULD QUIT VIETNAM: BANGABANDHU Bangabandhu Sheikh Mujibur Rahman today says in Dhaka that foreign troops should be withdrawn immediately from the soil of Vietnam. Talking to BSS, the prime minister says that the people of Vietnam should be allowed to decide their own fate. He adds that the whole world is concerned over the situation in Vietnam. Bangabandhu further says, \"I am sure that the peace-loving people of the world, particularly the democratic people of the USA, are in favour of the struggling people of Vietnam.\" INDIA-BANGLADESH ACCORD TO SHARE WATER RESOURCES Bangladesh and India agree to set up a joint power coordination committee in order to share the power resources of the two countries for mutual benefit. Disclosing this at a press conference held today at the conclusion of the first minister-level meeting on water and power resources between the countries, Dr K L Rao, Indian minister for irrigation and power, says that the two governments have already agreed that Tripura and Mizoram of India would receive power from Bangladesh whereas Jessore and some other northern districts of Bangladesh would receive power from West Bengal of India. Dr Rao further informs that the formation and terms of reference of the Joint River Commission have been discussed and agreement reached. The matter would now be finalised by the two governments, he adds. Steps for coordinating flood forecasting and cyclone warning have also been discussed. Meteorological data will be exchanged between the two countries. The question of sharing the water of Ganges, Teesta and other common rivers between Bangladesh and India have also been taken up at the minister-level talks. Dr Rao says that it has been decided that the subject will be discussed at the prime minister level. Earlier, Dr Rao called on Bangabandhu at Gonobhaban and had a 30-minute discussion with the prime minister.   NO TALKS UNTIL PINDI RECOGNISES BANGLADESH Bangabandhu firmly stands by his previous stand that there is no question of joining talks with Pakistan unless it accepts the reality of Bangladesh. Commenting on a Pakistani report that the Indo-Pak summit would be held in Delhi in four or five weeks' time and that Bangabandhu might also take part in the talks, a source close to the Bangladesh government says today that there can be no talks, no discussion and no summit with Pakistan until and unless Bangladesh is recognised as a sovereign people's republic by Pakistan.  SOURCES: April 30, 1972 issues of Bangladesh Observer, Dainik Bangla and Ittefaq"
+}

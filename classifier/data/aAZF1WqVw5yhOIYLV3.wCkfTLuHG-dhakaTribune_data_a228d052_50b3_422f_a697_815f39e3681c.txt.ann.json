@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_a228d052-50b3-422f-a697-815f39e3681c.txt",
+  "text": "Date Published:2019-05-20 00:00:00      \nA $2.5 billion deal is to be signed between the two countries Japanese Ambassador to Bangladesh, Hiroyasu Izumi, has assured Prime Minister Sheikh Hasina of his country's continued support to Bangladesh's efforts for economic prosperity. The Japanese envoy made the assurance when he met the Bangladeshi premier at her official residence Ganabhaban, on Monday, reports UNB. Prime minister's Press Secretary Ihsanul Karim briefed reporters after the meeting. Ihsanul said the Japanese envoy informed Prime Minister Sheikh Hasina that during her upcoming visit to Japan, the 40th Official Development Assistance (ODA) agreement of $2.5 billion will be signed, which is 35% higher than the one made in 2018.  The Japanese ambassador said the next five years will be important for Bangladesh. He then apprised of the progress of the coal-fired 1200MW Matarbari Power Plant project in Maheshkhali upazila of Cox's Bazar. Mentioning that Japan is a great friend of Bangladesh, Prime Minister Sheikh Hasina recalled the contributions of Japan in the economic development of the country and construction of  Rupsha Bridge during Bangabandhu's regime, right after Bangladesh's independence. Among others, Principal Secretary M Nojibur Rahman, Principal Coordinator on SDG Affairs of Prime Minister's Office Md Abul Kalam Azad and PMO Secretary Sajjadul Hassan were also present at the meeting."
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_160dbf49-d725-422e-9f3a-5a5fd15a66ed.txt",
+  "text": "Date Published:2019-08-08 00:00:00      \nThe rail service through Santaher-Lalmonirhat route that connects Dhaka and northern districts resumed today 22 days after it was suspended due to flood. Intercity train Lalmoni Express from Dhaka passed through the route in Gaibandha this morning, our Gaibandha correspondent reports quoting Abul Kashem, station master of Gaibandha Rail Station. The six-kilometre rail tracks stretching from Badiakhali to Trimohoni was damaged by the flood water 22 days ago, according to railway source. Additional labourers have been deployed to provide all technical support to restore rail communications on other damaged routes before Eid-ul-Azha festival, station master Kashem said. On July 17, rail tracks on 40 points along the six kilometres between Badiakhali and Trimohoni stations were damaged due to onrush of water from upstream. Following this, the railway authorities suspended the rail communication on the route. Since then, the authorities alternatively restored partial train service from Gaibandha and Bonarpara stations and Dhaka bound Lalmoni Express and Rangpur Express used Parbatipur-Santaher route as an alternative way."
+}

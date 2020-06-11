@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_1964fb57-6da6-4b82-be6d-f3578dffbdeb.txt",
+  "text": "Date Published:2020-05-19 00:00:00      \nFifty times stronger than heroin and up to 100 times more potent than morphine, fentanyl can be lethal from as little as two milligrams Myanmar has made Southeast Asia's largest-ever seizure of synthetic drugs in raids that revealed the \"unprecedented\" production of opioids in an area notorious for pumping out heroin and meth, the UN said Monday. Between February and April, authorities swooped on labs in the lawless Kutkai area of Shan State, seizing nearly 200 million meth tablets, 500 kilograms (1,100 pounds) of crystal meth, some 300 kgs of heroin, and 3,750 litres of methyl fentanyl. The United Nations Office on Drugs and Crime described the haul as one of the largest and most successful counter-narcotics operations in the history of the region. \"What has been unearthed through this operation is truly off-the-charts,\" UNODC Southeast Asia and Pacific representative Jeremy Douglas said in a statement. The production network could only have been possible with the backing of serious transnational criminal groups, he added. The raids unearthed \"unprecedented\" methyl fentanyl, the sign of a new trend of synthetic opioid production emerging \"on a scale nobody anticipated\", said Douglas. Fifty times stronger than heroin and up to 100 times more potent than morphine, fentanyl can be lethal from as little as two milligrams -- the equivalent of a few grains of sand. It has fueled an opioid crisis in the US which killed 32,000 people in 2018.  Myanmar is under pressure to stem the deluge of drugs from its freewheeling border regions. Shan State is part of the \"Golden Triangle\" -- a wedge of land cutting into Myanmar, Laos, China and Thailand and virtually untroubled by authorities despite its multi-billion-dollar trade. Myanmar is the world's second-biggest producer of heroin after Afghanistan, and is now widely thought to be the largest global source of meth, fueled by the flood of pre-cursor chemicals from China. Cheap, caffeine-cut \"yaba\" pills -- Southeast Asia's favorite high -- are pushed regionally, prices tripling as they cross borders into Thailand and Malaysia. The more addictive crystal meth, or \"ice\", is smuggled to Tokyo, Seoul or Sydney, where it sells for around $150,000 a kilo on the streets. \"Made-in-Myanmar\" drugs are trafficked south through Thailand, north into China and west towards Bangladesh -- a cascade of stimulants overwhelming regional policing efforts and seeding a crisis of addiction, corruption and money laundering. Thirty-three people were arrested in the operations with authorities vowing to bring to justice criminal groups, traffickers and accomplices. Colonel Zaw Lin from Myanmar's anti-drugs police acknowledged the challenges ahead, but said the traffickers' \"days of operating... are numbered.\""
+}

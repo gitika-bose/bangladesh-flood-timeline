@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_599d2f87-7469-4628-9dd7-c0b025e9e52f.txt",
+  "text": "Date Published:2019-01-23 00:00:00      \nRecalling the long history and close relations between the two countries, Malikzad said his country is keen to promote trade and business relations with Bangladesh Newly appointed Afghan Ambassador to Bangladesh Abdul Qayoom Malikzad on Wednesday requested Prime Minister Sheikh Hasina to reopen Bangladesh's diplomatic mission in Kabul, to renew the historical and cultural relations between the two countries. The ambassador made the request when he made a courtesy call on the premier at Ganabhaban in Dhaka on Wednesday, said PM's Press Secretary Ihsanul Karim, reports BSS. Recalling the long history and close relations between the two countries, Malikzad said his country is keen to promote trade and business relations with Bangladesh. Afghanistan was one of the first countries that recognized Bangladesh after its independence, he said, appreciating Bangladesh's economic progress and graduation from the LDC to the status of developing countries. Welcoming the newly appointed Afghan Ambassador in Dhaka, Prime Minister Sheikh Hasina stressed strengthening the trade relations between Dhaka and Kabul, saying that Bangladesh gives value to relations with its neighbours. Bangladesh imports a huge amount of dry foods from Afghanistan every year and Afghanistan can import high quality medicine from Bangladesh, she said. Congratulating Sheikh Hasina for her party's victory in the last general election, the Afghan envoy underscored the need for strengthening cooperation between the two countries, especially between its chambers of commerce. Sheikh Hasina said people voted for her party as they benefit when the Awami League comes to power. She said her government is running the country with commitment to meet the basic needs of people, as dreamt by Bangabandhu Sheikh Mujibur Rahman. In this regard, the prime minister highlighted her government's social safety net program for the marginalized people, saying financial support is being provided for promotion of education of poor families and distressed people under the program. Sheikh Hasina also drew a line between the economic progress of Bangladesh and Pakistan after the independence.  \"After the independence, the exchange rate of Bangladeshi Taka and Pakistani Rupee was 1.56 and 1.00. Now the rate is 1.00 and 1.66,\" she said. The Afghan envoy informed the prime minister that the two countries are waiting to sign five memorandums of understanding (MoU). He also informed the prime minister that democracy in his country is progressing and expressed his willingness to import more pharmaceutical items from Bangladesh. Principal Secretary Md Nojibur Rahman and PMO Secretary Sajjadul Hasan were also present."
+}

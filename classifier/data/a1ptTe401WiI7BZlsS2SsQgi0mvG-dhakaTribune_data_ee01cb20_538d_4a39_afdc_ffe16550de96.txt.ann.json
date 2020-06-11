@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_ee01cb20-538d-4a39-afdc-ffe16550de96.txt",
+  "text": "Date Published:2020-03-04 00:00:00      \nThe crisis is so severe that the government has declared a nationwide emergency and urgently appealed for help from the international community Pakistan's farmers are struggling to combat the worst locust plague in nearly three decades as insect swarms decimate entire harvests in the country's agricultural heartlands and send food prices soaring. Heavy rains and cyclones sparked \"unprecedented\" breeding and the explosive growth of locust populations on the Arabian peninsula early last year, according to the United Nations. The insects have since fanned out and wreaked havoc on farms from East Africa to India before making their way into Pakistan from the desert on the country's southwestern border with Iran.  The crisis is so severe that the government has declared a nationwide emergency and urgently appealed for help from the international community.  Officials in southern Sindh province fear the infestation will devastate the supply of cotton, the local cash crop, ahead of its harvest in the coming months.  Local surveys of the damage are continuing, but the Sindh Chamber of Agriculture says nearly half of all crops have been destroyed near the port city of Karachi. \"I have not seen an infestation like this one in my career,\" said Shehbaz Akhtar, an agricultural official charged with locust eradication efforts in the village of Pipli Pahar in central Punjab province. 'Combat operation' Local authorities had \"launched a combat operation\" to clear the area of infestation with pesticide sprays, he said.  Clouds of the noxious gas envelop the nearby fields each morning, where villagers gather the husks of dead insects for an official bounty of Rs20 rupees per kg bag. \"We spray twice a day here,\" says Fayyaz Azeem, clad in a face mask and thick industrial gloves on top of a tractor discharging pesticide into rows of crops. But the process is slow and time-consuming, and by the time locusts are killed off in one field they have often already destroyed the next. The pesticides used by officials are also dangerous for consumption, so even when the locusts are dead the remaining crops have to be discarded. Some farmers have been forced to opt for more desperate solutions while waiting for their fields to be sprayed and have attempted to scare off the swarms by shouting and banging pots.  A team of Chinese experts has arrived in Pakistan to survey the crisis, food security ministry chief Muhammad Hashim Popalzai told AFP. Beijing could also offer aerial spraying - a much faster and more efficient method of pest control - and Pakistan may also import pesticides from China. Earlier reports circulating online suggested China was planning to send thousands of ducks to Pakistan to devour the scourge. Pakistani officials said no such plans were being considered. The UN Food and Agriculture Organization has also set up meetings between India and Pakistan to prevent the swarms from spreading, Popalzai said. 'What can I do?' Agriculture accounts for 20% of Pakistan's GDP but the sector has already struggled for years in the face of drought and dwindling water supplies. The country is also experiencing 12-year inflation highs, with the cost of sugar nearly doubling and flour prices jumping 15% in the past year. Years without a locust attack meant the government \"had become complacent\" about the risks of a new infestation, said Pakistan Farmers Bureau president Zafar Hayyat. Though he applauded the steps being taken to fight the plague, Hayyat warned of the risk that swarms would return mid-year after the next locust breeding season.  For many farmers in Pipli Pahar, the extermination campaign has already come too late.  Sitting in the corner of a wheat field with her cow, Rafiya Bibi watches the flurry of pesticide spraying around her.  The locusts have already destroyed her crops of canola, sunflower, chili and tobacco, which she had bought after borrowing 45,000 rupees from the government. With no harvest, she has no way to repay the loan."
+}

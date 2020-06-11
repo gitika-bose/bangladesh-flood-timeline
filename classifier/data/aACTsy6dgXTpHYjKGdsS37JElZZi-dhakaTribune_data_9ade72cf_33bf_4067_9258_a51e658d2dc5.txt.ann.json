@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_9ade72cf-33bf-4067-9258-a51e658d2dc5.txt",
+  "text": "Date Published:2020-01-06 00:00:00      \nSoleimani's remains and those of five other Iranians - all Guards members - killed in the US drone strike had arrived at Ahvaz airport before dawn Mourners flooded the Iranian cities of Ahvaz and Mashhad on Sunday, weeping and beating their chests in homage to top general Qasem Soleimani who was killed in a US strike in Baghdad. Soleimani's remains and those of five other Iranians - all Guards members - killed in the US drone strike had arrived at Ahvaz airport before dawn, news agency ISNA said. With them were the remains of Abu Mahdi al-Muhandis, the deputy commander of Iraq's powerful Hashed al-Shaabi paramilitary umbrella group, who was also killed in the US strike. Soleimani's remains arrived in Mashhad in the afternoon and are due to be flown to Tehran for more tributes on on Sunday evening. Today, Khamenei is expected to pray over Soleimani's remains at Tehran University before a procession to Azadi Square. His remains are then due to be taken to the holy city of Qom for a ceremony at Masumeh shrine, ahead of a funeral tomorrow in his hometown Kerman. 'Death to America' \"Death to America,\" mourners chanted as they packed Ahvaz's streets and a long bridge spanning a river in the southwestern city to receive the casket containing Soleimani's remains. As Shia chants resonated in the air, people held portraits of the man seen as a hero of the 1980-88 Iran-Iraq war and for spearheading Iran's Middle East operations as commander of the Revolutionary Guards' Quds Force. In the northeastern city of Mashhad, scores took to streets around the Imam Reza shrine and, addressing the US, chanted \"Be afraid of your own shadow.\" Soleimani was killed in a US drone strike on Friday near Baghdad airport, shocking the Islamic republic. He was 62. The attack was ordered by President Donald Trump, who said the Quds commander had been planning an \"imminent\" attack on US diplomats and forces in Iraq.  Soleimani's assassination ratcheted up tensions between arch-enemies Tehran and Washington and sparked fears of a new Middle East war. Iran's supreme leader Ayatollah Ali Khamenei vowed \"severe revenge\" and declared three days of mourning. 'Terrorist in a suit'  Iran's top diplomat Mohammad Javad Zarif tweeted that \"targeting cultural sites is a WAR CRIME.\" For Iran's army chief, Trump's threat was an attempt to distract the world from Soleimani's \"unjustifiable\" assassination. \"I doubt they have the courage to initiate\" a conflict, said Major General Abdolrahim Mousavi. Iran's communications minister, Mohammad Javad Jahromi, branded Trump a \"terrorist in a suit\" and said in a tweet that he is \"like IS, like Hitler, like Genghis (Khan)! They all hate cultures.\" US-Iran tensions escalated in 2018 when Trump unilaterally withdrew from a landmark accord that gave Tehran relief from sanctions in return for curbs on its nuclear program. A year on, Iran began hitting back by reducing its nuclear commitments with a series of steps every 60 days, the most recent deadline passing on Saturday. Cyber attack  In possible act of retaliation, hackers claiming to be from Iran breached the website of a little-known US government agency and threatened more cyber attacks. The website of the Federal Depository Library Program was replaced with a page titled \"Iranian Hackers!\" that displayed images of Khamenei and the Islamic republic's flag."
+}

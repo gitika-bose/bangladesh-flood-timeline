@@ -1,0 +1,272 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "monsoon",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 37,
+          "text": "1988-09-08"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_50": {
+          "value": "1988-09-08",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 385,
+          "text": "But today, shops were open in the city center, which escaped the flooding"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_38": {
+          "value": "Dhaka",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:btellman"
+            ],
+            "prob": 1
+          }
+        },
+        "f_53": {
+          "value": "urban",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:btellman"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 560,
+          "text": "the annual monsoon rains left much of the nation under water"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "monsoon",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 625,
+          "text": "millions homeless"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_36": {
+          "value": "2000000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 670,
+          "text": "the death toll from the floods had risen to more than 800"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "800",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 990,
+          "text": "Unofficial tabulations in Dhaka newspapers run to more than 1,200"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "1200",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [],
+  "filename": "1988_f874fbb984a782771cda0ef77dc56d6acd07896f.txt",
+  "text": "Water Recedes, Spirits Rise in Dhaka\n1988-09-08T05:00:00.000Z\nThe sun was shining in Dhaka today, the water was receding, and for a moment at least, there was a more hopeful air in city neighborhoods.\nIn a few weeks, perhaps even a few days, it may not be so. Welfare agencies fear that the lowering tide from the devastating floods will leave epidemic diseases in the slate-gray mud.\nBut today, shops were open in the city center, which escaped the flooding. The international airport, an island of sorts on a waterlogged plain, began to function again after the annual monsoon rains left much of the nation under water and millions homeless.\nOfficials said today that the death toll from the floods had risen to more than 800. They said at least 150 people had died in less than 24 hours, most of those from diarrhea and dysentery caused by impure water and rotten food. The central Government's announced death toll is slightly more than half that, but is widely considered far too low. Unofficial tabulations in Dhaka newspapers run to more than 1,200, and communications with many outlying areas are still out.\nBicycle rickshaw pullers were doing a brisk business along roads where drivers feared to take their cars, areas that are still under water. Spirit of the Marketplace\nSubmerged streets were full of indefatigable entrepreneurs - fellows who will push your car for anything you can spare, children standing in water for a pittance to show a driver how deep it is, a pushcart vendor-turned-boatman who grinned with embarrassment each time he beached his leaky vessel on a curb or an unseen bush.\nBoats themselves are a new business. Tiny skiffs that once cost less than $20 are being hustled in the wetter neighborhoods for as much as $50, a huge amount of money for the very poor.\nSome families have no choice but to buy one anyway. A boat takes marooned people to the markets for food. It allows them to live at home - albeit often on their traditional flat rooftops, from which they can keep looters away. A boat also saves slogging barefoot through waters polluted with sewage and infested with snakes.\nThe better-off residents of Dhaka concede that, this time, it is to some extent a ''middle-class flood.'' The people of Bangladesh, most rural and poor, are used to the annual inundation of their land and homes. Indians Are Blamed\nThe flooding is worse this year because south Asia in general, and India in particular, have had a record monsoon rain. Hundreds of people have also died in eastern India.\nA commonly heard explanation here is that ''the water comes from India.''\nEvery year there is concern about India's deforested hills and mountains and its uncompleted flood-control programs, which allow flood waters to tumble through Bangladesh on their way to the sea. This year, the complaint is heard more often because the water has washed into the capital.\nDhaka is a city that can empty its streets quickly in a crisis. Political tension seems to be a recurrent part of life here, since the days when Bangladesh was the eastern region of Pakistan.\nToday, however, there was no such anxiety but , if anything, a sense of making the best of a terrible situation.\n''Pani, pani,'' a man said with a rueful smile, shaking his head and using the Bengali word for water, as he hoisted a parcel wrapped in a bandanna into the air. Then he plunged in up to his neck on the way home from shopping.\nBangladeshis, the majority of whom are Moslems, have been augmenting official relief efforts with their own makeshift projects.\nTonight, as dusk fell on a sodden community in south Dhaka, a group of energetic young men arrived with two barrels of clean, fresh drinking water, which they began to distribute in a school and along a muddy highway median.\nOne of them, Nakim Mahmud Narullah, a law student at Dhaka University, said he and his three colleagues were volunteers for the Islamic Dawa Complex, a charitable organization. Islam ranks welfare high among the obligations of its adherents.\nAsked why he and his friends were standing there in their immaculate clothes, giving drinks and water-purification tablets to the children of beggars, he replied:\n''We are Moslems. It is our duty.''"
+}

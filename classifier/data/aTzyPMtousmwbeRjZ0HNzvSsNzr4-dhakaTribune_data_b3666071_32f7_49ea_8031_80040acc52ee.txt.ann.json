@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_b3666071-32f7-49ea-8031-80040acc52ee.txt",
+  "text": "Date Published:2019-04-12 00:00:00      \nPrime Minister Sheikh Hasina has welcomed Lotay Tshering at Hazrat Shahjalal Int'l Airport A red carpet has been rolled out for Bhutanese Prime Minister Lotay Tshering -- who has arrived in Dhaka for a four-day official visit. The Bhutanese Prime Minister is visiting, at the invitation of Prime Minister Sheikh Hasina, to bolster cooperation between the two countries in the: trade, inland waterways, health, and agriculture sectors, reports UNB. Prime Minister Sheikh Hasina welcomed her Bhutanese counterpart at the VVIP terminal of Hazrat Shahjalal International Airport when the special flight of Royal Bhutan Airlines landed at the airport, with Lotay Tshering's entourage, at 8:15am on Friday. A child presented him a bouquet. Accompanied by Bangladesh Prime Minister Sheikh Hasina, Lotay Tshering then proceeded towards a makeshift saluting dais. A smartly dressed contingent drawn from the Bangladesh Army, Navy, and Air Force gave a guard of honour and state salute to the Bhutanese prime minister. The national anthems of both countries were also played to mark the occasion. After the ceremony, the Bhutanese Prime Minister was taken, in a motorcade, to the Intercontinental Hotel Dhaka -- where he and his entourage will stay during the visit. Later in the day, he will pay tribute to the Liberation War martyrs at the National Martyrs' Memorial in Savar and to Father of the Nation Bangabandhu Sheikh Mujibur Rahman by placing wreaths at his portrait at Bangabandhu Memorial Museum in Dhanmondi. On the first day, Foreign Minister Dr AK Abdul Momen will call on the Bhutanese premier at Hotel Intercontinental. The Bhutanese prime minister is scheduled to hold a meeting with leaders of the Federation of Bangladesh Chambers of Commerce and Industries (FBCCI) later in the day.' Also Read - Bhutan PM due Friday He will also visit the Bhutanese embassy in Baridhara and the Buddhist Monastery in Bashabo, in the city. On Saturday, the Bhutanese prime minister will attend a bilateral meeting with his Bangladesh counterpart at the Prime Minister's Office (PMO) on Saturday. After the meeting, a number of bilateral instruments are expected to be signed by the two countries. The agreements to be signed, are for cooperation: on inland waterways for cargo transportation, in the health and agriculture sectors, and between the Public Administration Training Centers of the two countries -- so that there is an exchange of faculty members as well as training and capacity-building. On the same day, Tshering will meet President Abdul Hamid at the Bangabhaban in the evening, and after that, attend a banquet to be hosted by the Bangladesh Prime Minister at Hotel Pan Pacific Sonargaon. On Sunday, which is the first day of Bangla calendar, he will attend a New Year's celebration cultural function to be organized by Surer Dhara at Bangabandhu International Conference Centre. Later, Bhutanese Prime Minister Lotay Tshering, an alumnus of Mymensingh Medical College, will fly to the district to visit his alma mater. He will address a students' gathering there. He will return to Dhaka on the same day and meet Commerce Minister Tipu Munshi and Health and Family Welfare Minister Zahid Maleque, separately, in the afternoon. Tshering is also scheduled to visit the Square Pharmaceuticals factory in Gazipur, the Dharmarajika Buddhist Monastery Complex in Bashabo, and the Embassy of Bhutan in Dhaka. He is scheduled to have breakfast with Bhutanese students and citizens living in Bangladesh before leaving Dhaka in the morning of April 15."
+}

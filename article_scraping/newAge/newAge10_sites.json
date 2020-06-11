@@ -1,0 +1,99 @@
+[
+  {
+    "query": "bangladesh \"flooding\"",
+    "paper": "newAge",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": [
+      "http://www.newagebd.net/article/2805/articlelist/323/Cartoon",
+      "http://www.newagebd.net/article/3623/govt-moves-to-discourage-food-supplement-import",
+      "http://www.newagebd.net/article/3596/fidelcastrolifeistruerthandeath"
+    ]
+  },
+  {
+    "query": "bangladesh \"flooding\"",
+    "paper": "newAge",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "https://www.newagebd.net/article/22779/flood-adversely-affected-life-livelihood-in-dinajpur",
+      "http://www.newagebd.net/article/22779/flood-adversely-affected-life-livelihood-in-dinajpur",
+      "https://www.newagebd.net/article/20232/heavy-rain-causes-flooding-in-parts-of-feni-chittagong",
+      "https://www.newagebd.net/article/19478/flood-situation-worsens-as-india-opens-barrage",
+      "http://www.newagebd.net/article/23250/search-goes-on-for-harvey-survivors-trump-requests-aid",
+      "http://www.newagebd.net/article/14055/heavy-rainfall-disrupts-city-life",
+      "https://www.newagebd.net/article/17145/flash-floods-inundate-100-villages-in-moulvibazar-again",
+      "http://www.newagebd.net/article/22791/disaster-looms-as-hurricane-harvey-bears-down-on-texas",
+      "http://www.newagebd.net/article/12254/cyclone-debbie-queensland-braced-for-dangerous-floods",
+      "https://www.newagebd.net/article/18856/faruque-prefers-teleplays-to-series",
+      "https://www.newagebd.net/article/24480/hurricane-maria-bears-down-on-virgin-islands-and-puerto-rico",
+      "http://www.newagebd.net/article/14507/road-digging-leaves-city-people-gasping"
+    ]
+  },
+  {
+    "query": "bangladesh \"flooding\"",
+    "paper": "newAge",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": [
+      "https://www.newagebd.net/article/46167/iom-to-help-bd-repatriate-rohingyas",
+      "https://www.newagebd.net/article/45246/dhaka-to-be-prosperous-livable-through-developing-its-east-part-wb",
+      "https://www.newagebd.net/article/43779/persistent-rain-leads-to-flooding-in-sylhet-satkhira",
+      "https://www.newagebd.net/article/52827/cyclone-titli-gains-strength-to-hit-parts-of-india-bangladesh",
+      "https://www.newagebd.net/article/45507/floods-situation-worsens-in-bogra-jamalpur-sirajganj",
+      "http://www.newagebd.net/article/45507/floods-situation-worsens-in-bogra-jamalpur-sirajganj",
+      "https://www.newagebd.net/article/46829/heavy-rain-lashes-ctg-city",
+      "http://www.newagebd.net/article/42031/crop-intensification-looms-large-in-coastal-region",
+      "https://www.newagebd.net/article/59890/india-races-against-clock-to-rescue-rat-hole-miners",
+      "https://www.newagebd.net/article/45205/rain-leaves-ctg-life-in-tatters",
+      "http://www.newagebd.net/article/59479/neir-to-be-set-up-to-check-illegal-handset-use",
+      "https://www.newagebd.net/article/42104/tanneries-now-polluting-dhaleswari-in-savar",
+      "https://www.newagebd.net/article/46263/a-serious-concern-for-dhaka-city",
+      "http://www.newagebd.net/article/58217/lowland-filling-driving-last-nail-in-dhakas-coffin-iqbal-habib"
+    ]
+  },
+  {
+    "query": "bangladesh \"flooding\"",
+    "paper": "newAge",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "http://www.newagebd.net/article/71417/villages-flooded-as-weakened-fani-passes-through-bangladesh",
+      "https://www.newagebd.net/article/89222/sea-water-likely-to-flood-a-fourth-of-bangladesh-by-2050-study",
+      "https://www.newagebd.net/article/90291/22-killed-as-bulbul-wreaks-havoc",
+      "https://www.newagebd.net/article/86456/flood-woes-intensify-as-ganges-flow-keeps-rising",
+      "https://www.newagebd.net/article/80611/fresh-floods-likely-in-bangladesh-after-mid-august",
+      "https://www.newagebd.net/article/78827/flood-disrupts-rail-road-river-communications",
+      "http://www.newagebd.net/article/79899/floods-make-children-skip-school",
+      "https://www.newagebd.net/article/78681/six-die-as-flooding-worsens",
+      "https://www.newagebd.net/article/79899/floods-make-children-skip-school",
+      "https://www.newagebd.net/article/89644/disasters-displaced-170m-people-in-five-months",
+      "https://www.newagebd.net/article/79692/floods-inundate-new-areas",
+      "https://www.newagebd.net/article/76900/most-of-sunamganj-inundated-as-major-rivers-swell",
+      "https://www.newagebd.net/article/79047/flood-worsens-in-central-bangladesh",
+      "https://www.newagebd.net/article/92685/bangladesh-7th-most-climate-affected-country",
+      "https://www.newagebd.net/article/79565/fresh-floods-hit-north",
+      "https://www.newagebd.net/article/71582/flash-flood-strikes-haor-areas-in-north-east-bangladesh",
+      "https://www.newagebd.net/article/94296/villages-in-sylhet-face-erosion-threat",
+      "http://www.newagebd.net/article/87545/11-dead-many-more-injured-as-typhoon-hagibis-lashes-japan",
+      "https://www.newagebd.net/article/82011/fahmida-nabi-celebrates-motherhood",
+      "https://www.newagebd.net/article/70898/hyped-up-fans-rush-for-tickets",
+      "http://www.newagebd.net/article/89474/impacts-of-climate-change-on-children",
+      "https://www.newagebd.net/article/89474/impacts-of-climate-change-on-children",
+      "http://www.newagebd.net/article/63538/govt-housing-project-encroaches-on-uttara-water-body",
+      "http://www.newagebd.net/article/64165/last-4-years-hottest-on-record-un",
+      "https://www.newagebd.net/article/76115/india-steel-ministry-seeks-higher-duties-to-deter-chinese-imports",
+      "https://www.newagebd.net/article/83887/how-liveable-and-safe-dhaka-is",
+      "https://www.newagebd.net/article/81699/a-fight-of-blue-and-green-against-black",
+      "https://www.newagebd.net/article/85590/saving-planet-means-overthrowing-ruling-elites"
+    ]
+  }
+]

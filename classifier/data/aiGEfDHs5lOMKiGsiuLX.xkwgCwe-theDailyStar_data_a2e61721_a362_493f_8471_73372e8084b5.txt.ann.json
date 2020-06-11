@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_a2e61721-a362-493f-8471-73372e8084b5.txt",
+  "text": "Date Published:2020-01-15 00:00:00      \nThe fine ash drifting into the school gym on gusts of wind is a constant reminder for evacuees in the Philippines of the volcano that threatens to bury their homes forever. As they sit in the spaces fenced in by the few bags and boxes of belongings they could carry, evacuees wonder how long they will have to wait to know whether Taal volcano will devastate the region or sputter back to sleep. \"It's all in God's hands now. We are not sure if we will have a home to return to,\" said Leonita Gonzales, 52, who fled with the rest of her household from the danger zone around Taal. Her banana palms were destroyed by the ash that fell after the volcano started to gush smoke on Sunday. She is uncertain whether her home's tin roof will be able to bear the weight either. Nearly 44,000 people have fled the 14km (nine mile) danger zone around Taal, where volcanologists have warned a devastating eruption could rain rocks and magma and set off a tsunami from the lake in which the volcano sits. On Tuesday, more than 1,100 evacuees packed into the gym and classrooms at the state university at the Santo Tomas town, some 20 km (12 miles) northeast of where Taal continues to puff clouds of ash and steam through old and new fissures. Occasional tremors signalled the forces rumbling beneath the earth and set hearts pounding. \"Don't tell me you're brave. When disaster strikes, you will call on all saints, big or small,\" said Obet Dionglay, 61, who had trekked through roads deep with ash to seek refuge. Dionglay's hut had been crushed by bamboos bent to the ground by the weight of the ash and he had little hope that his three pigs and dozen chickens would survive. Dionglay recalled Taal's last eruption in 1977, when his hometown of Talisay had escaped largely unscathed. Although Taal is one of the world's smallest active volcanoes only 311 metres (1,020-foot) high, it can be deadly: an eruption killed more than 1,300 people in 1911. At the evacuation centre, a couple of dozen kids kept busy with an impromptu dance class. A delivery of water gave some people a chance to wash the grit from their bodies for the first time in days, but many complained of a lack of sleeping mats, blankets, toiletries and face masks despite generous private donations. \"For now, we endure, we live with nothing,\" said Ferdinand Paderan, 39, who evacuated with his wife and two children. But even as thousands more people were being evacuated from the danger zone, some defied official warnings to head back in to collect belongings or tend livestock that they could not bring out. \"I went home and checked it. It's a good thing no one stopped our tricycle on the way home. I fed the chickens and the dogs,\" said Leonel Gonzales, 32, a tourist guide at Taal Lake, who fled with his one-year-old daughter and pregnant wife. \"We will stay here to make sure we are all safe. We will check on the pets again when the volcano calms down.\""
+}

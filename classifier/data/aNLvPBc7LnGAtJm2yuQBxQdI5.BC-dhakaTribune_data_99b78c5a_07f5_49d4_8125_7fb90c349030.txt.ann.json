@@ -1,0 +1,149 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 653,
+          "text": "the damage from climate change effect in 2007 and 2009 cyclones were estimated at around 2 million metric tons of rice"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_44": {
+          "value": "2000000 metric tons of rice",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 694,
+          "text": "2007 and 2009"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_52": {
+          "value": "2007 and 2009",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 708,
+          "text": "cyclones"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "coastal_cyclone",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [],
+  "filename": "dhakaTribune_data_99b78c5a-07f5-49d4-8125-7fb90c349030.txt",
+  "text": "Date Published:2019-03-31 00:00:00      \nA necessity for the vulnerable sector    Bangladesh is recognized as one of the most vulnerable countries to climate change because of its geographical location and socio-demographic features. Agriculture is the most significant economic sector in Bangladesh. Despite Bangladesh's remarkable achievement in improving agricultural productivity, the sector is facing risk from climate change, extreme weather events, and sea level rise to address the adverse impact of climate change on agriculture. Climate change is expected to decrease Bangladesh's agriculture GDP by 3.1 % each year (World Bank). For example, the damage from climate change effect in 2007 and 2009 cyclones were estimated at around 2 million metric tons of rice, which is enough to feed 10 million people.  Transforming the agricultural sector and building resilience will not be possible if there is no significant amount of capital available for climate-smart investments in agriculture. Moreover, robust financial investments are needed to support the global food system. Climate finance plays a pivotal role by supporting developing countries to reduce emissions, decarbonize their economies. Climate finance in agricultural sector innovates ways to use climate finance to improve and increases access to finance for smallholder farmers in the agricultural sector while delivering positive outcomes namely increased resilience and reduced emissions intensity. The smallholder farmers are the most vulnerable vast majority of farmers who have little or no capacity to adapt, lack a safety net, and are highly exposed threat in their livelihood and food security risks. Bangladesh is among the largest recipients of climate funds from International Finance Corporation, World Bank mostly for adaptation in the agricultural sector. Climate finance budget allocation for the Ministry of Agriculture in 2018-19 is Tk13,915 crore where climate-relevant allocation is 39 percent (Finance Division, Ministry of Finance). Adaptations to climate change for agricultural sectors include: resilient variety crops, new and diverse cropping pattern, irrigation techniques, sustainable land management, early warning systems, new research. In this case, climate finance acts as a remedy as it helps to adopt many strategies to cope with the existing situations and those expected to impact the country in the future. Bangladesh Climate Change Strategy and Action Plan (BCCSAP) mainly focuses on the promotion of agricultural practises focusing on floating gardens, community-based adaptation, advocacy for climate change adaptation measures, coastline and flood defences. Bangladeshi agricultural scientists have encouraged adopting new technologies and developing climate-smart crop varieties, as a means to diversify the agrarian practices of subsistence farmers. Due to the fund, many farmers are reporting experiencing increasing bumper yields. Thus through the use of new practices and new technologies climate change finance has, for now, improved the situation for some farmers.   CourtesyExamples of adaptation for the agriculture sector Floating Gardens are a process used in many regions during the monsoon season, ingenious farmers create their floating seedbeds and grow plants on floating gardens. Hydroponics system in Bangladesh, based on floating gardens, was recognized in December 2014 by the United Nations' Food and Agricultural Organization (FAO) as a Globally Important Agricultural Heritage System (GIAHS) for innovation, sustainability, and adaptability. Farmers in some parts of the country where flood waters can remain for a prolonged period have developed floating gardens in which plants can grow on the water on floating organic beds of water hyacinth, algae and other plant residues. This environmentally friendly traditional cultivation technique utilizes the natural resources of wetlands to grow vegetables and other crops almost all year round, providing numerous social, economic, agricultural, and ecological benefits to the local population. It helps the farmers to cope with the situation. Sunflower oil production is recently introduced as a quality-based oilseed crop and is gaining popularity among local farmers because of its easy extraction method. Sunflower is categorised as a low to medium drought sensitive crop. The cultivation of sunflower may be suitable in the coastal environment because of its high yield and wide adaptability. In 16 districts of Bangladesh, sunflower oil is being harvested, and the average production is about 1.2t/ha, which is relatively encouraging. Shrimp farming is a relatively new form of agriculture introduced in Bangladesh on a commercial scale. Shrimp can cultivation is possible in both brackish and freshwater. Currently, shrimp fish cultivation is widespread throughout the coastal region and Bangladesh produces more than 2.5 % of the global production of shrimp and has become the seventh largest exporter of shrimp to the Japanese and USA markets. Rainwater harvesting is a method of inducing, collecting, storing, and conserving local surface runoff for agricultural production. Farmers in water-scarce areas face difficulties in agricultural output due to unavailability of water at the right time and in the right amount. It is expected that the use of rainwater will save farmers' money as well as increase production. Rainwater harvesting can be effectively used by farmers to overcome the hardships of nature. The method of rainwater harvesting for agriculture is standard as a result of the irregular nature of rain in many countries and is widely practised in areas where there is an irregularity in seasonal rains. Rainwater harvesting technology help store water in the rainy seasons, for usage, during the drought period. Agriculture is the most vulnerable sector as its productivity depends on climatic factors like temperature, rainfall, light intensity, radiation and sunshine duration, which are predicted to become increasingly erratic. The number of climate change induced disasters has and will continue to increase over the coming years. Therefore, climate finance mechanisms have the potential to continue to strengthen the links between financial institutions and smallholder farmers by addressing some of the critical financial-sector constraints on agriculture.  Adiba Bintey Kamal is a Masters student of Development Studies at Bangladesh University of Professionals. Adiba is currently working with ICCCAD as a Youth member from the Youth Mentorship Program."
+}

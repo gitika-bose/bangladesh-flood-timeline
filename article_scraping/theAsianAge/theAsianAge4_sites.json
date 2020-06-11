@@ -1,0 +1,80 @@
+[
+  {
+    "query": "bangladesh flooded",
+    "paper": "theAsianAge",
+    "date_range": [
+      "1/1/2015",
+      "12/31/2015"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh flooded",
+    "paper": "theAsianAge",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": [
+      "https://dailyasianage.com/news/22976/flood-hits-lalmonirhat--kurigram-nilphamari",
+      "https://dailyasianage.com/news/19736/a-man-pushing-cng-auto-rickshaw-that-fell-dip-in-rainfall-flooded-road-at-shantinagar-in-the-capital",
+      "https://dailyasianage.com/news/36558/the-largest-artificial-lake-in-the-country",
+      "https://dailyasianage.com/news/6945/fake-mosquito-repellents-flooded-city-markets",
+      "https://dailyasianage.com/news/22876/huge-mango-supply--in-local-markets",
+      "https://dailyasianage.com/news/23087/city-protection-dam-collapses-in-faridpur",
+      "https://dailyasianage.com/news/41846/the-dark-side-of-light",
+      "https://dailyasianage.com/news/31613/price-of-hilsa-falls-due-to-abundant-supply",
+      "https://dailyasianage.com/news/23799/fazli-mango-market--gaining-in-rajshahi",
+      "https://dailyasianage.com/news/13177/downpour-shuts-uae-schools",
+      "https://dailyasianage.com/news/23457/avoid-binge-eating-during-eid",
+      "https://dailyasianage.com/news/38236/sufi-bhakti-ways-for-a-fear-free-world"
+    ]
+  },
+  {
+    "query": "bangladesh flooded",
+    "paper": "theAsianAge",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "https://dailyasianage.com/news/83049/donald-trump-to-visit-storm-ravaged-texas",
+      "https://dailyasianage.com/news/79768/teesta-barrage-flood-bypass-road-collapses-red-alert-issued",
+      "https://dailyasianage.com/news/64792/four-villages-inundated-in-koyra",
+      "https://dailyasianage.com/news/90150/landslides-floods-kill-37-in-vietnam",
+      "https://dailyasianage.com/news/58803/chittagong-to-mourn-138000-cyclone-deaths-today",
+      "https://dailyasianage.com/news/64078/bsti-assures-citizens-of-safe-fruits",
+      "https://dailyasianage.com/news/79464/syndicates-control-onion-market",
+      "https://dailyasianage.com/news/68586/sylhet-city-sees-heavy-rain-waterlogging",
+      "https://dailyasianage.com/news/79998/water-in-the-saidpur-airport",
+      "https://dailyasianage.com/news/70007/chittagong-markets-flooded-by-adulterated-foods",
+      "https://dailyasianage.com/news/73571/deepika-gets-body-shamed-for-being-skinny",
+      "https://dailyasianage.com/news/100599/hamleys-opens-toy-store",
+      "https://dailyasianage.com/news/77100/history-of-anarkali-suits"
+    ]
+  },
+  {
+    "query": "bangladesh flooded",
+    "paper": "theAsianAge",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh flooded",
+    "paper": "theAsianAge",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://dailyasianage.com/news/203501/india-joining-rcep-but-bangladesh",
+      "https://dailyasianage.com/news/203937/barisal-fish-market-flooded-with-mother-hilsa",
+      "https://dailyasianage.com/news/170308/let-us-save-the-nation-from-poisonous-foodstuff",
+      "https://dailyasianage.com/news/207379/winter-vegetables-get-boosts-in-dohazari",
+      "https://dailyasianage.com/news/184717/keep-your-kids-safe-from-common-monsoon-illnesses"
+    ]
+  }
+]

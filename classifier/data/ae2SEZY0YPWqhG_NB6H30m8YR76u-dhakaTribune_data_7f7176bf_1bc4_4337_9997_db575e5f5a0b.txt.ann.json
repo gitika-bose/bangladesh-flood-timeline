@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_7f7176bf-1bc4-4337-9997-db575e5f5a0b.txt",
+  "text": "Date Published:2019-09-25 00:00:00      \n'So, the students who were trapped used the windows to escape with help from locals and fire service officials'  A fire which broke out at a campus of the Daffodil Polytechnic Institute in Dhaka's Kalabagan has exposed the building's lack of fire safety protocols which put hundreds of its students' lives at risk. The small scale fire that caused no casualties forced the students use windows to climb down from the second and third floor of the building with the help of outsiders who extended their helping hands with bamboos. Later, firefighters joined the locals and rescued the rest of the students trapped inside. The students could have suffocated from toxic fumes if the help had not come on time as there were no fire escapes in the building except for a narrow staircase. The fire originated from an electric short circuit around 11am and the flames were doused after one and a half hours, said Fire Service and Civil Defence officials. Abdullah Al Mamun, a fireman of the Mohammadpur Fire Station, said Daffodil Polytechnic Institute never conducted any fire drills to create awareness in case of a fire emergency. Seeking anonymity, a student of the Daffodil Polytechnic Institute, said: \"There aren't any emergency exits in our campus. As the fire originated from the main switch board installed beside the main staircase on the ground flood, the smoke quickly travelled up and prevented students from getting down. So, the students who were trapped used the windows to escape with help from locals and fire service officials.\"   \"We had found only one fire extinguisher for each floor, but when we tried to use them, we found them to be defective.\"  \"If a bigger fire breaks out in the future, there will be massive casualties and damages. The administration should take necessary fire safety measures as soon as possible,\" he added. According to Arif Miah, an office staff of the campus, the institution uses four floors of this five storey building and every floor is 2,500 square feet. Around 350 students attend classes regularly in this campus. Many students were in their classes when the fire broke out. Arif showed this correspondent five fire extinguishers which were all defective and lying beside the main switch board, where the fire had originated.  According to the Fire Service and Civil Defence, the building safety protocol dictates that at least two fire extinguishers have to be installed for every 1,000 square feet of a floor besides emergency exits and other fire safety equipment. At least one fire drill every month is mandatory for educational establishments, says the Bangladesh National Building Code (BNBC). When contacted, the administrative office refused to make any statement regarding this matter."
+}

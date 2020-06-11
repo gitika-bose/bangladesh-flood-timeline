@@ -1,0 +1,203 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 15,
+          "text": "2019-10-04"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_50": {
+          "value": "2019-10-04",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 149,
+          "text": "Water levels of the Padma River continue to rise"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "river",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 293,
+          "text": "In Natore"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Natore",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 304,
+          "text": "around 1,700 families"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_35": {
+          "value": "6902",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|304,324",
+        "s1v1|e_2|293,301"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|304,324",
+        "s1v1|e_49|15,24"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  ],
+  "filename": "dhakaTribune_data_2f91d42f-f7f7-4ce3-b2d5-77064e54c2eb.txt",
+  "text": "Date Published:2019-10-04 00:00:00      \nThe local administration said 500 flood-affected families in Lalpur union received 15kg rice each as relief Water levels of the Padma River continue to rise in Natore, Faridpur, and Rajbari, causing damage to croplands and ferry services to shut down. In Natore, around 1,700 families in five unions of Lalpur upazila have become waterlogged as the Padma River continues to swell as a result of the opening of Farakka Barrage gates. Farmers in the affected areas are counting losses as their sugarcane fields and crop lands were inundated, causing immense sufferings to the residents of the areas. Upazila Nirbahi Officer (UNO) Ummul Banin Duti said: \"Three shelter homes were opened and the flood victims were asked to move there.\" The local administration said 500 flood-affected families in Lalpur union received 15kg rice each as relief. Assistant Engineer of Natore Water Development Board Al Asad said: \"The water level of Padma will continue to rise till Saturday.\" The flood situation in the upazila has been worsening for the last several days following a rise of the Padma water level. In Rajbari, water level of the Padma River was recorded at 12cm above the danger point at Goaland point in the district, and the water continually rose for the past 7 days.  As a result, three out of six ferry ghats in Daulatdia have been shut down due to strong currents in the river, said the Launch Ghat Supervisor Md Mofazzal. In Faridpur, the Padma has been continually rising since the past two days and remained above the danger mark yesterday. Faridpur Water Development Board (WDB) Executive Engineer Sultan Mahmud said: \"The water level in the Padma River here increased by 6cm and is flowing at 13cm above the danger point on Thursday.\" Due the current conditions, low-lying areas of the district were completely inundated causing severe distress to locals. Water somewhat receding in Pabna, Tangail  In Pabna, the Padma is flowing 14.33cm above the danger level at Pakshey Hardinge Bridge point as the water level has risen only by 0.8cm in last 24 hours, according to the hydrology department of WDB. Meanwhile, the district administration began distributing relief items to  the affected waterlogged flood victims since Wednesday. In Tangail, the water level of the rivers in the district are starting to recede. Even though the Daleshwari fell by 2cm, it was still flowing 20cm above the danger mark.  On the other hand, the Jamuna was flowing 51cm under the danger mark, and the Jhenai River was flowing 71cm under the danger mark, said WDB Deputy Assistant Engineer of science department Rezaul Karim.    Our correspondents M Kamal Mridha, Natore; Kazi Tanvir Mahmud, Rajbari; Wali Newaz, Faridpur; Abdullah Al Numan, Tangail, and Emroz Khandakar, Pabna contributed to this report "
+}

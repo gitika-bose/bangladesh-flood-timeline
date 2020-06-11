@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_7c68a836-41fe-415d-8eaa-815e3494cfa6.txt",
+  "text": "Date Published:2020-01-26 00:00:00      \nAt the same time, political parties aside from the ruling Awami League party have been clamouring against the use of EVMs, claiming it is not secure and is even 'unconstitutional.' In the face of immense public pressure, authorities deferred the Dhaka city corporation polls, but political pressure has failed to remove Electronic Voting Machines (EVMs) from the election. Election day was scheduled for January 30 - a holiday for Saraswati Puja - which prompted an outcry from rights groups which called it discriminatory. The Election Commission refused to change the date initially, offering a tottering defence, but later rescheduled elections for February 1. At the same time, political parties aside from the ruling Awami League party have been clamouring against the use of EVMs, claiming it is not secure and is even \"unconstitutional.\" Chief Election Commissioner KM Nurul Huda said on December 25 that EVMs would not be used if there were objections, but later said they would be used.  EVMs were deployed in limited fashion in the 2018 General Elections, and saw only half the votes cast with them in six constituencies. Voter reactions were mixed, with complaints about the machines showing technical glitches. Though the EC said on January 21 that the army will not be deployed for the polls, Colonel Kamal Uddin, director of the project implementing EVMs, said army personnel familiar with the EVM technology will be present at every centre to help the presiding officers. The EC has deployed 35,000 EVMs in 2,468 polling centres for use in the Dhaka polls.  File Photo: Voters cast their votes via EVMs | Syed Zakir Hossain/Dhaka Tribune Twice the machines Colonel Kamal said that each centre will have double the machines. \"We are doubling the EVMs at each centre to instantly move from any machine that shows problems.\" Authorities declined to reveal the cost of the EVMs being used. The machines were purchased from Bangladesh Machine Tools Factory (BMTF). In September 2018, it was reported that the government has approved Tk3,825 crore for the procurement of 150,000 machines at a cost of Tk2 lakh each. In 2011, the EC purchased EVMs from the BMTF at Tk46,501 apiece, which were considered more vulnerable and were subsequently destroyed. Colonel Kamal said returning officers and presiding officers are already being trained to use the EVMs. A demonstration is set for January 27 and the EC has scheduled a mock vote for January 30 to familiarize voters with the technology. Hack-proof EVMs? Colonel Kamal confidently said: \"The EVMs are very secure. As for hackers, if they have guts and are tech savvy, they can try hacking the EVMs. EVMs are not even connected to the internet.\" However, hacking is not limited to the internet. Experts have pointed out that EVMs are still vulnerable to manual tampering. Components can be compromised, but the complexity of the process makes wide scale tampering unfeasible. He also said the EC's decision to widely use EVMs stemmed from responses to  city corporation elections in other districts.  Brig Gen Mohammad Sidul Islam, director general of the EC's NID Wing, said: \"Voters can only cast ballots in their own constituency. No other EVM will accept his ballot. On election day, the presiding officer inserts an SD card into the EVM, with voter data of that particular constituency . Anyone not on the list will be unable to vote and anyone listed in one constituency will not be able to vote in another. The EC said around 70 staff are working round the clock to tweak and upgrade the EVM system in whatever minute way possible, before the machines are rolled out."
+}

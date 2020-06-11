@@ -1,0 +1,50 @@
+[
+  {
+    "query": "bangladesh \"flood\"",
+    "paper": "ntvbd",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": [
+      "https://en.ntvbd.com/bangladesh/30725/Tk-558cr-project-approved-to-solve-water-logging-around-Dhaka"
+    ]
+  },
+  {
+    "query": "bangladesh \"flood\"",
+    "paper": "ntvbd",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "https://en.ntvbd.com/bangladesh/55141/Flood-situation-in-Sunamganj-Habiganj-worsens",
+      "https://en.ntvbd.com/bangladesh/146631/Govt-revives-plan-to-settle-Rohingya-on-Thengar-Char",
+      "https://en.ntvbd.com/bangladesh/144479/Teesta-flow-above-danger-mark-as-India-opens-Gajoldoba-barrage",
+      "http://www.en.ntvbd.com/bangladesh/61117/Leaving-with-self-satisfaction:-Nazmun-Ara-Sultana",
+      "https://en.ntvbd.com/comment/143763/Bangabandhu-outlines-a-modern-state-in-electoral-speech"
+    ]
+  },
+  {
+    "query": "bangladesh \"flood\"",
+    "paper": "ntvbd",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": [
+      "https://en.ntvbd.com/bangladesh/169771/Flood-water-enters-Moulvibazar-town"
+    ]
+  },
+  {
+    "query": "bangladesh \"flood\"",
+    "paper": "ntvbd",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://en.ntvbd.com/bangladesh/185581/Five-year-long-Flood-Resilience-Project-launched"
+    ]
+  }
+]

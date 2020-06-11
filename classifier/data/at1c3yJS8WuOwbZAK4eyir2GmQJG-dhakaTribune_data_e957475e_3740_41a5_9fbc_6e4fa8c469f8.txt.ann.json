@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_e957475e-3740-41a5-9fbc-6e4fa8c469f8.txt",
+  "text": "Date Published:2020-03-19 00:00:00      \nMahatab Hossain Chowdhury, general secretary of Transport Workers Union, confirmed the matter, reports UNB Transport Workers Union of the Rajshahi district on Thursday suspended all the long-haul bus services from Rajshahi aiming to curb the spread of coronavirus or Covid-19. Mahatab Hossain Chowdhury, general secretary of Transport Workers Union, confirmed the matter, reports UNB. Mahbub said the movement of people has declined significantly amid fear of coronavirus, causing huge losses to transport owners.   Meanwhile, Bangladesh has confirmed the detection of 17 coronavirus cases so far and one death."
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_51767769-d2ce-4de4-8dc2-da7a896d783b.txt",
+  "text": "Date Published:2019-02-04 00:00:00      \nMajor flooding threatened several thousand homes on Monday in the Australian state of Queensland, forcing more than 1,100 people to be evacuated, after authorities opened up dam gates after days of torrential rains filled reservoirs to overflowing. Emergency services tackled thousands of calls from people overnight around the city of Townsville, where evacuation centres were filling up. Crocodiles were even spotted in suburban streets, pictures on social media showed. \"Once in a century event happening here. I have never seen the likes of this before,\" Queensland state Premier Annastacia Palaszczuk said in an interview on Australian Broadcasting Corp TV, in a state often hit by cyclones and flooding. Palaszczuk said there could be thousands of homes affected by the flooding. A record 1.16 metres (3.8 ft) of rain has fallen across the Townsville area over the past seven days, with another 100 millimetres expected to be dumped over the area on Monday, the Bureau of Meteorology said. Major flood warnings have been posted for several rivers. The weather bureau warned of \"dangerous and high velocity flows\" along the Ross River after the flood gates were opened fully at the Ross River dam on Sunday, releasing about 1,900 cubic metres of water a second. Even after the release, as of Monday morning, the dam was still at 229 percent capacity, holding about 532,000 gigalitres of water, or roughly as much as Sydney Harbour. \"We're hoping to see an easing trend from tomorrow,\" bureau spokeswoman Jess Gardner said, adding that the rains could move further south, towards Mackay, a major coal exporting area. Townsville, a major port for northern Australia, is the country's top exporter of copper, zinc, lead and sugar. The Port of Townsville remains open, but cargo loadings have faced interruptions due to heavy rain, a port spokeswoman said. She did not have details on specific shipments held up. Global miner Glencore Plc, which exports copper, zinc and lead from Townsville said as of late last week there had been no impact on its operations."
+}

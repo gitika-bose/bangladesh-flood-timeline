@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_deacde3e-4e9e-404c-aa28-627c9c8e9ed4.txt",
+  "text": "Date Published:2020-02-01 00:00:00      \nHe is optimistic about being elected mayor BNP's Dhaka South City Corporation (DSCC) mayoral candidate Ishraque Hossain has said he is prepared to face any obstacle during the polls, and will remain optimistic about the race till the end. He made the statement while speaking to reporters after casting his vote at Shahid Shahjahan Government Primary School in the capital's Gopibag area around 8:50am on Saturday. He said: \"I voted for the first time in my life today [Saturday], hence I decided to cast my first vote for BNP.\" Ishraque also expressed his optimism about being elected as the mayor in Dhaka South City Corporation (DSCC). BNP's Dhaka South City Corporation (DSCC) mayoral candidate Ishraque Hossain speaks to reporters after casting his vote at Shahid Shahjahan Government Primary School in Gopibag area on February 1, 2020 | Mehedi Hasan/Dhaka Tribune When asked about voting through electronic voting machines (EVM), he said: \"I was able to vote properly through EVM; however, the general public is not very informed about the way these machines work.\"  He further mentioned: \"Therefore, a biased election is possible if the EVMs are deceptively programmed.\" The BNP-backed mayoral candidate said they have created a monitoring cell to keep watch over the various polling stations in the area. He also alleged: \"Some Awami League men have tried to disconnect the CCTV cameras at the polling centres. \"We have also heard that some men attempted to cast votes illegally through EVMs the night before the election day at Bangshal area.\" He added that BNP activists have filed a complaint with the mobile court magistrate for the election in this regard."
+}

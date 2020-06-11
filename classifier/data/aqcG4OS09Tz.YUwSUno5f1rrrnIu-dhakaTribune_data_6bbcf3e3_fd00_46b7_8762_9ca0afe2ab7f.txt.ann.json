@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_6bbcf3e3-fd00-46b7-8762-9ca0afe2ab7f.txt",
+  "text": "Date Published:2020-04-20 00:00:00      \nIt is the most similar to Earth of any planet discovered by the Kepler space telescope, in terms of its size and estimated temperature Nasa has found an \"intriguing\" planet that could be home to life in old data from a retired space telescope, reports The Independent.  The Earth-sized exoplanet orbits around its star's habitable zone, meaning that the temperature is mild enough to allow a rocky planet to support liquid water. The distant world was discovered when scientists were picking through old observations that came from the Kepler space telescope, which stopped its work in 2018 but provided a vast trove of data from the stars before it did. The planet had previously been discarded by a computer algorithm that misidentified it. But as part of new research, scientists were able to have another look at the information in the Kepler data and see that it really was a previously undiscovered planet. In fact, it is the most similar to Earth of any planet discovered by the Kepler space telescope, in terms of its size and estimated temperature. While other exoplanets may be more similar in size or temperature, no world has been discovered that has quite such a combination of those two qualities, as well as lying in the habitable zone. The planet is 300 light-years from us, just a little larger than our Earth and receives about 75% of the light that we get from our own Sun. That means the temperature could be similar, too, allowing for the conditions required for life. Scientists are concerned, however, that its star is a red dwarf, unlike our own more stable Sun. Such stars are known for throwing out stellar flare-ups that could destroy any potential life before it takes hold on the planet. Scientists now hope to learn more about the planet, including any information about its atmosphere and to get more specific knowledge of its size and conditions."
+}

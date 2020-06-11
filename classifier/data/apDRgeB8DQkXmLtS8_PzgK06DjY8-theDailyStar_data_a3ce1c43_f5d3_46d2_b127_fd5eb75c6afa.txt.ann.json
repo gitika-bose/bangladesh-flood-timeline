@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_a3ce1c43-f5d3-46d2-b127-fd5eb75c6afa.txt",
+  "text": "Date Published:2020-05-05 00:00:00      \nSince the outbreak of Covid-19, many countries have been implementing lockdown measures as well as travel restrictions. China, South Korea, Hong Kong, Singapore, India and many if the 187 countries affected have imposed strict conditions and curtailed entry into their borders. These limitations are creating serious supply-chain disruptions, production delays and distribution slowdowns, resulting in major impediments for many businesses that depend on international supplies. Industries such as travel, hospitality, healthcare and education are facing extreme difficulties in this turmoil. Most businesses in Bangladesh and beyond are complaining of serious consequential disruptions and, as a result, speculating reduced revenue and possible losses. As it is still unclear exactly how much disruption this pandemic will be causing, the businesses are unable to foresee the total impact. The unforeseen coronavirus crisis has been causing an inevitable and maybe a necessary market correction. Although if anything is obvious in business, it is that there will always be threats and upheavals for the CxOs to grapple with. Some of these threats are within the organizations, and some are external or superficial. The coronavirus crisis is just the newest such case in point. The successful leaders are the ones who can be the most aware and prepared as possible. A major learning from this ongoing crisis, is the significance of the supply-chain system, and to keep fallback plans for not jeopardizing it as much as possible. If the risks associated with using a supplier from a specific country or region are higher than justifiable levels, businesses should be prepared to use other sources where the risks are lower. Multi-sourcing in supply-chain is essential to make sure that if one source becomes precarious or uncertain, there are alternatives whose risks have been pre-assessed. Finance and risk management mechanisms can enable businesses to make informed and strategic decisions about identifying stable and resilient supply-chains. Supply-chains play a vital role in a company's ability to absorb shocks in turbulent times.  The 'FM Global Resilience Index 2019' is a great reference tool for the CxOs across businesses for making more conscious key decisions when it comes to the resiliency of their companies. The index ranks countries on various economic, risk-grades and supply-chain related standards. The CxOs can refer to the index and comprehend the effects of local and global factors on a country's resilience to crises. It highlights that vital manufacturing sources in Asia - Bangladesh and Sri Lanka, are ranked equally at no.112 for natural calamity. Vietnam ranked last (at no.130) for natural hazard risk-grade, because of their substandard state and implementation of building-codes to address natural disasters. CxOs can also determine the risks to natural calamities by referring to several technology-based tools available in the market that provide a global view of tolerable and high-risk flood areas. It can provide businesses with advance information they need to choose sources for their supply-chains. These tools can help businesses to devise two-to-five-year long plans based on risk-grades that include natural calamities and other pertinent standards, such as corporate governance. The coronavirus crisis has already exposed the vulnerabilities of many businesses, especially those who source their raw materials or finished products from China. Any extensive interruption in the \"world's factory\" means putting supply-chains at risk worldwide. Most of the Fortune Global 500 companies source their products from China. Those companies whose supply-chain relies on direct or secondary suppliers in China will experience major impediments. Apple recently shifted its manufacturing contracts to India, moving out of China to avoid the fallout of the ongoing trade-war with the US. It may pay dividends as the continuing coronavirus crisis would have forced Apple to look for alternatives anyway. Bangladesh should grab this opportunity to become an alternative source taking full advantage of the backlashes China is facing worldwide because of being the origin of the coronavirus. Bangladeshi businesses should also learn from this outbreak and start looking for alternative sources for its imports. The Covid-19 outbreak has led to shutdowns, resulting in stoppage of production in the supply-chain system. Logistics companies can no longer transport goods without interruptions, especially across borders. Pundits have repeatedly said that obtaining more visibility across the supply-chain is crucial for the success of businesses. Companies that sell finished products usually are aware of the manufacturing and shipping schedules of their direct suppliers, but they have little to no knowledge of suppliers further up the chain. Gaining this visibility is important for an efficient and deft supply-chain. During precarious situations, this visibility becomes vital for estimating and realizing the effect of the disruption on the rest of the chain, so that others in the business ecosystem can think of alternatives and act accordingly, such as planning ways for substitute suppliers. Digitising records will make supply-chains more resilient to future shocks. Digitising provides visibility and reduces risks. It is vital to make information available digitally to reduce the impact of points-of-failure in a supply-chain model. In the ongoing Covid-19 pandemic, businesses with strong digital infrastructure are dealing with the supply-chain disruptions much better than those without. Blockchain technology can help ensure data privacy for suppliers. Traditional centralized supply-chain models cannot grant independent and auditable access controls to each party. Using blockchain, which is a decentralized system, is the best way to give suppliers the privacy they need and buyers the visibility they want. When created properly, suppliers can audit their data-sharing permissions directly on their own blockchain node. Concurrently, their data can be securely distributed to others in the blockchain network without requiring the point-to-point integration that centralized systems do. The Covid-19 pandemic should be a lesson well learned for all businesses whether or not that have been unfavourably affected by it. Apart from underscoring the significance of diversifying supply-chain and assessing risks, it shows the benefit of regularly gauging backup plans to be prepared for and to lessen damage from unanticipated events. Companies with plausible Business Continuity Plans (BCP) will do better than those companies that are under-prepared for crises and hindrances. While there is no prescribed user-manual for what should happen in cases of emergencies, it is essential that all businesses make plans beforehand for situations like the current times. While pandemics may not be a regular event, unforeseen disruptions to supply-chain systems are not. It is in a company's best interest to make sure that there is a contingency plan well-prepared in advance. The writer is the president of the Bangladesh Association of Software & Information Services (BASIS).  "
+}

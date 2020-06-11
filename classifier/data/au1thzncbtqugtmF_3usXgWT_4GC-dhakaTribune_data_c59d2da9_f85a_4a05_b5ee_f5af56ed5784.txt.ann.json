@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_c59d2da9-f85a-4a05-b5ee-f5af56ed5784.txt",
+  "text": "Date Published:2020-03-24 00:00:00      \nDistrict Controller of Food Md. Abdul Kader said 15 approved dealers are selling 15 tonnes of flour at Tk 18 per kg daily except Friday in Rangpur city Prices of essential commodities began reducing following comprehensive efforts taken by traders and local authorities concerned to face coronavirus situation. \"Prices of all essential commodities marked a reduction by Tk 1 to Tk 3 per kg yesterday  than the previous day in local markets of Rangpur city,\" said District Marketing Officer (DMO) Abdullah Al Mamun.  The number of buyers in local markets also marked reduction from yesterday following implementation of the decisions taken in a meeting held at the conference room of the Deputy Commissioner  on Sunday afternoon, reports BSS. The district administration organized the meeting on 'Keeping prices of daily essentials within reasonable and tolerable limits' to prevent panic amid coronavirus spread as huge stocks of essential commodities are available in the country. Deputy Commissioner Md Asib Ahsan presided over the meeting participated by leaders of trade bodies, chambers, officials of the departments concerned, political leaders, civil society members and local journalists. After discussions, the meeting also decided for smoothly running the ongoing food friendly programs, open market sales (OMS) of daily essentials and other social safety-net programs to make foods available to the poorer section people. Rangpur Regional Office Chief of TCB Md Shujauddowla yesterday informed  116 TCB-approved dealers are selling sugar, lentil, soya-bean oil and onion at 10 points daily by rotation in Rangpur city.  \"Each of the 10 dealers out of 116 are selling 650 kg sugar, 1,000 litres of soya-bean oil, 100 lentil and 500 kg to 1,000 kg onion from every truck daily at the points,\" he said, adding that the process will continue till the holy month of Ramadan. Every customer can purchase up to five litres of soya-bean oil at Tk 80 per litre, two kg of lentils at Tk 50 per kg, 4 kg sugar at Tk 50 per kg and five kg onion at Tk 35 per kg from the trucks. District Controller of Food Md. Abdul Kader said 15 approved dealers are selling 15 tonnes of flour at Tk 18 per kg daily except Friday in Rangpur city. \"Besides, we have completed selling of 30 kg rice at Tk 10 per kg to each of the 1.35-lakh beneficiaries of the district for March and the process will continue for April under the government's food friendly program,\" he added. Deputy Commissioner Md. Asib Ahsan called upon traders, public representatives, civil society members and authorities concerned to work all-together to contain prices of essentials and face the coronavirus situation. \"Everyone should avoid mass gathering and remain cautious and the migrants remain in quarantine for 14 days to prevent the spread of coronavirus,\" he added."
+}

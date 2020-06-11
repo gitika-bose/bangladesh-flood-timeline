@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_47143555-49cf-48c9-be2a-ba262cd38e66.txt",
+  "text": "Date Published:2019-04-14 00:00:00      \nLocal farmers are worried about their yield as adverse weather conditions are threatening their crops   Farmers of Moulvibazar's Hakaluki, Kauadighi, and Hail haors, along with other haors, have started harvesting their Boro paddies--ahead of schedule--due to adverse weather conditions and heavy rain. Whenever thy sky turns black with thick clouds, the hearts of the local farmers fill with fear, and panic strikes among them, as they worry about whether they will be able to collect this year's harvest without losing some to unfavorable weather conditions. According to the Moulvibazar Agriculture Extension Department, farmers cultivated Boro paddy on 130,031 acres of land against the target 131,252 acres, in the whole district.  Expressing great worry, local farmers Selim Ahmad, Laikujjaman, and Kamruzzaman have already started harvesting as they fear that heavy rain and adverse weather conditions, will cause them extensive loses despite a bumper Boro yield in the area.  It has been observed that due to the heavy rain in the area, water levels of the local rivers and canals have risen to alarming heights. Hailstorms are also responsible for causing immense damage to the Boro yield of the district. Anfar Ali, Abdul Khaliq, Majnu Miah--all Boro paddy farmers from the Bhukshimoil union--told the reporter that they are fearing a flood this year, which could take away all of their yield and leave them empty-handed. \"We have started harvesting. Despite the pesticide attacks on our crops, we expected a good yield, but bad weather has forced us to worry a great deal about the harvest and profit.  \"We are very concerned\"  Commenting on the situation, Haor Bachao, Krishak Bachao, Krishi Bachao Sangram Parishad President Siraj Uddin Ahmed Badshah said: \"People of the haor region have been neglected for a very long time. The government has not implemented their promises to develop the haor areas.  He added: \"The government needs to come forward to save all the haors and rivers of the district, as well as the people living here, from the verge of destruction. Only then--along with natural resources here--the haor will live, agriculture will live, and the local farmers will be able to live.\" Kulaura Agriculture Officer Jagalul Haider said, \"The crop is good. Boro paddy harvesting began in a different way in the haor. Rice is rotten in many places. It will take another week for Boro. There is nothing to worry about. There will be some rain during Chaitra and Boishakh.\" Addressing the issue Moulvibazar Agriculture Extension Department Deputy Director Mohammad Shahjahan told Dhaka Tribune: \"The amount of rainfall in area till now has caused no damage to Boro paddy cultivation in the district. \"Farmers in Hakaluka have already started harvesting their crops. I hope the farmers will be able to collect their harvest without any interruption.  Responding to a question about farmers harvesting their crops ahead of schedule due to the fear of rain and adverse weather conditions, he said: \"Why would the farmers harvest partially-ripened paddy? No-one does that.   \"According to the correct scientific methods, farmers should harvest their cultivation when 80% of their whole yield is ripe, but our farmers wait even longer.\""
+}

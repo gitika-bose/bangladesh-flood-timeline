@@ -1,0 +1,45 @@
+[
+  {
+    "query": "bangladesh \"flood\"",
+    "paper": "bssnews",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "http://www.bssnews.net/?p=3728",
+      "http://www.bssnews.net/?p=2315",
+      "http://www.bssnews.net/?p=6327",
+      "http://www.bssnews.net/?p=2660"
+    ]
+  },
+  {
+    "query": "bangladesh \"flood\"",
+    "paper": "bssnews",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": [
+      "http://www.bssnews.net/?p=59446"
+    ]
+  },
+  {
+    "query": "bangladesh \"flood\"",
+    "paper": "bssnews",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://www.bssnews.net/?p=248717",
+      "https://www.bssnews.net/?p=241384",
+      "https://www.bssnews.net/?p=243044",
+      "https://www.bssnews.net/?p=252976",
+      "https://www.bssnews.net/?p=245154",
+      "https://www.bssnews.net/?p=172745",
+      "https://www.bssnews.net/?p=310036",
+      "http://www.bssnews.net/?p=148529"
+    ]
+  }
+]

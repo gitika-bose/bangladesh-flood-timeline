@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_dc19ba00-4bf2-42b9-acdc-169d2937cc90.txt",
+  "text": "Date Published:2020-04-11 00:00:00      \nThe new charge of \"sexual battery by restraint\" will form part of a separate trial he faces in Los Angeles  Disgraced Hollywood mogul Harvey Weinstein was charged by Los Angeles prosecutors on  Friday with  sexually assaulting a third woman, as authorities there build their own case against the convicted rapist. Weinstein, 68, is already in prison in New York state after being sentenced to 23 years in jail for rape and sexual assault. The new charge of \"sexual battery by restraint\" will form part of a separate trial he faces in Los Angeles over allegations he assaulted multiple women in local hotels, with extradition proceedings under way. \"We are continuing to build and strengthen our case,\" said Los Angeles prosecutor Jackie Lacey. \"If we find new evidence of a previously unreported crime, as we did here, we will investigate and determine whether additional criminal charges should be filed,\" she added. The new charge alleges Weinstein sexually assaulted an unnamed woman in Beverly Hills in May 2010 -- just within the 10-year statute of limitations.  He has already been charged with the rape and sexual assault of two other women on consecutive nights in 2013.  Two additional Los Angeles cases against Weinstein are no longer being pursued as those accusers did not want to testify. It is not known when the trial will begin, but Los Angeles prosecutors confirmed Friday they have initiated a request for Weinstein's transfer. \"Upon his arrival, he will be arraigned on the amended complaint. Once a court date is set, the public will be notified,\" a statement read. If convicted in all the California cases, Weinstein could face an additional 29-year prison sentence. For decades a towering figure in Hollywood whom Meryl Streep famously called \"God,\" the \"Pulp Fiction\" producer was expelled from the Motion Picture Academy of Arts and Sciences that awarded his films several Oscars after a flood of accusations broke. Tinseltown A-listers Angelina Jolie and Salma Hayek were among nearly 90 women to have come forward alleging decades of vile predatory behaviour by Weinstein. Weinstein has repeatedly denied wrongdoing."
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_eb788606-4cd4-4ac1-84aa-2df01bdc7c07.txt",
+  "text": "Date Published:2020-02-08 00:00:00      \nA girl was held captive and raped by a village doctor for 18 months in Sylhet A 16-year-old girl was gang-raped during a visit to her hometown in Sreemangal upazila of Moulvibazar. The girl was abducted to a tea garden and raped by three men Friday night. Police arrested Koilash Doshad, 25, and Jaharlal Mridha, 29, who are guards at the Bharaura Tea Garden in the upazila. A case was filed in this regard and the girl was admitted to Moulvibazar Sadar Hospital for medical attention, said Sreemangal police station Inspector Md Sohel Rana. According to the case statement, an auto-rickshaw driver along with two accomplices abducted the girl from near a mass burial site located at Sreemangal town. They took her the Bharaura Tea Garden and raped her there before releasing her.  The prime accused auto-rickshaw driver is on the run, said the inspector. Girl held captive, raped for 18 months A 19-year-old girl was held captive for 18 months in Bishwanath upazila of Sylhet, during which she was raped by a village doctor (Kabiraj) with help of his wife, police say. Police arrested Md Komruddin, 50, and his wife Sumi Begum, 38, being accused in a case filed by the girl's mother. Bishwanath police station OC Shamim Musa said they will seek a five-day remand from court today in order to interrogate the couple. According to the girl's parents, the girl was handed over to the care of Md Komruddin in August, 2018 so that he may treat her various illnesses. They paid him Tk10,000 for his services.  However, according to the agreement Komruddin did not return their daughter after six months and threatened their parents to stay silent on the matter. On Thursday, they decided to file a case with the Bishwanath police station."
+}

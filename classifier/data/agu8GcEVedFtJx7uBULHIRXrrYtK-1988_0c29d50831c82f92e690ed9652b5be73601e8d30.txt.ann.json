@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1988_0c29d50831c82f92e690ed9652b5be73601e8d30.txt",
+  "text": "Feed the Hungry\n1988-09-03T05:00:00.000Z\nLEAD: Dazzling advances in research and ever-increasing harvests in many developing countries have not been able to protect the world's poor from malnutrition. But a simple rethinking of the ways governments give food assistance may achieve what high tech has not.\nDazzling advances in research and ever-increasing harvests in many developing countries have not been able to protect the world's poor from malnutrition. But a simple rethinking of the ways governments give food assistance may achieve what high tech has not.\nSuch rethinking is now under way in some of the neediest and most debt-distressed countries. The best of their new food programs show that it is possible to reduce malnutrition substantially, quickly and affordably - without fostering dependence on welfare. The key is to target food program to those in need. Obvious? Yes, but too many programs have squandered benefits on those who do not require special attention.\nUntil recently, Brazil's annual $1 billion wheat subsidy was available to the rich and poor alike. In a number of African countries, subsidies go to foods like meat and butter, which are out of the reach of the poor even with the subsidy - and the poor continue to go hungry.\nAn income test would seem the most sensible approach to deciding who gets benefits, but it is often unworkable. Even in the United States, where income reporting is systematized, the food stamp program has been jeopardized by charges of abuse. In the developing world, where income is less documented and often takes the form of food a family grows for itself, determining eligibility by income is next to impossible.\nSome countries have found creative, alternative ways to reach the neediest. They target programs by place, type of food, age and signs of faltering growth in children, or even by season. In sub-Saharan Africa, for instance, several countries are beginning to concentrate food resources in scarce months, before the harvest, when malnutrition is most severe.\nThailand and Brazil now focus on regions where malnutrition is concentrated, in the northeast of both countries. Several Brazilian states have gone further. They target the favelas, the very poor neighborhoods, by subsidizing basic foods for customers of small stores. Because better-off Brazilians prefer not to journey into favelas, even for lower prices, the benefits go to those who need them. In Colombia, poverty is scattered throughout the country. So the Government ranked each county according to poverty criteria such as infant mortality and access to health care. Food coupons were distributed to the needy in the 30 percent of counties ranking lowest in these categories.\nSome countries target by subsidizing foods consumed primarily by the poor. In Bangladesh, rice is the preferred grain for those with money; thus, a subsidy on sorghum, which is nutritionally splendid, benefited only those too poor to buy rice. Morocco, which is restructuring its subsidies to emphasize foods eaten by the poor, expects to give the poor greater nutritional benefits for one-fifth the former cost. This year, Mexico established a similar but even larger program than Morocco's, dismantling many of its generalized subsidies.\nTamil Nadu, a state in India, targets a food and nutrition education program in the poorest areas for those at greatest risk. Nutrition workers in 9,000 villages weigh children monthly and provide daily feedings for 90 days to those whose growth is faltering. At the same time, they teach mothers of underweight children how to improve nutrition at home within their means. High-risk pregnant and breast-feeding women also receive food.\nThe benefit of the Tamil Nadu project has been dramatic and enduring. Serious malnutrition has declined by about 50 percent. Two years after children complete the program they are, on average, a significant four pounds heavier than children who did not participate. Sri Lanka is now developing a similar program.\nWhat makes all of these targeted programs so attractive is that they are cost-effective. Food stamps and other broad subsidies often eat up 10 to 20 percent of national budgets. But the new programs get better results at projected costs of only 1 to 2 percent of national budgets, and overall costs are much lower than in conventional approaches. Because these programs provide food only when or where it is most needed, they are less likely to foster a welfare mentality.\nNone of this is to suggest that alleviating the underlying causes of poverty should not remain the most important goal. Education, jobs and access to land are all sorely needed. But the poorest cannot wait. A direct attack on malnutrition is needed as well, and governments willing to make that effort now have effective and affordable measures to make it happen."
+}

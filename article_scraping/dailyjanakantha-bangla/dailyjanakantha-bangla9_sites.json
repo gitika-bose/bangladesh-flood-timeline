@@ -1,0 +1,49 @@
+[
+  {
+    "query": "bangladesh \"floods\"",
+    "paper": "dailyjanakantha-bangla",
+    "date_range": [
+      "1/1/2015",
+      "12/31/2015"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh \"floods\"",
+    "paper": "dailyjanakantha-bangla",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh \"floods\"",
+    "paper": "dailyjanakantha-bangla",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh \"floods\"",
+    "paper": "dailyjanakantha-bangla",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh \"floods\"",
+    "paper": "dailyjanakantha-bangla",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://www.dailyjanakantha.com/details/article/434142/%E0%A6%9C%E0%A6%A8%E0%A6%B8%E0%A6%82%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A3/"
+    ]
+  }
+]

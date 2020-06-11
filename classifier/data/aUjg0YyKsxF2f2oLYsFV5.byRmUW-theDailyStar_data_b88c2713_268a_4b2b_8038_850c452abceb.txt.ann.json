@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_b88c2713-268a-4b2b-8038-850c452abceb.txt",
+  "text": "Date Published:2020-01-17 00:00:00      \nThe government has increased the allocation for the Delta Plan 2100 to 0.86 percent of the gross domestic product this fiscal year, which was 0.58 percent in the previous year. It has also selected some 80 projects to be implemented on a priority basis, for which about $37 billion or 2.5 percent of the GDP will be spent by 2030. Bangladesh's GDP stood at Tk 2,536,177 crore in 2018-19. The allocation was raised following an assessment of the plan taken in September 2018 with the view to ensuring food and water security and fight disasters. Under the plan, coastal, varendra (barind), drought- and flood-prone areas along with haor, Chittagong Hill Tracts, riverine and urban areas will get priority. The planning ministry organised a discussion on the Delta Plan yesterday at the NEC auditorium in the city's Sher-e-Bangla Nagar, where an integrated assessment of the plan was presented. The $4.02 billion Integrated Jamuna-Padma Rivers Stabilisation and Land Reclamation project is one of the major ones taken under the plan, said Shamsul Alam, a member of the General Economics Division, adding that the World Bank has already showed interest in providing $2 billion for the project. Another $5.28 billion project titled 'Construction of Padma Barrage and Ancillary Works' has been added to the list. The project will be implemented after Bangladesh sits and discusses with the country where the river originates from, Alam said, adding that the GDP will grow at 1.5 percent every year if the plan is implemented.  If not implemented, the government will fail to reach its target to bring down the poverty level to zero by 2027, he said. The Delta Plan is an umbrella plan, so it is not necessary that all projects in it would be implemented, said Planning Minister MA Mannan. \"We can add or deduct new projects under the plan also,\" he said, adding that the government will take projects under its annual development programme on the basis of the Delta Plan. The Delta Plan should be monitored continuously by the local experts and changes should be brought if necessary, said Jamilur Reza Choudhury, vice-chancellor of the University of Asia Pacific. Foreign experts would be hired if the local ones cannot do the job, he said. He showed an example of the Padma Multipurpose Bridge where local engineers are responsible for overall management. The planning minister seconded Reza's call to give the monitoring job to local experts. Climate change may cut production of paddy and wheat by 17 percent and 61 percent respectively, according to planning ministry's estimates. About 70 percent of the land in 16 districts, where the poverty rates are rather high, are the most vulnerable to natural disasters, it added."
+}

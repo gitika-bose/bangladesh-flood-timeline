@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_8a1b772a-dddc-48f5-bfa8-498cef75f349.txt",
+  "text": "Date Published:2019-05-09 00:00:00      \nMobile courts will also conduct drives to check on ticket prices Holidaymakers will have a smoother journey on the roads ahead of Eid-ul-Fitr compared to previous years, Secretary of Road Transport and Highway Division, Md Nazrul Islam, has said. \"Trucks and lorries will not be allowed to ply on the roads three days ahead of Eid,\" the secretary told journalists. He said this after meeting with top officials of the division, the Bangladesh Road Transport Authority (BRTA), and the transport owners' association's leaders on ensuring a safe, comfortable, and hassle-free journey for homebound people, on Thursday. However, vehicles carrying daily essentials and medicines will not fall under the purview of the instructions, he added.  The secretary said the condition of the roads is better than in previous years, and the authorities concerned will take immediate steps to resolve any issues that might arise.  \"The public will not suffer on the roads [during the Eid holidays], this year,\" Nazrul said.  Bangladesh Road Transport Corporation (BRTC), and the Ministry of Road Transport and Bridges, will operate control rooms that will work round-the-clock with the BRTA to ease the movement of the holidaymakers.  BTRC will also operate a special bus service. Mobile courts will remain active at all times, and will conduct drives to check on ticket prices and unfit vehicles.  Public transport owners have also been asked to remain alert, Nazrul said. Law enforcement will ensure that no makeshift markets are set up on highways, and no buses are parked arbitrarily. The government has asked garment factory owners to provide Eid workers their holidays in phases, to avoid an extra rush prior to Eid day, the secretary added."
+}

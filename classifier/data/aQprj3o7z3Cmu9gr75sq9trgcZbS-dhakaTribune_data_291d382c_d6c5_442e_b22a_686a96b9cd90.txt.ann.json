@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_291d382c-d6c5-442e-b22a-686a96b9cd90.txt",
+  "text": "Date Published:2020-03-11 00:00:00      \nEarlier on February 29, during the golden jubilee celebration at the university, a local college teacher threatened a physics department student Students of Physics department at the Shahjalal University of Science and Technology (SUST) went on a hunger strike yesterday protesting the harassment of fellow student.  The students started their demonstration in front of the university's academic building A around 11am to press home their four-point demand. The demands are: resignation of the current student adviser Md Omar Faruk, appointment of the next student adviser from a list of names prepared by students, cease of involvement by the Physics department head Dr Shamsun Nahar and the student adviser Md Omar Faruk in any academic activities of the victim student's batch, and an appropriate explanation from the department head as to why she failed to take actions during the incident being present at the scene. Earlier on February 29, during the golden jubilee celebration at the university, a local college teacher threatened a physics department student. At the time both the department head and student adviser were present but failed take any action. Later on March 2, when the students of the department presented their four point demand before the department head, an altercation broke between the two party. As a result on March 4, the department head issued a notice suspending all exams sine die.  Regarding the matter, School of Physical Sciences Dean Dr Md Sajedul Karim said: \"I have had discussions with the students who are protesting. I have conveyed their demands to the teachers concerned. The situation may be resolved with everyone's cooperation.\" However, physics department head Prof Dr Shamsun Nanhar Begum could not be reached for a quote on this matter. "
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_278863f8-b0d9-4979-8b0b-31bf90e53847.txt",
+  "text": "Date Published:2020-04-20 00:00:00      \nMore than 600 disembarked near state capital Sittwe Myanmar shipped hundreds of recently released Rohingya inmates back to the country's restive western borderlands on Monday, after fears that its overcrowded prisons could become hotbeds for runaway coronavirus outbreaks. Men, women and children belonging to the stateless and long-persecuted Muslim minority were among nearly 25,000 prisoners freed last week by a presidential pardon to mark the country's April New Year celebrations. A Navy vessel transported the group from Yangon to western Rakhine state, where most Rohingya live under tight movement restrictions and in conditions Amnesty International has condemned as \"apartheid.\" More than 600 disembarked near state capital Sittwe, while another 200 were taken further north to townships on the border with Bangladesh, state immigration department chief Soe Lwin told AFP. \"They will be quarantined,\" he added, without giving further details. Myanmar's biggest prisoner release in years came as coronavirus fears gripped the country, with calls for low-risk inmates to be released from what Human Rights Watch describes as Myanmar's \"horribly overcrowded and unsanitary\" jails. The World Health Organization (WHO) has also warned that prison populations are particularly vulnerable to the spread of the disease. Myanmar has only 111 confirmed Covid-19 cases but experts fear the real number is many times higher because of the low numbers tested and the country's chronically underfunded healthcare system."
+}

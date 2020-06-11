@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_e34d48a4-1129-4a8a-a2c1-4f8efc278ea3.txt",
+  "text": "Date Published:2020-02-24 00:00:00      \nThe meeting also formed an 15-member committee, headed by DU Pro Vice-Chancellor (Academic) Prof Nasreen Ahmad, to formulate a guideline for conducting evening courses at the university The authorities at Dhaka University (DU) have suspended the enrolment and issuing circulars for evening courses for the next 5 weeks. The decision was taken following a 7-hour-long special session of DU Academic Council, at the university on Monday. The session also formed an 15-member committee, headed by DU Pro Vice-Chancellor (Academic) Prof Nasreen Ahmad, to formulate a guideline for conducting evening courses at the university. The committee members include Pro VC (Administration) Prof Dr Muhammad Samad, Treasurer Prof Kamal Uddin, 10 deans of faculties, and two directors of Institute of Business Administration and Institute of Education and Research respectively. The committee has also been asked to submit the guideline within these five weeks. Talking to journalists after the meeting, DU Vice-Chancellor (VC) Dr Mohammad Akhtaruzzaman said: \"A total of 60 academic council members discussed for and against the legitimacy of the evening courses. Around 25 teachers expressed their opinions regarding the central admission test system.\" \"After the committee submits its guideline, it will be passed through the academic council meeting maintaining due process. Then, it will be decided whether the evening courses will be re-opened or not depending on the need of the country and the university's capacity,\" he added. "
+}

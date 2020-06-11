@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_55258e71-a15f-42ca-ada6-1cb70282db4c.txt",
+  "text": "Date Published:2020-03-04 00:00:00      \nFive, including a BGB official, died in the confrontation Border Guard Bangladesh (BGB) has filed cases against 19 individuals, including four deceased and 70 unidentified persons, in connection with Tuesday's clash over the transporting of timber in Khagrachhari's Matiranga upazila. 40 BGB East Khedachhara Checkpost Havildar Ishak Ali filed the case with Matiranga police station as the plaintiff under charges of obstruction of public service and murder. Matiranga police OC Shamsuddin Bhuiyan confirmed the matter after accepting the case. Legal action will be taken after police investigation, he said. Locals are worried about the case filed against 70 unnamed individualsye Mostafa Kamal of Ichachhara village in Matiranga, said locals are tense about the matter. \"We have no idea how and when we face harassment.\" Another local, Hanif Miah, said the BGB dispute was between deceased Shahab Miah and Mofiz Miah's relatives. \"There was no involvement of the villagers. BGB is doing this [filing case] to harass locals.\" Meanwhile, Bangladesh Inspector General of Police (IGP) Dr Md Javed Patwari visiting Khagrachhari on Thursday, asked the public to trust the police. \"Cases have been filed and an investigation will be launched,\" he said. \"The perpetrators will be brought to justice through proper investigation no matter which party filed the case,\" the IGP said, afte ran inauguration program of the Police Officers' Mess. On Tuesday, five people, including a BGB member, were killed in Gazinagar of Matiranga, when a clash erupted between the BGB men and some villagers over transporting timber. The deceased are BGB Palashpur zone soldier Md Shaon, villagers Shahab Miah and his sons Ahmed Ali and Ali Akbar, and Mofiz Miah. According to witnesses, Ahmed Ali was carrying timber cut down for power lines in a trolley around 11.30 am on Thursday, when a BGB patrol team stopped and questioned him. This led to an altercation between the villagers and BGB. At one point, the BGB started firing their guns, killing Shaon, Shahab, Ahmed, and Akbar on the spot, while bullet-stricken Mofiz died on his way to the hospital. The BGB, in a press statement issued the same day, claimed that the villagers had surrounded a BGB patrol team when they tried to stop timber trafficking, prompting the border troops to fire a blank round. They also claimed that the villagers snatched weapons from the BGB men and started firing indiscriminately, killing five. However, locals who witnessed the incident rejected all such claims. BGB said Mofiz Miah killed Shaon while locals claim that he was killed by another BGB personnel for protesting the incident. Meanwhile, a three member committee has been formed by the Deputy Commissioner's Office to investigate the incident. The committee is scheduled to file a report by Sunday."
+}

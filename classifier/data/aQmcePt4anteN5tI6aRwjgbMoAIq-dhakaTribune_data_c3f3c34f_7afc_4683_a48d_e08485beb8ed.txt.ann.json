@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_c3f3c34f-7afc-4683-a48d-e08485beb8ed.txt",
+  "text": "Date Published:2019-09-15 00:00:00      \nMounting land scarcity around Dhaka city prompts authorities to re-assess the solid waste management strategy With increasing population, rapid economic expansion and urbanization, the Dhaka North City Corporation (DNCC) is exploring prospects of generating renewable energy from municipal solid waste being dumped into Aminbazar landfills, said Dhaka North Mayor Atiqul Islam. Mounting the land scarcity issue around Dhaka city prompts authorities to re-assess the solid waste management strategy, because generating renewable energy from solid waste not only reduces the land pressure problem, but also generates cleaner energy and better environemnt. A proposal was sent to the Local Government Division, in this regard, Atiqul said while launching a combing operation against dengue-carrying Aedes mosquitoes in the capital on Sunday. The mayor said he had a discussion with the chairman of the Parliamentary Standing Committee on Environment, Forest and Climate Change, Saber Hossain Chowdhury, who is now out of country. \"Upon his return, we will hold a meeting on September 21 at the DNCC and will try to determine a viable solution to mounting solid wastes in the landfills,\" he said. The Standing Committee on Saturday recommended that hefty fines will be realized from the DNCC for polluting environment by dumping municipal solid waste unsystematically at the Aminbazar landfill requisite environmental clearance. \"We are always concerned about ecology and environmental pollution. As an immediate action plan, we [DNCC] have proposed to produce cleaner energy from recycling the solid waste,\" the mayor said. Sources said the DNCC has long been using the Aminbazar landfill for dumping waste without any environmental clearance. As the dumping ground used by DNCC is illegal, the environment department earlier issued letters to the organization, but they did not respond. Dhaka Tribune on August 29 ran a report on \"A landfill in flood flow zone\" that said that Aminbazar landfill, the only landfill for all the DNCC solid waste has turned into an artificial floating island in the flood flow zone near the Turag River, severely damaging the ecosystem. An estimated 2,000 tons of municipal solid waste is dumped on a daily basis from different parts of north Dhaka to the landfill that does not have an environmental clearance certificate from the Department of Environment (DoE). The dumping ground has become over-used from all sides and falls on the path of a flood flow zone near a canal of the Turag River. This untreated garbage is also contaminating the groundwater The Aminbazar landfill was built on 2007 on 52 acres of land. Thereafter,  it was further expanded in 2017, as the solid waste and garbage have exceeded the capacity of the landfill. Since then, it has turned into an open dumping station due to the chaotic disposal of solid waste.  The Environment Conservation Rules-1997 made it mandatory to have an environmental impact assessment (EIA) and maintain sound environmental conditions in all steps of building and operation of landfills. However, the DNCC neither conducted the EIA nor obtained any environmental clearance - a clear violation of the rules."
+}

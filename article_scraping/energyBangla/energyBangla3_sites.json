@@ -1,0 +1,52 @@
+[
+  {
+    "query": "bangladesh flooding",
+    "paper": "energyBangla",
+    "date_range": [
+      "1/1/2015",
+      "12/31/2015"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh flooding",
+    "paper": "energyBangla",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": [
+      "http://energybangla.com/rooftop-solar-a-feasible-option-for-clean-energy-promotion/"
+    ]
+  },
+  {
+    "query": "bangladesh flooding",
+    "paper": "energyBangla",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh flooding",
+    "paper": "energyBangla",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh flooding",
+    "paper": "energyBangla",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "http://energybangla.com/climate-change-importance-for-children-in-bangladesh/",
+      "http://energybangla.com/energy-security-for-achieving-national-vision/"
+    ]
+  }
+]

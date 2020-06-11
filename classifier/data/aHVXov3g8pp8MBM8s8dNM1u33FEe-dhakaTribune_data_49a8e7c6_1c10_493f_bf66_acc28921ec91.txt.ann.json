@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_49a8e7c6-1c10-493f-bf66-acc28921ec91.txt",
+  "text": "Date Published:2020-03-04 00:00:00      \nOut of the funding EUR18.5 million will help the most vulnerable groups among refugees and host communities in Bangladesh The European Commission is releasing EUR31 million in humanitarian aid to address the Rohingya crisis in Bangladesh and Myanmar. European Commissioner for Crisis Management Janez Lenarcic has said the Rohingya crisis is in its third year and it is more important than ever to maintain their support and not forget those that remain dependent on humanitarian aid to survive, reports UNB. The European commissioner said: \"We are committed to supporting both refugees and host communities in Cox's Bazar, as well as to the vulnerable Rohingya in Myanmar.\" \"It will ensure that those most in need continue to receive life-saving assistance, while being protected from the effects of flood and other hazards.\" Out of the funding announced on Wednesday, EUR18.5 million will help the most vulnerable groups among refugees and host communities in Bangladesh, according to the European Commission. This will be done by providing critical health care, food assistance and education in emergencies. Another EUR3.5 million will go towards building the local communities' capacities to prepare for and manage natural disasters. File Photo: In this handout aerial photo taken on June 19, 2019 and released on October 21 by Mukta Dinwiddie MacLaren Architects shows buildings intended to accomodate members of the Rohingya refugee community on the silt islet Bhashan Char in the Bay of Bengal | AFPIn Myanmar, EUR6.5 million will focus on helping communities in Rakhine, Kachin and Shan states by providing health care, nutrition, education and shelter. Protection is also at the core of this support, with a specific focus on registration and documentation. Another EUR2.5 million will boost the local preparedness system in case of conflict or natural disasters. Humanitarian aid  In 2019 alone, the European Union provided close to EUR27 million in humanitarian aid for vulnerable Rohingya refugees and Bangladeshis in Cox's Bazar and other parts of the country, as well as EUR9 million to address the immediate needs of displaced and conflict-affected communities in Myanmar. September 2019 marked two years since the massive influx of over 700,000 Rohingya refugees from Myanmar to Bangladesh, following violence in Northern Rakhine. In total, almost one million refugees are living in camps in the Cox's Bazar district and are fully reliant on humanitarian assistance. Since 2017, the European Union has provided over EUR150 million in humanitarian aid to respond to the Rohingya crisis both in Myanmar and in Bangladesh. File photo: Rohingya refugees stretch their hands to receive aid distributed by local organisations at Balukhali makeshift refugee camp in Cox's Bazar, Bangladesh, September 14, 2017 | Reuters This includes basic humanitarian assistance for Rohingya populations, both for those who have been living in displacement in Bangladesh for many years and for the newly arrived, and host communities living close to the refugee settlements. The EU provides shelters, health care, water and sanitation support, nutrition assistance, education, and protection services. Approximately 600,000 remaining Rohingya people in Myanmar's Rakhine continue to suffer from a protracted human right crisis, with very limited access to basic services and viable livelihood opportunities due to strict movement restrictions and denied citizenship and rights. In 2019, a new conflict between the Burmese army and the Arakan Army, an ethnic Rakhine armed group, has caused new displacement of ethnic Rakhine population. The total number of new internally displaced persons in Rakhine State has risen to 70,000 spread over 106 sites."
+}

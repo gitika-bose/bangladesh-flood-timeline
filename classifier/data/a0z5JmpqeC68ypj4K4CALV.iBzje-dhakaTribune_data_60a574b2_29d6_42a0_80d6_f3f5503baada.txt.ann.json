@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_60a574b2-29d6-42a0-80d6-f3f5503baada.txt",
+  "text": "Date Published:2020-01-27 00:00:00      \nTabith said he will take steps to ensure the rights and security of citizens BNP's Dhaka North City Corporation (DNCC) mayoral candidate, Tabith Awal, on Monday unveiled his manifesto, promising to make Dhaka North a \"world-class modern and smart megacity.\" He outlined the promises while unveiling his 173-point manifesto, which was separated into 19 sections, a number of them being repetitive and overlapping, at a press conference held at Emmanuelle's Banquet in Gulshan. While talking to reporters, Tabith said: \"Use of technology has increased everywhere. I want to make Dhaka an 'intelligent city' which is a new trend around the world.  \"I want to use modern technologies, including artificial intelligence (AI), to make DNCC a smart city.\"  Mentioning BNP Chairperson Khaleda Zia's present situation, he said: \"Please assist me, support me and stand beside me. I want your empathy. I promise you, I will never betray you. I promise that my thoughts and plans will be modern and for the future, not something backdated.\"  Responding to a question on whether he would, if elected, be able to implement his pledges while representing BNP, Tabith said that he would, as he would have the support of the city dwellers on his side. Tabith said that he would also focus on tackling the mosquito menace, curbing air pollution and working on better traffic management, among other things. In his manifesto, he also highlighted the importance of improving the public transport and the waste management system of DNCC, adding that he will reset the running holding taxes by mass hearing.  Tabith also said that, if elected, he will initially have \"rent controllers \"in all the wards of DNCC, so that the house rent rates are fixed through coordination between the house owners and the tenants; every two years a \"rent commission\" will fix the highest and lowest house rent rates in DNCC.  Tabith, in his manifesto, also promised to build at least ten public toilets in every ward of DNCC.  He said that, if elected, he will build three toilets at every main bus stop in Dhaka North for all, including physically challenged people. \"If I get elected as mayor, I will firstly take 60 days work plan for DNCC,\" he added.  Among others, BNP Secretary General Mirza Fakhrul Islam Alamgir, Jatiya Samajtantrik Dal President ASM Abdur Rab, Nagarik Oikya Convener Mahmudur Rahman Manna and Gonoshasthaya Kendra founder Dr Zafrullah Chowdhury, were also present during Tabith's manifesto unveiling."
+}

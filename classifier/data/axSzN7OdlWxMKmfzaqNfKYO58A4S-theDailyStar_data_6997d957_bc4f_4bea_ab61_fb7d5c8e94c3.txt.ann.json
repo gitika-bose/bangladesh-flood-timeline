@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_6997d957-bc4f-4bea-ab61-fb7d5c8e94c3.txt",
+  "text": "Date Published:2020-01-12 00:00:00      \nThe first phase of Biswa Ijtema, the world's second largest Muslim congregation after Hajj, will end today through the Akheri Munajat [final prayer]. Maulana Zubair Hassan, the imam of Kakrail Mosque in the capital and leader of a faction of Tabligh Jamaat, will administer the Munajat seeking blessings and well-being for mankind. Thousands of devotees from home and abroad will take part in the prayer. Tabligh Jamaat, a coalition of Muslim devotees, has been organising the event on the bank of Turag river, near Tongi upazila of Gazipur, every year since 1967. The first phase of the Ijtema is mainly allocated for the followers of Maulana Zubair.  The second phase will be held from January 17 to 19. This phase is allocated for the followers of Indian preacher Maulana Saad Kandhalvi. FIVE MORE DIED IN IJTEMA Meanwhile, five more devotees died at the Ijtema venue yesterday, mostly due to heart attack and old-age complications. With them, a total of nine people died so far since Friday. The dead are Ali Azgar, 70, from Barisal; Md Yusuf, 45, from Narayanganj; Md Shahjahan, 60, from Brahmanbaria; Tamij Uddin, 65, from Cumilla; and Abdur Razzak, 50, from Rajshahi. Manjur Rahman, deputy commissioner of Gazipur Metropolitan Police, said the bodies were handed over to the families after their namaz-e-janaza at the Ijtema ground. To ensure security of the event, law enforcement agencies have taken up a multi-layered security measures. Members of police, Rab and intelligence agencies have been deployed in the adjacent areas. Over 400 closed-circuit television cameras, 25 watch towers and 11 checkpoints have been set up to monitor the area, police said."
+}

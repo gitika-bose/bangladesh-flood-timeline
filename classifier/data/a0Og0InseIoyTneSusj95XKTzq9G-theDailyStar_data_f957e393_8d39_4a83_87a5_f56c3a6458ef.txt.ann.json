@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_f957e393-8d39-4a83-87a5-f56c3a6458ef.txt",
+  "text": "Date Published:2020-03-17 00:00:00      \nThe birth anniversary of Bangabandhu Sheikh Mujibur Rahman is observed today in the country in simple fashion. The birthday of the father of the nation coincides with the arrival of Indian Prime Minister Indira Gandhi in Bangladesh. Indira Gandhi presents fruits and sweets to Bangabandhu on his birthday. The day begins with special prayers held at the city mosques, temples, pagodas and churches wishing Bangabandhu good health and a long, happy life. Awami League volunteer corps present a guard of honour to the prime minister at his residence in the early morning. The city newspapers, in their Friday supplements, carry special articles and features on the life and activities of Bangabandhu. Bangladesh Television telecasts an interview of Bangabandhu's parents on this special occasion. When Bangabandhu was in prison in Pakistan, his colleagues in Bangladesh government had declared this day a public holiday. But Bangabandhu in a statement says that he doesn't think March 17 should be a holiday in the future. He however adds that March 17 this year shall be observed as a public holiday as a token of love and admiration for the great prime minister of India, Sreemati Indira Gandhi. Indian Prime Minister Indira Gandhi today flies into Dhaka to a hearty welcome carrying messages of goodwill and friendship of the people of India for the friendly people of Bangladesh. As her special twin-jet Rajhangshah rolls into the tarmac, loud applause welcomes the great friend of Bangladesh. Waiting to receive her were Bangabandhu Sheikh Mujibur Rahman, Begum Fazilatunnesa and their youngest son Russel, among others. Addressing the biggest ever public meeting in Dhaka at the Suhrawardy Uddyan a few hours after her arrival, Indira Gandhi says that people of Bangladesh and India will be one in sharing the burden of humanity's sufferings. They will together also continue the march in shaping their destinies and that both will live as good and friendly neighbours. \"Our friendship and unity are based on an unshakable foundation,\" she adds. Bangabandhu in his speech at the programme declares that Bangladesh, realised at a very high cost in terms of life and blood, believes in peaceful co-existence and malice to none. The entire Suhrawardy Uddyan shook to its depths with the full-throated affirmation from the mammoth gathering when Bangabandhu asks whether they support the Bangladesh-India friendship and are ready to take up arms to protect their freedom, which had been achieved through great sacrifice. Representatives from the Bangladesh and Indian governments hold substantive talks at four levels during which various subjects, including trade relations, flood control, travel facilities, war crimes trial and the international situation in the subcontinent are discussed. SOURCES: March 18, 1972 issues of Dainik Bangla, The Daily Ittefaq, Azad, Morning News, The Bangladesh Observer and Purbodesh."
+}

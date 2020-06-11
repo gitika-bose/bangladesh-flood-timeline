@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_34c61a05-ec39-4bb2-816f-b53180d2a26f.txt",
+  "text": "Date Published:2020-01-29 00:00:00      \nShuvo told the visiting journalists that he immersed himself in robotics related subjects from an early age dreaming of making robot one day Shuvo Karmakar is a tenth-grader from Kalupara village in Agoiljhara upazila of Barisal, attending Gaila Secondary High School. He spent about Tk 25,000 to make an artificial intelligence (AI) robot named \"Robin\", that can communicate in both English and Bangla.  The thought of creating Robin came after Shuvo saw robot Sofia.  He made sure the robot could speak Bangla unlike Sophia. The cost of making Robin was much less than Sophia, said Shuvo to local journalists. Shuvo told the visiting journalists that he immersed himself in robotics related subjects from an early age dreaming of making robot one day. So he gathered knowledge about robotics and programming from the internet. He learned that the word 'robot' derived from the Czech word 'robota,' that means forced labour, slave of man, or the machine that can work continuously and spontaneously and would be an alternative for various human activities.    When his friends played outside, he remained home in front of the computer, going from one website to another to learn robotics and programming.  He started to make Robin on May 25, 2018, and it took him about eight months to complete in January 2019, spending around Tk 25,000. The robot was named Robin after a superhero of a cartoon show in the USA.  To make Robin locally and affordably, Shuvo managed to acquire hardware from local shops in Dhaka and Barisal, and from online. After completion, he enriched Robin with several useful features like self-learning and using machine-learning algorithms to process information. It can also tell the names of its maker, and top leaders and officials of the country. A sensor in Robin can detect fire emergencies and send location information to the nearest fire service office via Google Maps. Robin is also a treasure of information for interacting with children to teach them the basics of different subjects. It can also  provide valuable insight to farmers about producing and caring for crops. Shuvo is now working on improving Robin by giving eyesight and movement on legs instead of working on wheels.   \"If I get enough support, I can improve Robin more to reach further heights in the field of robotics, by making a robot even better than Sofia,\" said Shuvo. Shuvo received an award from Dr Dipu Moni on July 5, 2019, and at the National Children's Prize held in 2018.  He was also honoured with an award from Science and Technology Affairs Minister Yeafesh Osman at The National Science and Technology Fair on June 26, 2018, and different prizes from upazila, district, and divisional shows and competitions. Businessman Santosh Karmakar and Dipti Karmakar, father and mother of Shuvo, said he is the older of their two children, and family members are happy and proud of Shuvo. His parents say they will continue to support him to follow his passion."
+}

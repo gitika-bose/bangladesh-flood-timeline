@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_bac63393-ccf0-4d4f-aa30-95041de0c45c.txt",
+  "text": "Date Published:2019-09-02 00:00:00      \nThe eviction drive will continue for the next three months The concerned authorities of Khulna started eviction drive yesterday, against illegal land grabbers, to protect rivers, and canals in the city. The district administration  conducted  the eviction drive in collaboration with different stakeholders including Khulna City Corporation (KCC), Khulna Development Authority (KDA), Bangladesh Inland Water Transport Authority (BIWTA), and the Metropolitan Police. They started the long awaited eviction drive  to demolish over 2,636 illegal structures erected on both banks of the rivers Mayur, Bhairab, Rupsha, and 26 canals. About 1,614 illegal land grabbers will be evicted to protect rivers, and canals in the city. A team led by Khulna deputy commissioner (DC) Md Helal Hossain started the drive from Gallamari area at 11 am yesterday, and bulldozed a huge number of illegal structures. The eviction drive will continue for the next three months. Mayor of Khulna City Corporation (KCC) Talukder Abdul Khaleque started the drive by evicting an illegal factory in Gallyamari area. During the drive, the KCC Mayor asked the person concerned to remove all listed illegal structures, and release government lands, saying the illegal land grabbers must leave the lands. Many rivers, canals, and water bodies in the region were occupied by land grabbers. Eviction drive  began to free rivers, canals, and water bodies from land grabbers for ensuring normal flow of water,  said deputy commissioner Md Helal Hossain. The DC urged all levels of people to extend their cooperation to make the eviction drive successful towards recovering illegally occupied lands on the river banks, and other water bodies. "
+}

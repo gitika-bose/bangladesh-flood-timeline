@@ -1,0 +1,159 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_6": {
+      "value": "urban",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 15,
+          "text": "2019-10-02"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "2019-10-01",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_50": {
+          "value": "2019-10-01",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1145,
+          "text": "waterlogging scenario in Dhaka"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Dhaka",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1427,
+          "text": "waterlogging in a number of areas"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "urban",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [],
+  "filename": "dhakaTribune_data_3b7d5c46-1c17-4e49-9531-ff11e05acb67.txt",
+  "text": "Date Published:2019-10-02 00:00:00      \nFollowing approval from the Executive Committee of the National Economic Council (Ecnec), Dhaka Wasa had initiated two projects to tackle the issue and improve the water logging situation The water logging situation in the capital has not changed over the years, even after promises from Dhaka Wasa about implementing a master-plan and commitment of the government to find a solution to this problem. People of the city were reminded of the unfulfilled pledges yesterday, after a downpour left numerous areas waterlogged and led to major gridlock on the streets until well after evening. Following approval from the Executive Committee of the National Economic Council (Ecnec), Dhaka Wasa had initiated two projects to tackle the issue and improve the water logging situation. But their progress is very slow to make any significant headway. On June 28, 2018, Khandaker Mosharraf Hossain, then LGRD minister, had blamed development projects around the city for its water logging problem. He had also expressed hope that the problem would end by 2019 -- which has not happened. As a result, the perennial waterlogging scenario in Dhaka is still unchanged. The Bangladesh Meteorological Department (BMD) recorded 46mm rainfall in the city between 12pm and 6pm yesterday. Just within half-an-hour of thundershowers a little after 12pm, citizens were seen posting on social media videos of waterlogging in a number of areas. Dhaka Tribune correspondents during visits also found many streets and areas inundated. The areas that suffered most include Mirpur's Rokeya Sarani and Kazipara, Jahangir Gate, Green Road, parts of Indira Road, Tejgaon, Panthapath, Shukrabad, Kalabagan, Dhanmondi, Jhigatala, Shankar, Jatrabari, Bashundhara Residential Area, Motijheel, Gulistan, Paltan, Bijoynagar, Fakirapool, Karwan Bazar, Arambagh, some areas in Mohakhali and Gulshan, and many places of Old Dhaka. Talking to Dhaka Tribune, many said waterlogging was still occurring as the drains that are supposed to take the rainwater out are clogged with garbage. At the same time, heavy gridlock on major roads, which were inundated, made it extremely difficult for city dwellers to commute. Sufferings Many people were seen wading through the water to reach their destinations. Sarjin Sharif, a resident of Shankar area, told Dhaka Tribune: \"The road in front of my house is completely submerged. \"I need to go to work, but I cannot even get out of the house to find a vehicle.\" Dhanmondi's Road No 27 also went under knee-deep water very quickly, leaving many including students suffering amid heavy rain. Nafisa Nazmul, a former student of Brac University, said: \"I cannot find transport to go to Panthapath from Mirpur 10. The roads are completely underwater.\" East Jurain resident Awenim Rahman also told Dhaka Tribune that the main streets in his area were fine, as they were rebuilt and their heights increased recently. \"But the branch lanes, which are still low-lying, are completely inundated.\" He said he also faced horrible traffic jam on his way to the office later in the afternoon. \"I found all the roads leading from Gulistan to Paltan, Shahbagh, Kakrail, Dainik Bangla, and Farmgate via Banglamotor and Karwan Bazar absolutely gridlocked,\" Awenim said expressing frustration. Independent University Bangladesh faculty member Kazi Mubinul Hasan said: \"I live in the Bashundhara Residential area. On a usual day, it takes me less than an hour to reach Shukrabad. But today [Tuesday], it took me nearly two hours.\" Nilkhet and New Market areas, Elephant Road and Mirpur Road also saw major gridlock after the rain stopped a little after 3pm. The rain even left the roads leading from the main entrances to archways in the Bangladesh Secretariat, adjacent to Zero Point in Gulistan, under knee-deep water for at least three hours. Officers and outsiders both suffered while going from one building to another. Many were even seen entering the offices barefoot. Those turning up at the secretariat without cars were among the worst sufferers. Many said the secretariat had seen a similar problem on Sunday. More rains incoming BMD Meteorologist AKM Ruhul Quddus told Dhaka Tribune that they recorded 45.3mm of rainfall in the capital between noon and 3pm yesterday. Between 12pm and 6pm, a total of 46mm rainfall was recorded. Meanwhile, BMD also recorded the highest rainfall in Sylhet - 120mm. According to a Met Office weather bulletin, light to moderate rain or thundershowers accompanied by temporary gusty wind over the country was likely again in the next 24 hours as of 9am today. \"There is a chance of light rain on Wednesday in Dhaka, Khulna and Chittagong regions, and in the rest of the country it will rainless,\" said Ruhul. The bulletin added that light to moderate rain or thundershowers accompanied by temporary gusty wind is likely to occur at most places in Dhaka, Mymensingh, Chittagong and Sylhet divisions, many places in Khulna and Barisal divisions, and a few places in Rangpur and Rajshahi divisions during the time. Moreover, it said, some places in Barisal, Chittagong, Mymensingh and Sylhet divisions may see moderately heavy to very heavy falls until this morning. Slow progress of master-plan Aiming to fix the perennial problem, the Ecnec last year had approved two projects -- \"Expansion of Drainage Networks and Development of Canals Project in Dhaka City\" and \"Land acquisition, excavation and re-excavation of Hazaribagh, Baishteki, Kurmitola, Manda and Begunbari canals.\" But both, being implemented by Dhaka Wasa are advancing at a snail's pace. One of the projects has registered only 8.25% progress in the past one year, while the other just 1.5% over the span of 14 months. Regarding the extremely sluggish progress, urban development expert Prof Nazrul Islam said such projects, after being passed, advance slowly due to many issues. \"But in course of time, their progress gained pace. But these two projects seem to be progressing very slowly. Only the authorities implementing them can explain why,\" he said. Dhaka Wasa Managing Director Taqsem A Khan was unavailable for comment over phone. However, engineer Nuruzzaman, former member of Dhaka Wasa Board, told Dhaka Tribune: \"Wasa is trying to solve the waterlogging issue by implementing some projects. It is visible that once areas used to remain waterlogged for five to six hours, but this year the water cleared from roads in two to three hours. It is a significant improvement.\""
+}

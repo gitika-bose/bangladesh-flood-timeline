@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_d6f5c9f8-313a-4540-bd4d-4d80cb873b6c.txt",
+  "text": "Date Published:2019-01-25 00:00:00      \nLocals handedthe uniform-clad soldierover to Bhallukhaiya BGB camp Members of the Border Guard Bangladesh (BGB) detained a Myanmar army soldier in Lembuchhari border area in Naikhongchhari, Bandarban Thursday morning. The detained was identified as Aung Bou Thin of Myanmar army Battalion 287 in Yangon. Confirming the matter, Cox's Bazar BGB Sector Commander Col SM Bayzid Khan said: \"The Myanmar soldier, stationed at Bendula camp, had fled Myanmar to Bangladesh to seek work.\" Locals apprehended the soldier, wearing Myanmar army uniform, and handed him over to Bhallukhaiya BGB camp."
+}

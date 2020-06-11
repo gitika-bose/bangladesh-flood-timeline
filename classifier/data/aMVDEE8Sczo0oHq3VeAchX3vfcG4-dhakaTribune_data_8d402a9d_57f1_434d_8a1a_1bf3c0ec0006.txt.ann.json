@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_8d402a9d-57f1-434d-8a1a-1bf3c0ec0006.txt",
+  "text": "Date Published:2020-04-10 00:00:00      \nDespite the coronavirus precautions, voters were enthusiastic Early voting in South Korea's parliamentary election began on Friday with coronavirus patients casting ballots at disinfected polling stations and candidates bumping fists instead of pressing the flesh as they appeal for support. The election could decide the control of parliament and shape President Moon Jae-in's ability to implement his agenda in the final two years of his administration, including looser fiscal policy aimed at creating jobs, raising the minimum wage, and continued re-engagement with North Korea. The National Election Commission set up eight polling stations for more than 3,000 coronavirus patients receiving treatment as well as 900 medical staff at treatment centres in hard-hit areas, including the capital, Seoul, and Daegu city. The election is on April 15 but officials are hoping that people will take advantage of early voting to reduce the numbers crowding polling locations that day. Polling stations were disinfected on Thursday and all voters were required to wear a mask, use sanitizers and wear plastic gloves. Officials checked temperatures and anyone higher than 37.5 Celsius (99.5 Fahrenheit) was directed to special booths. Despite the coronavirus precautions, voters were enthusiastic. \"It was a little uncomfortable since I had to put on plastic,\" said Kim Ju-yeon, 22, who voted at a polling station at Seoul Station, referring to the gloves she had to wear. \"But because voting is a must, the experience was reassuring.\" There are 3,500 stations for voters to cast their ballots during two days of early voting starting on Friday. Moon cast his ballot at a polling station near the presidential office, known as the Blue House. \"There might be a long line of voters on the election day. I hope the early voting distributes that number,\" Moon said after voting. The government is also considering how some 46,500 people who have not tested positive but are in self-quarantine - most of them returnees from abroad - can cast their ballots. \"We are in consultation with related ministries on how to ensure the right to vote for those in self-quarantine on April 15,\" Vice Health Minister Kim Gang-lip told reporters on Friday. Kim said the people in self-isolation could not take part in the early voting because of the risk they might be infected. The Korea Centers for Disease Control and Prevention reported 27 new coronavirus cases on Friday, bringing the national tally to 10,450. The national death toll rose by four to 208. Candidates who began campaigning early this month have been wearing masks and exchanging fist bumps with voters in small meetings, shunning handshakes and big rallies. \"We're refraining from large rallies as much as possible and also limiting personal contact,\" said Lee Nak-yon, a former prime minister running for the parliament. The head of the main opposition United Future Party, Hwang Kyo-ahn, was spotted disinfecting residential areas. "
+}

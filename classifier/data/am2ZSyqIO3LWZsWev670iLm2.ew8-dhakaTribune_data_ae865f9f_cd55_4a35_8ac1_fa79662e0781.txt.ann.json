@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_ae865f9f-cd55-4a35-8ac1-fa79662e0781.txt",
+  "text": "Date Published:2019-06-23 00:00:00      \nClimate vulnerability depends not only on climate change, but also on how we develop Recently, the country experienced several major cyclones (eg Sidr and Aila), indicating that climate change is already impacting Bangladesh, and future effects would further aggravate this already bleak situation. Although there will be stronger tropical cyclones (TCs) observed in the Bay of Bengal, the total number is not expected to vary much. The stronger TCs will have particularly serious impacts on our nation's forestry. The country's coastal forests, such as mangroves and coastal plantations -- including charland plantations -- will be at the forefront of climate change. Sea rise due to high temperatures may submerge coastal forests and settlements, resulting in climate refugees. In the winter, high evapotranspiration combined with low water flow will increase the salinity of the forest soil and coastal waters. These conditions adversely affect freshwater-dependent flora and fauna, in particular, and forest productivity and biodiversity in general. This will eventually shift the character of forest boundaries and vegetation as the species that provide dense canopy cover will be replaced by non-woody shrubs and bushes.    Climate change projections Climate change may affect the country's forest eco-systems, which may result in negative consequences for forest-dependent communities. However, like any other natural systems, forest eco-systems are generally able to tolerate some level of climate change and so will continue to persist in the short term.  In the long term, whether their resilience will be sufficient enough to tolerate future anthropogenic climate change, is not known. Using climate change, including adaptation, as a driver to undertake activities with multiple benefits can catalyze progress in achieving a country's sustainable development goals. Many countries are starting to take action towards adapting to climate change. Such actions need to be expanded and integrated into national and sectoral planning to ensure that sustainable development and adaptation are mutually enhanced. Climate change-based information has the following advantages on a longer time-scale adaptation planning:   * Enhancing the scientific basis for decision-making for adaptations  * Strengthening methods and tools for the assessment of adaptation  * Education, training, and public awareness on adaptation, including for young people  * Individual and institutional capacity-building  * Technology development and transfer; and promotion of local coping strategies  * Appropriate legislation and regulatory frameworks, which promote adaptive-friendly action  * An adaptive planning process that covers different time-scales and levels (eg national, regional) and sectors  We have also experienced the impacts of inter-annual time-scale climate variability El Nino-Southern Oscillation (ENSO). From our review, we are fairly confident that ENSO variations will continue to occur and influence global climate in the coming decades and centuries. Therefore, climate change projection combined with a future ENSO event may provide improved perspective for capacity-building efforts in the forestry sector of Bangladesh. Also, future vulnerability depends not only on climate change, but also on development pathways. The implementation of adaptation needs to be integrated into national and international sustainable development priorities, as well as into national and sectoral development plans in Bangladesh. Bangladesh has already started to take concrete action towards adaptation to climate change. However, such action needs to be expanded and integrated into national and sectoral planning to ensure that sustainable development and adaptation are mutually enhanced. Recommendations for improvement Future trends are becoming clear, insofar as there is a need for more quantified spatial specific information, especially on future changes in extremes. This information is needed for improved flood and drought risk analyses. Therefore, we propose a climate change micro-level downscaling analysis of the future climate scenarios for Bangladesh. The output of this downscaling exercise is necessary for future water availability, food security, flood risk analyses, and forest eco-systems. The other major issue that needs to be seriously addressed is the inter-annual variability ENSO. One of the biggest El Nino related threats is forest fire. Forest fires threaten many ecologically-important areas, including habitats for rare species like tigers, and the smoke they give off is a serious threat to local people's health. Improved longer-term projection based on El Nino variability is essential for adapting to forest hazards in Bangladesh. It is also important to improve our understanding of emissions from fires in the region, which would ultimately help improve climate models. It will also contribute to initiatives like the United Nations Collaborative Reducing Emissions from Deforestation and Forest Degradation program.  Md Rashed Chowdhury is the Principal Research Scientist of the Pacific ENSO Applications Climate Center (PEAC), University of Hawaii, USA."
+}

@@ -1,0 +1,170 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun",
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 13,
+          "text": "1988-09-06"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "1988-08-01",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_50": {
+          "value": "1988-08-31",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 58,
+          "text": "Bangladesh flooding has killed 550 people"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "550",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 104,
+          "text": "left 30 million homeless"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_36": {
+          "value": "30000000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [],
+  "filename": "1988_9f82afa9557f45ac483b18a23b78bec09d3d3d79.txt",
+  "text": "NEWS SUMMARY\n1988-09-06T05:00:00.000Z\nInternational A3-17\nBangladesh flooding has killed 550 people and left 30 million homeless. In Dhaka, prices for food and kerosene have increased by 30 to 200 percent. The destruction has been widespread, officials said. Page A1\nCanada will give Arctic territory to 39,000 Indians, Eskimos and people of mixed ancestry. Prime Minister Brian Mulroney signed an agreement that cedes title to an area of about 260,000 square miles. A1\nA campaign to protect elephants from poachers in Kenya's Kora National Game Reserve has been started by George Adamson, who with his wife, Joy, created the legend of Elsa, the lion of ''Born Free.'' A1\nThe electricians' union in Britain was expelled from the Trades Union Congress, causing the most serious split in decades in the British union movement as a national postal strike is spreading. A3\nProsecutors read charges in Moscow against Yuri Churbanov, son-in-law of Leonid Brezhnev, and eight others at the opening of their trial. Defense lawyers complained about pretrial publicity. A5 The style of Azerbaijan's new leader, Abdul Rahman Vezirov, differs from that of his predecessor, Geidar Aliyev. Mr. Vezirov turned a guest house that Mr. Aliyev built for Leonid Brezhnev into a public wedding hall. A4\nNews analysis: Japan is bolder in world affairs, taking intitiatives in foreign policy that it had been unwilling to take earlier. Other nations are prodding Japan to contribute more to the world. A8\nIraqi troops on the Turkish border dug in to assert authority over an area that Kurdish guerrillas had claimed. The action has virtually sealed the border, diplomats said, trapping many Kurds in Iraq. A10\nMilitary analysis: The loss of plans for the American role in allied operations in the event of war in Europe could be the most serious aspect of the espionage operation uncovered in West Germany last month. A17\nIsraeli Labor party opens campaign A3\nGreece and U.S. suspend talks on military bases A16\nBrother of Seoul's ex-leader is found guilty of corruption A6\nNational A18-21, B7-8, D12\nThe Air Force launched a Titan 2 with a secret payload. The rocket, a reconditioned intercontinental ballistic missile, is the first of 68 boosters intended to diminish the military's reliance on the space shuttle. A1\nDelays in two space shuttle flights out of nine planned for next year will force postponements in the launching of the Hubble Space Telescope and three telescopes meant to scan the heavens from the shuttle. B7\nThe Federal Home Loan Bank Board agreed to a rescue plan for the American Savings and Loan Association that will cost the agency $2 billion. The transaction is the most expensive for a single thrift institution. A1\nThe economic costs of illiteracy are increasing as the United States needs more better educated workers in services. An estimated 23 million people are functionally illiterate; the number is growing, experts say. A1\nSan Diego is fighting homelessness by making it profitable for private developers to build and operate single-room occupancy hotels. The city has relaxed building codes and offered low-interest loans to builders. A18\nA Houston television personality, Marvin Zindler, won permission from Hanoi for two Vietnamese children to rejoin their father. Mr. Zindler became famous for closing ''The Best Little Whorehouse in Texas.'' A18\nEffects of drought linger on Mississippi River A20\nSpending varies widely on legal defense of the poor B8\nPolitics D12 Vice President Bush praised American patriotism and promised to make jobs for all Americans the top aspect of his economic policy. Mr. Bush attacked the Democrats at three stops in California. D12\nMichael S. Dukakis promised prosperity for the middle class. At a rally in Detroit, the Democratic Presidential nominee said that average families could not afford another Republican administration. D12\nLabor Day is the traditional kickoff for the Presidential race. Both campaigns arranged events for maximum impact on television, keeping in mind that television viewing increases in the fall. D12\nQuayle, at Statue of Liberty, attacks Dukakis on Pledge D12\nWashington Talk B8\nSharing the defense burden: U.S. allies concerned Regional B1-6\nA compromise in Yonkers eluded the Mayor and the City Council. After a day of meetings, they gave no indication that a breakthough had been made to carry out the court-ordered housing desegregation plan. A1\nMarchers in the Labor Day parade said Americans should pause to praise workers and contemplate the role of labor unions in the nation's history. Others wondered whether the day has lost its meaning. B1\nNew Yorkers unwound outdoors at Labor Day events in Brooklyn and Manhattan. About 850,000 attended the West Indian-American Day carnival in Brooklyn; thousands watched the labor parade in Manhattan. B1 Drug abuse as a political issue is cutting across the lines of Congressional Districts in New York. It is the most important issue in seven primary contests for Democratic Congessional nominations. B1\nUrban school districts in New Jersey have raised concern about the quality of education. The system for financing education is flawed, a judge has ruled, because the quality of schooling in the suburbs is higher. B1\nA Wells Fargo robbery trial opens in Hartford this week for seven defendants linked to a Puerto Rican terrorist group. They were arrested three years ago and charged with the 1983 robbery of $7 million. B3"
+}

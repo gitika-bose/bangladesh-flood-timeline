@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_ae25147e-42b0-4f9c-aee7-648c5298511f.txt",
+  "text": "Date Published:2020-01-26 00:00:00      \nSeventeen people are also missing, seven injured, and some 3,500 have been forced out of their homes following a series of landslides and building collapses At least 30 people have been killed in two days of intense storms in southeastern Brazil, the Minas Gerais state Civil Defense office said on Saturday. Seventeen people are also missing, seven injured, and some 3,500 have been forced out of their homes following a series of landslides and building collapses, Civil Defense officials said. Television footage showed images of overflowing rivers, flood neighborhoods and trees and utility poles knocked over by the rushing water. Several highways have also been cut by the flooding, and scores of bridges have been knocked out. Most of the victims were killed in landslides or buried in destroyed homes. At least two children were listed among the dead. The heavy rain and flooding is also hitting the nearby states of Rio de Janeiro and Espirito Santo. Rainfall in the region has been the heaviest since records were first kept 110 years ago, the National Institute of Meteorology said. In one 24-hour period, the Minas Gerais state capital Belo Horizonte recorded 172 millimeters of rain. Forecasters said the rain is expected to taper off on Sunday, but authorities warn that the danger of landslides remains high, especially in the Belo Horizonte area. The deluge coincided with the first anniversary of the dam collapse in the Minas Gerais town of Brumadinho that killed 270 people. Eleven people are still listed as missing. An accumulation of water and a lack of drainage caused the tailings dam rupture on January 25, 2019, according to a report commissioned by the mining firm Vale."
+}

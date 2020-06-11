@@ -1,0 +1,86 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 0,
+          "text": "Date Published:2020-05-06 00:00:00      \nGreen Delta will provide this insurance service to the farmers from April 28 to May 28 while converting the crop losses into fatal financial risks for them Green Delta Insurance Company (GDIC) has initiated index-based crop insurance in flood prone haor area as a tool for risk mitigation of the community. To transform these plans into reality Green Delta Insurance Company Limited and its distribution channel partner OXFAM Bangladesh and local associate Sancred Welfare Foundation (SWF) have insured 316 Farmers of Tahirpur, Sunamganj area under Index-Based Crop Insurance recently as a pilot basis, says a press release. Several integrated plans and activities have been going on for a while now, at the direction of Prime Minister Sheikh Hasina under the supervision of the Financial Institutions Department of the Ministry of Finance to stand by the farmers who are at risk of financial loss in flood-prone Haor areas. To mitigate the risks of the farmers of the Haor area arising from excessive rainfall and river flood Green Delta will provide this insurance service to the farmers from April 28 to May 28 while converting the crop losses into fatal financial risks for them. In case of crop damage under this insurance, the insured farmers can get the insurance claim depending on the extent of excess rainfall and the height and stability of the floodwater causing by river flood. In the case of river flood, if the water level if above 6.8 meters and in case of excess rainfall if it rains 125 millimeters in 3 consecutive days the insured farmers will receive maximum Tk12,000 depending on total loss and duration of the flood. In August last year, Green Delta Insurance Company, with the support of Oxfam and SKS Foundation, provided index-based crop insurance to 650 farmers in Fulchhari and Saghata areas of Gaibandha."
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    }
+  ],
+  "relations": [],
+  "filename": "dhakaTribune_data_e4eca275-aa21-449a-a0ae-694d1ec93de7.txt",
+  "text": "Date Published:2020-05-06 00:00:00      \nGreen Delta will provide this insurance service to the farmers from April 28 to May 28 while converting the crop losses into fatal financial risks for them Green Delta Insurance Company (GDIC) has initiated index-based crop insurance in flood prone haor area as a tool for risk mitigation of the community. To transform these plans into reality Green Delta Insurance Company Limited and its distribution channel partner OXFAM Bangladesh and local associate Sancred Welfare Foundation (SWF) have insured 316 Farmers of Tahirpur, Sunamganj area under Index-Based Crop Insurance recently as a pilot basis, says a press release. Several integrated plans and activities have been going on for a while now, at the direction of Prime Minister Sheikh Hasina under the supervision of the Financial Institutions Department of the Ministry of Finance to stand by the farmers who are at risk of financial loss in flood-prone Haor areas. To mitigate the risks of the farmers of the Haor area arising from excessive rainfall and river flood Green Delta will provide this insurance service to the farmers from April 28 to May 28 while converting the crop losses into fatal financial risks for them. In case of crop damage under this insurance, the insured farmers can get the insurance claim depending on the extent of excess rainfall and the height and stability of the floodwater causing by river flood. In the case of river flood, if the water level if above 6.8 meters and in case of excess rainfall if it rains 125 millimeters in 3 consecutive days the insured farmers will receive maximum Tk12,000 depending on total loss and duration of the flood. In August last year, Green Delta Insurance Company, with the support of Oxfam and SKS Foundation, provided index-based crop insurance to 650 farmers in Fulchhari and Saghata areas of Gaibandha."
+}

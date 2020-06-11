@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_7a5da4ee-4f6d-473b-8996-52b54320798a.txt",
+  "text": "Date Published:2020-03-03 00:00:00      \nShankhodis was using wood trade in Chittagong Hill Tracts region as a front for carrying out his criminal operation Bangladesh Army and Rapid Action Battalion (RAB) have arrested an individual who is allegedly an arms supplier of United People's Democratic Front (UPDF)  and Jana Samhati Samity (JSS). The arrest was made early Tuesday, reports UNB. The arrestee, Shankhodis Barua, is the son of late Kali Kumar Barua of Kutukchhari area in Rangamati. The Army and RAB arrested Shankhodis during a joint drive from the area. A foreign revolver, three bullets, and receipts of extortion collection were also recovered from the spot. \"He used to supply firearms and collect extortions,\" said Major Shamim. He added that the man \"worked as an ammunitions, clothes, ration, and firearms affairs adviser to UPDF and JSS\". Shankhodis was using wood trade in the Chittagong Hill Tracts region as a front for carrying out his criminal operation, said Major Shamim, citing findings from primary interrogation. He said that there are extortion cases against the arrestee at Kotwali Police Station, and that he'll be handed over to Kotwali police station in Rangamati."
+}

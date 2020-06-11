@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_6981ace0-dd0f-4689-b259-5903ae6e5421.txt",
+  "text": "Date Published:2019-03-12 00:00:00      \nThe Chhatra League president urges calm among the organization's members protesting Nur's election as the Ducsu VP Bangladesh Chhatra League has accepted the results of the Ducsu polls and will work with all those elected for the development of Dhaka University, says the organization's President Rezwanul Haque Chowdhury Shovon. Addressing the press at the university campus on Tuesday, Shovon said: \"We have accepted the Ducsu polls results. \"We will work with Nur (quota reform movement leader and the newly elected Ducsu vice-president) for the development and progress of Dhaka University and its students.\" Addressing the agitated members of the ruling party student wing protesting Nurul Haque Nur's election as the new Ducsu VP, he said: \"I know you all are emotional right now. I myself am very emotional too. \"But one has to sacrifice a lot for the stability of the country. We will work with everyone to make Dhaka University better and improved.\" Also Read- Chhatra League members vacate area outside VC house He also urged the Chhatra League activists to accept the Ducsu election results and end the protests against Nur's election as the VP. Bangladesh General Students Rights Protection Council leader Nur and Chhatra League's General Secretary Golam Rabbani were elected as the new VP and GS of Ducsu through its election held on Monday. Later, Shovon met Nur at TSC auditorium and congratulated him over his election. Embracing Nur, the Chhatra League president, who had contested for the Ducsu VP post, also reiterated his pledge to work with the VP-elect and others. Responding to a query regarding their decision to boycott the polls, Nur told reporters that they would urge the DU authorities to reconsider the election results."
+}

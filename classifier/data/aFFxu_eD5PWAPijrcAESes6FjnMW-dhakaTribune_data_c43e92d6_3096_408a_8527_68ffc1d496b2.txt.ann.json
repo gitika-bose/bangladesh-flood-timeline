@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_c43e92d6-3096-408a-8527-68ffc1d496b2.txt",
+  "text": "Date Published:2020-03-18 00:00:00      \nA spat between Washington and Beijing over the coronavirus pandemic escalated when United States President Donald Trump angered China by referring to the pathogen as the 'Chinese Virus' Coronavirus disease or Covid-19 is an outbreak of respiratory illness caused by a novel coronavirus. It is now an officially declared global pandemic. The number of coronavirus cases globally stood at 202,270 with 8,212 deaths, across 167 countries and territories at 5pm Wednesday, according to a tally compiled by Dhaka Tribune from official sources. A lot of explanations have been advanced regarding the source of the coronavirus. Understandably, public-health officials want to pin down the virus's source so that they can prevent new outbreaks.  A lot of conspiracy theories are also making the rounds. The question essentially boils down to one point: was Covid-19 developed in a laboratory, and is it being used as a biological weapon? A related question is whether the virus was made in the laboratory purposefully, or did the virus made in the laboratory accidentally escape the laboratory.  The lab-escape theory is so far the more widely accepted conspiracy theory.  Chinese authorities maintain that Covid-19 likely originated at a market in Wuhan where people were selling wild animals. But Iranian, Russian, and some Chinese media outlets claim that the emerging public health crisis comes from US biological weapons.  A spat between Washington and Beijing over the coronavirus pandemic escalated when United States President Donald Trump angered China by referring to the pathogen as the \"Chinese Virus.\" The two countries have sparred over the origin of the virus for days, with a Chinese official promoting theories claiming it was brought to China by the US army and Washington officials using terms seen as stigmatizing a nation.  \"The United States will be powerfully supporting those industries, like Airlines and others, that are particularly affected by the Chinese Virus,\" Trump tweeted on Monday night. Some skepticals including politicians in the US and China have both suggested that the Covid-19 may actually be a bioweapon that was manufactured in a lab.  The only difference between their conspiracy theories is who's being accused of doing the manufacturing. On the one corner are some people in the US who are hinting or in some cases openly claiming that China put together this virus.  Steve Mosher, a social scientist, wrote on February 22 an opinion piece for the New York Post entitled, \"Don't buy China's story: The coronavirus may have leaked from a lab.\"  In the piece, Mosher summarises why he believes Covid-19 may have been accidentally spread by China's National Biosafety Laboratory at the Wuhan Institute of Virology, where researchers have studied bat coronaviruses.  Mosher says that the lab is less than 10 miles away from the seafood market where a clustre of Covid-19 cases was first discovered. Mosher believes that the said lab is located in the Institute of Virology in Wuhan, where the dangerous pathogens were purportedly kept and looked at as potential bioweapons.  There were reports that in the 2003 SARS outbreak, the SARS-CoV virus escaped from virology labs in China. He says Chinese virologist and bioweapons expert Major General Chen Wei's visit to the Wuhan Institute of Virology with military scientists in January was an exercise in damage control. But not only in China, there are at least six same kind of facilities in the US in Georgia, Maryland, Texas and Montana.  According to the Federation of American Scientists website, seven others may be planned, under construction, or possibly finished in various cities such as Massachusetts, and Virginia. These labs also study and house a range of dangerous pathogens.  Not to be outdone, some in China have made similar suggestions, except that it's the US that built the virus and released it in China.  One of the most popular topics on the Chinese microblog Weibo was a one-minute clip of a US congressional hearing this week on how the country was dealing with the coronavirus. In the video posted by the People's Daily, Robert Redfield, director of the US Centers for Disease Control and Prevention, is asked whether there may have been deaths attributed to influenza that could actually have been the result of Covid-19.  Redfield responds in the affirmative: \"Some cases have been actually diagnosed that way in the United States today.\" Redfield's answer was enough to add fuel to a conspiracy theory that has been gaining traction over the past two weeks in China - that the coronavirus did not originate in China but may have come from the US instead. \"The US has finally acknowledged that among those who had died of the influenza previously were cases of the coronavirus. The true source of the virus was the US!\" one commentator said.  \"The US owes the world, especially China, an apology,\" another said. \"American coronavirus,\" one wrote. The theory has gained traction over the past few weeks, after a respected epidemiologist Zhong Nanshan, said in a passing remark at a press conference on February 27 that although the virus first appeared in China \"it may not have originated in China.\" Zhong later clarified his statement, saying that the first place where a disease is discovered does not \"equate to it being the source.\"  China's ambassador to South Africa said last week on Twitter that the virus was not necessarily \"made in China.\" So till now it looks like conspiracy theorists on both sides haven't really provided any compelling evidence that SARS-CoV2 was produced in a lab, whether in the US, in China, in Iran or in the other world."
+}

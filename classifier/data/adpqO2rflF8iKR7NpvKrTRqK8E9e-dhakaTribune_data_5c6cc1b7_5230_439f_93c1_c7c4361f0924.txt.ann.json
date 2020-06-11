@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_5c6cc1b7-5230-439f-93c1-c7c4361f0924.txt",
+  "text": "Date Published:2020-04-11 00:00:00      \nFood supplies and other relief materials allocated for people in need are continuously being misappropriated across the country despite being intercepted by administration  Local influentials, union parishad members, and Open Market Sale (OMS) rice distributors continue to steal rice from government food relief programs across the country.  Police seized 356 sacks of illegally stored relief rice and arrested a number of people involved in rice misappropriation between Thursday and yesterday.  In Jamalpur, police seized 7,440 kg (126 sacks) of rice yesterday, from OMS rice dealer Tofazzol Hossain Tufan, who illegally stored it in a Nurundi market godown in Sadar upazila. Tufan is the vice president of Tolshirchar union Awami League unit. He is currently under police custody and a case will be filed against him, said Jamalpur Sadar police station OC Md Salemuzzaman. In Netrokona, police seized 90 sacks of rice from local OMS rice dealer Aminur Rahman Shakil on Friday in Roailbari union of Kendua upazila.  Shakil is the son of Roailbari union Awami League general secretary. Police detained trader Saiful Miya in connection with the incident. In Rangpur, police seized 90 sacks of rice from Vendabari union in Pirgonj upazila early Thursday.   Pirgonj police station OC Saresh Chandra said a tractor was illegally transporting 38kg of rice when police seized it on Vendabari road.  Police detained tractor driver Ismail and his assistant Ismail from the spot and later raided three houses where they found the rest of the relief rice.  In Bogra, police arrested a Krishak League leader accused in a case filed by police for misappropriating 50 sacks of rice in Hashraj village in Sonatala upazila. The accused, Mithu Mondal, 35, was sent to jail on Friday. In Comilla, a union parishad member was arrested and the OMS rice dealing license of one Abdus Kuddus Sarkar was cancelled for rice misappropriation in Debidwar upazila. The arrested UP member is Abdul Mannan Molla. Abdus Kuddus is the elder brother of a union parishad chairman."
+}

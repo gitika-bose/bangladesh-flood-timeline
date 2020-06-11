@@ -1,0 +1,258 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "cyclone",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 15,
+          "text": "2020-05-20"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_50": {
+          "value": "2020-05-20",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 75,
+          "text": "Cyclone Amphan"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "coastal_cyclone",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1607,
+          "text": "Bhola Cyclone"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "coastal_cyclone",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1621,
+          "text": "killing between 3 to 5 lakh people"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "300000-500000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1656,
+          "text": "in 1970"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "1970",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_50": {
+          "value": "1970",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|1621,1654",
+        "s1v1|e_49|1656,1662"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  ],
+  "filename": "theDailyStar_data_9362053a-e588-44e6-8eb5-b0f2f2c83a05.txt",
+  "text": "Date Published:2020-05-20 00:00:00      \nAlready downgraded to Category 4, Cyclone Amphan could weaken further by the time it makes landfall close to the western Sundarbans, experts said yesterday. They, however, expressed concern that it might still wreak serious havoc on Bangladesh as a storm surge, depending on the tide. Md Shah Alam, former director of Bangladesh Meteorological Department (BMD), said the wind speed of the cyclone would certainly be less at landfall than at the sea. He said the storm surge would depend on when the cyclone makes landfall -- during high tide or low tide. Another point of concern was that the cyclone still continued to cover a large swathe of the funnel-like Bay, pushing waters northwards, which would only worsen the storm surge around the time it hits, Shah Alam added. Quamrul Hasan, the BMD forecast officer on duty, said the main feature of this cyclone is its speed, sea surface temperature and radius. Experts said Amphan is only the second super cyclone formed over the Bay of Bengal after the 1999 Oddissa cyclone. This is the first super cyclone over the Bay in this century. The Joint Typhoon Warning Centre said sustained wind speed of Amphan would be just below 160 km per hour at landfall, which would further weaken the cyclone to Category 3. Earlier yesterday, the cyclone was rated Category 5. According to Indian Meteorological Department, 46 severe cyclonic storms were registered in the Bay of Bengal and the Arabian Sea from 1965 to 2017. In terms of fatalities, Bangladesh was hit by seven of the worst cyclones recorded in history, with the Bhola Cyclone killing between 3 to 5 lakh people in 1970. The cyclone had brought a a 20-feet storm surge. \"The most serious threat posed by Amphan is its potentially catastrophic storm surge. Even if Amphan's top winds weaken, the storm surge threat will remain dire,\" said Weather Underground, a commercial weather forecast organisation. Prof Mahbuba Nasreen, director of Dhaka University Institute of Disaster Management and Vulnerability Studies, said cyclone Amphan is different because of its nature. \"It is stronger than Sidr and Ayla. People are terrified of the novel coronavirus pandemic and this cyclone would be a double blow to them,\" she said. Mohan Kumar Das, a fellow at the Institute of Water and Flood Management of BUET, said the surface temperature is very high and sustained wind speed remains high too. \"Cyclone Amphan had turned to Category 5 from Category 1 within just 18 hours,\" he said about the uniqueness of the cyclone.  "
+}

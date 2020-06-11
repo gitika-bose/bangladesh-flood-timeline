@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_06edd7de-c11d-4375-97ff-64922714e0c9.txt",
+  "text": "Date Published:2020-03-17 00:00:00      \nThe incidents took place mostly on Tuesday and on Monday At least eleven people were killed and 20 others injured in road accidents in six districts across the country. The incidents took place mostly on Tuesday and on Monday. In Joypurhat, two cattle traders were killed and nine others were injured when a wheel of the three-wheeler they were riding in came apart and the vehicle overturned on Tuesday around 11am, said Sadar police OC Shahriar Khan and Dr Sarder Rashed of Joypurhat Modern Hospital. In Sirajganj, two people were killed and three others were injured when a locally made pick-up collided head-on with a three-wheeler on the Hatikumrul-Bonpara Highway on Tuesday around 6am, said Hatikumrul Highway Police Outpost SI Shaheen. In Munshiganj, two motorcyclists were killed when their vehicle was crushed by a dump truck on the Dhaka-Mawa expressway on Tuesday around 10am near Sreenagar, said Hasara Highway Police Outpost Incharge Abdul Baset. The deceased could not be identified yet. One of them was approximately 60 years old and the other 40, added the official. In Hili, Sadia Bewa, a 60-year-old woman, was killed while crossing a road. She was hit by a sand-laden tractor, which ran her over on Tuesday around 8am, confirmed Hakimpur Police OC Abdur Razzak Akanda. In Jamalpur, a tenth grader schoolboy named Shahed Hasan was killed and two others were injured when the three teenagers speeded up their motorcycle and fell on to the road after crashing into a roadside tree on Monday, said Madarganj Police OC Md Rafikul Islam. Meanwhile, in Nandina upazila, 65-year-old Fazlur Rahman died on the spot when the three-wheeler he was riding along with five others lost control owing to a malfunctioning wheel and crashed into a roadside wall on Tuesday, said Sadar police OC Md Salemuzzaman. In Habiganj, two people were killed and three others were left injured when a CNG-run three wheeler collided head-on with Dhaka-bound Ena Paribahan bus on the Dhaka-Sylhet Highway near Nabiganj, confirmed Sherpur Highway Outpost OC Md Ershadul Haque. The incident took place on Monday, he added. Our correspondents Md Alamgir Chowdhury, Joypurhat; Aminul Islam Rana, Sirajganj; Tanjil Hasan, Munshiganj; Halim Al Raji, Hili; Bishwajit Deb, Jamalpur and Md. Noor Uddin, Habiganj contributed to the story."
+}

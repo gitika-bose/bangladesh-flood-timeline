@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_10be81af-abea-4bf2-9b5a-cbbcf440f4aa.txt",
+  "text": "Date Published:2020-04-21 00:00:00      \nThe alarm was raised at President Ram Nath Kovind's residence in the centre of Delhi after the daughter-in-law of a sanitation worker living in the workers' quarters tested positive About 500 people entered self-isolation at India's presidential palace on Tuesday after a worker's relative tested positive for the coronavirus in the latest alarm close to public figures as the pandemic spreads through densely populated South Asia. India's 1.3 billion people have been ordered to remain indoors for 40 days under a nationwide lockdown to slow the spread of the virus so that the country's hospitals are not overwhelmed by a flood of infections. Indian authorities have confirmed 18,985 cases of Covid-19, including 603 deaths from the respiratory disease, a relatively low toll compared with Western countries with much smaller populations, though health officials say a lack of widespread testing may mean many more cases have not been reported. The alarm was raised at President Ram Nath Kovind's residence in the centre of Delhi after the daughter-in-law of a sanitation worker living in employee quarters there tested positive for Covid-19, officials said. Neither Kovind, 74, nor his aides were required to self-isolate as they would not have come into contact with lower-level workers on the premises, officials said. But the families of palace workers living in 114 apartments on the grounds were ordered to stay inside, while the seven members of the sanitation worker's family were moved to a quarantine facility. No one on the premises is known to be infected so far.  \"It may be clarified that to date no employee of the President's Secretariat has tested positive for Covid-19 and the Secretariat along with the Local Administration are taking all the preventive measures required under the government guidelines,\" Kovind's office said in a statement. Under India's constitution, the president is a titular head of the republic only with the prime minister and his cabinet holding the executive powers. An employee of India's parliament has also tested positive, but did not come to work, an official said, as the administrative wing of the legislature reopened on Monday as part of a staggered exit from the lockdown. While the total number of confirmed infections is still increasing, Indian health officials said the speed of transmission was slowing thanks to the lockdown, which at the moment is due to be lifted on May 3. The \"doubling rate\" - the number of days it takes infections to multiply by two - had increased to 7.5 days, up from 3.4 days before the lockdown, health ministry joint secretary Lav Agarwal said. \"This is an extremely positive trend,\" he said."
+}

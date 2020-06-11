@@ -1,0 +1,24 @@
+[
+  {
+    "query": "bangladesh cyclone",
+    "paper": "coxsbazarnews-bangla",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": [
+      "http://www.coxsbazarnews.com/archives/126387.html"
+    ]
+  },
+  {
+    "query": "bangladesh cyclone",
+    "paper": "coxsbazarnews-bangla",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "http://www.coxsbazarnews.com/archives/193982.html"
+    ]
+  }
+]

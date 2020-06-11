@@ -1,0 +1,48 @@
+[
+  {
+    "query": "bangladesh flooding",
+    "paper": "newAge",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "https://www.newagebd.net/article/18856/faruque-prefers-teleplays-to-series",
+      "https://www.newagebd.net/article/22779/flood-adversely-affected-life-livelihood-in-dinajpur",
+      "http://www.newagebd.net/article/22779/flood-adversely-affected-life-livelihood-in-dinajpur",
+      "https://www.newagebd.net/article/17145/flash-floods-inundate-100-villages-in-moulvibazar-again",
+      "http://www.newagebd.net/article/14507/road-digging-leaves-city-people-gasping",
+      "http://www.newagebd.net/article/22791/disaster-looms-as-hurricane-harvey-bears-down-on-texas",
+      "https://www.newagebd.net/article/24480/hurricane-maria-bears-down-on-virgin-islands-and-puerto-rico",
+      "http://www.newagebd.net/article/12254/cyclone-debbie-queensland-braced-for-dangerous-floods",
+      "https://www.newagebd.net/article/20232/heavy-rain-causes-flooding-in-parts-of-feni-chittagong",
+      "https://www.newagebd.net/article/19478/flood-situation-worsens-as-india-opens-barrage",
+      "http://www.newagebd.net/article/14055/heavy-rainfall-disrupts-city-life",
+      "http://www.newagebd.net/article/23250/search-goes-on-for-harvey-survivors-trump-requests-aid"
+    ]
+  },
+  {
+    "query": "bangladesh flooding",
+    "paper": "newAge",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": [
+      "https://www.newagebd.net/article/45507/floods-situation-worsens-in-bogra-jamalpur-sirajganj",
+      "https://www.newagebd.net/article/46167/iom-to-help-bd-repatriate-rohingyas",
+      "https://www.newagebd.net/article/45246/dhaka-to-be-prosperous-livable-through-developing-its-east-part-wb",
+      "http://www.newagebd.net/article/45507/floods-situation-worsens-in-bogra-jamalpur-sirajganj",
+      "https://www.newagebd.net/article/52827/cyclone-titli-gains-strength-to-hit-parts-of-india-bangladesh",
+      "https://www.newagebd.net/article/43779/persistent-rain-leads-to-flooding-in-sylhet-satkhira",
+      "https://www.newagebd.net/article/46829/heavy-rain-lashes-ctg-city",
+      "https://www.newagebd.net/article/59890/india-races-against-clock-to-rescue-rat-hole-miners",
+      "http://www.newagebd.net/article/42031/crop-intensification-looms-large-in-coastal-region",
+      "https://www.newagebd.net/article/45205/rain-leaves-ctg-life-in-tatters",
+      "http://www.newagebd.net/article/59479/neir-to-be-set-up-to-check-illegal-handset-use",
+      "https://www.newagebd.net/article/42104/tanneries-now-polluting-dhaleswari-in-savar",
+      "http://www.newagebd.net/article/58217/lowland-filling-driving-last-nail-in-dhakas-coffin-iqbal-habib",
+      "https://www.newagebd.net/article/46263/a-serious-concern-for-dhaka-city"
+    ]
+  }
+]

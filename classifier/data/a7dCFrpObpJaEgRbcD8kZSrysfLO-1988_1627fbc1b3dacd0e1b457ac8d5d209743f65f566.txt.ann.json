@@ -1,0 +1,259 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 480,
+          "text": "After last month's"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "1988-09",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 499,
+          "text": "devastating flood"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2510,
+          "text": "1,250,000 houses were destroyed"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_54": {
+          "value": "1250000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2557,
+          "text": "eight million people homeless"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_36": {
+          "value": "8000000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2588,
+          "text": "More than 2,000 deaths have been attributed to the flooding"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "2000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|2510,2540",
+        "s1v1|e_49|480,497"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|2557,2585",
+        "s1v1|e_49|480,497"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|2588,2646",
+        "s1v1|e_49|480,497"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  ],
+  "filename": "1988_1627fbc1b3dacd0e1b457ac8d5d209743f65f566.txt",
+  "text": "Bangladeshi Asks for Help on Controlling Floods\n1988-10-11T05:00:00.000Z\nIn an appeal to the General Assembly, the Foreign Minister of Bangladesh said today that a permanent solution to the country's annual flood disasters must be reached through regional cooperation with international support.\nThe remarks of the Bangladeshi minister, Humayun Rasheed Choudhury, were seen as an implicit criticism of India, which has thus far resisted any ''internationalization'' of the issue.\nAfter last month's devastating flood, which was the worst in the country's history, the President of Bangladesh, Lieut. Gen. H. M. Ershad, reached individual agreements with India and other neighboring countries for cooperation. But he has thus far failed to win sufficient support for a regional response to the flooding.\n''What we want is a regional water authority, including the five concerned countries, to regulate and harness water resources for the benefit of all,'' Mr. Choudhury said in an interview before his address. This would mean no diversion of water, construction of dams or other such projects, without common consent, he said. Looking to Dutch and Germans\nHe said such a regional agency would need international support both in technology and financing because of the magnitude of the problem. Specifically, it would look for technological help from the Netherlands and West Germany, ''which have cooperated successfully in taming the Rhine,'' he said.\nBangladesh and India have been at odds for some time over the control of the waters of the Brahmaputra, the Ganges and other common rivers. Bangladesh accuses India of permitting rampant deforestation that has resulted in flooding, and building dams that divert badly needed water from Bangladesh in the dry season. Specifically, these officials are concerned over an Indian proposal to build a canal across Bangladesh to drain water from the Brahmaputra to the Ganges system.\nThe Bangladeshi official said his Government has tried to generate enthusiasm for regional cooperation. Ershad and Gandhi Meet\nHe noted that General Ershad and Prime Minister Rajiv Gandhi of India agreed late last month to set up a joint task force to study the flood management and water flow of the Ganges and Brahmaputra Rivers. Subsequently, the President visited Nepal, and it was agreed to set up a joint study team on the problem. He will also visit Bhutan this week and later China to take up the same issue.\nReferring to the recent catastrophic flood, Mr. Choudhury said 1,250,000 houses were destroyed, leaving about eight million people homeless. More than 2,000 deaths have been attributed to the flooding.\nThe Foreign Minister said the country's ''highest priority needs'' are now wheat and construction materials.\nEmphasizing the need for a permanent solution to the problem, he said, ''The primary imperative will be in harnessing regional cooperation among all our concerned neighbors with a view to arriving at coherent and well-coordinated policies and plans to our mutual benefit.''"
+}

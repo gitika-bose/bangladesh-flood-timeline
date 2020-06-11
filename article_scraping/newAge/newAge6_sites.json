@@ -1,0 +1,51 @@
+[
+  {
+    "query": "bangladesh inundation",
+    "paper": "newAge",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh inundation",
+    "paper": "newAge",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "https://www.newagebd.net/print/article/17712"
+    ]
+  },
+  {
+    "query": "bangladesh inundation",
+    "paper": "newAge",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": [
+      "https://www.newagebd.net/article/45205/rain-leaves-ctg-life-in-tatters",
+      "http://www.newagebd.net/article/42031/crop-intensification-looms-large-in-coastal-region"
+    ]
+  },
+  {
+    "query": "bangladesh inundation",
+    "paper": "newAge",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://www.newagebd.net/article/86264/fresh-flood-feared-in-bangladesh-as-india-opens-all-farakka-gates",
+      "https://www.newagebd.net/article/89222/sea-water-likely-to-flood-a-fourth-of-bangladesh-by-2050-study",
+      "http://www.newagebd.net/article/79899/floods-make-children-skip-school",
+      "https://www.newagebd.net/article/79899/floods-make-children-skip-school",
+      "http://www.newagebd.net/article/64259/100-year-delta-plan-threat-to-deltaic-equilibrium-experts?fbclid=IwAR23Rtx5q_UvMvIAJ1k7_HgnnSYiOawGRpkdo7k-1CRQ7Noghz83V2dEyTI",
+      "https://www.newagebd.net/article/71358/coordination-among-agencies-key-to-solving-waterlogging-akm-rezaul-karim",
+      "http://www.newagebd.net/article/71358/coordination-among-agencies-key-to-solving-waterlogging-akm-rezaul-karim"
+    ]
+  }
+]

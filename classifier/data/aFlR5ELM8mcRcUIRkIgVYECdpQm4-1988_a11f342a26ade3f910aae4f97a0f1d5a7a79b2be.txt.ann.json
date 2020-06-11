@@ -1,0 +1,191 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun",
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 13,
+          "text": "1988-09-18"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_50": {
+          "value": "1988-08-31",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1097,
+          "text": "Flooding in Bangladesh"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "monsoon",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1120,
+          "text": "last month"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "1988-08-01",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1135,
+          "text": "left an estimated third of the capital's five million people without regular water supplies"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_35": {
+          "value": "1600000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [],
+  "filename": "1988_a11f342a26ade3f910aae4f97a0f1d5a7a79b2be.txt",
+  "text": "NEWS SUMMARY\n1988-09-18T05:00:00.000Z\nINTERNATIONAL/3-22\nA military coup in Haiti ousted Lt. Gen. Henri Namphy, the country's ruler. The government reported the ouster several hours after shooting broke out at the plaza in front of the presidential palace. Page 1\nThe first serious Palestinian split of the nine-month-old uprising in Israel has been caused by an Islamic fundamentalist group promoting uncompromising war and challenging the protest's clandestine ''unified leadership.'' 1\nKurdish Iraq has been leveled by Iraqi attacks that have reduced scores of villages to patches of stone and cinderblock rubble and that have vacated others across a 120-mile stretch of the country's far north. 1\nProblems in proving gas poisoning after the supposed victims have left the attack scene have been underscored by the reluctance of several physicians to diagnose chemical warfare poisoning among Kurds. 14\nChile's Oct. 5 presidential plebiscite is to be attended by several hundred political figures who plan to observe the voting over the objections of the Government of Gen. Augusto Pinochet. 6\nFlooding in Bangladesh last month has left an estimated third of the capital's five million people without regular water supplies. Hundreds of thousands of people are dependent on water brought from outside. 18\nAn opposition front in India of nine parties set aside differences in a political rally on a Bay of Bengal beach and opened a campaign to try to bring down the Government of Prime Minister Rajiv Gandhi. 21\nA British military officer testified about firing at two Irish Republican Army guerrillas at close range last March, in the first public examination of the anti-terrorist tactics used by Britain's elite commandos. 22\nNATIONAL/26-38, 50-52\nIn Hurricane Gilbert's aftermath, as many as 120 people are feared dead in the Mexican city of Monterrey after four buses overturned in floodwaters. Six police officers died trying to rescue the stranded buses. 1\nTrackers of Hurricane Gilbert, a team of fliers and meteorologists wearily headed for home as the hurricane ended a reign of terror, its violent center slamming into a desolate stretch of Mexico's coastline. 34\nYucatan rebuilding after Gilbert 34\nMilitary workers have become ill at a Lockheed Corporation plant in Burbank, Calif., and many of them are believed to be involved in building a top-secret fighter. The illnesses have only added to the mystery. 1\nA welfare revision bill languishes in House-Senate conference while a group of House liberals are objecting to Senate provisions that would require some welfare recipients to work or receive job training. 36\nAn old San Francisco shipyard is a battleground for an array of environmental and protest groups and the Navy, which wants to turn the yard into the homeport for the historic battleship Missouri. 26\nMother-daughter program at Illinois prison 28\nTrial ordered for columnist in youth's shooting 29\nCurriculum in Navajo language planned 51\nRemote shacks on Cape Cod are caught up in a storm 51\nTown survives without a company 52\nPolitics 30-31\nIssues come second in the campaign for President not only because of the Bush and Dukakis campaign strategies but also because polls say voters will decide the election on the candidates' competence. 1\nIn the debate over military spending, George Bush and Michael Dukakis argue continually over which weapon systems to add, but both are already committed to budget policies requiring them to make painful cuts. 38\nVoters are not sure what to think about the Presidential campaigns in Jersey City, N.J., and many seem to be looking in vain for a reason to support one candidate or the other. 30\nNews analysis: Dan Quayle's school record and military past continue to haunt the candidate. Regardless of how well he campaigns, polls show that about two thirds of the voters still harbor doubts about him. 31\nLloyd Bentsen appeals to the South as he shuttles through the states of the old Confederacy, making about as direct and open a regional appeal for the Democratic Presidential ticket as it is possible to make. 31\nREGIONAL/39-47, 54-58\nThe ruin of at least five Torah scrolls was caused by vandals who broke into a Brooklyn synagogue and set fire to the building three days before the start of Yom Kippur. Torah scrolls are the most sacred objects in Judaism. 1\nChanging six 42d Street theaters into a ''populist'' theater complex for low-priced live entertainment is planned by city and state officials in what is New York City's most ambitious cultural venture in decades. 1\nA successful deterrent to auto thefts used in two Queens police precincts and to be expanded to much of the city lets car owners allow the police to stop their vehicles if it is being driven late at night. 42\nIn a parental rights fight over whether parents can have child custody after being charged with the serious injury or murder of a spouse, Joseph Pikul's two children were taken from an apparently happy home. 43\nA Davis trial witness for prosecutors said he had never known the defendant, Larry Davis, to deal in drugs with police officers, countering Mr. Davis's explanation for trying to kill nine police officers. 47\nFirst liver transplant is performed in New York State 54\nAn old law to save an old wall 54"
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_7e7e0619-524f-41f3-860a-8b0515ec02d5.txt",
+  "text": "Date Published:2020-02-29 00:00:00      \nIn an exclusive interview with Dhaka Tribune's Humayun Kabir Bhuiyan,  Danish Ambassador to Bangladesh Winnie Estrup Petersen discussed a wide range of bilateral issues with particular emphasis on cooperation to help enable green growth How do you describe the current bilateral relations between Bangladesh and Denmark? How could it be further enhanced? In one word, I would describe it as excellent. Our partnership has been growing over the years. Yes, I am proud that we have a good partnership. We cooperate with each other in a wide range of sectors, especially climate change and agriculture. The existing strategic cooperation between the labour ministries of the two countries is aimed at improving occupational, health and safety conditions for Bangladeshi workers through exchange of knowledge and experience. A number of Danish companies, businesses and NGOs are present in Bangladesh. Denmark also works closely with Bangladesh in several international forums. For instance, both countries are members of the Human Rights Council and look forward to opportunities to work together. Our relations are wide and deep and I am a proud Ambassador of Denmark in Bangladesh. With continued cooperation on the issues of mutual interest, the relationship will transform and only deepen as Denmark shifts its bilateral focus from aid to trade, which will result in increased emphasis on green growth and issue of sustainability in Bangladesh.  I reckon in every relation, there are areas for dialogues. As our bilateral ties are rooted in strong foundations any issues can be addressed through dialogue and consensus. What are the new areas of cooperation by which both countries can be benefited? I think we are looking to explore green growth in several sectors, especially the readymade garments industry. By green growth, I mean each company will manufacture its products organically, resulting in the use of less water and thus less pollution. To simply put it into words, Danish companies are coming to Bangladesh to offer green solutions for local manufacturers. Dhaka is a densely populated business hub of the country. Unprecedented fire hazards over the past several years have drawn quite a bit of attention. Hence, Danish firms are collaborating with Bangladeshi organizations to set up small fire fighting stations equipped with easy-to-use fire fighting devices. There is another option for efficient fire fighting we are considering --e.g., motorbikes equipped with fire fighting instruments, for quick responses to fire incidents. It is a flexible and good technology.  We are also looking forward to cooperating with Bangladesh with respect to wind energy.  Denmark has expertise in developing cities that are more liveable, green, energy efficient and adaptable to traffic regulations.  We are identifying Danish expertise, technologies and innovations that may benefit both countries. Are you satisfied with the current trade volume between Dhaka and Copenhagen? How can this be increased? I am pleased with the present-day trade volume between the two countries and yet more can be done. Trade between the two countries is clearly in favour of Bangladesh. We would like to see increased Danish trade with Bangladesh. Is Danish investment in Bangladesh satisfactory? What does Bangladesh need to do more to attract higher Danish investment? There are about 40 Danish companies engaged one way or another in Bangladesh, which is  rather an impressive figure from a small country like Denmark. Bangladesh is a good market with an impressive growth trend. The Bangladesh economy needs more foreign investment in strategic areas to continue its growth momentum in the coming years. There are opportunities to bring Danish investment and businesses to Bangladeshi market. However, Danish companies face steep challenges mostly related to predictability of policies and legislation. Danish companies work best in a rule-based business environment. Business climate has to be well-regulated. Danish companies are not accustomed to dealing with bureaucratic red tape and they have a zero tolerance to corruption. Do you think the international community is doing enough to solve the Rohingya crisis? What do you think the solution is to this protracted crisis? As long as the crisis is not resolved, we have not done enough. As things stalled in the United Nations Security Council, the international community, including Denmark, is exploring alternative routes, which include proceedings at the Human Rights Council, International Court of Justice and International Criminal Court.  Denmark, a big contributor in terms of providing humanitarian assistance to the Rohingya people in Cox's Bazar, is working with the Bangladesh government and other global partners to provide the necessary support in addressing current and emerging challenges centering on the crisis."
+}

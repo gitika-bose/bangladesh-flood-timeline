@@ -1,0 +1,62 @@
+[
+  {
+    "query": "bangladesh \"flood\"",
+    "paper": "energyBangla",
+    "date_range": [
+      "1/1/2015",
+      "12/31/2015"
+    ],
+    "sites": [
+      "http://energybangla.com/rooppur-will-be-a-modern-safe-and-money-saving-nuclear-power-plant/"
+    ]
+  },
+  {
+    "query": "bangladesh \"flood\"",
+    "paper": "energyBangla",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": [
+      "http://energybangla.com/rooftop-solar-a-feasible-option-for-clean-energy-promotion/"
+    ]
+  },
+  {
+    "query": "bangladesh \"flood\"",
+    "paper": "energyBangla",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "http://energybangla.com/climate-change-adaptation-and-development-in-bangladesh-social-dimensions-in-focus/"
+    ]
+  },
+  {
+    "query": "bangladesh \"flood\"",
+    "paper": "energyBangla",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": [
+      "http://energybangla.com/bangladesh-eyes-2-2billion-from-green-climate-fund-for-48-projects/",
+      "http://energybangla.com/bangladesh-institute-for-nuclear-agriculture-develops-90-varieties-of-13-crops/",
+      "http://energybangla.com/nuclear-power-to-play-important-role-in-bds-economy-science-secretary/"
+    ]
+  },
+  {
+    "query": "bangladesh \"flood\"",
+    "paper": "energyBangla",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "http://energybangla.com/climate-change-importance-for-children-in-bangladesh/",
+      "http://energybangla.com/river-water-pollution-challenge-for-bangladesh/",
+      "http://energybangla.com/installation-of-core-catcher-at-unit-2-of-rooppur-npp-begins/",
+      "http://energybangla.com/nuclear-technology-means-bountiful-crops-in-bangladesh/"
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_89ea7cb4-b617-40fa-b15d-657d11d36b76.txt",
+  "text": "Date Published:2019-09-08 00:00:00      \nA five-member probe committee was formed to investigate the blast At least 18 people have sustained burn injuries as gas cylinders exploded at a hotel in Board Bazar area of Gazipur. The explosion occurred in the ground floor of a four-storied building, where the hotel was situated, around 2:30am on Sunday. Among the injured, 13 were taken to the burn unit of Dhaka Medical College Hospital (DMCH) for treatment and the remaining were provided first-aid at Tairunnessa Memorial Medical College and Hospital, Gazipur Fire Service and Civil Defence Deputy Assistant Director Abdullah Al Mamun told Dhaka Tribune. Being informed of the blast, three units of Tongi Fire Service arrived at the scene. However, before their arrival, locals rescued the injured and took them to the hospital. Mamun said the explosion destroyed parts of the Banglar Radhuni Hotel and its adjoining Tripti Hotel, injuring at least 17 people at the restaurants. The nearby IFIC Bank suffered the most damage from the blast. Gazipur Deputy Commissioner SM Tarikul Islam told reporters that a five-member probe committee, including members from fire service, district police and administration, was formed to investigate the cause of the blast and to assess the damages caused. Officials also confirmed that the injured are mostly staff and a few customers of the restaurants. However, it was unclear what triggered the explosion, Deputy Assistant Director Abdullah Al Mamun added."
+}

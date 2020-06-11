@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_c6b60b9f-cd1f-4999-b570-7ae5e5b18d26.txt",
+  "text": "Date Published:2019-07-28 00:00:00      \nPrime Minister Sheikh Hasina has asked the health minister and two mayors of Dhaka to take steps for use of effective mosquito repellent to control dengue fever, Awami League General Secretary and Road Transport and Bridges Minister Obaidul Quader said today. \"The prime minister has asked the health minister and two mayors of Dhaka south and north city corporations to take steps to spray effective mosquito repellent to control dengue fever,\" he said after inaugurating relief distribution activities of AL's relief and social welfare sub-committee at Bangabandhu Bhaban in Dhaka's Dhanmondi. He said an awareness campaign will be launched across the country to dispel panic about dengue. Quader said flood and dengue have increased the government's work manifold as it has taken all-out preparation to face situation. The minister said AL always stands beside the people at the time of disaster and this party does not do politics with relief activities. The flood has affected people in 18 districts and AL would not only distribute relief goods but also continue to assist the affected people until completion of their rehabilitation, he added. He criticized BNP for spreading propaganda against the government's relief activities and said BNP leaders are busy with staging photo-sessions in the name of relief distribution, and spreading remours. About the BNP's threat of movement to free its chairperson Begum Khaleda Zia, Quader said she is in jail for one and a half years but BNP could not build any agitation to secure her release. \"People would no more respond to the call of BNP because people do not trust the party due to its negative politics,\" he said. About the comments of BNP secretary general Mirza Fakhrul Islam Alamgir that there is a crisis in the country, Obaidul Quader said, \"Actually there is crisis in BNP, not in the country\". AL joint general secretary Abdur Rahman, relief and social welfare secretary Sujit Roy Nandi, science and technology affairs secretary Abdur Sabur, information research secretary Advocate Afzal Hossain, education and human resources affairs secretary Shamsun Nahar Champa, women affairs secretary and state minister for women and children affairs Fazilatunnesa Indira and member of central working committee Mirza Azad, among others, were present at the programme.  "
+}

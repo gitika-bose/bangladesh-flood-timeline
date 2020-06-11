@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_0d085ad4-c0bd-4718-81df-19044645701d.txt",
+  "text": "Date Published:2020-02-17 00:00:00      \nThe storm also pummelled much of France, with some 20,000 people still without electricity on Monday after suffering power cuts in the northwest of the country and rail traffic disrupted Britain on Monday grappled with the fallout from Storm Dennis, with several major incidents declared due to flooding and hundreds of warnings still in place after it battered the country over the weekend. The second severe storm in a week to hit Britain brought high winds of more than 140km an hour and more than a month's worth of rain in 48 hours in some places, leading officials to issue rare \"danger to life\" warnings. The storm also pummelled much of France, with some 20,000 people still without electricity on Monday after suffering power cuts in the northwest of the country and rail traffic disrupted. \"This is not yet over,\" warned James Bevan, chief executive of the Environment Agency, which is responsible for flood protection in England. \"We still have many flood warnings in force and we may still see significant flooding in the middle of this week from larger rivers,\" he told BBC radio. Bevan said more than 400 homes in England had been flooded while at least 1,000 agency staff were working around the clock alongside emergency officials \"to protect and support those communities which have been hit.\" Major incidents declared More than 600 warnings and alerts - a record number - were issued on Sunday, extending from the River Tweed on the border of England and Scotland, to Cornwall in southwest England. After a day of torrential rain, major flooding incidents were later declared in south Wales and parts of western England. Some five \"severe\" warnings - denoting lives could be endangered by the flooding - remained active Monday on two rivers in Worcestershire and Herefordshire in west central England. Hereford and Worcester Fire and Rescue service on Sunday airlifted to hospital one man pulled from the River Teme, who was in a stable condition on Monday. But emergency responders suspended the search overnight for a missing woman also swept away by the floodwater near the town of flood-prone town of Tenbury, according to police. \"The search has continued this morning, including the use of the police helicopter,\" said Chief Superintendent Tom Harding, from West Mercia Police. \"Sadly, however, due to the circumstances of the length of time in the water and other conditions we believe that this will now be a recovery rather than rescue operation.\" Two rivers in south Wales burst their banks, prompting rescue workers to launch operations in several places to evacuate people and their pets trapped in their homes. Police said a man in his 60s died after entering the River Tawe, north of the Welsh city of Swansea but later clarified that the death was not \"linked to the adverse weather.\" On Saturday, the coastguard said the bodies of two men were pulled from rough seas off the south coast of England as the storm barrelled in. One is thought to have been the subject of a search triggered when a tanker reported that one of its crew was unaccounted for. 'More extreme' In northern England, the defence ministry deployed troops in West Yorkshire, which suffered badly from flooding caused by last weekend's Storm Ciara. There are fears rivers there could burst their banks later on Monday. Newly appointed environment secretary George Eustice said the government had done \"everything that we can do with a significant sum of money\" to combat increased flooding. \"We'll never be able to protect every single household just because of the nature of climate change and the fact that these weather events are becoming more extreme.\" France was also affected by the storm, especially northwestern Brittany where the Finistere and Morbihan regions were temporarily placed on orange alert for rain and flooding, according to the national weather service Meteo-France. Electricity provider Enedis said it had deployed 450 staff to restore power to 30,000 homes in Brittany. Power cuts also hit parts of northern and central France. The storm interrupted two high-speed TGV train services, one stopped by a fallen tree and the other by a power failure, the national rail company SNCF said."
+}

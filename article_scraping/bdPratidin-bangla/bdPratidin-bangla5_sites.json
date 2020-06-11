@@ -1,0 +1,99 @@
+[
+  {
+    "query": "bangladesh cyclone",
+    "paper": "bdPratidin-bangla",
+    "date_range": [
+      "1/1/2014",
+      "12/31/2014"
+    ],
+    "sites": [
+      "https://www.bd-pratidin.com/country-village/2014/10/11/35898",
+      "https://www.bd-pratidin.com/features/2014/11/02/41071"
+    ]
+  },
+  {
+    "query": "bangladesh cyclone",
+    "paper": "bdPratidin-bangla",
+    "date_range": [
+      "1/1/2015",
+      "12/31/2015"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh cyclone",
+    "paper": "bdPratidin-bangla",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": [
+      "https://www.bd-pratidin.com/kolkata/2016/05/28/147516"
+    ]
+  },
+  {
+    "query": "bangladesh cyclone",
+    "paper": "bdPratidin-bangla",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh cyclone",
+    "paper": "bdPratidin-bangla",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": [
+      "https://www.bd-pratidin.com/various/2018/10/13/367764",
+      "https://www.bd-pratidin.com/national/2018/10/11/367349",
+      "https://www.bd-pratidin.com/national/2018/04/02/319203"
+    ]
+  },
+  {
+    "query": "bangladesh cyclone",
+    "paper": "bdPratidin-bangla",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://www.bd-pratidin.com/national/2019/05/03/420704",
+      "https://www.bd-pratidin.com/cyclon-bulbul/2019/11/10/473518",
+      "https://www.bd-pratidin.com/various/2019/05/04/420895",
+      "https://www.bd-pratidin.com/national/2019/11/11/473743",
+      "https://www.bd-pratidin.com/national/2019/06/12/430897",
+      "https://www.bd-pratidin.com/cyclon-bulbul/2019/11/10/473502",
+      "https://www.bd-pratidin.com/international-news/2019/11/22/476917",
+      "https://www.bd-pratidin.com/cyclon-bulbul/2019/11/08/473014",
+      "https://www.bd-pratidin.com/national/2019/11/17/475382",
+      "https://www.bd-pratidin.com/cyclon-bulbul/2019/11/09/473350",
+      "https://www.bd-pratidin.com/cyclon-bulbul/2019/11/09/473237",
+      "https://www.bd-pratidin.com/cyclon-bulbul/2019/11/08/473102",
+      "https://www.bd-pratidin.com/cyclon-bulbul/2019/11/09/473224",
+      "https://www.bd-pratidin.com/international-news/2019/03/17/408813",
+      "https://www.bd-pratidin.com/cyclon-bulbul/2019/11/08/473083",
+      "https://www.bd-pratidin.com/international-news/2019/10/27/469627",
+      "https://www.bd-pratidin.com/cyclon-bulbul/2019/11/10/473558",
+      "https://www.bd-pratidin.com/national/2019/04/30/420103",
+      "https://www.bd-pratidin.com/cyclon-bulbul/2019/11/09/473285",
+      "https://www.bd-pratidin.com/cyclon-bulbul/2019/11/11/473677",
+      "https://www.bd-pratidin.com/tech-world/2019/12/28/487155",
+      "https://www.bd-pratidin.com/cyclon-bulbul/2019/11/10/473544",
+      "https://www.bd-pratidin.com/kolkata/2019/12/30/487740",
+      "https://www.bd-pratidin.com/national/2019/11/16/475140",
+      "https://www.bd-pratidin.com/various/2019/12/04/480415",
+      "https://www.bd-pratidin.com/cyclon-bulbul/2019/11/09/473332",
+      "https://www.bd-pratidin.com/cyclon-bulbul/2019/11/09/473344",
+      "https://www.bd-pratidin.com/various/2019/11/09/473094",
+      "https://www.bd-pratidin.com/country/2019/12/04/480530",
+      "https://www.bd-pratidin.com/national/2019/05/13/423453",
+      "https://www.bd-pratidin.com/mixter/2019/02/05/397595",
+      "https://www.bd-pratidin.com/cyclon-bulbul/2019/11/09/473352",
+      "https://www.bd-pratidin.com/cyclon-bulbul/2019/11/09/473265"
+    ]
+  }
+]

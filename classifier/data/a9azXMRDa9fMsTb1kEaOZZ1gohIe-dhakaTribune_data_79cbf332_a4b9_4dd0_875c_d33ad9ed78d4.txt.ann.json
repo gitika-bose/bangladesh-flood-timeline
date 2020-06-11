@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_79cbf332-a4b9-4dd0-875c-d33ad9ed78d4.txt",
+  "text": "Date Published:2020-03-30 00:00:00      \nThe videoconference will be held on Tuesday morning Prime Minister Sheikh Hasina will have a videoconference with deputy commissioners (DC) to assess the coronavirus situation across the country. The videoconference will be held on Tuesday morning. It will be first meeting between the Prime Minister and DCs since district administrations started enforcing social distancing measures across the country, amidst the 10-day holiday to combat the coronavirus outbreak. \"Prime Minister Sheikh Hasina will have a conference with the deputy commissioners tomorrow for the first time since the government enforced social distancing measures across the country,\" said Mostafizur Rahman, Dhaka divisional commissioner.  \"The Prime Minister will deliver her directives to the deputy commissioners, assessing the overall situation across the country with regards to coronavirus,\" he added. Principal Secretary of Prime Minister Ahmad Kaikaus, on Monday, held a videoconference with divisional commissioners and deputy commissioners in preparation of the Prime Minister's videoconference scheduled for Tuesday. Bangladesh has so far recorded five deaths in the World Health Organization (WHO) declared Covid-19 global pandemic."
+}

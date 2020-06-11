@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_4c5725fd-c9ae-4b92-a5fb-5916ac7faea7.txt",
+  "text": "Date Published:2020-04-19 00:00:00      \nThe accused are cousins of the girl A teenage girl was allegedly raped by her cousins in a village of Puthiya upazila in Rajshahi. The girl's father filed a case against Ashik, 20, and Jony, 19, in connection with the rape on Friday. Both accused are college students and they are on the run after the incident, confirmed Puthia police station OC Rezaul Islam. The girl went missing from home on Thursday night. She was unconscious and naked, when found by her family in an isolated place near her house the same night, according to the case details. The girl is a student in the ninth grade.  OC Rezaul Islam said as soon as the incident was reported, the girl was sent for medical tests. Police are conducting drives to arrest the two accused. "
+}

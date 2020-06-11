@@ -1,0 +1,83 @@
+[
+  {
+    "query": "bangladesh \"inundation\"",
+    "paper": "dailySun",
+    "date_range": [
+      "1/1/2014",
+      "12/31/2014"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh \"inundation\"",
+    "paper": "dailySun",
+    "date_range": [
+      "1/1/2015",
+      "12/31/2015"
+    ],
+    "sites": [
+      "https://www.daily-sun.com/post/75795/Submerged-flood-tolerant-rice-plants-survive-floods"
+    ]
+  },
+  {
+    "query": "bangladesh \"inundation\"",
+    "paper": "dailySun",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": [
+      "https://www.daily-sun.com/post/153512/ShariatpurChandpur-highway-in-deplorable-state"
+    ]
+  },
+  {
+    "query": "bangladesh \"inundation\"",
+    "paper": "dailySun",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "https://www.daily-sun.com/arcprint/details/202787/15yr-master-plan-for-waterways/2017-02-02",
+      "https://www.daily-sun.com/printversion/details/202787/2017/02/02/15yr-master-plan-for-waterways",
+      "https://www.daily-sun.com/printversion/details/202787/15yr-master-plan-for-waterways",
+      "http://www.daily-sun.com/post/264628/Experts-for-longterm-plans-for-sustainable-urbanization",
+      "https://www.daily-sun.com/printversion/details/263723/ClimateSmart-Agriculture-in-Coastal-Bangladesh",
+      "https://www.daily-sun.com/post/264628/2017/10/28/Experts-for-longterm-plans-for-sustainable-urbanization",
+      "https://www.daily-sun.com/post/196595/Fresh-move-to-stop-waterlogging-in-Ctg"
+    ]
+  },
+  {
+    "query": "bangladesh \"inundation\"",
+    "paper": "dailySun",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": [
+      "https://www.daily-sun.com/post/340695/Bangladesh-kids-turn-the-tide-on-climate-change-aboard-floating-schools",
+      "http://www.daily-sun.com/post/298706/Sarjan-Technology:-Unique-For-Coastal-Area-Farm-Households-",
+      "https://www.daily-sun.com/post/316912/2018/06/22/Fishes-dying-in-Halda"
+    ]
+  },
+  {
+    "query": "bangladesh \"inundation\"",
+    "paper": "dailySun",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://www.daily-sun.com/post/410993/Coral-reefs-of-St.-Martin-under-threat",
+      "https://www.daily-sun.com/post/407596/2019/07/16/Floods-worsenin-Rangpur-",
+      "https://www.daily-sun.com/arcprint/details/389995/Cyclone-Fani-causes-huge-damage-in-Odisha/2019-05-05",
+      "https://www.daily-sun.com/arcprint/details/410993/Coral-reefs-of-St.-Martin-under-threat/2019-07-28",
+      "https://www.daily-sun.com/printversion/details/438232/Protecting-Sundarbans-Safeguarding-Bangladesh",
+      "https://www.daily-sun.com/arcprint/details/389995/2019/05/05/Cyclone-Fani-causes-huge-damage-in-Odisha/2019-05-05",
+      "https://www.daily-sun.com/arcprint/details/438232/Protecting-Sundarbans-Safeguarding-Bangladesh/2019-11-13",
+      "https://www.daily-sun.com/arcprint/details/407596/Floods-worsenin-Rangpur-/2019-07-16",
+      "https://www.daily-sun.com/printversion/details/410993/Coral-reefs-of-St.-Martin-under-threat",
+      "https://www.daily-sun.com/post/406664/2019/07/12/Teesta-Dharla-flow-above-danger-level-12000-families-stranded-in-Lalmonirhat"
+    ]
+  }
+]

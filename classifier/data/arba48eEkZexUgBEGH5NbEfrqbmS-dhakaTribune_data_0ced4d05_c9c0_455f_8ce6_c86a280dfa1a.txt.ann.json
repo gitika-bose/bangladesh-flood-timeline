@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_0ced4d05-c9c0-455f-8ce6-c86a280dfa1a.txt",
+  "text": "Date Published:2020-03-31 00:00:00      \nThe state government said two had died while undergoing treatment at Gandhi Hospital in Hyderabad The government of southern India's Telangana state on Monday announced that six people who had attended a religious congregation in Nizamuddin area of New Delhi have died of the coronavirus. A statement issued by the Chief Minister Office said the victims had attended the three-day religious congregation and contracted Covid-19, the disease caused by the novel coronavirus. The state government said two had died while undergoing treatment at Gandhi Hospital in Hyderabad, one each in Apollo Hospital and Global Hospital. Two other deaths were reported from Nizamabad and Gadwal. It also added that special teams under district collectors have identified those who came in contact with these people, and they were shifted to hospitals.  The authorities also urged people who attended the prayers in Delhi to contact officials. \"Telangana health department requests those who attended the congregation at Markaz to voluntarily report at hospitals,\" it said, adding that the government would conduct tests and offer treatment to them free of cost. Thousands of Indians and hundreds of foreigners had attended the conference that took place on March 9 and 10 in the densely populated Nizamuddin area of Delhi. Ten of the 17 confirmed cases in Tamil Nadu on March 30 were also of people who had participated in the congregation. India has recorded 1,251 cases of the coronavirus, with 32 deaths, but health experts say the country of 1.3 billion people could see a major surge in cases that could overwhelm its weak public health system."
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_02979691-3b6d-4072-82a4-def74b8122d4.txt",
+  "text": "Date Published:2020-04-18 00:00:00      \nA faction of people abusing their opportunities are putting those in need in deep trouble  Police arrested two men, including a district council member, over their involvement in misappropriating government allocated food supplies and funds in Joypurhat and Kishoreganj.   Meanwhile, an Awami League leader and an Awami Swecchasebak League leader of local units were suspended from their parties over similar accusations in Bagerhat.  In Joypurhat, police seized 14 sacks (700 kg) of illegally hoarded rice at a house in Gucchogram village of Kalai upazila yesterday. The house owner, Rana Miya, 22, was arrested in connection with the incident, confirmed Kalai police station OC Abdul Latif Khan. In Kishoreganj, police arrested a member of the district council accused in a case filed for stealing government allocated money to buy relief products for the poor in Katiadi upazila. The accused Md Kamruzzaman was arrested from his home on Friday, said Katiadi Model police station OC MA Jalil. Upazila Project Implementation Officer found proof that Kamruzzaman misappropriated almost half of Tk3 lakh which he was provided to distribute relief among the needy, added OC Jalil. A case was filed in connection with the incident.  In Bagerhat, two local influential leaders, in charge of distributing TCB (Trading Corporation of Bangladesh) oil was suspended from their political party for misappropriation. The accused TCB oil distributors are, Md Jahangir Alam and MD Milon. Md Jahangir is the suspended leader of Borobaria union unit Awami League and Md Milon Majhi is a suspended convener of Chitalmari upazila unit Swecchasebak League. Acting on a tip-off a mobile court conducted a drive on Thursday and fined a grocery store where the accused dealers hoarded 92 litres of edible oil."
+}

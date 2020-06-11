@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_d34d5f37-f2f2-4f90-afc8-3ddcdbc1c02e.txt",
+  "text": "Date Published:2020-03-19 00:00:00      \nMARCH 19, 1972 INDO-BANGLADESH TREATY AND JOINT DECLARATION  A historic 25-year treaty is signed between Bangladesh and India today. The treaty of friendship, cooperation and peace between the two countries is signed at Bangabhaban by Bangabandhu Sheikh Mujibur Rahman for Bangladesh and Indira Gandhi for India. The treaty is similar to the one earlier signed between India and the Soviet Union.    The treaty affirms that each side shall respect the independence, sovereignty and territorial integrity of the other and refrain from interfering in the internal affairs of the other side. Each high contracting party solemnly declares that it shall enter into or participate in any military alliance when the other is threatened or under attack.  In case one is attacked or threatened with attack, the two parties shall immediately enter into mutual consultation in order to take appropriate effective measures to eliminate the threat and thus ensure peace and security.  The treaty also provides for joint studies and joint action in the fields of flood control, river basin development, development of hydro-electric power and irrigation.  A joint declaration of the two prime ministers is also signed at the ceremony. The following are the highlights of the joint declaration: Bangladesh prime minister expresses admiration for the valiant armed forces of India for their supreme sacrifice. The two prime ministers decide to establish a joint rivers commission to carry out a comprehensive survey of the river systems shared by the two countries and formulate projects concerning both the countries in the fields of flood control. Both prime ministers approve the principles of the revival of the transit trade and the agreement on border trade and direct that these agreements, as well as the general trade and payment agreements, should be signed by the end of this month.    INDIA WON'T ACCEPT BIHARIS Indira Gandhi says at a press conference in Dhaka today that India will not absorb Pakistani nationals in her territory. An American correspondent asks her whether India will take back the non-Bengalis who came from India and settled in Bangladesh. In reply, Indira Gandhi says that the non-Bengalis living in Bangladesh went to Pakistan some 20 years ago and they are Pakistani nationals. It is up to the Biharis to decide whether they will go to Pakistan or stay in Bangladesh as loyal citizens, she adds.    SOURCES: March 20, 1972 issues of Dainik Bangla, The Daily Ittefaq, Azad, Morning News, The Bangladesh Observer and Purbodesh."
+}

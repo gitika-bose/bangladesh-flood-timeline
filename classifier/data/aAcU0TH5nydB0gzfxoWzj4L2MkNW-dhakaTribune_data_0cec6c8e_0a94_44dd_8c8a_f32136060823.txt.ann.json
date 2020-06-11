@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_0cec6c8e-0a94-44dd-8c8a-f32136060823.txt",
+  "text": "Date Published:2019-05-03 00:00:00      \nThe elephant riders were jailed for two years each Rapid Action Battalion (RAB) mobile court seized two elephants and handed them over to the Bangladesh National Zoo on Friday. RAB said the animals were being used to extort foreign tourists and locals. Shaheen , 25 and Helal 22, were using the elephants to extort money from people. They were each sentenced to two years of imprisonment. Confirming the matter, RAB Executive Magistrate Sarwar Alam said: \"The elephants have been handed over to the Bangladesh National Zoo at Mirpur.\" RAB said Shaheen and Helal were using the animals to block the road in front of Karwan Bazar Hotel Super Star. The duo directed the elephants to put the trunks inside vehicles of foreign tourists in an attempt to scare them into handing over money. \"They were intimidating all the passengers. Passengers of other vehicles in the area were told to keep the money ready for collection beforehand\" the RAB executive magistrate said. At one point the foreign tourists called the police. Sarwar Alam said he and RAB-2 Superintendent of Police Muhammad Mohiuddin Faruqi instructed the elephant riders to leave the road.  However, they refused to cooperate. The elephant riders entered Karwan Bazar on the backs of the elephants; they damaged four private cars. The RAB followed them, instructing them to stop, but they would not heed the warnings and kept proceeding. They were finally detained from the Hatirjheel-Modhubagh area. \"After interrogating them we found out they have been roaming different parts of the capital for a long time extorting money from people,\" Sarwar Alam said."
+}

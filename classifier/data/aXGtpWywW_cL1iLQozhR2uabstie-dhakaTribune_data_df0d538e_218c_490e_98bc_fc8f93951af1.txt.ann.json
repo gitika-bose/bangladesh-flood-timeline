@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_df0d538e-218c-490e-98bc-fc8f93951af1.txt",
+  "text": "Date Published:2019-11-16 00:00:00      \nThree other probe committees formed by the Ministry of Railways, Sirajganj district administration, and Rajshahi Western Rail Division have already begun their investigation A five-member probe committee, on Monday, will record public statements of all those who witnessed the derailment of the Rangpur Express after it left the Ullapara Railway Station in Sirajganj on Thursday. Pakshi Divisional Railway Manager (DRM) Md Mizanur Rahman, who formed the probe committee, confirmed the matter to Dhaka Tribune on Saturday. Md Abdullah Al Mamun, divisional traffic officer (DTO) of Pakshi Western Rail Division, is leading the prove committee to investigate the accident. Three other probe committees formed by the Ministry of Railways, Sirajganj district administration, and Rajshahi Western Rail Division have already begun their investigation. DTO Md Abdullah Al Mamun on Friday, said the accident was caused by a problem on the railway tracks, as found during their primary investigation. DRM Md Mizanur Rahman in a press briefing on Saturday said, the signal system had no problem as it was controlled by CBI (Computer Based Interlocked) system developed by European engineers.  Rajshahi unit Chief Engineer Al Fattah Md Masudur of Western Rail Division said all the rail tracks were accessible 30 hours after the accident. On a visit to the Ullapara Railway Station this correspondent found workers busy fixing the rail track 1 yesterday. Ullapara Railway Station's Assistant Station Master Rafiqul Islam said: \"It will likely take about another week to fully renovate the rail tracks. Train schedule still continues to suffer.\" On Thursday, the engine and seven bogies of Rangpur Express derailed after the train, bound for Rangpur, left the Ullapara rail station. The engine along with four bogies also caught fire. Around 25 people were injured in the incident. After the accident, rail links between Dhaka, and the northern districts remained cut off for nearly seven hours, collapsing the schedule of trains in that route."
+}

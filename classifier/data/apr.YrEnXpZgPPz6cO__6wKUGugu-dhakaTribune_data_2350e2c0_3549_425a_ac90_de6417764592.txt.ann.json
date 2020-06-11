@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_2350e2c0-3549-425a-ac90-de6417764592.txt",
+  "text": "Date Published:2020-02-16 00:00:00      \nAccording to the Department of Agricultural Extension (DAE) of the district, at least 3500 hectares of land have been used for cultivating tobacco in six upazilas  Despite knowing of the adverse effects of tobacco, farmers have continued cultivating the crop across Nilphamari district as the produce yields them a good price compared to other crops like paddy and maize. According to the Department of Agricultural Extension (DAE) of the district, at least 3500 hectares of land have been used for cultivating tobacco in six upazilas . However, a group of people who deal with tobacco in the district said the figure was almost 10,000 hectares. Agricultural officers have said they are discouraging farmers not to grow this crop as it is harmful for both health and soil. However, the farmers are not paying heed to them as tobacco cultivation brings them huge profits every year. They also added several tobacco companies, including multinational companies, were luring tobacco growers with seeds, fertilisers as well as technical support free of cost. This correspondent visited several villages- Itakhola, Kochukata, Tupamari, Panchapakur, Gorgarm , Charcharabari and Kanaikata Bamondanga - of Sadar upazila and observed that farmers, including women and children, were passing busy times in the tobacco fields. Farmer Nazrul Islam of Charcharabari village of Sadar upazila said tobacco companies had set up many purchasing centres and warehouses of tobacco in the district for the advantage of farmers . They are collecting produce from the fields directly. Even supervisors and officials of tobacco companies are regularly assisting them with various facilities. Farmer Arzina Begum of Kanaikata Bamondanga village of Kishoreganj upazila said she had cultivated tobacco on two bighas of land that cost her Tk 8,000. She added, \"Akij company provided me with fertilizer, seeds free of cost.\" Another farmer, Mukta Akhtar, said: \"I have cultivated tobacco on two bighas of land, costing me Tk 10,000. I would sell the crops at Tk30,000-35,000. \"Had we cultivated rice, potatoes and green chillis, we would not be able to make much profit,\" she added. Some farmers of the district alleged that agriculture offices were not sincere in encouraging farmers to grow other crops. Farmers do not get advice from agriculture officials when their seed beds and crops get damaged. Nilphamari Department of Agricultural Extension (DAE) Deputy Director Nikhil Chandra Biswas said: \"Profit in cultivating tobacco is more than the cost. For this reason, farmers, disregarding health risks, are cultivating tobacco in huge quantities. As a result, families of tobacco growers are getting exposed to various diseases and cropland is losing fertility gradually.\" \"However, we are trying to create awareness among farmers,\" he added."
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_d8f462ed-aec4-455e-8ba8-71c6bd4f292d.txt",
+  "text": "Date Published:2019-06-03 00:00:00      \nThe committee will announce the Eid date after reviewing information on the sighting of the moon The National Moon-Sighting Committee will sit for a meeting to decide the date of Eid-ul-Fitr, the biggest religious festival of the Muslims. A press release said the meeting will be held at the Islamic Foundation's Baitul Mukarram office around 7:15pm on Tuesday evening, reports BSS. The meeting will be chaired by the state minister of religious affairs and moon sighting committee Chairman Sheikh Md Abdullah. The committee will announce the date of Eid-ul-Fitr after reviewing information on the sighting of the moon of Shawwal month. People have been requested to inform the committee over the following phone and fax numbers if they see the Shawwal moon anywhere in the sky of Bangladesh, the release added. The phone numbers are: 9559493, 9559643, 9555947, 9556407 and 9558337, while the fax numbers are 9563397 and 95559."
+}

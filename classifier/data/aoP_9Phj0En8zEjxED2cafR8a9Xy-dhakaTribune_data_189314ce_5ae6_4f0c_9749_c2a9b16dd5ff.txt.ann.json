@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_189314ce-5ae6-4f0c-9749-c2a9b16dd5ff.txt",
+  "text": "Date Published:2020-03-29 00:00:00      \n'This is not unique for Bangladesh' The US has said the voluntary return of its citizens from Bangladesh is not out of the ordinary, as US citizens in other countries are also returning to the US based on their personal choices.  \"It is not just happening in Bangladesh. This is not unique for Bangladesh,\" a spokesperson at the US Embassy in Dhaka said on Sunday, reports UNB. The spokesperson said this is a temporary measure and the US citizens will return to Bangladesh again once the situation improves globally.  The spokesperson also said the US Embassy in Dhaka will remain open.  The US Department of State and US Embassy in Dhaka have arranged a special chartered flight for US citizens who wish to return and their families.  The special flight will be departing from Hazrat Shahjalal International Airport on Monday. The spokesperson said the aircraft will be full, but did not specify the exact number of returnees. The size of the commercial aircraft was also not disclosed.  The special flight will include a Dhaka to Doha, Qatar leg followed by a connecting flight to Dulles International Airport, Washington, DC, said the US Embassy in Dhaka. Passengers will remain on the aircraft in Doha.  All passengers must agree to reimburse the US government for the flight by signing a promissory note for approximately the amount of a full-fare economy flight, or comparable alternate transportation, to the designated destination that would have been charged immediately prior to this crisis, said the Embassy.  The note must be signed and presented before boarding. No cash or credit card payments will be accepted at the airport.    \"You will be responsible for any arrangements or costs (lodging, onward destination or local transportation, etc) beyond Washington, DC.  The US Embassy is unable to book any onward travel for you. The exact departure time and routing of this chartered flight are subject to change,\" said the Embassy.  Asked why US is shifting its citizens to the US despite the risky situation there, the Embassy spokesperson said it is true that the US has been hit very hard but everybody takes their own decision. In the US, over 120,000 cases of Covid-19 and more than 2,000 deaths due to the viral infection had been recorded as of Sunday evening. "
+}

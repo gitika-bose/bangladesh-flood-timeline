@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_9939bc3b-d8f2-4297-93b6-8795d99358b2.txt",
+  "text": "Date Published:2019-03-16 00:00:00      \nThere was widespread shock and condemnation from the cricketing fraternity yesterday after the tragic shooting incident in Christchurch, New Zealand, where at least 49 people have lost their lives. Bangladesh's Mushfiqur Rahim and Tamim Iqbal, two of those who were witness to the incident, took to twitter to express their mental state. Other legends, like Virat Kohli, Shahid Afridi and Shoaib Akhtar joined the condemnation of such a heinous attack while breathing a sigh of relief at the safety of the Bangladesh team. Bangladesh batsman Tamim Iqbal was distraught as he was one of the players who were on their way to the Masjid AL Noor -- one of the mosques where the shooting took place. He wrote in his official twitter handle @TamimOfficial28: \"Entire team got saved from active shooters!!! Frightening experience and please keep us in your prayers.\" Wicketkeeper-batsman Mushfiqur Rahim wrote in his twitter handle @mushfiqur15: \"Alhamdulillah Allah saved us today while shooting in Christchurch in the mosque...we r extremely lucky...never want to see this things happen again....pray for us.\" Bangladesh team's performance analyst Srinivas Chandrasekaran described his experience @chinu1501: \"Just escaped active shooters!!! Heartbeats pumping badly and panic everywhere!!\" Ace all-rounder Shakib Al Hasan -- currently in Bangladesh nursing an injury which forced him to miss the New Zealand tour -- was relieved to learn that his teammates were safe. His official twitter account @Sah75official said: \"I have nothing to say about the active shooting in New Zealand that took place all I want to say is I'm grateful to almighty Allah for saving my brothers my teammates! Alhamdulillah.\" Pakistani legend Shahid Afridi spoke to Tamim over phone after the incident, enquiring about the team's safety. The popular all-rounder later posted this tweet @SAfridiOfficial: \"Horrifying tragedy #Christchurch. I found NZ one of the safest, most peaceful places, people are friendly. Spoke to Tamim big relief Bangladesh squad/staff is safe. World must together! stop hatred! Terrorism has no religion! Prayers for bereaved families. May Allah bless the departed.\" The scheduled third Test between hosts New Zealand and Bangladesh, which was scheduled to begin on Saturday in Christchurch, was cancelled after discussion between both cricket boards. International Cricket Council (ICC) praised the decision to cancel the Test. ICC CEO David Richardson was quoted in a press release: \"Our thoughts and sincere condolences go out to the families and friends of those affected by this horrendous incident in Christchurch. Both teams, staff and match officials are safe and the ICC fully supports the decision to cancel the Test match.\""
+}

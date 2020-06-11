@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_df7cd91c-39c6-42ca-b926-abb3b7ce917d.txt",
+  "text": "Date Published:2020-01-07 00:00:00      \nBamboo chicken is generally eaten with rice, and bread made of wheat flour Hilly district Rangamati, home to a large number of indigenous peoples, has been known for sometime now for its captivating natural beauty and exceptional life style. Now the district is becoming quite popular for Bamboo Chicken, a rich and healthy dish native to the region. The mouth watering dish is traditionally known as Huro Chumo (Chakma dialect) to the indigenous people of the area. Now it has turned the heads of many people in and outside Rangamati for its unique taste and flavour.  What one needs to cook Bamboo Chicken To prepare this delicious dish one needs one or half a kg medium sized chicken(sliced), onion, ginger, garlic, and green chilli paste. Add turmeric, cumin seed,  coriander powder with oil and salt  to your taste. You also need banana leaves. Finally, the most important thing. You need to cook all this in a hollow and sturdy fresh bamboo stem, large enough to hold all of the above.  Hence the name Bamboo Chicken.  Cooking the dish  First, one needs to mix the chicken and spices with oil and salt to taste. Then all this is put into the bamboo pipe and the mouth of the bamboo pipe needs to be closed securely with banana leaves. Next, the now full bamboo pipe is cooked in an open charcoal oven. Every few minutes, the pipe needs to be turned so the chicken is tender and cooked evenly. Finally, when the green bamboo stem turns white, the dish is finally cooked, says chef Debobrota in Rangamati. Debobrota added that bamboo chicken is generally eaten with rice, and bread made of wheat flour. Teenager Uchingcha Rakhaine of Rangamati town, said: \" Bamboo Chicken is the traditional food of the hills. We often eat this delicious dish.\" Yasin, a tourist, currently in Rangamati, said: \" I just tastes Bamboo Chicken for the first time, and it is really very tasty!\""
+}

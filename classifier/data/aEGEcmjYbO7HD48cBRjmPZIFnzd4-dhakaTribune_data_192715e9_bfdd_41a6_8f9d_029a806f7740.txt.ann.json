@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_192715e9-bfdd-41a6-8f9d-029a806f7740.txt",
+  "text": "Date Published:2019-12-05 00:00:00      \nAs the river route has not been developed for years of mismanagement, this river port remained inoperative. However, Prime Minister Sheikh Hasina declared Chilmari as a river port during her official visit to Kurigram on September 7, 2016 Although three years have elapsed since the formal inauguration of Chilmari River Port in Kurigram, it is yet to see any activities, causing frustration to local people. Sources said a Shipping Protocol Treaty was signed between the governments of India and Bangladesh in 1972 to transport goods through rivers. During the British period, one could travel through rivers from Kolkata to Guwahati as far as Dhubri in Assam. As the river route has not been developed for years of mismanagement, this river port remained inoperative. However, Prime Minister Sheikh Hasina declared Chilmari as a river port during her official visit to Kurigram on September 7, 2016. Bangladesh Inland Water Transport Authority (BIWTA) set up a pontoon at Ramna Shallowghat, Chilmari on September 23, 2017, which was inaugurated by then Shipping Minister Shajahan Khan. Besides, a project was taken to develop the river port. However, the Zilla Parishad does not want to hand over the responsibility of managing the ghats of this river port. The port was given out on lease without informing the BIWTA, resulting in a conflict between the two parties. When the conflict intensified and the matter went to the court, then Shipping Minister Shajahan Khan visited the river port in June, 2018 and assured all concerned of solving the problem. But neither the problem was solved or the river port became operational, alleged locals. According to sources at the Shipping Ministry, once Chilmari was a traditional business hub. The area was recognised as 'Chilmari River Port' from the early days when big ships carrying thousands of maunds of jute, paddy, rice and other goods started moving along this river port. During the British period, big warehouses of jute, mustard, paddy, peanuts and maize were set up at Chilmari around the river port. Renowned jute companies in the country came to Chilmari and established their offices to procure jute. Besides, businessmen and traders of various areas came and stayed at Chilmari day after day to buy goods. The commercial activities based on Chilmari came to a halt due to river erosion and navigability crisis. The present government has taken up the project to improve navigability by dredging rivers. This river port is the only route to establish regional connectivity among India, Bhutan and Nepal from the Payra Sea Port. If the river port can be developed, the entire Kurigram region as well as the national economy will see a good growth. \"We can't see any ray of hope as the river port is not being operational. So, we demand this river port be made operational as soon as possible,\" said Shahidul."
+}

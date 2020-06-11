@@ -1,0 +1,263 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "river_erosion",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 216,
+          "text": "people in Shariatpur"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Shariatpur",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 241,
+          "text": "living in constant fear of an upcoming erosion"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "river",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 949,
+          "text": "the last erosion and yet there is now a threat of another"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1008,
+          "text": "Over six thousand people --who lost their homestead and belongings"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_36": {
+          "value": "6000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1075,
+          "text": "in the last erosion"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "2019",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_50": {
+          "value": "2019",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|1008,1073",
+        "s1v1|e_2|216,235"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|1008,1073",
+        "s1v1|e_49|1075,1093"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  ],
+  "filename": "dhakaTribune_data_f6a1d4d9-5727-4256-8346-2b0fd2924231.txt",
+  "text": "Date Published:2020-04-07 00:00:00      \nOver a lakh people living in the upazilas fear that if an erosion occurs again in the locality, it will be difficult for them to settle and earn their livelihood Thousands of people in Shariatpur are living in constant fear of an upcoming erosion even as they struggle to cope with the ongoing lockdown in light of the deadly Covid-19 outbreak that challenges their livelihood. The flood control embankment construction project on the Padma river, flowing through Naria and Zajira upazilas of the district, has come to a halt with the recent outbreak of the Covid-19 pandemic that has led to a nationwide lockdown. Over a lakh people living in the upazilas fear that if an erosion occurs again in the locality --which is highly likely as it happens every year-- it will be difficult for them to settle and earn their livelihood. The poverty-stricken locality had hardly any respite from the damage caused by the last erosion and yet there is now a threat of another. Over six thousand people --who lost their homestead and belongings in the last erosion-- settling in on others' land either through pity or rent are in a huge crisis. Roksana Begum, a resident of Naria upazila, lost everything to the river last year and now, when she and her husband both are jobless, the pandemic is making each day of their lives harder as the days go by. She said: \"We made a shed on a neighbour's land temporarily. We were hoping to get back to our normal life after the flood control embankment project was completed. But now erosion is coming towards us in one way and coronavirus has come in another. \"We have no money or anyone to help us. Either we will die of the disease or of poverty. It does not make much difference to us,\" Roksana added in sheer despair. Thousands of working class people, who lost everything in the regular erosion in the area like Roksana are facing the same difficulties. They are without work, income, food and scope for treatment.  Despite government-allocated ration goods, said another resident of the area seeking anonymity, people have been sleeping on hungry stomachs as they are not getting help or it would be correct to say that their goods are being looted by local representatives and political activists.  Mohadeb Das, a kitchen shopkeeper of Hindupara, said he used to own a large store. However, after the river devoured it, he was managing well with his single-shed kitchen shop by the riverside.  He said: \"I was waiting to see the embankment project completed. But now no one comes to my shop because of the disease and the river is closing in every day to consume my shop, my only means of livelihood again.\" Rashida Begum, who rented her neighbour's house after losing her home in the erosion, said: \"We were well off, with our daily jobs and income. It was not much but enough for a couple like us. \"But due to the coronavirus, we lost our jobs and did not have any help or rations from the authority. We do not know what will we do,\" said Rashida, who has been suffering from acute poverty due to the outbreak of the pandemic. Denying the allegations, Kazi Abu Taher, Deputy Commissioner of Shariatpur, told Dhaka Tribune that there was not a single house in his locality which had not been given proper help and not a single person was there who was hungry or had been deprived of rations. According to Bangladesh Water Development Board (BWDB), the flood control embankment project, stretching for 8.9 kilometres, was initiated in 2018 and was expected to be completed in 2021 at a cost of Tk1,097 crore. However, 33% of work remaining for the project has now come to a halt as workers have left for their homes with the outbreak of the pandemic. Stating that the project would be completed in due time, BWDB Executive Engineer Ahsan Habib said: \"The project is still ongoing in fractionally. Even if it gets halted overall, we will speed up the construction work later to complete it in due time.\""
+}

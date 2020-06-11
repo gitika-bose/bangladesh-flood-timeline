@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_14b2b91d-0f3d-4e7c-8e21-0f3d875e6bc7.txt",
+  "text": "Date Published:2020-04-22 00:00:00      \nAmid the coronavirus scare and threat of impending flash flood, farmers in the haor region of Sylhet Division are expecting a bumper Boro harvest this time. Many of the farmers, who have been busy harvesting Boro paddy over the last one week, said they were happy with the market prices for their produce. They, however, said a shortage of farm labourers made it difficult for them to harvest Boro, the main crop in the region. According to the Department of Agriculture Extension, Boro has been cultivated on 447,195 hectares of land in Sylhet Division with a production target of 23.71 lakh tonnes. Srinibash Debnath, additional director of the department in Sylhet, said, \"This year, the harvest seems very good. No disease hit the paddy. We are expecting a very good yield.\" Till yesterday, 31 percent of the produce was harvested in the haor areas against 21 percent in the whole division, he mentioned, adding that the progress was satisfactory. The official, however, voiced worry that flash flood may hit the region any time. According to the Flood Forecasting and Warning Centre of Bangladesh Water Development Board, flash flood may hit the haor region at the end of the week due to excessive rainfall in the north-eastern part of the country and in the Indian states of Assam and Meghalaya. Shyamal Sarkar, a farmer of Bagbari village of Dharmapasha upazila in Sunamganj, said, \"The weather is still favourable and the Khurma river is flowing below the danger mark. We hope to finish harvest before the flash flood hits the area.\" Upesh Sutradhar, a marginal farmer of Mahdi village in Chhatak upazila, said he had already harvested paddy on one acre of his three-acre land and was happy with the produce. \"I have already harvested around 30 maunds of paddy and sold those for Tk 650 a maund. I am happy with the harvest and the price,\" he said. Last year farmers sold Boro paddy for around Tk 400 a maund. This time, farmers are happy with the prices ranging from Tk 650 to Tk 750 per maund. Many of them said they were facing a shortage of farm labourers. But thankfully, idle labourers of different sectors joined them to harvest paddy. Tamij Uddin is one such labourer from Moulvibazar's Kulaura upazila. He along with his brother is now harvesting paddy in Hakaluki Haor area. Ekhlasur Rahman, a labourer of Chanpur village in Chhatak upazila, said, \"There is a bit of crisis of farm labourers, but the wages of labourers have not gone up that much\". However, Abdur Razzak, a farmer from Dugnoi village in Dharmapasha upazila, said, \"A farm labourer is now charging Tk 700 a day. The amount usually hovers around Tk 500. \"The virus scare and a lack of transport are deterring labourers of other districts from coming here,\" he mentioned. Another Farmer, Shyamal Sarkar, in the same upazila, said, \"There are different ways to pay a labourer. Some labourers take one of every seven sacks of paddy they harvest, while some charge Tk 1,800 to 2,000 per kiyar (37 decimals).\"  "
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_4541e06c-e1e0-45b6-a109-a7e53f75ccc3.txt",
+  "text": "Date Published:2019-11-05 00:00:00      \nThey were carrying a huge numbers of snares on three trawlers Forest department officials have detained 60 deer poachers, disguised as pilgrims, at Chandpai range of the Sundarbans' East Zone under Khulna's Mongla upazila. The arrests were made by Chandpai range officials around 4am on Tuesday. The suspects are residents of Gaurambha area under Rampal upazila of Bagerhat district. A huge numbers of deer-hunting snares were recovered from the spot after the arrests, said the officials. Sundarbans East Forest Zone Divisional Forest Officer (DFO) Md Mahmudul Hasan confirmed the matter to Dhaka Tribune.  He said: \"The forest department officials keep a watchful eye on Ras Mela bound pilgrims each year. \"On Tuesday, as the alleged deer-poaching team was approaching the area on three trawlers, officials of the Chandpai range caught them and recovered the deer snares.\" Ras Mela, a religious festival of the Hindu community, takes place on the full-moon night of the Bangla months of Karthik or Agrahayan every year. In the Sundarbans, it is celebrated each year at Dublar Char."
+}

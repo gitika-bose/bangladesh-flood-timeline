@@ -1,0 +1,487 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun",
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 931,
+          "text": "In 1970"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "1970",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 940,
+          "text": "a tidal wave"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "coastal_cyclone",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 953,
+          "text": "killed 300,000 people"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "300000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 976,
+          "text": "In June 1976"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "1976-06-01",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 990,
+          "text": "heavy rains swept away"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "monsoon",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1013,
+          "text": "the homes of 300,000 people"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_36": {
+          "value": "300000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1045,
+          "text": "killed at least 143"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1066,
+          "text": "In April 1977"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "1977-04-01",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1081,
+          "text": "waves created by a cyclone in the Indian Ocean"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "coastal_cyclone",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1128,
+          "text": "killed 600 people"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1147,
+          "text": "In 1980"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1156,
+          "text": "flooding forced the evacuation of 500,000 people"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_36": {
+          "value": "50000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|953,973",
+        "s1v1|e_49|931,937"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|1013,1039",
+        "s1v1|e_49|976,987"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|1045,1063",
+        "s1v1|e_49|976,987"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|1128,1144",
+        "s1v1|e_49|1066,1078"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|1156,1203",
+        "s1v1|e_49|1147,1153"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  ],
+  "filename": "1988_6cb89aff225e7f5cc57942fb4201daee1afdc735.txt",
+  "text": "High Ground Is a Stranger In Bangladesh\n1988-09-07T05:00:00.000Z\nBangladesh is a nation seemingly founded on unstable footing.\nIts very ground is, by and large, a swarm of islands created and washed away each year as the waggling, monsoon-swollen Ganges and Brahmaputra Rivers reach across its vast delta and tumble into the Bay of Bengal.\nIts politics are no more predictable. Two presidents have been assassinated in its 17-year history, and Bangladesh has suffered waves of man-made terror. Terrible natural disasters are too frequent in this nation of 55,126 square miles, about the size of Wisconsin, which is bordered by India and Burma at the bend in the Bay of Bengal.\nThe majority of its population of more than 100 million is crammed onto the islands, most no more than 10 feet above sea level, that speckle the delta. When disaster strikes, there is no high ground upon which to seek refuge. Tidal Waves and Heavy Rains\nIn 1970, a tidal wave killed 300,000 people. In June 1976, heavy rains swept away the homes of 300,000 people and killed at least 143. In April 1977, waves created by a cyclone in the Indian Ocean killed 600 people. In 1980, flooding forced the evacuation of 500,000 people. In 1985, a cyclone killed at least 1,400 and perhaps as many as 10,000.\nAinslie Embree, a South Asia specialist at Columbia University, said, ''Man-made disasters are just as consequent as the natural disasters.''\nEver since the 12th century, when Moslem invaders brought Islam to Bengal, which encompasses Bangladesh and eastern India, there has been religious strife with Hindus. Most Bangladeshis are Moslem, with Hindus making up 14 percent of the population. The Moslem rulers were forced out by the British in the 18th century.\nIn 1947, predominantly Hindu India won independence from Britain and a separate Moslem state, Pakistan, was created in two parts, divided by 1,000 miles of Indian territory. The partition evoked ages-old religious enmity, and massacres ensued. Power Centered in West\nPower in the new Moslem nation was centered in West Pakistan, and by 1968, rioters in the more populous East were demanding autonomy. By 1970, separatists from the East had won a majority in the National Assembly and were pressing for more power. But Assembly sessions were postponed by Agha Yahya Khan, then President, and full-scale civil war erupted. ''Bangladesh suffered greatly during the civil war,'' Dr. Embree said. ''A great many of the intellectuals were killed.''\nDr. Embree said the Pakistani Army killed 100,000 Bangladeshis. With Indian troops invading in support of the separatists, independence was won in December 1971. Then, thousands of Pakistani collaborators were slaughtered.\nOne of the nation's continuing tragedies is the presence on its soil of more than a million people from Bihar State in India. These people, who do not speak Bengali, have remained in refugee camps since independence. ''They want to go to Pakistan, but the Pakistanis won't take them,'' Dr. Embree said. ''They are among the more miserable refugees in the world.'' Demonstrations in November\n''While these people are Moslems, they are regarded as foreigners because they don't speak Bengali,'' he said. ''They also supported the Pakistan Government, and so they are regarded as traitors.''\nAfter the nation gained independence, much of its Hindu population fled to India. ''India claims there were 10 million of them,'' Dr. Embree said.\nSince independence, two presidents have been assassinated, the founder of the nation, Mujibur Rahman, in 1975, and Ziaur Rahman, in 1981.\nLast November, there were major demonstrations against the Government of President H. M. Ershad, who took power in a military coup in March 1982. General Ershad ended martial law in 1986, retired from the army and successfully ran for election.\n''The riots in November just about disrupted the economy completely,'' said Craig Baxter, a professor of South Asian history at Juniata College in Huntingdon, Pa. ''There were strikes, transportation breakdowns, a failure to fulfill international contracts.'' Two Opposition Leaders\nThe demonstrations were led by two principal opposition leaders, Sheik Hasina, the daughter of Mujibur Rahman, and Begum Khaleda Zia, the widow of Ziaur Rahman. President Ershad was re-elected this year after a campaign in which the opposition leaders refused to take part, saying the elections could not be fair.\nAs it has been since its birth, Bangladesh remains one of the poorest countries in the world, primarily because its economy is based on agriculture. ''Most people live at an agricultural subsistence level,'' Dr. Embree said.\n''Very little industry has been developed,'' he continued, ''and they have very few exports.'' Jute, which is used to make rope and burlap, is Bangladesh's main export. ''But the world market for jute disappeared in recent years because of plastics and man-made fibers,'' Dr. Embree said.\nOf necessity, the people have developed a remarkable style of life, trying to adapt to the water that annually sweeps through the country with the monsoon. Many Bangladeshis live in homes built on earthen platforms of four yards or higher and sow varieties of rice that will grow in deep water."
+}

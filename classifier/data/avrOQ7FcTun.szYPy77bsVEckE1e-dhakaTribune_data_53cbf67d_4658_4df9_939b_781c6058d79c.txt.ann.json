@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_53cbf67d-4658-4df9-939b-781c6058d79c.txt",
+  "text": "Date Published:2020-04-13 00:00:00      \nThe prime minister has previously urged the citizens of the country to celebrate Pohela Boishakh digitally, by not forming crowds Prime Minister Sheikh Hasina will deliver a speech on Monday on the celebrations of Pohela Boishakh, the first day of the Bangla calendar, which is on Tuesday. She is scheduled to address the nation at around 7:30pm, Prime Minister's Press Secretary Ihsanul Karim confirmed to Dhaka Tribune. Earlier this month, the prime minister urged the citizens of the country to celebrate this year's Pohela Boishakh digitally, by not forming crowds, as to contain the coronavirus outbreak.  As of Sunday, Bangladesh has confirmed 621 cases of Covid-19, the disease caused by the novel coronavirus, and 34 deaths. Only 39 patients have recovered in the country until now. The fast spreading coronavirus, which was first reported in China's Wuhan, has claimed above 114,200 lives and infected more than 1,853,100 people across the world till date, according to Worldometers. As many as 423,554 people have recovered from Covid-19, a disease caused by a new strain of coronavirus, which has spread to 210 countries and territories around the world and two international conveyances."
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_2f61eea6-cd49-4c07-8dc5-ee959387d7f9.txt",
+  "text": "Date Published:2019-03-29 00:00:00      \nThe standard narrative of the Southeast Asia plastic crisis has a puzzling blind spot. The typical story goes that consumers and governments shoulder all the blame--consumers for using and then tossing out too much plastic, and governments for not instituting adequate waste management systems. But that narrative obviously doesn't tell the whole story. One example of this narrative: A 2015 McKinsey report that deals specifically with plastic contamination of the world's oceans points out that \"more than half of the plastic leaking into the ocean comes from just five countries: China, Indonesia, the Philippines, Thailand, and Vietnam.\" A reader who picks up the report and thumbs through the section that poses the question \"What are the origins of ocean plastic debris?\" could be forgiven for thinking that this all of this plastic pollution is immaculately conceived in these countries. Disposable plastic is billed as a world-changing innovation and the large multinational companies that produce, market, and sell goods packaged in plastic are completely left out of the equation.  Reports like these often take for granted that these plastic products must exist and that companies bear no responsibility for their products once they've released them into global marketplaces. The lack of any accountability for corporations in studies like these is baffling. Companies flood the market with cheap plastic and give consumers no viable option but to purchase these products that are designed to be used and then immediately discarded. Many of these products, like the plastic-and-aluminum-laminated sachets that carry everything from tomato sauce to shampoo are actually impossible to recycle or reuse. Particularly in the wake of China's refusal to accept plastic waste and the winding down of the country's massive recycling operation, much of the plastic these companies produce is destined to become pollution from the very point of its creation. But an innovative type of study released last week in the Philippines wants to get away from this narrative trend. Instead, the report audits plastic waste and then goes on to actually name the corporations that are responsible for the bulk of the identifiably branded plastic waste. The Global Alliance for Incinerator Alternatives, which produced the report with the help of tools developed by the NGO Mother Earth Foundation hopes its findings stand as a wake-up call that \"single-use, disposable plastic--not the way it is managed--is the problem.\" This report, which compiled data from 21 waste assessments carried out in six cities and seven municipalities across the Philippines, found that nearly 55 percent of the residual waste--meaning plastic that cannot be recycled--can be identified as coming from recognizable brands. The top three offending companies--Nestle, Unilever, and Procter & Gamble--created one-third of the branded non-recyclable waste.  While this report focused exclusively on the Philippines, other Southeast Asian countries would do well to carry out this type of audit, and the subsequent naming of brands that drive plastic consumption. When countries, organizations, and consumers better understand the true origin of many of these plastic products, they can be better equipped to take action. Although the task of forcing corporations to reclaim responsibility for the single-use plastic waste they generate will take a globally coordinated effort unlike any that has ever existed before. Copyright: Asia News Network "
+}

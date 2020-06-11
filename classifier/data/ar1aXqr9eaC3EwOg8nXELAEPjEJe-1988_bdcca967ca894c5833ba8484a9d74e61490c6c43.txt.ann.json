@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1988_bdcca967ca894c5833ba8484a9d74e61490c6c43.txt",
+  "text": "Environment Will Expire if We Don't Act Now\n1988-10-19T05:00:00.000Z\nTo the Editor:\nYou are performing an important service to the public and to the nation's leaders by highlighting global environmental issues and the commitments we need to make. There are four points I feel should be added to your excellent editorial ''The Next Generation of Poison: An Issue for the No-Issue Campaign'' (Oct. 9):\n* (1) The list of planetary ills is far more extensive than those covered in the editorial. Tropical coral reefs are in serious decline around the world; fish are showing increased levels of cancer-like tumors, and many commercial fish populations are seriously depleted; large-scale kills of marine mammals like whales, dolphins and seals are on the rise; genetic diversity of both animals and plants is threatened because of mass extinctions of species; toxic chemical contamination is now ubiquitous, ranging from remote polar ice packs to the bottom of the oceans. Like many of the concerns raised in your article, pollution is strongly suspected, though not always proved to be at the root of these ills.\n* (2) Your editorial makes no mention of population. I am not of the camp that feels population growth to be at the root of all our environmental ills. Rather, I think the types and patterns of consumption are at least as significant as the numbers of consumers. Nevertheless, population growth and the ensuing demand for materials, energy and waste-disposal capacity cannot be disregarded as a key environmental policy issue.\n* (3) Much attention has been given of late to the possibility of safe, economic and environmentally benign nuclear power generation. Whether such technologies will ever exist is an open question; clearly the current generation of nuclear reactors does not meet these criteria, nor will they at any time in the near future. There is so much that needs to be done to develop shorter-term options and tremendous potential - conservation, improving some conventional technologies and bringing to market viable alternative technologies like solar power - that it would be a serious misdirection of resources to commit wholeheartedly to nuclear power.\n* (4) Your editorial closes by acknowledging a need for America to ''endure immediate costs for a long-term benefit.'' Even though this has the force of conventional wisdom, I don't believe it to be the case. The benefits of increasing technological efficiency, spurring innovation and opening new markets can far offset any associated costs, even in a very short-term time frame. Consider the economic impact of energy conservation since the mid-70's, or the public health impact of phasing lead out of gasoline; both have produced significant benefits without any serious economic sacrifice. Many more such opportunities await us, and as you state - and as this summer's drought and flooding in Bangladesh warned us - the economic and human costs of not taking action can be disastrous. DAVID SAROKIN Washington, Oct. 10, 1988 The writer, an environmental scientist, is the author of ''Cutting Chemical Wastes.''"
+}

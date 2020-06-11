@@ -1,0 +1,98 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun",
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1119,
+          "text": "monsoon flooding challenge livelihood of its people"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "monsoon",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [],
+  "filename": "dhakaTribune_data_5f4474bb-ff5e-4086-b244-ae51f6ce68a8.txt",
+  "text": "Date Published:2019-02-17 00:00:00      \nClimate change has become a real threat to human beings with an unabated rise in global temperature, says the prime minister Prime Minister Sheikh Hasina has underscored the \"will\" of the richer segments of societies - everywhere - to act ambitiously against climate change as there are enormous amount of science, technology, innovation and finance to address the problem. \"Let me also say we've enormous amount of science - technology - innovation - finance to address climate change. We only need the 'will' of the richer segments of societies - everywhere - to act ambitiously against climate change. We need to 'transform' our lifestyles, attitudes, systems, economies,\" she said on Saturday. She made the remarks while delivering her speech at a panel discussion on \"Climate Change as a Security Threat\" at the Conference Hall of the Hotel Bayerischer Hof in Munich, Germany. She said that climate change has become a real threat to human beings with an unabated rise in global temperature. About Bangladesh, the prime minister said increasing cyclones, storm, surge, and monsoon flooding challenge livelihood of its people. \"Our Bay of Bengal is increasingly getting acidic. Twenty percent of our people living along the coast and one third of Bangladesh's population eventually risk displacement with rising sea level although we have little contribution to global warming,\" she added. She said flooding erodes river banks during every monsoon while numerous families overnight become homeless and helpless. \"We lose thousands of acres of precious farmlands. And, let's note that our mighty rivers carry nearly one fourth of entire load of sediment carried by all the major river systems in the world every year.\"Prime Minister Sheikh Hasina addresses a panel discussion on 'Climate Change as a Security Threat' at the Conference Hall of the Hotel Bayerischer Hof in Munich, Germany on Saturday, February 16, 2019 |Focus Bangla Hasina mentioned that the erratic pattern and intensity of rainfall and rising heat make farming difficult for Bangladesh's people. There are also reports of growing water stress during dry season. She said changing climate is taking its toll through the emergence of new pathogens. \"Diseases like malaria, which we successfully eradicated risks a comeback. Similar risks are evident in diseases in serials, livestock and poultry,\" she said, adding that temperature variation is challenging breeding of Bangladesh's national fish ilish. \"There are serious enough challenges for the precious gains we made in development.\" Displacement issue The prime minister said despite the fact and also the IPCC findings - a lot of people - including those that are conscious of climate change are yet to understand the climate displacement issue. She said South Asia, East Asia and the pacific experience most displacement in such contexts. All together, these regions at present have 8.6 million displaced people due to sudden-onset disasters mounting to 40% of the global total, and had new displacements in 2017. She mentioned that an estimated 46 million people were displaced in South Asia alone by sudden onset disasters during 2008 to 2013, though the actual number of people moving internally and across borders in South Asia is not known. \"It's anticipated that population movements in the context of disasters and climate change in South Asia, south East Asia and in the Indian Ocean rim are likely to increase over the next decades,\" Hasina apprehended. She said the challenges ahead are likely to be enormous, as a recent World Bank report -- titled \"Groundswell - Preparing for Internal Climate Migration\" -- projects that without concrete climate and development actions, in South Asia alone, more than 40 million people could be forced to move within their countries to escape the slow-onset impacts of climate change. \"Bangladesh has been in the forefront in addressing coping mechanisms, in particular in agricultural sector. We've invented flood-resistant, salt- tolerant and drought- tolerant rice varieties.\" Collective good Replying to a question, Sheikh Hasina said Bangladesh military has been engaging with a lot of development activities as well as leading the disaster response in the country. They can also be engaged in early warning mechanisms. She said most of the UN members are engaged in the discourse of climate change in the multilateral fora. \"We need to keep the discussions and engagements up.\" Bangladesh is one of the most vulnerable front line countries, she said, and added that her government has mainstreamed climate actions and disaster risks reduction in its national plan. \"We've investment of over 1% of our GDP to address climate change impacts. Moreover, $450 million has been allocated from our own sources for adoption and mitigation purposes.\" In 2012, Hasina recalled, she pledged in New York that Bangladesh will pursue a low-carbon development pathway as its commitment to \"collective good\" of tackling climate change. \"Our commitment to low carbon, climate resilient development is firm. We planned to move to 'carbon budgeting,' resilient industrialisation. We wish to decarbonise our manufacturing pathways.\" She said Bangladesh has installed around six million solar home systems, provided two million Improved Cooking Stoves among the poor, in spite of limitations the country allocated $385 million to the Bangladesh climate change trust fund for adaptation and mitigation. Director of Potsdam Institute for Climate Impact Hans Joachim chaired the panel discussion on Saturday, which was moderated by Chief Political Correspondent of Deutsche Welle Berlin Melinda Crane-Rohrs. Cabinet Secretary for Foreign Affairs and International Trade of Kenya Monica Juma, Foreign Minister of Norway Ine Eriksen Soreide, US Senator Sheldon Whitehouse and Co-Executive Director of Greenpeace International Bunny McDiarmid were also present as panel discussants."
+}

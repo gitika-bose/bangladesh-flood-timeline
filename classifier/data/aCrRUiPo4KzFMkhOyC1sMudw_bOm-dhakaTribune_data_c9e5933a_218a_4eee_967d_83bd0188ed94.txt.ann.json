@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_c9e5933a-218a-4eee-967d-83bd0188ed94.txt",
+  "text": "Date Published:2020-04-06 00:00:00      \n\"The Manchester City family are devastated to report the death today of Pep's mother Dolors Sala Carrio in Manresa, Barcelona after contracting coronavirus. She was 82-years-old,\" City said in a post on their official Twitter account The mother of Manchester City coach Pep Guardiola has died after being diagnosed with the novel coronavirus, the English Premier League champions said on Monday. \"The Manchester City family are devastated to report the death today of Pep's mother Dolors Sala Carrio in Manresa, Barcelona after contracting coronavirus. She was 82-years-old,\" City said in a post on their official Twitter account. Manchester City have announced that Pep Guardiola's mother Dolors Sala Carrio has passed away after contracting coronavirus.RIP  pic.twitter.com/SH4vYXQ8vX \"Everyone associated with the club sends their most heartfelt sympathy at this most distressing time to Pep, his family and all their friends.\" Guardiola, who has also coached Barcelona and Bayern Munich and spent most of his playing career with Barca, donated one million euros ($1.08 million) last month to fight against the virus, contributing to a campaign launched by the Angel Soler Daniel Foundation and Medical College of Barcelona. Manchester City manager Pep Guardiola's mother, Dolors Sala Carrio, has passed away in Barcelona after contracting the coronavirus.#Covid_19 pic.twitter.com/BHup0OxTOO"
+}

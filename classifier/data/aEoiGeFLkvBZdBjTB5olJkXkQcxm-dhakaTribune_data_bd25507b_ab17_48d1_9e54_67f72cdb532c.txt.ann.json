@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_bd25507b-ab17-48d1-9e54-67f72cdb532c.txt",
+  "text": "Date Published:2019-07-22 00:00:00      \nCustomers claimed the price hike was because of syndication, but the port traders denied the claim  The prices of Indian onion have doubled in the country in two weeks. Satkhira's Bhomra Land port traders have blamed the Indian online automation system, and lifting of incentives by the Indian government for the price hike. Sakhawatullah, a resident of Satkhira city, said: \"Even two week back per kg of onion was Tk20 to Tk25, which is now being sold at Tk35 to Tk40 per kg.\" Customers claimed the price hike was because of syndication, but the port traders denied the claim and said, the demand of onions in Indian local markets had increased, and at the same time imports to Bangladesh had decreased in comparison to the demand. A trader at the land port, Amir Hamza, confirming the matter said: \"Indian government previously gave 10% incentives to us traders to import more onions, which was lifted in June after the demand increased in the Indian markets.\" \"We have to buy per kg onion at Tk22 now, which we bought at Tk16 last month,\" he said.  Amir also blamed the new automation system at the Indian border, which lacked efficient workforce, therefore, was delaying the import process.  According to Bhomra Customs assistant commissioner's office, Bhomra Land port is the biggest channel for onion imports in the country. In April 48,000MT of onion were imported from this channel, in May, it was 26,000MT and in June it was only 8,617MT. Bhomra Land Port Export-Import Association Vice President Ferdous Alfa, said: \"Due to the upcoming Eid-ul-Azha, the  demand for onion in the country have increased a little, but the main reason of the price hike is due to onion fields going under water because of flood in India's Nasik.  \"Also, due to the automation system, trucks carrying perishable goods are not being allowed to pass before other goods laden trucks.\"   Bhomra C&F Association President Arafat Hossain said: \"Imports are getting delayed everyday due to online server problems, and less number of scales at the border, which must be fixed, if not, both countries will lose huge revenues, and the prices of onion will go beyond the customers' purchasing power.\" Assistant Revenue Official at the land port, Bikash Chandra Debnath, said: \"There were multiple reasons which caused the price hike, but it will soon be fixed, I hope.\""
+}

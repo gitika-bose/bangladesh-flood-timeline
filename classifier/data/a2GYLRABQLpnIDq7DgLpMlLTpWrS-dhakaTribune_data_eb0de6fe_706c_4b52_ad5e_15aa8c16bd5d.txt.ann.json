@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_eb0de6fe-706c-4b52-ad5e-15aa8c16bd5d.txt",
+  "text": "Date Published:2020-04-02 00:00:00      \nThe organizations said such measures pose threat to the safety and well-being of the refugees as well as Bangladesh host communities and aid workers Some 50 undersigned organizations have urged the Bangladesh government to lift ongoing mobile internet restrictions and halt the construction of barbed wire fencing around the Rohingya refugee camps in Cox's Bazar in light of the growing Covid-19 pandemic. In an open joint letter to the Bangladesh prime minister, the organizations said such measures pose threat to the safety and well-being of the refugees as well as Bangladesh host communities and aid workers. Posted on Human Rights Watch website on Wednesday, the letter was signed by Amnesty International, Arakan Rohingya National Organisation, Asia Pacific Refugee Rights Network, British Rohingya Community UK, Canadian Burmese Rohingya Organization, Harvard Law School International Human Rights Clinic, among others. The letter said that as the Covid-19 pandemic spreads to Bangladesh, unrestricted access to information via mobile and internet communications is crucial for slowing the transmission of the disease and saving the lives of refugees, humanitarian workers, and the general population of Bangladesh. \"Lifting restrictions will not only enable community health workers to quickly share and receive the most reliable and up-to-date guidance during this evolving pandemic but will also help in coordination with community leaders. We urge you to ensure refugees, local communities, and aid workers alike can freely access mobile and internet communications, in the interest of protecting human rights and public health,\" the letter noted. It also mentioned that since September 2019, Bangladesh authorities have prevented Rohingya refugees from obtaining SIM Cards and directed telecommunications operators to restrict internet coverage in Rohingya refugee camps in Cox's Bazar District.  \"These restrictions should be lifted in light of the government's recommendation to those experiencing Covid-19 symptoms to contact the Institute of Epidemiology, Disease Control and Research, hotline. Without a phone or SIM Card, abiding by this instruction is impossible,\" it added. Furthermore, the signatory organizations mentioned that without access to mobile and internet communications, aid workers and others will be forced to deliver critical health information in person, heightening their risk of exposure to Covid-19 and slowing the effectiveness of the response. Bangladesh government has so far reported 6 deaths and 56 infected by Covid-19.  The fast spreading coronavirus, which was first reported in China's Wuhan, has infected more than 936,100 people and claimed above 47,200 lives across 203 countries and territories and two international conveyances, according to Worldometer. Globally, a total of 194,578 infected people have also recovered from Covid-19, a pandemic announced by the World Health Organization (WHO). Read the full letter here"
+}

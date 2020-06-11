@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_3d805ffa-1ac1-415f-84ea-0487e1c0fdb9.txt",
+  "text": "Date Published:2020-03-02 00:00:00      \nPolice obstructed the protest at the Betka area of Tangail sadar but they continued their procession nonetheless Bangladesh Nationalist Party (BNP) on Monday staged demonstration across the country  protesting against the recent power and water tariff hikes by the government. In Thakurgaon, the district unit of BNP formed a human chain on Monday at the town intersection protesting the hike. Vice-President of the district unit of BNP Obaidullah Masud presided over the session and the speakers were Organizational Secretary Zafrullah Chowdhury, Secretary of Student Affairs Rashed Alam Labu, Secretary of Voluntary Affairs Aminul Islam Shohag, Pouro BNP General Secretary Tarek Adnan, district Jubo Dal General Secretary Mahabub Hossain Tuhin, General Secretary of Chhatra Dal Wahidul among others.  In Tangail, BNP members on Monday formed a human chain in protest of the increased electricity and water tariffs. Police obstructed the protest at the Betka area of Tangail sadar but they continued their procession nonetheless. District BNP General Secretary Advocate Farhad Iqbal, Vice-President Ataur Rahman Jinnah, Ziaul Haque Shahin, Joint Secretary Abul Kashem, Anisur Rahman Anis, Khandaker Rashedul Alam Rashed, Publicity Secretary AKM Monirul Haque Monir, Organizational Secretary Shafiqul Rahman among others spoke at the procession. In Jamalpur also district unit of BNP formed a human chain on Monday in protest against the price hikes of water and power tariffs. They gathered in front of the party office at Station Shofi Miar Bazar road of the town. Vice-President of the district unit of BNP Liakat Ali presided over the session and the chief guests were central unit of BNP's Vice Organizational Secretary and General Secretary of district BNP Advocate Wares Ali Mamun.  In Kurigram, the district unit of BNP formed a human chain protesting against the price hikes on Monday. BNP national executive committee members and district BNP General Secretary Saiful Rahman Rana, district BNP Senior Vice-President Abu Bakar Siddique, Vice-President Mostafizur Rahman, Senior Joint General Secretary Sohel Hossain Kaykobad and others spoke at the procession. The speakers demanded reducing the prices before Ramadan and releasing Khaleda Zia from jail. In Naogaon, the district unit of BNP could not hold protests at their desired place due to police obstruction and instead formed a human chain in front of their party office at 12pm on Monday. The procession was presided by the Joint Convenor Nasir Uddin Ahmed and the speakers were Begum Khaleda Zia's Advisor retired Colonel Abdul Latif Khan, district BNP Joint Convenor Adv Rafiqul Alam, district BNP's ex Joint Convener Aminul Haque Belal, woman leader Shima Chowdhury, President of district Jubo Dal Bayejid Hossain Palash, President of district Chhatra Dal Rubel Hossain, General Secretary of Doha Soho Anga and other members of the party. In Bogra, the district unit of BNP formed a human chain at the party office at Nanabbari road of the town. The Senior Joint Secretary of district unit of BNP Adv AKM Saiful Islam presided over the session, convened by AKM Khayrul Bashar the human chain was formed and the chief guests were the chairperson's Advisor Adv AKM Mahbubur Rahman. They demanded releasing Khaleda Zia and not to increase the power and water tariffs. Our correspondents Zakir Mostafiz, Thakurgaon; Abdullah Al Numan, Tangail; Bishwajit, Jamalpur; Ariful Islam, Kurigram; Khondaker Md Abdur Rouf, Naogaon; Nazmul Huda Nasim, Bogra contributed to this report."
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_ee3d5ee4-ae7d-460d-85bd-9049d6cfc406.txt",
+  "text": "Date Published:2020-05-14 00:00:00      \nMany hospitals have been turning away patients for fear of Covid-19, with tragic consequences It was shocking to read, a few days ago, that a doctor was not able to manage to get her father, a senior government official with kidney complications, admitted in hospital unless he had been tested for Covid-19 and had a certificate.  According to the reports which I read, she tried to get him admitted to as many as a dozen hospitals, government and private. Without the appropriate ICU treatment, he died. It would appear that these hospitals, collectively, caused the patient's death.  If the country was not in the middle of a pandemic, I would have suggested that this sort of case -- many others similar to this have been reported in the media -- should be investigated by the Bangladesh Medical and Dental Council as it is empowered by a 1980 act of parliament to \"look after public interest by maintaining proper medical and dental standards.\"  In any case, some way should be found to reprimand the various hospital authorities concerned and the individual doctors who were responsible for hastening the unfortunate death of this man. In addition, it has been reported that dialysis patients who go to hospitals once or twice a week for dialysis are being turned away if they do not have a certificate to say that they are not infected by coronavirus.  Doctors in Bangladesh, on qualification, sign up to a Bangladesh version of the 1948 World Medical Association's \"Declaration of Geneva.\" This is a modern version of what is known as the Hippocratic Oath, which is the promise that doctors make to keep to the principles of the medical profession.  This appalling attitude of doctors reminds me of the many government doctors who refuse to be posted in rural areas at the beginning of their careers. They fail to see that rural experience could broaden their education, including widening their knowledge of medicinal herbs and plants. On another medically related matter, it is good to learn that finally the low cost rapid test kits for coronavirus, developed by Gonoshasthaya Kendra (GK), have been handed over to Bangabandhu Sheikh Mujib Medical University (BSMMU) for performance trial. It is understood that progress has only been possible by intervention at the highest level.   There are many in the medical and pharmaceutical fields who have not forgiven Dr Zafrullah Chowdhury, the founder of GK, for his role in the formulation of the National Drug Policy in 1982 which then banned the importation of over 1,700 locally and internationally produced drugs which were either dangerous, or combinations of similar or incompatible ingredients, or because they could be produced by local companies instead of being imported.  A list of essential drugs, in their generic forms, was drawn up for use in all systems of the health care system. This action was met with howls of protest from the transnational drug companies, who feared a serious loss of profits if more countries followed Bangladesh's example. Later on in 1994, the revised General Agreement on Tariffs and Trade liberalized international trade and therefore made such \"restraints on trade\" illegal, thus favouring the interests of large transnational companies. They then became free to flood the Bangladesh market with non-essential pharmaceutical products. A contributory factor to the demise of the drugs policy in Bangladesh was the failure of the Bangladesh Medical Association (BMA) to support it. Many doctors opposed the legislation from the outset, seeing it as a threat to their professional freedom; those who owned a pharmacy had a financial interest in prescribing lavishly. Fast forward to 2020, Covid-19 and the promotion of Remdesivir for treatment of coronavirus. Not yet approved, as far as I am aware, anywhere in the world, clinical trials are reported to have shown that on acutely ill patients, recovery time of 15 days has come down to 11 days. Many companies, including in Bangladesh, are surging ahead to produce the drug, but at what cost?  Figures per treatment have been reported to vary between $390 and $4,500. This is both confusing and mind-boggling, to say the least. I am lost for more words!  Julian Francis has been associated with relief and development activities of Bangladesh since the War of Liberation. In 2012, the government of Bangladesh awarded him the 'Friends of Liberation War Honour' in recognition of his work among the refugees in India in 1971, and in 2018 honoured him with full Bangladesh citizenship."
+}

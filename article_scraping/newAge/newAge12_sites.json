@@ -1,0 +1,61 @@
+[
+  {
+    "query": "bangladesh \"cyclone\"",
+    "paper": "newAge",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": [
+      "https://www.newagebd.net/article/1762/zainul-abedin-gallery-inaugurated",
+      "http://www.newagebd.net/article/644/durga-puja-ends-amid-festivity"
+    ]
+  },
+  {
+    "query": "bangladesh \"cyclone\"",
+    "paper": "newAge",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "http://www.newagebd.net/article/6491/army-ready-to-defeat-any-evil-force-pm",
+      "http://www.newagebd.net/article/16624/11-major-cyclones-hit-bangladesh-since-1965",
+      "https://www.newagebd.net/article/16752/ctg-people-suffer-for-mora-fallout",
+      "https://www.newagebd.net/article/29408/cyclone-kills-19-most-under-landslide-on-indonesian-island-of-java",
+      "http://www.newagebd.net/article/12254/cyclone-debbie-queensland-braced-for-dangerous-floods",
+      "http://www.newagebd.net/article/16752/ctg-people-suffer-for-mora-fallout",
+      "https://www.newagebd.net/article/17130/hundreds-risk-living-on-ctg-hills",
+      "https://www.newagebd.net/print/article/28524",
+      "http://www.newagebd.net/article/16315/power-supply-to-be-normal-by-saturday:-nasrul",
+      "https://www.newagebd.net/article/16486/zainuls-41st-death-anniv-today",
+      "http://www.newagebd.net/article/31346/zainul%E2%80%99s-103rd-birth-anniv-today/articlelist/323/article/35972",
+      "https://www.newagebd.net/article/16277/classroom-teaching-suffers-as-teacher-student-ratio-rises",
+      "https://www.newagebd.net/article/31346/zainuls-103rd-birth-anniv-today",
+      "https://www.newagebd.net/ataglance/229/index.php",
+      "http://www.newagebd.net/article/6862/coast-guards-to-be-modernised-assures-pm",
+      "https://www.newagebd.net/article/28524/41st-death-anniversary-of-bhashani-today",
+      "https://www.newagebd.net/article/18280/ctg-rangamati-road-reopens-for-light-vehicles",
+      "http://www.newagebd.net/article/18280/article/articlelist/323/article/index.php",
+      "http://www.newagebd.net/article/18280/rangamati-ctg-road-restored-for-lighter-vehicles",
+      "http://www.newagebd.net/print/article/6862",
+      "http://www.newagebd.net/article/6862/index.php",
+      "https://www.newagebd.net/article/22433/flood-hit-families-to-get-food-assistance-for-3-months-pm"
+    ]
+  },
+  {
+    "query": "bangladesh \"cyclone\"",
+    "paper": "newAge",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": [
+      "https://www.newagebd.net/article/52827/cyclone-titli-gains-strength-to-hit-parts-of-india-bangladesh",
+      "https://www.newagebd.net/article/46167/iom-to-help-bd-repatriate-rohingyas",
+      "http://www.newagebd.net/article/48990/rohingya-arrival-continues",
+      "https://www.newagebd.net/article/60125/zainul-abedins-104th-birth-anniv-today",
+      "https://www.newagebd.net/article/47813/coal-fired-power-plant-in-barguna-despite-environmental-concerns"
+    ]
+  }
+]

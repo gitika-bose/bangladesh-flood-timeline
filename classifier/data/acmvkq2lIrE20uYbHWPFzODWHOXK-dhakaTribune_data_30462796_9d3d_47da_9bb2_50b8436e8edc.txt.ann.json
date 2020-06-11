@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_30462796-9d3d-47da-9bb2-50b8436e8edc.txt",
+  "text": "Date Published:2019-03-12 00:00:00      \nWelcoming the delegation, the President said he was delighted to meet the next generation of politicians from Bangladesh. A strong, prosperous and progressive Bangladesh is in India's fundamental national interest, Indian President Ram Nath Kovind said on Tuesday. The Indian Head of the State made the remarks when a delegation of young Members of Parliament and political leaders from Bangladesh met him at Rashtrapati Bhavan (President's residence), according to a press release from the President's house. Welcoming the delegation, the President said he was delighted to meet the next generation of politicians from Bangladesh.  India and Bangladesh are tied together by shared history, culture and familial ties, he said. Kovind said the two countries are confronted with common challenges and \"Our shared aspirations should lead us to find the best ways to jointly harness our resources and capacities.\"   He urged members of the delegation to be ambitious in thinking of new ways in which \"our partnership can help drive development and create shared prosperity.\""
+}

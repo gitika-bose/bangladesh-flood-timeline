@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_b4e33c7c-c607-41c0-bc80-51f3e66ba639.txt",
+  "text": "Date Published:2020-03-03 00:00:00      \nThe foreign minister spoke at an event in Sylhet Bangladesh will greet the Indian guests, including Prime Minister Narendra Modi, with appropriate respect when they visit Dhaka to attend the mega event of Bangabandhu Sheikh Mujibur Rahman's birth centenary on March 17, Foreign Minister AK Abdul Momen said on Tuesday. \"The government has invited Modi as the premier of India, the closest ally of Bangladesh during our Liberation War,\" he told reporters at the inauguration ceremony of Khadimpara Union Complex in Sylhet sadar. Later at a discussion, the foreign minister said: \"Those opposing Modi's visit in Bangladesh are voicing their personal opinion. Prophet Hazrat Muhammad (SM) respected and welcomed his guests. We will also show proper respect to our guests.\" Regarding the protests by Islamist and left activists across Bangladesh over the attacks on Muslims in Delhi, for which they demanded that Modi be excluded from birth centenary festivities, the foreign minister said: \"People of democratic countries have the right to express their opinions.\" The foreign minister attended the meeting with union parishad chairman, district commissioner, local Awami League leaders and others.  Earlier, he attended the inauguration ceremony of the new building of Sylhet District Stadium and a five-star hotel."
+}

@@ -1,0 +1,53 @@
+[
+  {
+    "query": "bangladesh cyclone",
+    "paper": "alokitobangladesh-bangla",
+    "date_range": [
+      "1/1/2015",
+      "12/31/2015"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh cyclone",
+    "paper": "alokitobangladesh-bangla",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh cyclone",
+    "paper": "alokitobangladesh-bangla",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "https://www.alokitobangladesh.com/todays/category/nature-environment/2017/05/1"
+    ]
+  },
+  {
+    "query": "bangladesh cyclone",
+    "paper": "alokitobangladesh-bangla",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh cyclone",
+    "paper": "alokitobangladesh-bangla",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "http://www.alokitobangladesh.com/online/details/66655",
+      "http://www.alokitobangladesh.com/online/details/78430",
+      "http://www.alokitobangladesh.com/online/details/65134"
+    ]
+  }
+]

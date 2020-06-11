@@ -1,0 +1,137 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "cyclone",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 95,
+          "text": "the next tidal current is"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "ml:regex",
+          "user:btellman"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 658,
+          "text": "the next tidal current is"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 959,
+          "text": "the Kopotakkho River embankment collapsed earlier on April 8, flooding 1,000 bighas of farmlands and fish enclosures"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    }
+  ],
+  "relations": [],
+  "filename": "dhakaTribune_data_83244a0f-4ba2-4097-ad62-8f0bf3852cb9.txt",
+  "text": "Date Published:2020-04-13 00:00:00      \nLocals fear that if the dam is not promptly repaired, the next tidal current is going to cause more damage and flood new lands An embankment of Bangladesh Water Development Board (BWDB) has collapsed in Kola village of Satkhira's Assasuni upazila, flooding over 1,500 bighas of land, fish enclosures on Friday. Four villages of Pratapnagar and Shriula unions went underwater as the 120 ft BWDB embankment of Zone-2 suddenly collapsed, locals said. Many local residents have started volunteering to repair the embankment with whatever materials currently available. They fear that if the dam is not promptly repaired, the next tidal current is going to cause more damage and flood new lands. On a field visit, thousands of villagers were seen to have volunteered to construct a temporary embankment while the district administration is said to have been busy controlling the coronavirus outbreak in the area. Moreover, the Kopotakkho River embankment collapsed earlier on April 8, flooding 1,000 bighas of farmlands and fish enclosures in three low-lying villages of the same area, waterlogging around 50 families in Kurikaunia, Sreepur, and Brishti Nandan villages under Pratapnagar union.  Locals say the 100-ft dam was already in a risky state, so it naturally could not sustain the strong pressure of tidal current and collapsed into the bottom of the Kopotakkho River. Contacted,  Pratapnagar Union Parishad Chairman Jakir Hossain held the water development board responsible in this regard, saying it was their negligence that led to the collapse of the embankment every year. \"Despite repeated complaints and appeals seeking sustainable protection of the embankment, the water development board failed to acknowledge the urgency of the issue.  \"Now, due to this recklessness, farmlands and fish enclosures on around 2,500 bigha of land have been flooded in Kurikaunia, Sreepur, and Brishtinandan villages. Moreover, almost 50 families have become waterlogged after two back-to-back incidents of flooding.\"  Md Arifuzzaman, of the local water development board, after visiting the site said he had arranged sandbags for the temporary emergency repair of the damaged embankment to minimize the extent of damage and protect the remaining lands.  \"The higher authorities will be notified promptly so that the necessary steps may be taken to permanently repair embankment.\""
+}

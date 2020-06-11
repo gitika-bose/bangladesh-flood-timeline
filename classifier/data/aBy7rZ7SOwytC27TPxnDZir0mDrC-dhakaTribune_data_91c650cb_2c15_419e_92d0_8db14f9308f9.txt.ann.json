@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_91c650cb-2c15-419e-92d0-8db14f9308f9.txt",
+  "text": "Date Published:2019-11-21 00:00:00      \nCommuters, farmers, businessmen suffered a lot though central transport leaders called off strike The bus strike that crippled the southern and other districts around the country for the past three days was called off early Thursday after the government assured considering their demands. Home Minister Asaduzzaman Khan Kamal announced that the strike was called off around 1am on Thursday, after a four-hour-long meeting among the representatives of the Bangladesh Truck-covered-van Goods Transport Owner-Worker Unity Council, Bangladesh Road Transport Owners Association and Bangladesh Bus-Truck Owners Association at his residence in Dhanmondi. Despite the minister's assurance, bus owners and workers continued the strike in several parts of the country on Thursday. In Jamalpur, normal transportation has not yet resumed on every route till filing of this report around 6pm. The workers of the Dhanbari area were restricting the movement of vehicles on the Jamalpur-Dhaka route in the evening. On condition of anonymity, one of the Jamalpur Bus-Minibus Workers Union leaders said they had discussed the issue with the transport workers, and plying of passengers on the route would soon return to normal. In Dinajpur, normal transportation services have resumed on the Hili-Bogra route since Thursday morning after the workers were assured that their demands would be met. Confirming the resumption of transportation services, Public Relations Officer Sohrab Hossain of the Hili Land Port said transporting of goods was hampered for the last five days, but normalcy returned as soon as the workers pull out their strike. In Jhenaidah, commuters were forced to use banned three wheelers as hundreds of buses were left in a frozen state at the Kaliganj central bus terminal as the strike was still in force. In Khulna, the same situation prevailed as no inter-district buses left the terminal.  Khulna Motor Workers Union General Secretary Md Ziaur Rahman Mithu said the Bus Owners-Workers Federation presented a draft proposal to the Ministry of Road Transport and Bridges for amending the newly enacted Road Transport Act. In Chuadanga, no passenger buses and goods-carriers left the city on Thursday.  Local vegetable farmers and businessmen expressed fear of huge financial losses as they could not dispatch their goods to different parts of the country. In Naogaon, transport workers have continued their strike for the fourth successive day. When asked why they were continuing the strike, local bus driver Sumon said: \"We did not enforce the strike after consultation with the central leaders. The problem is ours, so we will not call off the strike based on their decision.\" In Narail, commuters had to suffer a lot as no buses left the station. Moreover, they had to count extra money and time for commuting in three wheelers. In Satkhira, although bus services remained suspended, a limited number of trucks were seen plying on the roads. Businessmen of the Bhomra port had to pay twice the usual amount to ship their goods due to the scarcity of trucks. In Tangail, transportation services remained suspended for the second consecutive day on the Dhaka-Mymensingh Highway. Three wheelers were charging extra and long route commuters were opting for trains due to the scarcity of buses. In Kurigram, commuters had to face distress due to the continued strike. Even the transport workers assaulted the drivers of the three wheelers near the central bus terminal.  One of the workers said they will not allow the plying of any transport from the terminal. Later, a police team went to the spot to handle the situation, said Kurigram sadar police station Officer-in-Charge Mahfujur Rahman. In Benapole, government and businessmen of the area had to face huge losses due to the halt in transportation. Benapole Sonali Bank Manager Rakibul Islam said the Benapole Customs was deprived of collecting almost Tk100 crore revenue as the import of goods came to a halt due to the strike and the amount will increase if the strike continues. In Sherpur, transport workers stayed off the road for the fourth consecutive day, causing immense sufferings to commuters. No long route buses and goods-laden vehicles were seen plying on the roads since morning. In Faridpur, activities at the river port came to a halt as the district's truck workers refrained from transporting goods in accordance with the strike. The strike has left several thousand porters and labourers at the port without work while causing suffering to passengers and businessmen. Our correspondents Halim Al Raji, Bishwajit, Nayan Khondoker, Md Hedait Hossain Molla, Mehedi Hasan, Khondaker Md Abdur Rouf, K M Saiful Islam Tuhin, Asaduzzaman, Abdullah Al Numan, Ariful Islam, Md Selim Reja contributed to the story"
+}

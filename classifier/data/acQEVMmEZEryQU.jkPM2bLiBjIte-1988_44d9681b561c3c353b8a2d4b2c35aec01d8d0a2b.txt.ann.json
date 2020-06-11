@@ -1,0 +1,66 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun",
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1988_44d9681b561c3c353b8a2d4b2c35aec01d8d0a2b.txt",
+  "text": "NEWS SUMMARY\n1988-09-07T05:00:00.000Z\nINTERNATIONAL A3-16 Pledges of assistance to Bangladesh have amounted to millions of dollars in money and other assistance, Bangladeshi and international aid officials said. Washington pledged about $3.6 million in food. Page A1\nFlood victims in Nichkasia, Bangladesh, have taken shelter on the bank of the Meghna River. Relief workers had yet to reach the area, about 100 miles south of Dhaka, 10 days after flooding began. A8\nA Soviet space crew returned to earth after rocket systems failed in two earlier attempts. The Soviet astronaut and his Afghan co-pilot were returning home after ferrying a doctor to the Mir space station. A1\nU.S. and Soviet space programs sprinkled with disasters A16\nThe Israeli Army has arrested dozens of people, including several officers, in connection with bribes paid to avoid compulsory military service. The army says about 60 people are involved. A1\nNews analysis: Kurdish guerrillas appear to have been left in disarray by Iraq's newest offensive against them. Kurdish nationalism appears to have weakened under pressure from Iraq and Turkey. A1\nAfghans will produce more opium after Soviet troops complete their withdrawal, the State Department said, as returning refugees searching profitable cash crop grow opium poppies. A10\nDestruction of Afghan agriculture has been systematic, according to relief agencies, which say that Soviet and Afghan troops intentionally destroyed livestock, irrigation systems and farms. A11\nA workers' hostel in Jastrzebie, a mining town in southern Poland, is called the bullpen by the young miners who live there. Poor housing was one of the economic problems that caused them to strike. A3\nFrance will encourage NATO to develop a common stand on conventional disarmament. President Francois Mitterrand is concerned that delays could undermine Chancellor Helmut Kohl of West Germany. A3 NATIONAL A18-29, B6 Congress will conduct its business in conference committees when lawmakers return for the final session of the 100th Congress. House and Senate conferees must settle the $229.5 billion defense authorization bill. A1\nBank rescues may have squeezed the cash reserves of the Federal Home Loan Bank Board's deposit insurance unit, analysts said. The agency has added more than $12 billion to its outstanding debt since Aug. 18. A1\nExpanded drug treatment and programs to reduce demand for drugs are gaining support among medical experts and in Congress as part of the effort to halt the spread of AIDS and reduce street crime. A18\nA farm family grew marijuana to raise money to prevent foreclosure on their farm in Fort Benton, Mont. Reduced sentences received by members of Richard Kurth's family angered town residents. A24\nForest fires, newest tourist attraction in West A18\nTwo towns in Montana are ordered evacuated as fire nears A18\nSeattle checking wires for problems that caused blackout A26\nPOLITICS A27-29 The Dukakis campaign agreed to hold two Presidential debates, instead of three or four, but refused to accept the Bush campaign's offer of a set of dates during the Olympics and the World Series. A1\nUnion members booed George Bush at a shipyard in Portland, Ore., over pay and job security under a Republican administration. The heckling was the most severe that Mr. Bush had encountered in the campaign. A28\nPresident Reagan campaigned in Louisville, Ky. He told the American Legion that Michael Dukakis and the Democrats would jeopardize national security with a ''Disneyland defense policy.'' A28\nMichael Dukakis was heckled by abortion protesters during a speech in Niles, Ill. The protesters and others in the audience traded chants and shoved one another. The heckling persisted throughout his speech. A28\nMichael Dukakis has not run afoul of the Greek Orthodox Church on his support of a woman's right to an abortion, even though the Greek church, like the Roman Catholic Church, opposes abortions. A29\nBentsen says Administration reduced education opportunities A28\nWASHINGTON TALK B6\nAs Reagan clock ticks, Thornburgh's pounds REGIONAL B1-7 New York City public schools opened in an atmosphere of concern over whether the school system will improve under Schools Chancellor Richard Green. Some wonder whether improvement is possible. B1\nThe Westchester prosecutor refused to bring criminal charges against four Yonkers Councilmen who voted against a housing desegregation plan. A New York State panel had asked the District Attorney to act. B1\nExperts debate Cuomo's stand in Yonkers case B2\nThe police shot and killed a gunman who had wounded 14 police officers in a standoff that left the man's two children dead. The incident began when the man fired from his apartment on the Lower East Side. B1\nWays of keeping beaches clean next summer were discussed at a meeting of political, business and environmental leaders from the New York metropolitan area. Officials urged stricter controls on waste disposal. B1\nSubpoenas to Edward Regan, the New York State Comptroller, and at least five Wall Street firms have been issued by U.S. Attorney Rudolph Giuliani in connection with campaign contributions to Mr. Regan. B3\nTwo court rulings favor Lilco B2\nArtist jailed for withholding tape of park clash B3\nGab line comes to computers B4\nMother goes on trial in deaths of two children B4"
+}

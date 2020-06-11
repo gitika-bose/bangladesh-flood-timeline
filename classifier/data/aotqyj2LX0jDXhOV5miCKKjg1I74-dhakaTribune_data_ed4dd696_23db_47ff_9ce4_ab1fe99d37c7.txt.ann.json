@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_ed4dd696-23db-47ff-9ce4-ab1fe99d37c7.txt",
+  "text": "Date Published:2020-03-13 00:00:00      \nBeing able to separate coronavirus from other common sicknesses such as cold or allergies may save people from unnecessary anxiety The coronavirus (Covid-19) has become an epidemic, infecting more than 100,000 people worldwide. While the chances of any individual person catching the virus are still low, it is natural that people may feel worried every time they get a sore throat or the beginnings of a bad cough. Therefore, being able to separate coronavirus from other common sicknesses such as cold or allergies may save people from unnecessary (or otherwise) anxiety.   If you have itchy eyes or runny nose you probably have allergies or a specific kind of cold \"The issue with seasonal allergies is that they affect the nose and eye,\" says Dr. Greg Poland, a professor of medicine and Infectious diseases at the Mayo Clinic and director of the Mayo Clinic's Vaccine Research Group. \"They tend to be nasal, and most symptoms are localized to the head, unless you also experience a rash.\" Coronavirus and flu symptoms tend to be more systemic \"The flu and the novel coronavirus, these affect other systems and the lower respiratory tract,\" Poland says.  He adds \"You probably won't have a runny nose, but what you might have is a sore throat, a cough, a fever or shortness of breath. So, it's a subtly different clinical diagnosis.\" He says it's very unlikely that allergies would lead to a fever. They generally don't cause shortness of breath either, unless the person has a preexisting condition like asthma. Allergy symptoms occur frequently, and are usually mild Dr. Greg Poland says that if you have similar symptoms around the same time each year then you probably have seasonal allergies. Over the counter medication and other regular health precautions may help you feel better in that case, reports CNN. Coronavirus and flu symptoms can retire you to bed rest \"If you have an acute case of coronavirus or flu, you will feel so tired, so achy, you'd basically be driven to bed. Everybody would see the difference,\" Poland says. \"Allergies may make you feel tired, but they're not going to cause severe muscle or joint ache.\" Mild flu and cold symptoms usually sort themselves out Proper rest and care will usually heal you from normal illness within a few days.  Coronavirus and severe flu symptoms could get worse over time If you have the flu or coronavirus you may get worse when you expect to get better. \"What would increase the suspicion of coronavirus would be if you were short of breath,\" says Poland. \"People can also develop pneumonia from the flu, which has a similar presentation, so either way you're going to want to seek medical attention.\" Allergies, cold, flu and coronavirus could have similar early symptoms Dr. Greg Poland says that initial stages of cold, allergies, flue and coronavirus can look very similar. That is why it is important to notice if the symptoms persist, especially if you are in an at-risk group, reports CNN. \"We're worried about older people, people with asthma or other lung diseases, people with heart disease or diabetes, and also pregnant women,\" he says. Coronavirus cases are usually situational Poland says if you think you have coronavirus any doctor is bound to ask you some contextual questions such as: \"You're like a detective, trying to accept and put together pieces of data,\" he says. \"If someone who hasn't left the middle of Kansas thinks they have the coronavirus, I would say take a Tylenol, have plenty of fluids and rest.\" Just because it isn't the coronavirus, doesn't mean it isn't serious The influenza virus has killed several times more people than the coronavirus during the same time period. And yet it is often dismissed as something far less dangerous. Analyzing data on the impact of these diseases may provide better understanding of their seriousness.  Conclusion While unnecessary anxiety of having the coronavirus is best avoided, it is a good idea to stay cautious, take preventive measures, be mindful of your medical history, and routinely check for symptoms."
+}

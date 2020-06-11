@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_9e4558c2-883f-4b80-b93d-52366e82f623.txt",
+  "text": "Date Published:2020-04-20 00:00:00      \nThe non-government organisations want the government to engage them in tackling the crisis caused by Covid-19 which has far-reaching impacts on people, health and economy, especially on the poor and vulnerable communities across the country. They said NGOs, which have their presence at the grassroots level and always worked hand in hand with the government in disaster management, should be incorporated in the activities for stronger coordination and greater reach. The suggestions came at a virtual press conference hosted by COAST Trust and attended by the leaders of different alliances of NGOs -- National Alliance of Humanitarian Actors, Bangladesh (NAHAB), Bangladesh CSO-NGO Coordination Process, Network for Information, Response and Preparedness Activities on Disaster (NIRAPA), Disaster Forum, Association of Development Agencies Bangladesh (ADAB) and Federation of NGOs Bangladesh (FNB). \"The season of flood, cyclone and dengue is upcoming. With any of these taking place alongside the Covid-19 pandemic, the situation will be grave. So, we need to be prepared,\" said ADAB Director AKM Jashim Uddin. He said the government has announced stimulus packages and is providing relief materials, but there are already many allegations of irregularities. If the actual target people are not listed for the benefits, the government assistance is not going to work effectively. \"Food production is going to be a major task. So, ensuring that incentives reach farmers and that they can harvest Boro paddy before going for Aush is very important.\" Jasim Uddin also said the micro-finance NGOs are now passing tough days, with all their money in the hands of their members who are now unable to pay the installments during the shutdown. He sought government financing for the restart of microfinance operations to help boost rural economic activities. Nurul Alam Masud, chief executive of Participatory Research & Action Network, said the government is considering Covid-19 only a health issue, and until now only the administration and some partisan people are being involved in tackling it. \"The government should now activate the Disaster Management Act, involve the NGOs at national and grassroots levels for strong coordination and transparency,\" he added. Nayeem Gawher Wahra, member secretary of Disaster Forum, said shutdown is likely to remain in place for some more days, but the economic activities and food production need to continue under certain mechanism. Citing the example of Kerala, he said the government could divide the geographical areas in some categories and allow certain level of economic activities in the green zone. He said health awareness exists mostly among the urban and middle class people, not the grassroots. He suggested using community radio as an effective tool  to create mass awareness on social distancing and hygiene. Abul Haseeb Khan of NIRAPAD said the government assistance has yet to reach many remote areas and availability of food is becoming an issue of concern. With no income, moderate poor are getting into the bracket of ultra poor. Independent researcher Abdul Latif Khan said UN agencies and INGOs should limit their role to monitoring and providing technical assistance to the local NGOs. And they should provide direct funding to the national and local NGOs as localisation should be promoted to increase cost efficiency amid this global crisis when the developed countries too are affected. He suggested the government involve NGOs and civil society organisations in implementing the activities at the grassroots level under the government stimulus package declared to tackle Covid-19 impacts. \"To face the post-corona crisis, the rural economy must continue with their production maintaining the social distancing and local NGOs and micro finance institutions should be allowed for operation as they are the key players in this regard,\" he said. Latif suggested increased focus on stronger health system in the rural areas. Rezaul Karim Chowdhury of COAST Trust moderated the press conference."
+}

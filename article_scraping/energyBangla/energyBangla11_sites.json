@@ -1,0 +1,52 @@
+[
+  {
+    "query": "bangladesh \"flooded\"",
+    "paper": "energyBangla",
+    "date_range": [
+      "1/1/2015",
+      "12/31/2015"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh \"flooded\"",
+    "paper": "energyBangla",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": [
+      "http://energybangla.com/u-s-lifted-the-crude-oil-export-ban-and-exports-wentdown/"
+    ]
+  },
+  {
+    "query": "bangladesh \"flooded\"",
+    "paper": "energyBangla",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh \"flooded\"",
+    "paper": "energyBangla",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh \"flooded\"",
+    "paper": "energyBangla",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "http://energybangla.com/renewable-energy-in-bangladesh-target-and-reality/",
+      "http://energybangla.com/gas-stations-to-remain-open-for-24-hours-during-eid/"
+    ]
+  }
+]

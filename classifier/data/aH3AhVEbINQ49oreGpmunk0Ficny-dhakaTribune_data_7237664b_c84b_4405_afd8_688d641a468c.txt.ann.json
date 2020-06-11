@@ -1,0 +1,75 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_56": {
+      "value": "Flooding due to dam collapse. Should we consider this as flood?",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_7237664b-c84b-4405-afd8-688d641a468c.txt",
+  "text": "Date Published:2020-04-08 00:00:00      \nLocals fear that if the dam is not promptly repaired, the next tidal current is going to cause more damage and flood new lands The Kopotakkho River embankment suddenly collapsed Tuesday night, flooding 1,000 bighas of farmlands and fish enclosures in three low-lying villages in Assasuni upazila of Satkhira. Moreover, around 50 families have also become waterlogged in Kurikaunia, Sreepur, and Brishti Nandan villages under Pratapnagar union. Locals say the 100-ft dam was already in a risky state, so it naturally could not sustain the strong pressure of tidal current and collapsed into the bottom of the Kopotakkho River. Many local residents have started volunteering to repair the embankment with whatever materials currently available. They fear that if the dam is not promptly repaired, the next tidal current is going to cause more damage and flood new lands. Contacted, Pratapnagar Union Parishad Chairman Jakir Hossain held the water development board responsible in this regard, saying it was their negligence that led to the collapse of the embankment every year. \"Despite repeated complaints and appeals seeking sustainable protection of the embankment, the water development board failed to acknowledge the urgency of the issue. \"Now, due to this recklessness, farmlands and fish enclosures on around 1,000 bighas of lands have been flooded in Kurikaunia, Sreepur, and Brishtinandan villages. Moreover, almost 50 families have become waterlogged.\" Contacted, Md Arifuzzaman, of the local water development board, after visiting the site said he had arranged sandbags for the temporary emergency repair of the damaged embankment to minimize the extent of damage and protect remaining lands. \"The higher authorities will be notified promptly so that the necessary steps may be taken to permanently repair embankment.\""
+}

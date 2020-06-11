@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_991a5c7b-54db-4975-a11e-474f55866890.txt",
+  "text": "Date Published:2020-02-20 00:00:00      \nTurkey and Russia exchanged warnings yesterday after President Recep Tayyip Erdogan threatened an \"imminent\" operation in Syria to end the regime's brutal assault on the last rebel enclave. Syrian aid workers called urgently for a ceasefire and international help for nearly a million people fleeing the regime onslaught in the country's northwestern Idlib province -- the biggest wave of displaced civilians in the nine-year conflict. Turkey, supporter of some rebel groups in Idlib, has been pushing for a renewed ceasefire in talks with Russia, which backs the Syrian regime. Ankara is eager to prevent another flood of refugees into its territory adding to the 3.7 million Syrians it already hosts. The Syrian NGO Alliance said displaced people are \"escaping in search of safety only to die from extreme weather conditions and lack of available resources\". Erdogan said talks with Moscow over the past fortnight had so far failed to achieve \"the desired result\" and warned that Turkey would launch an offensive into Syria unless Damascus pulled its forces back by the end of the month. He called for Syrian forces to retreat behind Turkey's military posts in Idlib, which were set up under a 2018 deal with Russia designed to hold off a regime advance. The Kremlin quickly responded to Erdogan's threat, warning that any operation against Syrian forces would be \"the worst scenario\". With the Russian-backed offensive, Syrian troops have reconquered swathes of Idlib and retaken the key M5 highway connecting the country's four largest cities as well as the entire surroundings of Aleppo city for the first time since 2012."
+}

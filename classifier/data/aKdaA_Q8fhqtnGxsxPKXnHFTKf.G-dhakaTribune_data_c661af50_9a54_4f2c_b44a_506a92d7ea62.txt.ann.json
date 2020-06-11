@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_c661af50-9a54-4f2c-b44a-506a92d7ea62.txt",
+  "text": "Date Published:2020-04-02 00:00:00      \n20,000 poor families were provided foodstuff, with a packet containing ten kilograms of rice and 500 grams of pulses each, to cope with the present troubled situation Rajshahi City Corporation (RCC) has provided 1,000 harijan and dalit families with foodstuffs as part of its ongoing program of providing food assistance to 3,700 jobless families in the city, aimed at mitigating their financial hardships being caused by the coronavirus (COVID-19). RCC Mayor AHM Khairuzzaman Liton, who distributed the food, said each of the beneficiary families were given a packet containing five kilograms of rice, one kilogram of pulse, two kilograms of potato and soap at their respective doorsteps yesterday, reports BSS. \"We will provide food support to around one lakh families in the city in phases,\" he said, adding, the city corporation raised 100 tons of rice and 20 tons of pulse from the city's affluent persons for distribution. Earlier on, 20,000 poor families were provided foodstuff, with a packet containing ten kilograms of rice and 500 grams of pulses each, to cope with the present troubled situation. The corporation also distributed 60 tons of rice among 200 destitute people in each of the 30 wards after receiving those from the government as part of the government's instant humanitarian support to mitigate the economic hardship caused by the coronavirus situation. Liton reiterated that RCC has adopted diversified steps including manufacturing and distributing of 20,000 masks, imparting training to 300 health workers, and procurement of 300 personal protective equipment for the doctors, nurses and paramedics to fight the virus outbreak. RCC has launched a special drive to keep the city disinfected by spraying bleaching powder mixed liquid, seeking all-out cooperation of all the authorities concerned to curb the spread of coronavirus.  He also said the Disinfectant Spraying Drive on the city streets will continue using three water-tanks, one Jed and a police water-tank. The city corporation has set up booths on 27 spots across the city for using hand sanitizers by the roaming people besides creating awareness among the public in general through distributing leaflets and using loudspeakers. 60,600 poor families getting food  The government is providing food assistance to around 60,600 hand-to-mouth families in the district to overcome their financial hardships caused by the coronavirus (COVID-19) outbreak. Rajshahi district administration has allocated 607 tons of rice for the purpose, besides allocating Tk 14.50 lakh in cash, reports BSS. Deputy Commissioner Hamidul Haque said the foodstuff is being taken to the doorsteps of the beneficiaries through people of the local government institutions like Upazila Parishad, Pourashava and Union Parishad. \"We also have a stock of 189 tons more rice and Tk 4.5 lakh in cash for distribution,\" he said, adding that the low-income villagers are also getting support from local government funds."
+}

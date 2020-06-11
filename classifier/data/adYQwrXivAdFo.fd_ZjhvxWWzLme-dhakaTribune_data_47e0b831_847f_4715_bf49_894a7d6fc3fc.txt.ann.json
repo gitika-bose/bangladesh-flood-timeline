@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_47e0b831-847f-4715-bf49-894a7d6fc3fc.txt",
+  "text": "Date Published:2020-04-16 00:00:00      \nSome landlords are pressurizing healthcare workers to vacate their house due to fears over the recent outbreak of the coronavirus Stern legal action will be taken against landlords who are asking healthcare professionals to vacate their houses due to fears over the recent outbreak of the coronavirus, said Chittagong Metropolitan Police (CMP) Commissioner Mahabubur Rahman.  \"Healthcare professionals have taken on the daunting task of providing treatment to the increasing number of patients who are being infected by the coronavirus daily. It is a moral duty of all to stand by them at this critical moment.  \"However, some landlords are pressurizing them to vacate their houses which is completely unethical and illegal. I would be remiss if did not extend a helping hand towards them,\" said the CMP Commissioner. The CMP Commissioner informed that they have launched a hotline service (01400-400400, 018-8080 80) so that medical professionals could seek assistance from the police and lodge any complaint against their landlords in this regard. "
+}

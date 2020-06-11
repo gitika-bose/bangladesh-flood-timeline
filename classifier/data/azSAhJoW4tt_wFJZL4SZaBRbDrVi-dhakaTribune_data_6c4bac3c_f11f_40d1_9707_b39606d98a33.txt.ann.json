@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_6c4bac3c-f11f-40d1-9707-b39606d98a33.txt",
+  "text": "Date Published:2020-04-03 00:00:00      \nScientists say it will take several months to get results from trials testing the BCG vaccine to fight Covid-19 There is no vaccine against the novel coronavirus, called SARS-CoV-2, that is spreading rapidly around the world. But scientists in several countries are testing a century-old tuberculosis (TB) vaccine to see if it might boost the immune system to reduce respiratory symptoms in people who get new coronavirus infections. Researchers in Australia and Europe are testing whether the Bacille Calmette-Guerin (BCG) vaccine, introduced in the 1920s to fight tuberculosis, might be deployed to combat Covid-19, the respiratory disease caused by the novel coronavirus.  Clinical trials are focused on two groups at high-risk for Covid-19: health care workers and the elderly. Here is what scientists know, and what they are trying to find out: How can a TB vaccine help with other infections? The BCG vaccine contains a live but weakened strain of tuberculosis bacteria that provokes the body to develop antibodies to attack TB bacteria. This is called an adaptive immune response, because the body develops a defence against a specific disease-causing microorganism, or pathogen, after encountering it. Most vaccines create an adaptive immune response to a single pathogen. Unlike other vaccines, the BCG vaccine may also boost the innate immune system, first-line defences that keep a variety of pathogens from entering the body or from establishing an infection. One study in Guinea-Bissau found 50% lower mortality rates in children vaccinated with BCG than in kids who did not get this vaccine. That is a much bigger drop in deaths than could be explained by a reduction in TB cases. Some studies have found similar reductions in respiratory infections among teens and the elderly.  What scientists do not know Scientists do not have data yet on the effect of BCG vaccination on coronaviruses in general or SARS-CoV-2 in particular. There are also many BCG vaccines, with different capacities to protect against various TB strains. Scientists need to determine which BCG vaccines might have the best ability to boost the innate immune system to fight Covid-19. Who should get the BCG vaccine right now? Scientists say it will take several months to get results from trials testing the BCG vaccine to fight Covid-19.  In the meantime, people should not rush to get it because it has not been widely tested in adults and might be harmful. Also, a run on the BCG vaccine to fight Covid-19 might cause shortages for children who need it to prevent TB. "
+}

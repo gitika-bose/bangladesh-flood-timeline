@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_30f9292c-a99b-4f7a-8710-b97ba9d3d190.txt",
+  "text": "Date Published:2020-04-18 00:00:00      \nCivil surgeon Dr Md Mahfuzur Rahman confirmed the matter Two more people including a minor girl have tested positive for coronavirus in Thakurgaon, raising the number of Covid-19 cases to five in the district.  Civil surgeon Dr Md Mahfuzur Rahman confirmed the matter on Friday, reports UNB.  Among the two patients, one returned to Haripur upazila from Narayanganj on April 7. Besides, the minor girl was admitted to Ranisankail upazila health complex on April 13 with coronavirus symptoms, said Mahfuzur Rahman.  Total 69 samples were sent to Rangpur for test. Among the 56 results available, the two patients tested positive in last 24 hours, he added.  Earlier, three cases were detected in the district. "
+}

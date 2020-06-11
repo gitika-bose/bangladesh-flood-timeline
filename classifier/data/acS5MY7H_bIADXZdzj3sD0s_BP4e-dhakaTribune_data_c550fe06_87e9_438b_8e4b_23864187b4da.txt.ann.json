@@ -1,0 +1,107 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "monsoon",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 165,
+          "text": "heavy monsoon rain"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "monsoon",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [],
+  "filename": "dhakaTribune_data_c550fe06-87e9-438b-8e4b-23864187b4da.txt",
+  "text": "Date Published:2019-07-15 00:00:00      \nFlooding also forced 3,000 people in the western Rakhine state to relocate, the disaster management department said Days of heavy monsoon rain and dangerously high river levels in Myanmar have forced more than 18,000 people from their homes and flooded at least one camp for people displaced by recent fighting, authorities and a politician said on Monday. Four towns along the Ayeyarwady and Chindwin rivers were in danger of being inundated as the rivers rose, the Department of Disaster Management said. \"We are working together with local authorities helping the people and providing food,\" said the department's director, Phyu Lai Lai Htun. More people were expected to be forced from their homes on Monday, she said. Monsoon flooding in Myanmar forces thousands from their homeshttps://t.co/fLOP3ewyGM pic.twitter.com/PTK5EnfZ4I Heavy downpours hit the tropical Southeast Asian country during the May-October rainy season, often triggering flooding. The northern state of Kachin was the worst affected, with 14,000 people forced from their homes near the banks of the Ayeyarwady river. Media published photographs showing submerged houses, vehicles and roads in Myitkyina, the state's capital. Flooding also forced 3,000 people in the western Rakhine state to relocate, the disaster management department said. They included some of the thousands displaced by fighting between the military and the Arakan Army insurgent group since late last year, according to Tun Aung Kyaw, secretary of the Arakan National Party, who visited a camp for several hundred displaced people near the ancient city of Mrauk-U. \"The whole camp is flooded and people are desperately in need of immediate shelter and food,\" he told Reuters by telephone. Myanmar has restricted access to the conflict zone for most international aid agencies. The UN Office for the Coordination of Humanitarian Affairs said in a Facebook post it was helping the government respond to the flooding, while the Myanmar Red Cross, aid groups and private donors were also aiding the victims. \"We are working closely with authorities and stand ready to support the government's response,\" Knut Ostby, the UN resident and humanitarian coordinator, said on Twitter."
+}

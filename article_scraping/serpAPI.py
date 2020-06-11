@@ -96,7 +96,7 @@ def SERP(year_start, year_end, query, site, paper_name, num_results=100, file_nu
     dates = make_dates(year_start=year_start, year_end=year_end)
     if not os.path.isdir(paper_name): os.mkdir(paper_name)
     file_num = generate_site_file_num(paper_name, file_num)
-    print('Paper: {}'.format(paper_name))
+    print('Paper: {}\tQuery: {}'.format(paper_name, query))
     all_sites = query_serp(query=query, site=site, num_results=num_results, paper_name=paper_name, dates=dates)
     add_to_file = 'w'
     save_file_path = os.path.join(paper_name, '{}{}_sites.json'.format(paper_name, file_num))
@@ -115,6 +115,7 @@ num_results = 100
 save_paper_index_file = 'paper_index.json'
 file = json.load(open(save_paper_index_file))
 for k,paper_entity in file.items():
+    if int(k)<=10: continue
     paper_name, site, date_range = paper_entity['paper_name'], paper_entity['site'], paper_entity['date_range']
     year_start = int(date_range.split('-')[0])
     year_end = int(date_range.split('-')[1])

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_15061609-dbed-4598-ad1f-7fcc7c78c1bb.txt",
+  "text": "Date Published:2020-03-28 00:00:00      \nThe website was hacked between late Friday and early Saturday   A government domain page for Manirampur upazila of Jessore district has been recovered after the website was hacked to protest the upazila's AC (Land) punishing elderly men for not wearing masks. A group of hackers named Team Donz claimed responsibility for hacking the website between late Friday and early Saturday. On Friday, a photograph of Manirampur Executive Magistrate and Assistant Commissioner (Land) Sayeema Hasan, taking a photograph of the elderly men holding their ears as punishment for not wearing masks, surfaced on Facebook that generated the criticism of netizens. News of the hacking surfaced on Facebook early Saturday when many users shared a screenshot of the webpage where the photograph of the incident was featured on the website. The hackers replaced the cover photo of the domain page with a photograph of Sayeema punishing the senior citizens. The hackers also added a notice on the noticeboard that read: \"In spite of being a literate person, the assistant commissioner of land acted like an illiterate person,\" which was later removed around 12:20am. Confirming the matter on Saturday afternoon, Jessore district's Deputy Commissioner Mohammad Shafiul Arif said: \"The webpage was hacked and our IT team fixed it at midnight.\" The domain page is run under the National Web Portal of Bangladesh (Jatiya Tatthya Batayan). Contacted, Sayeema was not available for comment, despite repeated attempts over the phone. Earlier on Saturday, Sayeema was withdrawn from her workplace after widespread criticism on social media, confirmed Public Administration Secretary Sheikh Yusuf Harun. Punishment gone wrong Following the government's directive for people to stay inside their houses to curb the spread of coronavirus, many government officials and law enforcement agencies have been conducting drives in different areas of the country. A mobile court, led by then executive magistrate Sayeema Hasan, conducted drives in different areas of Manirampur on Friday afternoon. During the drive, she asked the three elderly men, including a van driver and a vegetable vendor, at Chinatola Bazar, to hold their ears in public as punishment. She also captured photographs of the punishment. Her photograph capturing moments with the humiliated elderly individuals later went viral on social media and drew significant criticism."
+}

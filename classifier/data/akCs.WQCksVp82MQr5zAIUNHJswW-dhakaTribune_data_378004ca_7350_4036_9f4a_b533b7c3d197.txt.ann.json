@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_378004ca-7350-4036-9f4a-b533b7c3d197.txt",
+  "text": "Date Published:2020-03-06 00:00:00      \nManik Miah, son of Mofiz Miah who was killed in the clash, filed the case with Matiranga police station A case was filed on Friday against six members of Border Guard Bangladesh (BGB) for opening fire during a clash with villagers on Tuesday, at Gazinagar Bazar in Matiranga upazila, that left five people dead. Manik Miah, son of Mofiz Miah who was killed in the clash, filed the case with Matiranga police station around 5pm. The charges include attempted murder, assault, intimidate and trespassing, confirmed Matiranga police station OC Samsuddin Bhuiya. The prime accused Ishak Ali, Habildar of BGB's Palashpur zone unit, previously on Thursday filed cases against 19 named locals, including four deceased, and unnamed 60/70 others over Tuesday's clash over timber transportation at Khagrachhari's Matiranga upazila. At least five people, including a BGB soldier, were killed in the clash at Gazinagar Bazar on Tuesday. The incident took place when labourers were loading tree trunks on a truck in the morning. A BGB team from Khagrachhari appeared there and barred them from doing the job that led to the clash."
+}

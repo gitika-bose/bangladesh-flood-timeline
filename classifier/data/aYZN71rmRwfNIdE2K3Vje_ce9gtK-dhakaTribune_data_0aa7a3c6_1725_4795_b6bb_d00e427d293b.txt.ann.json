@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_0aa7a3c6-1725-4795-b6bb-d00e427d293b.txt",
+  "text": "Date Published:2020-03-22 00:00:00      \nWe must remain united in tackling the coronavirus The Covid-19 is wreaking havoc on the world. Bangladesh is yet to be hit hard, but if the rest of the world provides any indication, the threat of the coronavirus is serious, real, and exponential.  And an exponential crisis deserves an exponential response. The number of calls coming into the national information hotline 333 and Shastho Batayon 16263 has gone up tenfold in the last few days, crossing 100,00 per day. How do we handle such volume with a few call centre agents and a few doctors who used to handle these calls? Enter an uber-doctor model where the calls will be routed to hundreds of doctors who have registered their availability to take calls. This will not only calm a lot of panicked callers but also will reduce pressure on our healthcare system. This is the beginning of Bangladesh's exponential response to dealing with the coronavirus challenge. As calamitous as coronavirus is, it is forcing us to rethink how we live, work, and learn. Beyond the imminent healthcare challenge, as we face the possibility of small and large lockdowns -- both self-imposed and state-imposed -- for indefinite periods of time, like many megacities and advanced countries are going through now, citizens are asking important questions. How do my children continue their education during the outbreak? How does food get transported to cities? How do medicines get delivered across the country? How do we make payments for goods and services? How do we make goods? Bangladesh's quest for digitization is well-documented. It has been a cornerstone of the government's transformation drive since 2009, and remarkable achievements have been made. Sometimes, breaking the status quo, and bringing true change, requires a crisis. While this crisis may not be in any way welcome, it forces us to adopt an alternative, often at breakneck efficiency. Innovations during World War II occurred at an astonishing pace for the two opposing sides. With the added competition, the need to rebuild and retaliate brought out incredible innovations such as nuclear power, penicillin, jet engines, radar, and the first computer. All these have changed our lives for the better. The coronavirus threat is accelerating our adoption of a digital lifestyle. It is also greatly increasing the speed with which certain initiatives are getting done. The coronavirus has naturally increased the necessity to have trained medical professionals to test and combat it. As I write this, there are 2,000 doctors who are being certified to fight the coronavirus using the government's e-learning platform MuktoPaath. Under normal circumstances, this would have taken weeks of correspondence, the formation of committees to approve content, delivery of most of the content through old-style physical classrooms, and procurement of a fraction of the content in audiovisual format for e-learning. A process spanning 9-12 months. Optimistically! Compare that with the two days that it took in the time of coronavirus. All digital with no cost to the exchequer. Simultaneously, the government's information 333 hotline was made \"corona-ready\" in one day and is now being used as a mass initial triage tool for high-risk cases. Call the number, and you immediately get asked a series of questions about whether you are high risk or not. This has been possible for two reasons. One, we are using tools and technologies that already exist by just integrating and repurposing them. Two, all types of public agencies, private companies, civil society organizations, academia, startups, student groups have come together to fight together.  Bangladesh is probably unique in the way a crisis unites the entire society. It happened in 1971 and it happens during every flood and every Rana Plaza-like incident. Over 30 healthcare organizations have immediately responded to the government's call to action to find healthcare response. Tens of education companies are working with the government to scale up e-learning. Over 50 innovative logistics and e-commerce companies are coming up with how food, medicines, and other necessities will move across the country.  The telecom industry is doing its part by working very closely with the government to identify high-risk cases. Suddenly, Bangladesh, a country notorious for its lack of speed and initiative, is being forced to be effective and efficient, and each sector is working parallelly to fight the coronavirus. On March 20, the country saw its first digital press conference. In an unprecedented event, 100 participants including tens of journalists came together, not physically, but over video conference, with the session conducted by the ICT Minister Zunaid Ahmed Palak. Certainly a model in the time of social distancing. All of these initiatives are being made possible because of the great leaps Bangladesh has made in digitization, where the technological and human building blocks -- much like those of a child's lego set -- are coming together to create an avalanche effect.  I am confident that this avalanche effect will continue to grow, and Bangladesh will successfully navigate the threat of the coronavirus and come away as a better, more impactful nation.  Anir Chowdhury is a US Techpreneur turned Bangladeshi Govpreneur serving as the Policy Advisor of a2i in the ICT Division and Cabinet Division supported by UNDP."
+}

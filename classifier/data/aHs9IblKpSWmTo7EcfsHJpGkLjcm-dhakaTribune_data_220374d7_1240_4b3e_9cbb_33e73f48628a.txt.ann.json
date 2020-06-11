@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_220374d7-1240-4b3e-9cbb-33e73f48628a.txt",
+  "text": "Date Published:2019-01-08 00:00:00      \nIn the last general election held on December 30, a total of 881,619 non-EVM votes were declared invalid by the returning officers of 299 constituencies Experts are saying Electronic Voting Machines (EVMs) can prevent invalid or spoilt votes during any polls in Bangladesh. The 11th parliament polls on December 30, which witnessed highest number of invalid votes ever recorded, is also a testimony that EVMs are fullproof as far as  rate of spoilt ballot papers or invalid votes is concerned.   In the election held on December 30 last year, a total of 881,619 votes were declared invalid by the returning officers of 299 constituencies.  Invalid votes have been seen in almost all constituencies (except Rangpur 6) where votes were cast manually, i.e. by stamping a seal on the ballot paper. But all the votes were declared valid in the following constituencies, where electronic voting machines (EVMs) were used: Dhaka 6 and 13, Chittagong 9, Rangpur 3, Khulna 2 and Satkhira 2. Muhammed Sohul Hussain and Brig Gen (retd) Muhammad Sakhawat Hussain, who served the ATM Shamsul Huda-led Election Commission as election commissioners from 2007 to 2012, had suggested the use of EVMs to prevent invalid or spoilt votes. While talking to the Dhaka Tribune over the phone, Sohul Hussain said \"Hopefully Bangladesh will adopt EVMs for the whole electoral process in future.\" \"We introduced EVMs during our tenure. People will realize no vote-rigging can be done using these voting machines; rather votes are easily and safely cast. There will be no misconception in this regard,\" the former election commissioner added. While talking about how votes are counted as spoilt, he explained: \"Votes can become invalid on the off-chance that the voter did not intend to vote for that specific symbol. Sometimes, they might unfortunately stamp seals onto the wrong symbol during the manual ballot paper process. They then stamp the seal again on their favoured symbol. In these cases, ballot papers are announced invalid due to the double seal. \"But in EVMs, just pressing a button, the valuable vote is cast and then locked to count as a valid vote. People can easily go through this process. Furthermore, there is no chance to count any vote as invalid in EVMs,\" he further added. Former election commissioner Brig Gen (retd) Muhammad Sakhawat Hussain told the Dhaka Tribune: \"Allegations of vote-rigging, like in the recently held 11th parliamentary election, would be reduced if EVMs are installed in all constituencies.\" He said: \"There is no issue of counting invalid votes in EVMs. I think the time has come to think about overall issues regarding this. Are we going to take votes by EVMs or not?\" \"As you are saying, the number of invalid votes in this election is not a small number. EVMs will be beneficial in the future, where everyone can cast their votes and no vote will be considered as invalid,\" the former election commissioner added. \"Regarding other allegations, I think party people seizing the election booths should be prevented,\" he said. In 2014's 10th parliamentary polls, the invalid vote count was 263,037; 636,294 in the 9th; 449,082 in the 8th; 462,302 in the 7th; and 373,322 in the 5th."
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_085d3565-8335-4f54-8700-1500aabc211b.txt",
+  "text": "Date Published:2020-05-08 00:00:00      \nThe government is very serious about recovering rivers from illegal occupation The government has taken a massive plan to recover canals, wetlands and small rivers across the country and re-excavate those to increase their navigability and water reservation capacity, groundwater recharge and thus preserve the biodiversity. These activities will be done under a project titled \"Re-excavation of small rivers, canals and wetlands inside 64 districts project (1st Phase),\" reports UNB. According to an official document, some 4,086.622km of 88 small rivers, 352 canals and eight wetlands will be re-excavated under 561 packages in 375 upazilas and two city corporations. The amount of excavated soil will be 15.15 crore cubic metres, 62.32 square metres of turfing while that of plantable tress 13.41 lakh. The objective of implementing this project is to ensure removing water-logging from 5.20 hectares of areas and securing those from flood and climate-change onslaught, boosting food production of 3.50 lakh metric tonnes through irrigation in 1.30 lakh hectares of land, fish farming in 15,000 hectares, preservation of bio-diversity in 25,000 hectares, flood control in 3.65 lakh hectares, improving roads and communication in 4100 kilometres and easing river communications through 1,800 kilometres of waterways. Meanwhile, the government started removing illegal structures from the banks of small rivers, canals and wetlands on December 12 last year. So far, it has removed 5,574 illegal structures and recovered 593.12 acres of land from illegal occupants. \"If the project is implemented, it will be possible to maintain the normal flow in small rivers and canals besides saving water reservoirs,\" the document states. It further mentions that the formulation of another project titled, \"Re-excavation of small rivers, canals and wetlands inside 64 districts project (2nd Phase),\" is underway. Under this project, the government will re-excavate five rivers, canals and wetlands in each upazila. Through this project, it will be possible to re-excavate 13,885.363km of rivers, canals, and wetlands, according to the document. A senior official at the Water Resources Ministry said the government is very serious about recovering rivers from illegal occupation. As the government is emphasizing the plying of passengers and transportation of goods through waterways, there is no way to increase the navigability of the rivers -- small or big -- across the country. \"The government has already taken various projects to improve passengers and goods' transportation through the waterways within the country,\" he said. He also mentioned by the \"Re-excavation of small rivers, canals and wetlands inside 64 districts project (1st Phase and 2nd Phase),\" will be very much helpful in preserving water during monsoon for the dry season. \"With this, we will also be able to recharge the groundwater which is very much essential for preserving the biodiversity for the future generation,\" the official added. Bangladesh is a riverine country with waterways crisscrossing much of its landscape.  According to experts, re-excavation is very important as business and internal movement of people are largely dependent on waterways, particularly during monsoon. "
+}

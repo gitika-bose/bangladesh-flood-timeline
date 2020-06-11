@@ -1,0 +1,130 @@
+[
+  {
+    "query": "bangladesh \"flooded\"",
+    "paper": "theIndependent",
+    "date_range": [
+      "1/1/2015",
+      "12/31/2015"
+    ],
+    "sites": [
+      "http://www.theindependentbd.com/arcprint/details/7521/2015-07-13",
+      "http://www.theindependentbd.com/arcprint/details/23085/2015-11-15",
+      "http://www.theindependentbd.com/printversion/details/23085",
+      "http://www.theindependentbd.com/arcprint/details/3259/2015-06-12",
+      "http://www.theindependentbd.com/printversion/details/7447",
+      "http://www.theindependentbd.com/arcprint/details/14702/2015-09-07",
+      "http://www.theindependentbd.com/printversion/details/16461",
+      "http://www.theindependentbd.com/arcprint/details/1817/2015-06-01",
+      "http://www.theindependentbd.com/magazine/details/18511/IN-SEARCH-OF-GOPAL-BHAR-",
+      "http://www.theindependentbd.com/arcprint/details/18511/2015-10-09",
+      "http://www.theindependentbd.com/arcprint/details/24487/2015-11-27",
+      "http://www.theindependentbd.com/arcprint/details/14705/2015-09-07",
+      "http://www.theindependentbd.com/magazine/details/24487/My-tryst-with-public-speaking",
+      "http://www.theindependentbd.com/arcprint/details/19436/2015-10-16",
+      "http://www.theindependentbd.com/magazine/details/26232/September-On-Jessore-Road"
+    ]
+  },
+  {
+    "query": "bangladesh \"flooded\"",
+    "paper": "theIndependent",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": [
+      "http://www.theindependentbd.com/arcprint/details/50269/2016-07-04",
+      "http://www.theindependentbd.com/arcprint/details/61503/2016-09-26",
+      "http://www.theindependentbd.com/printversion/details/33773",
+      "http://www.theindependentbd.com/post/37433"
+    ]
+  },
+  {
+    "query": "bangladesh \"flooded\"",
+    "paper": "theIndependent",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "http://www.theindependentbd.com/printversion/details/99323",
+      "http://www.theindependentbd.com/arcprint/details/86748/2017-03-24",
+      "http://www.theindependentbd.com/post/105832",
+      "http://www.theindependentbd.com/post/106733",
+      "http://www.theindependentbd.com/post/105829",
+      "http://www.theindependentbd.com/post/115470",
+      "http://www.theindependentbd.com/arcprint/type/backpage/2017-07-05",
+      "http://www.theindependentbd.com/arcprint/details/119804/2017-10-21",
+      "http://www.theindependentbd.com/post/109167",
+      "http://www.theindependentbd.com/printversion/details/79984",
+      "http://www.theindependentbd.com/arcprint/details/106709/2017-07-30",
+      "http://www.theindependentbd.com/post/114193",
+      "http://www.theindependentbd.com/post/114200",
+      "http://www.theindependentbd.com/arcprint/details/102454/2017-07-06",
+      "https://www.theindependentbd.com/post/106474",
+      "https://www.theindependentbd.com/post/109878",
+      "http://www.theindependentbd.com/arcprint/type/backpage/2017-11-19",
+      "http://www.theindependentbd.com/post/110230",
+      "http://www.theindependentbd.com/arcprint/details/102431/2017-07-06",
+      "http://www.theindependentbd.com/arcprint/details/104791/2017-07-19",
+      "http://www.theindependentbd.com/arcprint/details/102484/2017-07-06",
+      "http://www.theindependentbd.com/magazine/details/123031/Cyclone-Sidr-%E2%80%93-A-History",
+      "http://www.theindependentbd.com/arcprint/details/96738/2017-05-29",
+      "http://www.theindependentbd.com/printversion/details/116494",
+      "http://www.theindependentbd.com/arcprint/details/102380/2017-07-06",
+      "http://www.theindependentbd.com/printversion/details/96445",
+      "http://www.theindependentbd.com/magazine/details/79039/Cost-of-Living-in-Dhaka",
+      "http://www.theindependentbd.com/arcprint/details/96445/2017-05-27",
+      "http://www.theindependentbd.com/arcprint/details/92991/2017-05-04"
+    ]
+  },
+  {
+    "query": "bangladesh \"flooded\"",
+    "paper": "theIndependent",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": [
+      "http://www.theindependentbd.com/post/152309",
+      "http://www.theindependentbd.com/post/171307",
+      "http://www.theindependentbd.com/post/170928",
+      "http://www.theindependentbd.com/post/169671",
+      "http://www.theindependentbd.com/post/169156",
+      "http://www.theindependentbd.com/post/159374",
+      "http://www.theindependentbd.com/post/151145",
+      "http://www.theindependentbd.com/post/175834"
+    ]
+  },
+  {
+    "query": "bangladesh \"flooded\"",
+    "paper": "theIndependent",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "http://www.theindependentbd.com/post/217809",
+      "http://www.theindependentbd.com/post/206866",
+      "http://www.theindependentbd.com/post/223156",
+      "http://www.theindependentbd.com/post/198066",
+      "http://www.theindependentbd.com/post/222321",
+      "http://www.theindependentbd.com/post/195366",
+      "http://www.theindependentbd.com/post/223301",
+      "http://www.theindependentbd.com/post/229931",
+      "http://www.theindependentbd.com/post/223628",
+      "http://www.theindependentbd.com/post/212168",
+      "http://www.theindependentbd.com/post/223184",
+      "http://www.theindependentbd.com/post/223340",
+      "http://www.theindependentbd.com/post/188802",
+      "http://www.theindependentbd.com/post/229791",
+      "http://www.theindependentbd.com/post/227841",
+      "http://www.theindependentbd.com/post/209049",
+      "http://www.theindependentbd.com/post/218199",
+      "http://www.theindependentbd.com/post/225183",
+      "http://www.theindependentbd.com/post/202600",
+      "http://www.theindependentbd.com/post/187853",
+      "http://www.theindependentbd.com/post/223901",
+      "http://www.theindependentbd.com/post/187137"
+    ]
+  }
+]

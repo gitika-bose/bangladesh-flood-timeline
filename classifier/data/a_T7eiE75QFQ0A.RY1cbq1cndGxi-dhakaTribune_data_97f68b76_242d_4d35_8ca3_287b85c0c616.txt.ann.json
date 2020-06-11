@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_97f68b76-242d-4d35-8ca3-287b85c0c616.txt",
+  "text": "Date Published:2020-02-20 00:00:00      \nThe ambassador extended his sincere felicitations to all the people of different languages in Bangladesh French Ambassador to Bangladesh Jean-Marin Schuh has paid tributes to the memories of the martyrs of the Language Movement. He paid his tributes on the occasion of International Mother Language Day to be celebrated on February 21, reports UNB. \"International Mother Language Day is a worldwide annual observance to promote awareness of linguistic and cultural diversity and to promote multilingualism,\" said Ambassador Schuh in a message on Thursday. The ambassador extended his sincere felicitations to all the people of different languages in Bangladesh, according to French Embassy in Dhaka. The French envoy also recalled that the idea to celebrate International Mother Language Day was the initiative of Bangladesh, which was approved at the 1999 Unesco General Conference held in Paris and has now been observed throughout the world since 2000."
+}

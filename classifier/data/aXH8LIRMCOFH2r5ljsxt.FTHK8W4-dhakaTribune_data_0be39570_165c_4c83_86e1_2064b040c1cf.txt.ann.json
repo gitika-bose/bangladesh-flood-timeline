@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_0be39570-165c-4c83-86e1-2064b040c1cf.txt",
+  "text": "Date Published:2020-03-08 00:00:00      \n40% of expatriate employees stuck in China; Robots to be used in Padma bridge works  Chinese companies working in Bangladesh are worried about not being able to meet deadlines of the development projects, including several mega projects, that they are implementing in Bangladesh. Many of the projects are at risk of failing to maintain respective deadlines as around 40% of Chinese staff working in Bangladeshi projects have been stuck in China for more than a month. This includes staff who are currently at the coronavirus epidemic centre in China, none of whom are allowed to leave. According to the Chinese Enterprises Association in Bangladesh (CEAB), more than 15,000 Chinese staff members, under 400 companies, are involved in development programs in Bangladesh. CEAB Vice President Ke Changliang told the Dhaka Tribune that around 6000 Chinese staff could not return to Bangladesh because of the outbreak, resulting in slow progress in the development works. On February 2, Bangladesh suspended visa on arrival for Chinese citizens indefinitely amidst the coronavirus epidemic. The China government now wants the suspension to be withdrawn as the situation has almost been brought under control in China. Otherwise, meeting the deadlines for completion of development projects will be a challenge, suspects Chinese officials. Chinese Ambassador to Bangladesh Li Jiming on Wednesday urged Bangladesh to withdraw the suspension as soon as possible. During a press briefing held at Padma Bridge Rail Link Project office in Dhaka's Keraniganj, Li said around 95% of the spreading of the virus is now happening from other countries as China has almost controlled the outbreak of the disease. \"Up to now, no Chinese national here and no Bangladesh national here or in China have been infected by the coronavirus,\" he added. According to CEAB, the total amount of investment in Bangladesh contributed by China is nearly $10 billion which created job opportunities for more than 100,000 people in Bangladesh. But these efforts have been negatively impacted due to the COVID-19 epidemic, a global health emergency. Bangladesh government may soon adopt stricter health and quarantine measures on equipment and materials imported from China. Moreover, the application of more rigorous public health regulations on Chinese employees working in Bangladesh, such as medical examination, will make it harder for them to obtain work permits. Ke Changliang said: \"All of these issues have caused certain distress to normal production speed and operation of Chinese enterprises in Bangladesh.\" \"Despite the internal and external challenges, all Chinese companies, especially contractors like CREC, Power China, CCCC, and CCECC, are doing their best to maintain workflow to avoid the suspension of the projects,\" he said at the press briefing. Importing robots for Padma Bridge construction work Although 86% of the construction work is already done, completion of the Padma Bridge project by June 2021 has become a challenge as importing the materials from China remains almost closed since the coronavirus outbreak began. Despite the outbreak currently being under control,  business entities are not in full operation in China yet, creating a shortage of material. China Major Bridge Engineering Company (CMBE) executing Padma Bridge project and China Railway Group Limited (CREC) implementing Padma Bridge Rail Link Project are looking for alternative ways to tackle this situation. These include importing four robots from China and training the local people for specialized tasks. Liu Jianhua, director of Padma Bridge project said: \"We are trying to import four robots for strengthening the execution and to deal with the shortage of manpower.\" Wang Kun, director of Padma Bridge Rail Link Project said: \"To ensure continuity of work, we are trying our best to mitigate the impact of the coronavirus.\""
+}

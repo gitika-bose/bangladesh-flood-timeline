@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1988_182469d2d280b580dec99dd03eb3dc8c82f45361.txt",
+  "text": "U.N. Food Agency Sees a Crucial Year Ahead\n1988-12-20T05:00:00.000Z\nThe United Nations Food and Agriculture Organization issued a gloomy year-end assessment today in which it said the world stood at ''a crucial turning point between food security and supply shortages.''\nFor the first time since World War II, global cereal production has declined for two consecutive years, forcing countries to draw deeply from reserves, an agency study said.\nAs a result, it said, world cereal stocks are at their lowest levels since the early 1970's and, more significantly, are below the threshold set by the organization as the minimum requirement for food security.\nThe report said cereal output next year would have to grow by 225 millions tons, or 13 percent, to meet daily needs and rebuild reserves. There has never been a one-year increase of that magnitude, it added.\n''While the world is not facing an immediate food crisis, there are reasons for concern in 1989,'' said Edouard Saouma, the agency's director general. ''The outcome of next year's harvest will be crucial.''\nDespite its bleak tone, the study pointed out some bright spots. For example, cereal production rose by 3 percent in developing countries this year, thanks to good African harvests, including famine-stricken countries like Ethiopia and the Sudan. But the agency said production continued to lag behind population growth in most third-world countries, and it was overwhelmed by climatic disasters in many regions.\nThe severe drought this year in North America cut grain production there by one-third, the report said. There were also floods in Bangladesh, hurricanes in Central America and locust plagues in Africa, the Middle East and the Caribbean that were described by Mr. Saouma as ''the most extensive in recorded history.''\nThus far, crop losses to the locusts have been limited, he said. ''But swarms have the potential to cause enormous damage,'' he added. ''We expect the plague to continue for at least another two to three years.''\nThe organization estimated that total production of wheat, rice and coarse grains this year would total a bit more than 1.73 billion tons, a decline of nearly 4 percent from 1987, which itself was a poor harvest year.\nReserves were expected to total 275 million tons for 1988, a drop of 120 tons, or 30 percent, from last year, the sharpest decline on record. According to the F.A.O., the present stocks are equivalent to 16 percent of expected global cereal consumption next year, and it considers 17 percent as the minimum level ''necessary for the maintenance of world food security.''\nOn another matter, Mr. Saouma, whose fiscal management has been severely criticized in the past, called 1988 the agency's ''worst financial year in its 43-year history.'' The problem was the failure of member nations to meet their obligatory payments, he said, and he called the United States the biggest offender, accounting for $78 million of the total of $111 million owed by 80 countries."
+}

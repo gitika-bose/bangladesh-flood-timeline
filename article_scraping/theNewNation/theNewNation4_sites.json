@@ -1,0 +1,94 @@
+[
+  {
+    "query": "bangladesh flooded",
+    "paper": "theNewNation",
+    "date_range": [
+      "1/1/2014",
+      "12/31/2014"
+    ],
+    "sites": [
+      "http://thedailynewnation.com/news/20230/local-products-facing-tough-competition-with-foreign-goods.html",
+      "http://thedailynewnation.com/news/15402/argentines-invade-rio-beach-in-world-cup-dream.html"
+    ]
+  },
+  {
+    "query": "bangladesh flooded",
+    "paper": "theNewNation",
+    "date_range": [
+      "1/1/2015",
+      "12/31/2015"
+    ],
+    "sites": [
+      "http://thedailynewnation.com/news/64217/flash-flood-in-feni--deteriorates.html",
+      "http://thedailynewnation.com/news/47282/posters-billboards-are-still-there.html",
+      "http://thedailynewnation.com/news/59886/killer-kamrul-caught-at-jeddah-by-expats.html",
+      "http://thedailynewnation.com/news/78005/the-lost-child.html"
+    ]
+  },
+  {
+    "query": "bangladesh flooded",
+    "paper": "theNewNation",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": [
+      "http://thedailynewnation.com/news/88042/the-major-events-that-led-to-the-independence-of-bangladesh.html",
+      "http://thedailynewnation.com/news/105799/jacqueline-stirs-a-rage-with-beat-pe-booty.html",
+      "http://thedailynewnation.com/news/99079/shoppers-eye-on-multi-colour-dresses.html"
+    ]
+  },
+  {
+    "query": "bangladesh flooded",
+    "paper": "theNewNation",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "http://thedailynewnation.com/news/146239/relief-goods-distributed-among--flood-victims.html",
+      "http://thedailynewnation.com/news/144951/flood-situation-improves-in-north-worsens-in-central-zone.html",
+      "http://thedailynewnation.com/news/136477/flash-flood-hits-moulvibazar.html",
+      "http://m.thedailynewnation.com/news/146239/relief-goods-distributed-among--flood-victims",
+      "http://m.thedailynewnation.com/news/158594/poet-allen-ginsberg-and-september-on-jessore-road"
+    ]
+  },
+  {
+    "query": "bangladesh flooded",
+    "paper": "theNewNation",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": [
+      "http://m.thedailynewnation.com/news/177716/sony-center-south-east-asia-launched-in-capital",
+      "http://thedailynewnation.com/news/175691/bappa-engaged-to-tania-hossain.html",
+      "http://thedailynewnation.com/news/182318/rituparna-arrives-dhaka-tomorrow-for-movie-jam.html",
+      "http://thedailynewnation.com/news/182312/tiger-shroff-gets-brand-offers-from-mass-centers.html",
+      "http://thedailynewnation.com/news/177716/sony-center-south-east-asia-launched-in-capital.html",
+      "http://thedailynewnation.com/news/179947/madhuri-looks-like-madhubala-in-this-flashback-picture.html",
+      "http://thedailynewnation.com/news/191216/ireen-tani-in-kolkatas-film.html",
+      "http://thedailynewnation.com/news/175808/humanity-dominates-nazruls-works.html",
+      "http://thedailynewnation.com/news/182096/runa-laila-receives-personality-award-today.html",
+      "http://m.thedailynewnation.com/news/175691/bappa-engaged-to-tania-hossain",
+      "http://thedailynewnation.com/news/182103/teachers-and-students-of-the-citys-motijheel-ideal-school-and-college-showing-victory-v-sign-for-brilliant-results-of-the-institution-in-the-hsc-examination-on-its-campus-on-thursday.html",
+      "http://m.thedailynewnation.com/news/182312/tiger-shroff-gets-brand-offers-from-mass-centers",
+      "http://m.thedailynewnation.com/news/175808/humanity-dominates-nazruls-works",
+      "http://thedailynewnation.com/news/181980/thai-cave-boys-leave-hospital-ahead-of-press-conference.html"
+    ]
+  },
+  {
+    "query": "bangladesh flooded",
+    "paper": "theNewNation",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "http://m.thedailynewnation.com/news/221947/most-sought-after-with-brands-filmmakers-shraddha-kapoor-is-flooded-with-offers",
+      "http://m.thedailynewnation.com/news/222571/deluge-turns-grave",
+      "http://m.thedailynewnation.com/news/202019/dhvani-bhanushali-the-voice-behind-the-hit-numbers-of-2018",
+      "http://m.thedailynewnation.com/news/202816/i-am-ok-with-my-attention-grabbing-assets-anveshi-jain"
+    ]
+  }
+]

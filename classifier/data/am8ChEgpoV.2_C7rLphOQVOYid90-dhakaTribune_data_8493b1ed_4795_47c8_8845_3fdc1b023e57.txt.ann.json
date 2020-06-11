@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_8493b1ed-4795-47c8-8845-3fdc1b023e57.txt",
+  "text": "Date Published:2019-09-04 00:00:00      \nDhaka shares concerns about security in Rohingya camps Bangladesh has said it will name its metro rail stations after the names of the Japanese victims of the Holey Artisan terror attack that took place in August 2016. State Minister of Foreign Affairs M Shahriar Alam informed of Bangladesh's decision to Japanese State Minister for Foreign Affairs Toshiko Abe during a meeting held on the sidelines of the 4th Indian Ocean Conference, at Male in Maldives, on Wednesday. Toshiko Abe expressed her country's gratitude to Prime Minister Sheikh Hasina for meeting all the family members of the Japanese victims of the terror attack. Shahriar thanked Japan for facilitating the very fruitful visit of Prime Minister Sheikh Hasina earlier in May this year.  Referring to the memorandum of understanding (MoU) signed last month in Tokyo, he expressed gratitude to the Japanese government for listing Bangladesh as a country for skilled migration.  It was highlighted that both governments will work closely to deliver on the MoU as per the agreement.  Shahriar Alam updated his Japanese counterpart on the latest status of over 1.1 million Rohingyas sheltered by Bangladesh, including Bangladesh's concerns about security at the camps. He underscored that Bangladesh needs the support of Japan for the repatriation of the Rohingyas safely and with dignity to Myanmar, and for their settlement at Bhashan Char. Toshiko Abe mentioned that Japan is particularly happy that Bangladesh has decided to name metro rail stations after the names of the Holey Artisan victims.  Both sides agreed on timely implementation of ODA, according to the Ministry of Foreign Affairs here. Shahriar called for Japanese support for building a new railway bridge over the Jamuna River. The Japanese side reassured their support and cooperation to build the railway bridge.  The State Minister led the Bangladesh delegation to the 4th Indian Ocean Conference organized by India Foundation in association with the government of the Maldives and S Rajaratnam School of International Studies, Singapore from 3-4 September. He is also a member of the IOC Organizing Committee.  The theme of IOC 2019 is \"Securing the Indian Ocean Region: Traditional and Non-Traditional Challenges.\""
+}

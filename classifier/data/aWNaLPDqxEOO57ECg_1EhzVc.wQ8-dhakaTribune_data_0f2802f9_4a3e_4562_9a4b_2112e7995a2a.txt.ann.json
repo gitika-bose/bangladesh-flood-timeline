@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_0f2802f9-4a3e-4562-9a4b-2112e7995a2a.txt",
+  "text": "Date Published:2020-01-14 00:00:00      \n'The program has been arranged to present the country's crafts and folk culture and to introduce the uniqueness of folk culture with the new generation' A month-long  folk festival begins on the premises of the Bangladesh Folk and Craft Foundation in Sonargaon upazila of Naryanganj yesterday  afternoon. The program has been arranged to present the country's crafts and folk culture and to introduce the uniqueness of folk culture with the new generation, said Dr Ahmed Ullah, director of the Bangladesh Folk and Craft Foundation. State Minister for Cultural Affairs KM Khalid  inaugurated the fair while the foundation director Dr Ahmed Ullah, lawmaker from Narayanganj-3 constituency Liakat Hossain Khoka, Deputy Commissioner of Narayanganj  Jashim Uddin, Superintend of Police Zayedul Alam and the ministry secretary Dr Abu Hena Mostafa Kamal, among others were  present. The foundation authorities have completed all the preparations to run the fair, the director added. The fair, which was named 'Bangabandhu Centenary Folk Festival' for this year, will remain open to all from 9 am till pm every day."
+}

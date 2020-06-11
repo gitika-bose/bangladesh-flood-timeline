@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_b6b2d480-5e1c-4056-ada4-e3a1161fca5a.txt",
+  "text": "Date Published:2020-04-04 00:00:00      \nThe three time Grammy winning singer died from heart complications on Friday Bill Withers, a soulful singer best known for the 1970s hits Lean on Me, Lovely Day and Ain't No Sunshine, has died at age 81 from heart complications, his family said on Friday. Withers produced nine albums, most of them written and recorded in the 1970s, starting with Just As I Am, which included Ain't No Sunshine, which won him the first of three Grammy Awards, according to his official website.  His musical career ebbed in the 1980s as he left \"the hype and the hoopla\" of the spotlight for a more private life, it said. \"A solitary man with a heart driven to connect to the world at large, with his poetry and music, he spoke honestly to people and connected them to each other,\" Rolling Stone magazine quoted the family as saying a statement. \"As private a life as he lived close to intimate family and friends, his music forever belongs to the world.\" Withers was inducted into the Rock & Roll Hall of Fame in 2015, among his several honors, and made a rare public appearance to accept the tribute.  His death drew a flood of tributes, including one from Democratic U.S. Senator Cory Booker of New Jersey, who said he often played Withers' Lovely Day at events during his now-ended presidential campaign. \"In this time of death and pain, I hold onto him,\" Booker said in a statement. \"He gave us lifetimes of light and that flame will never be extinguished.\" Booker's former campaign rival, Senator Kamala Harris of California, called Withers a legend whose song \"Grandma's Hands\" reminded her of her own grandmother and other mother figures. \"Let's all continue to live by his cherished lyrics during these times and lean on each other,\" Harris said in a statement. William Harrison Withers Jr. was born on July 4, 1938, in Slab Fork, West Virginia, a coal country town of 200, the son of a miner who died when Withers was 13. He joined the Navy at 17 as his \"ticket out,\" according to his website. After his military service, he moved to Los Angeles where he worked in an aircraft parts factory, taught himself to play the guitar and made a demo tape that launched his career."
+}

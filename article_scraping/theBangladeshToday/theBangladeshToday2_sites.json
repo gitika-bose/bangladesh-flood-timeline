@@ -1,0 +1,14 @@
+[
+  {
+    "query": "bangladesh floods",
+    "paper": "theBangladeshToday",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://thebangladeshtoday.com/?p=16085",
+      "https://thebangladeshtoday.com/?p=7317"
+    ]
+  }
+]

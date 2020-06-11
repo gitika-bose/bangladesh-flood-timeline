@@ -1,0 +1,169 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "monsoon",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 81,
+          "text": "1988-09-11"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_50": {
+          "value": "1988-09-11",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 484,
+          "text": "In a 10-day period of torrential monsoon rain"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "monsoon",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 535,
+          "text": "ended last week"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_50": {
+          "value": "1988-09-11",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [],
+  "filename": "1988_2ad8c990817a9d28641114457e6943a2f038f6ef.txt",
+  "text": "IDEAS & TRENDS; Once More, the Earth Visits Disaster on the Plains of Bangladesh\n1988-09-11T05:00:00.000Z\nSPRAWLING across a vast delta where three of the world's great rivers meet, Bangladesh is the drainpipe of Central Asia. In bountiful times, the rich alluvial silt that covers most of the country yields as many as three rice crops a year. But when the drainpipe overflows, as it did two weeks ago, Bangladesh becomes a land reminiscent of Bruegel's visions of triumphant death.\nIn a 10-day period of torrential monsoon rain that ended last week, more than 22 inches fell in some regions, and rainfall throughout the country was twice as much as normal for such a period. When the rain finally let up, 50 of the country's 64 administrative districts lay under a sheet of water that covered roads to depths of up to eight feet.\nGovernments and relief organizations throughout the world hastened to send food and medicine, but as usual in such disasters, most of Bangladesh's 110 million inhabitants were isolated by the flood and beyond immediate help.\nHundreds died when the Brahmaputra, Ganges and Meghna Rivers overflowed. When the bacteria-laden water began to subside last week, germinating intestinal diseases lingered, tainting wells, rice paddies and streams. Water-borne illness is a principal cause of Bangladesh's 12 percent infant mortality rate.\nFor the people of long-suffering Bengal, disaster never seems to end. Though this year's floods were particularly destructive in the region, some flooding occurs nearly every year, shifting land, dispossessing farmers and spreading disease.\nSince the bloody birth of Bangladesh in 1971, some of the nation's leaders have blamed India, their one-time ally, for contributing to both floods and droughts. India and Bangladesh have often been at odds over the equitable division of water from the Brahmaputra, the Ganges and other rivers on which both countries depend. Bangladesh officials have accused India of disrupting the flow with its dams, and of worsening the silting problem by permitting extensive deforestation of regions drained by the rivers. Long, Slow Flooding\nThis year, although the overflowing of rivers originating in India, Nepal and Tibet apparently exacerbated matters, climatologists believe that the main cause of the disaster was rain in Bangladesh itself. Aside from the tea-growing hill country in the northeast, Bangladesh is as flat as a board and only a few feet above sea level. In hard rains, the shallow, sluggish rivers quickly overflow. Once inundated, the countryside takes weeks to drain.\nThe underlying problem is Bangladesh's yearly exposure to the southwest monsoon. As climatologists explain it, the monsoon affecting South Asia pivots around western China, where the sun warms the ground and the ground warms a rising column of air. This mass of rising air sucks in cooler air from the oceans, notably the Bay of Bengal, creating sea breezes in coastal areas.\nAs the moisture-filled air from the sea moves inland, it is warmed and pulled into the rising column. When the column reaches the cold air at high altitude, the moisture condenses. The rain is especially likely to begin over land that rises abruptly from a plain. This year, the rain was torrential where the Bangladesh highlands rise above the flat rice and jute fields.\nNo one knows why monsoon rains and the cyclonic storms that sometimes accompany them are destructive in some years and mild in others. But climatologists have a growing suspicion that ''active'' monsoons like the one Bangladesh has just been through are closely related to a phenomenon experts call the El Nino-Southern Oscillation.\nEvery few years, the surface water off the west coast of South America becomes warmer than usual, heating the air above it and disturbing circulation patterns in the atmosphere throughout the world. During a typical El Nino event, normally rainy regions are sometimes stricken by droughts, and normally parched areas are drenched. In 1982-83, the world experienced the most severe El Nino event on record, which damaged crops and fishing industries in regions as widely separated as New Zealand, California and Africa. Scientists believe it also perturbed carbon dioxide and ozone concentrations and may even have slightly slowed the Earth's rotation on its axis.\nOddly enough, however, the years when El Nino activity peaks seem to correspond to those in which the monsoon season in Bangladesh is mild, and vice versa. The most recent El Nino event ended last March, and some experts believe that this might have been taken as a sign that the monsoon in Bangladesh this summer would be severe.\nNo one yet knows what the connection between El Nino and the monsoon may be. Nor is anyone sure that being able to predict bad weather would really help Bangladesh much. The country's impoverished masses have nowhere to go, much as the many Bangladeshis who would like to emigrate to Pakistan or India. Flood control measures in a country that is mostly a big flood plain are limited.\n''At any rate,'' a public health official in Dhaka once said, ''the monsoon helps to assure our supply of the one commodity in which we are rich: misfortune.''"
+}

@@ -1,0 +1,89 @@
+[
+  {
+    "query": "bangladesh \"cyclone\"",
+    "paper": "theAsianAge",
+    "date_range": [
+      "1/1/2015",
+      "12/31/2015"
+    ],
+    "sites": [
+      "https://dailyasianage.com/news/2933/armed-forces-day-2015-redefining-the-theme",
+      "https://dailyasianage.com/news/5633/stay-alert-against-bdr-mutiny-like-incident-pm"
+    ]
+  },
+  {
+    "query": "bangladesh \"cyclone\"",
+    "paper": "theAsianAge",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": [
+      "https://dailyasianage.com/news/41076/thousands-evacuated-as-cyclone-hits-south-india",
+      "https://dailyasianage.com/news/17561/horrors-of-april-29-cyclone-1991-in-ctg-recalled",
+      "https://dailyasianage.com/news/7286/poor-condition-of-ctg-city-protection-embankment",
+      "http://dailyasianage.com/news/41182/cyclone-vardah-batters-south-india-coast-killing-four",
+      "https://dailyasianage.com/news/36164/shilpacharya-zainul-abedin-gallery-inaugurated",
+      "https://dailyasianage.com/news/22976/flood-hits-lalmonirhat--kurigram-nilphamari",
+      "https://dailyasianage.com/news/33118/solar-power-dents-poverty-in-rural-bangladesh",
+      "https://dailyasianage.com/news/25096/new-tourism-destinations--in-bangladesh",
+      "https://dailyasianage.com/news/20962/in-the-green-landscape-of-ecocriticism",
+      "https://dailyasianage.com/news/20962/in-the-green-landscape-of-ecocriticism"
+    ]
+  },
+  {
+    "query": "bangladesh \"cyclone\"",
+    "paper": "theAsianAge",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "https://dailyasianage.com/news/63353/cyclones-and-storm-surges-in-bangladesh",
+      "https://dailyasianage.com/news/58803/chittagong-to-mourn-138000-cyclone-deaths-today",
+      "https://dailyasianage.com/news/95102/cyclone-sidr",
+      "https://dailyasianage.com/news/79111/bangabandhu-contributed-to-build-nation",
+      "https://dailyasianage.com/news/56747/17-april-1971-in-the-light-of-history",
+      "https://dailyasianage.com/news/97947/colder-than-usual-winter-in-bangladesh-foretasted",
+      "https://dailyasianage.com/print-news/43982",
+      "https://dailyasianage.com/news/82550/canada-gives-210000-in-flood-aid",
+      "https://dailyasianage.com/news/92186/tetulia-river-devours-newly--constructed-primary-school",
+      "https://dailyasianage.com/news/97488/rohingya-crisis-and-seasoned-jihadis",
+      "https://dailyasianage.com/news/64561/what-dhaka-is-talking-about",
+      "https://dailyasianage.com/print-news/64561",
+      "https://dailyasianage.com/news/43982/army-more-prepared-than-ever-to-resist-evil-force--pm",
+      "https://dailyasianage.com/news/91661/climate-change-in-bangladesh-causes-effects-and-suggestions",
+      "https://dailyasianage.com/news/69994/two-virgin-sea-beaches-in-bangladesh"
+    ]
+  },
+  {
+    "query": "bangladesh \"cyclone\"",
+    "paper": "theAsianAge",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh \"cyclone\"",
+    "paper": "theAsianAge",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://dailyasianage.com/news/204414/rash-mela-cancelled-for-cyclone-bulbul",
+      "https://dailyasianage.com/news/204473/numbers-to-contact-for-bulbul-emergency",
+      "https://dailyasianage.com/news/207625/sundarbans-the-natural-shield-of-bangladesh",
+      "https://dailyasianage.com/news/204282/cyclone-bulbul-turns-stronger",
+      "https://dailyasianage.com/news/204474/sadarghat-launch-terminal-wears-deserted-look",
+      "https://dailyasianage.com/news/195388/uno-shiuli-hari--a-brave-woman",
+      "https://dailyasianage.com/news/190193/sir-abed-retires-as-brac-chairperson",
+      "https://dailyasianage.com/news/167209/prospects-and-challenges-of--bangladesh-delta-plan",
+      "https://dailyasianage.com/news/204396/biodiversity-at-risk-in-nijhum-dwip",
+      "https://dailyasianage.com/news/203209/bhashan-char-project-ready-to-house-1-lakh-rohingyas",
+      "https://dailyasianage.com/news/202402/sonadia-island-a-new-tourism-city"
+    ]
+  }
+]

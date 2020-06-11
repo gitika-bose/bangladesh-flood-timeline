@@ -1,0 +1,252 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "cyclone",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 15,
+          "text": "2019-05-03"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "2019-04-26",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_50": {
+          "value": "2019-05-05",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 167,
+          "text": "Cyclone Fani"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "coastal_cyclone",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 930,
+          "text": "14 villages were inundated as flood dams broke due to a tidal surge"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1059,
+          "text": "400,000 people from Bangladeshi coastal villages have been taken to shelters"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_36": {
+          "value": "400000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1091,
+          "text": "coastal villages"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    }
+  ],
+  "relations": [
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|930,996",
+        "s1v1|e_49|15,24"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|1059,1134",
+        "s1v1|e_49|15,24"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  ],
+  "filename": "dhakaTribune_data_88f7a057-671c-4db0-b059-20bd525e667f.txt",
+  "text": "Date Published:2019-05-03 00:00:00      \nHundreds of thousands more people in West Bengal state have also been given orders to flee At least two people died Friday as Cyclone Fani, the biggest in years, slammed into eastern India, sending coconut trees flying and cutting off power, water and telecommunications. The monster weather system made landfall at the holy city of Puri in the morning, with winds gusting at up to 200km per hour. In recent days authorities in Odisha state, where 10,000 people perished in a 1999 cyclone, evacuated more than a million people as they worried about a possible 5ft storm surge sweeping far inland. One man died of a heart attack in one of several thousand shelters set up, while another was killed by a falling tree on Friday, authorities said. Media reports put the death toll at up to six, but officials could not confirm this. Authorities in Bangladesh, where Fani was headed, said that 14 villages were inundated as flood dams broke due to a tidal surge.  Disaster management spokesman Mohammad Jahir told AFP that 400,000 people from Bangladeshi coastal villages have been taken to shelters. Hundreds of thousands more people in India's West Bengal state have also been given orders to flee. Local airports have been shut, while train lines and roads were closed. \"It just went dark and then suddenly we could barely see five metres in front of us,\" said one resident in Puri. \"There were the roadside food carts, store signs all flying by in the air,\" the man told AFP from a hotel where he took shelter. \"The wind is deafening.\" Another witness said he saw a small car being blown along a street by the winds and then turned over. After pounding Puri and Odisha state capital Bhubaneswar and heading north-eastwards, losing strength as it goes, authorities were battling to remove fallen trees from roads and to restore phone and internet services. On Saturday Fani was expected in West Bangal's capital Kolkata, a city home to 4.5 million people. \"We are monitoring the situation 24x7 and doing all it takes. Be alert, take care and stay safe for the next two days,\" West Bengal's chief minister Mamata Banerjee tweeted. The winds were felt as far away as Mount Everest, with tents blown away at Camp 2 at 21,000ft and Nepali authorities cautioning helicopters against flying. Meanwhile a baby was born near Bhubaneswar just as the cyclone passed through. \"We are calling her Lady Fani as she was born when the hospital was hit,\" a spokesperson for the hospital told the Press Trust of India. Cyclone Fani makes landfall in eastern India: Met Office https://t.co/XGL0Ldd19a 'Total destruction' Meteorologists have warned of the \"total destruction\" of thatched houses, the uprooting of power and communication poles, the \"flooding of escape routes\" and damage to crops in some areas. Some 3,000 shelters in schools and government buildings were set up to accommodate more than a million people in Odisha, with families including women and babies huddled on the floor. Ports have been closed but the Indian Navy has sent six warships to the region while India's biggest oil and gas producer ONGC evacuated almost 500 workers from offshore rigs. Measures were also being taken to protect the 850-year-old Jagannath temple in Puri, a Hindu holy town normally thronging with pilgrims. AFP correspondents in the resort said it was a near ghost town with trees already torn down and water levels rising even before Fani's awesome arrival. Electricity and water supplies were already cut for much of the city of 200,000 people. Metal shutters covered store fronts and sand blew up the streets from the nearby beach. Only a few police vehicles and tractors trying to pull trees or push aside collapsed walls could be seen. Media reports said hundreds of trees were uprooted at the nearby Chilika Lake just south of Puri in the first violent winds. \"We will just stay for the day until the cyclone has passed. We are not scared but we feel safer here,\" said Krishna Chandra Sahu, 43, sheltering with seven members of his family in a hotel. "
+}

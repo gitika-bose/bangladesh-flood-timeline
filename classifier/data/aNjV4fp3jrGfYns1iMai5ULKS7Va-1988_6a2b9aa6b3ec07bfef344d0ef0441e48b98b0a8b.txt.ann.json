@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1988_6a2b9aa6b3ec07bfef344d0ef0441e48b98b0a8b.txt",
+  "text": "Bangladesh Needs Commitment, Not Better Image\n1988-12-07T05:00:00.000Z\nTo the Editor:\nI am writing in response to ''Bangladeshi - and Proud,'' the Nov. 17 Op-Ed article by Fakhruddin Ahmed.\nAs a fellow Bangladeshi, I share his emotion and pride in our Bengali heritage. I also agree with him that ''it is not easy being a Bangladeshi.'' Unfortunately, Mr. Ahmed's ''difficulty'' seems to rise mainly from his perception of the image of Bangladesh abroad, rather than the daily hardships faced by the millions living in poverty in Bangladesh. My pride in my country stems from the struggle of these millions and their love of life, which manifests itself in spite of all the rigors.\nThese are the same people who earned the freedom of Bangladesh from Pakistan through a war of liberation which took the lives of over one million. We Bangladeshis consider this to be a war fought against an occupying power and therefore do not refer to it as a ''civil war,'' as Mr. Ahmed has chosen to do. One should not forget that without this struggle there would be no Bangladesh and hence no cause for national pride.\nBangladesh, situated on the vertex of the Bay of Bengal, bears the wrath of nature in the form of floods and cyclones. True, it is a land of great rivers and great poets and it has a ''fine cuisine,'' but the majority of its population of 110 million has to be content wth meals of salted sticky rice known as pantha bhat. The reason for this large population ''jammed into an area the size of Wisconsin'' is hardly that ''neighboring Indians settled in droves . . . [ and ] stayed put'' in Bengal when it was a part of undivided India. Rather, it is to be found in the poverty and inadequate education that hinders the effective implementation of a population-control program. Population is growing at a rate of 2.4 percent a year and the World Bank projects it to reach 141 million by the year 2000 -an increase of 31 million in 12 years.\nRecent floods in Bangladesh have caused the world to take notice of the difficulties facing our country. The annual floods are directly related to the deforestation of the upstream regions in India and Nepal and the gradual accumulation of silt on the riverbeds in Bangladesh. The need for an effective flood-control program is obvious. But the ability to execute such a program demands sincere commitment.\nSince its independence in 1971, Bangladesh has witnessed many political upheavals, bloody coups, the demise of a secular democratic process and the emergence of the army as the main power broker. The present Government consists of instant politicians from the army and wealthy business communities who lack the technical expertise as well as a basic understanding of people's need.\nIt has also been incapable of challenging neighboring countries, especially India, to shoulder their part of the flood control problem. All these factors combine to make serious commitment difficult. Without grass-roots effort on our part, flood control will be ever elusive. At the same time this effort has to be complemented with international monetary and technical assistance and policy advice on the governmental level.\nMr. Ahmed may fear this request for international assistance to be yet another example of behaving ''as though the world owes us a living.'' I would think that the concern about the lives of 110 million people should surely supersede the concerns about our image. Besides, ths gradual degradation of the global environment is forcing us to realize that the problem of Bangladesh is related to the long-term ecological balance and survival of life, human or otherwise, on this planet. Therefore the problem concerns all humanity.\nBangladesh has borne its share of suffering. The solution is not to wait for a ''few flood-free years'' or for ''our genius'' to make us rebound. The solution lies in our understanding of problems and acceptance of responsibilities. Naturally we take pride in our heritage, but our ''poetry, songs and cuisine'' cannot justify compla-cency. DIPEN BHATTACHARYA Durham, N.H., Nov. 21, 1988"
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_3bdf6c65-3300-4e34-991c-3bd7bdac581a.txt",
+  "text": "Date Published:2020-04-03 00:00:00      \n'The man was admitted to the isolation ward in Mohammadpur Upazila Health Complex' Two people died with symptoms similar to that of novel coronavirus (Covid-19) including fever and respiratory problems in Magura and Satkhira on Friday.  In Magura, a man with coronavirus symptoms died while undergoing treatment at Faridpur Medical College Hospital.  The 48-year-old from Mohammadpur upazila of Magura district was suffering from fever and respiratory problems. He was admitted to the hospital on Thursday night and died early on Friday, reports our correspondent Mazharul Haque Lipu.  \"The man was admitted to the isolation ward in Mohammadpur Upazila Health Complex,\" said Magura Civil Surgeon Pradeep Kumar Saha adding, \"We have sent his samples to the Institute of Epidemiology, Disease Control and Research (IEDCR) to test for Covid-19.\"  Following the death, families around the deceased's home have been put under lockdown, said Mohammadpur Upazila Nirbahi Officer Mizanur Rahman. In Satkhira, a college student with coronavirus symptoms died in his home in Sadar upazila. The 20 year-old male, had been suffering from fever, respiratory problems as well as aches all over his body for seven days, said mother of the deceased. Contacted, District Civil Surgeon Dr Husain Shawkat said: \"We have collected samples from the deceased and will send to the Institute of Epidemiology, Disease Control and Research (IEDCR) to test for Covid-19.\""
+}

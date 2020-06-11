@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_b1869fff-db3f-482c-885b-27a8957b5934.txt",
+  "text": "Date Published:2020-04-17 00:00:00      \nThe deaths occurred between Thursday night and on Friday At least, 10 people died with symptoms similar to those of the novel coronavirus (Covid-19) in eight districts between Thursday night and Friday. Meanwhile, members of the health department collected their samples and sent them to the nearest PCR labs to test for coronavirus. In Khulna, two people including a child, suffering from a respiratory problem, died while undergoing treatment at the Flu Corner of Khulna Medical College Hospital on Friday morning, said Flu Corner's Spokesperson Dr Soilendranath Biswas. In Rangamati, an 18-year-old, suffering from fever, cough, and respiratory complications, died while undergoing treatment at the isolation unit of Baghaichhari Upazila Health Complex on Friday morning, confirmed Upazila Health Officer Dr Iftekhar Ahmed. In Naogaon, a 60-year-old man with respiratory problems died in the town on Friday morning, said Civil Surgeon Dr Akondo Md Akhtaruzzaman Alal.  In Narsingdi, a 50-year-old man, suffering chest pains, died at his home in Belabo upazila on Friday, said Belabo Upazila Health and Family Planning Officer Nazrul Islam. In Chandpur, two people, suffering from respiratory problems, died in Sadar and Matlab Uttar upazila Thursday night, confirmed District Civil Surgeon Dr Md Shakhawat Ullah.  In Habiganj, a 17-year-old girl, suffering from cough, cold and fever, died in Madhabpur upazila on Thursday night, said Madhabpur police station Officer-in-Charge Iqbal Hossain. In Bogra, a 42-year-old rickshaw puller suffering from fever and cold died at the isolation unit of Mohammad Ali Hospital Thursday night, said Residential Medical Officer (RMO) Dr Shafiq Amin Kajol. In Rangpur, a 29-year old man who returned from Narayanganj recently, died at his home in Pirgonj upazila on Friday. The man was suffering from fever, cough and breathing problems, said Upazila Nirbahi Officer (UNO) TMA Momin."
+}

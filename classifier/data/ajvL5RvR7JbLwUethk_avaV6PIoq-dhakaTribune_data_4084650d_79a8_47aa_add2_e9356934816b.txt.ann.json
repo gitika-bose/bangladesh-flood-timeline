@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_4084650d-79a8-47aa-add2-e9356934816b.txt",
+  "text": "Date Published:2020-03-18 00:00:00      \nRAB also seized huge jehadi books, leaflets and other Islami books, a mobile phone and a SIM card from their possession A special team of Rapid Action Battalion (RAB) in a drive arrested three members including Assistant Nayek of banned militant outfit 'Allahar Dal' from the city on Monday night. The arrested were identified as Md Rakib Hasan, 24, son of Abdur Razzak Biswas also an assistant nayek of Jessore 'Allahar Dal', resident of Chougacha upazila, Ashikuzzaman Ashikul, 36, son of Ali Hossain and Shafiqul Islam, 39, son of Mofazzel Hossain of Jhikargachha upazila under the district. Acting on a tip-off, a special operation team of the RAB-6 conducted the drive in No-4 Food Ghat Jame Mosque area under Ward no-21 in the city around 11.30 pm and nabbed the trio while they loitering there, said a press release issued by RAB-6 yesterday.  The elite force also seized huge jehadi books, leaflets and other Islami books, a mobile phone and a SIM card from their possession. During interrogation, the detained persons confessed that they have been participating in secret meetings regularly and collecting new members and money for running their activities in the area since long, the release said, adding that the RAB members arrested a total of 12 'Allahar Dal' members from the city in last 10 months."
+}

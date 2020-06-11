@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_034d1a13-5b86-408d-9e70-ae86268229a7.txt",
+  "text": "Date Published:2020-03-22 00:00:00      \nOn March 14, Ariful Islam was sentenced to one year in jail, soon after a mobile court set up at the Kurigram DC's office, ended the trial proceedings, in the dead of night The case for the questionable arrest, incarceration, and torture of Dhaka Tribune journalist Ariful Islam is yet to be recorded, despite three days having passed since the case was filed with Kurigram Sadar police station. On Thursday, Ariful Islam filed a case against former Kurigram Deputy Commissioner Sultana Pervin, Senior Assistant Commissioner (RDC) Nazim Uddin, AC Rintu Biswas Chakma, and AC SM Rahatul Islam among 35/40 other unnamed individuals. When contacted to know the reason for dilly dallying in recording the case, Kurigram Sadar police station Officer-in-charge (OC) Mahfuzar Rahman said: \"We are waiting to get the permission of higher authorities to record the case.\" Meanwhile, Ariful was released from Kurigram General Hospital on Saturday  as his health condition has improved since his being admitted to hospital with severe injuries on March 15. Kurigram General Hospital Residential Medical Officer Dr Redwan Ferdous said: \"Ariful is now completely out of danger. For this reason, hospital authorities released Ariful with proper prescriptions.\"    On March 14, Ariful Islam, Kurigram district correspondent of Dhaka Tribune and Bangla Tribune, was sentenced to one year in jail, soon after a mobile court set up at the Kurigram DC's office, ended the trial proceedings, in the dead of night. "
+}

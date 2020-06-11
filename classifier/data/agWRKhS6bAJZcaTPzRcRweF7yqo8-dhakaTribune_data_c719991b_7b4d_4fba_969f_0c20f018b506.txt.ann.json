@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_c719991b-7b4d-4fba-969f-0c20f018b506.txt",
+  "text": "Date Published:2020-03-21 00:00:00      \nThe identities of the deceased could not be confirmed immediately At least 12 people were killed and seven others injured in a collision between a truck and a human haulier in Lohagara upazila of Chittagong.  The incident took place on the Chittagong-Cox's Bazar Highway around 9:30pm on Saturday.  The identities of the deceased could not be confirmed immediately, confirmed Lohagara Upazila Nirbahi Officer Tausif Ahmed. Meanwhile, the injured were taken to Chittagong Medical College Hospital.  "
+}

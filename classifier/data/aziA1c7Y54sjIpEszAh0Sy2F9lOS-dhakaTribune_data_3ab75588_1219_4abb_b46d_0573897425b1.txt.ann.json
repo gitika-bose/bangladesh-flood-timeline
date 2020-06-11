@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_3ab75588-1219-4abb-b46d-0573897425b1.txt",
+  "text": "Date Published:2020-02-22 00:00:00      \nThe amount was 3,448 tons in 2016, 3972 tons in 2017 and 5,080 tons in 2018 Ilish catch in Shariatpur has increased substantially over the last couple of years thanks to the government's efforts, including its ban on catching brood and mother Ilish. Last year (2019 calendar year) fishermen netted 5,240 tons of Ilish, a 61.72% rise from 3,240 tons in 2015, according to the local office of the Department of Fisheries (DoF). The amount was 3,448 tons in 2016, 3972 tons in 2017 and 5,080 tons in 2018, it said. Shariatpur Fisheries Officer Abdur Rouf said that they worked hard for protecting the brood and mother Ilish during the reproductive season following the instruction of the prime minister and the ministry concerned. The district administration helped them a lot, he said. This increase is the outcome of the government plan, he said and added that the procurement of Ilish there was increasing every year.  Local fishery officials said the drive against netting mother Ilish was the main reason behind the success. Last year 1,366 people were panelized in 293 such drives, they informed. According to the DoF, fishermen catch Ilish in  a 69-kilometre area (covering 15,840 hectares of land) of the Padma and the Meghna rivers in Shariatpur.  About 16,355 people are directly involved with Ilish catching, said the DoF. Sirajul Islam, 45, catches Ilish fish in the Padma river. He said that the increased catch of Ilish brought smiles to the fishermen there. \"I experienced huge catches of Ilish in the region when I was young. But the availability of the fish was declining gradually with the passage of time,\" Shirazul said. \"However, the decline in production saw a u-turn and started to rise in the last couple of years,\" he said and added that it became possible due to the strict policy of the government. The fisherman said that they were getting good prices in the market for their catches.  Manik Hossain, an Ilish trader, said the increased production of Ilish raised the income of traders and fishermen and helped them overcome existing financial crisis. The Ilish netting season starts from July and continues until October. The authorities oversee and protect netting of brood Ilish between November to June.  March and April are the banned months for catching any kind of fishes in  20 kilometres of Shariatpur region, as it is the reproductive period for the Ilish.  During the banned period, the government helps the fishermen by providing 20-30 kg of rice to each of them."
+}

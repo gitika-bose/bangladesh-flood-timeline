@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_d00ae9e9-5cb4-4083-8eaf-ef41a6ebd680.txt",
+  "text": "Date Published:2019-09-05 00:00:00      \nSwedish Ambassador to Dhaka, Charlotta Schlyter, left the event after waiting for the state minister for about two hours In a bizarre incident, diplomats and government officials concerned faced an exhausting situation at an event in Dhaka as they were forced to sit idle for three hours, waiting for chief guest, State Minister for Disaster Management and Relief Md Enamur Rahman. Not only the junior minister, but Senior Secretary Md Shah Kamal of the ministry was also late by an hour to the event titled \"Enhancing Earthquake Resilience: MoU Signing Cemermony\" held at Department of Disaster Management (DDM) in Mohakhali yesterday. The event was scheduled for 11am yesterday and was expected to end at 1:30pm. But it started after 2pm. Shockingly, Swedish Ambassador to Dhaka, Charlotta Schlyter, left the event after waiting for the state minister for about two hours. Among other dignitaries, DFID-Bangladesh Head Jane Edmondson, UNDP Bangladesh Resident Representative Sudipto Mukerjee, and DDM Director General Shahadat Hossain were present at the event. The mayors of Tangail, Sunamganj, and Rangamati municipalities, and Mostafizur Rahman, on behalf of Rangpur city mayor, also attended the program along with a number of high ranking government officials, to face the schedule debacle. When contacted, Selim Hossen, public relations officer of the ministry, said: \"There was an urgent program for the state minister at Savar [in the morning] which is why he was late.\" MoU for earthquake preparedness Considering the vulnerability to earthquakes in Rangpur, Tangail, Sunamganj, and Rangamati, the DDM part of the National Resilience Program (NRP) signed memorandums of understanding (MoU) at Dhaka's DDM office yesterday. The Project Director of the NRP:DDM part and the mayors of Rangpur City Corporation and Tangail, Sunamganj, and Rangamati municipalities signed four separate MoUs on behalf of their respective agencies. Under the MoUs, the municipalities will work closely with project representatives in revisiting existing assessments and conducting vulnerability assessments to identify the major hazards and risks as well as appropriate options for building capacities of the institutions, including all Disaster Management Committees (DMCs), volunteers and the at-risk communities. State Minister Md Enamur Rahman said: \"A gap remains in developing structural responses to earthquakes. Bangladesh can learn a lot from Japan and becoming zero earthquake loss is our goal.\" UNDP Bangladesh Resident Representative Sudipto Mukerjee said: \"The destructive and deadly hazards associated with earthquakes pose a real and serious threat to the lives of people, property damage, economic growth, and development of the country. The earthquake risk for Bangladesh is doubly high when one considers its rapid urbanization.\" National Resilience Program is a unique collaboration among the Bangladesh Government and UNDP, UN Women and United Nations Office for Project Services (UNOPS) that provides strategic support to develop national capacity to keep pace with the changing nature of disasters."
+}

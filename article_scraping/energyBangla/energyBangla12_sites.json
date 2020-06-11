@@ -1,0 +1,54 @@
+[
+  {
+    "query": "bangladesh \"cyclone\"",
+    "paper": "energyBangla",
+    "date_range": [
+      "1/1/2015",
+      "12/31/2015"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh \"cyclone\"",
+    "paper": "energyBangla",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh \"cyclone\"",
+    "paper": "energyBangla",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "http://energybangla.com/climate-change-adaptation-and-development-in-bangladesh-social-dimensions-in-focus/",
+      "http://energybangla.com/chittagong-coxs-bazaar-to-hoist-signal-no-7/"
+    ]
+  },
+  {
+    "query": "bangladesh \"cyclone\"",
+    "paper": "energyBangla",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh \"cyclone\"",
+    "paper": "energyBangla",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "http://energybangla.com/cyclone-bulbul-weakens-signal-number-3/",
+      "http://energybangla.com/cyclonic-storm-fani-likely-to-hit-khulna-this-afternoon/",
+      "http://energybangla.com/climate-change-importance-for-children-in-bangladesh/"
+    ]
+  }
+]

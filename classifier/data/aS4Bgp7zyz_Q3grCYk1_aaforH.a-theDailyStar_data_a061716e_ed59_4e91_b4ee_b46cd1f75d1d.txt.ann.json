@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_a061716e-ed59-4e91-b4ee-b46cd1f75d1d.txt",
+  "text": "Date Published:2019-12-03 00:00:00      \nPresident Abdul Hamid today urged the members of Bangladesh Army to work for the welfare of common people apart from ensuring the country's security and sovereignty. \n\t\"All power belong to people in a democratic government system. All the activities of the State and government are carried out for the welfare of people. You, therefore, should give the highest priority to public interest and their welfare while performing your duties,\" he said. \n\tThe president was delivering his speech at the 6th reunion parade of the Signal Corps of Bangladesh Army at Jashore cantonment. \n\tHe also reminded them that people's hard-earned money is spent for the development of the country and meet up all the expenses of the State. \"So, you'll have to stand beside people during their need apart from ensuring the national security.\" \n\tHamid hoped that the members of Bangladesh Army will follow the national integrity strategy while performing their duties and they will do that with honesty, integrity and sincerity. \n\tHamid, also the Commander-in-Chief of the Armed Forces Division (AFD), paid tributes to Father of the Nation Bangabandhu Sheikh Mujibur Rahman and the martyrs who sacrificed their lives in the 1971 Liberation War and the four national leaders who were killed in jail. \n\tHighlighting the government's steps to build the Bangladesh Army as a modern, time-befitting and strong one, the president said the present government has already taken different initiatives under Bangladesh Armed Forces Goal-2030. \n\tThe president said two Signal Battalions, three Static Signal Company in Barisal, Sylhet and Ramu and four Brigade Signal Company have been established throughout the country as a continuation of overall development of the Army. \n\tFor the modernizstion of communications and information technology, the Army has adopted plans to incorporate cyberwarfare groups, electronic warfare units, sitcom units and strategic transmission units into the army under the Forces Goal-2030. \n\t\"These steps will further strengthen the Army's military capabilities and communication capabilities,\" he added.\n\tLauding the contributions of the Army members both at home and abroad, he said its members have shown remarkable efficiency in global arena that upheld the country's image abroad.  \"You'll have to continue this contribution in the future for the country as well as the nation,\" he said.\n\tMember of Parliament, Chief of Army Staff General Aziz Ahmed, senior officials of the government and Bangladesh Army were, among others, present on the occasion. \n\tSecretaries concerned to the president were also present during the programme."
+}

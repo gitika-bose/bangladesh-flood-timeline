@@ -1,0 +1,168 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "cyclone",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 15,
+          "text": "2020-05-20"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "2020-05-20",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_50": {
+          "value": "2020-05-20",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 52,
+          "text": "cyclone Amphan is set to make landfall on"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "coastal_cyclone",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 94,
+          "text": "Bangladesh coast"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    }
+  ],
+  "relations": [],
+  "filename": "dhakaTribune_data_f26f616a-da32-4cae-a6fd-78b335477ba4.txt",
+  "text": "Date Published:2020-05-20 00:00:00      \nConcern as cyclone Amphan is set to make landfall on Bangladesh coast on Wednesday evening Hundreds of Rohingyas who were recently rescued from the Bay of Bengal are safe and in a cyclone shelter at Bhashan Char at the time, the state minister for disaster management and relief said on Wednesday. Addressing an online press briefing from his office at the secretariat in Dhaka, Dr Enamur Rahman said: \"There are 120 cyclone shelters in Bhashan Char. However, all the Rohingya people currently living in the char have been taken to one of them.\" Bangladesh Navy personnel are taking care of them, he said, adding that all necessary facilities were being provided to the refugees. Some 308 Rohingyas were sent to live in Bhashan Char, an island off the coast of Noakhali, earlier this month after they were rescued from boats in the sea during their failed illegal attempt to travel to Malaysia on different occasions. The government plans to keep the refugees, who were among the 1.1 million living in the sprawling and cramped camps outside the town of Cox's Bazar, there permanently. Meanwhile, different quarters have expressed concern over the authorities moving the Rohingyas on the \"flood-prone island\" to storm shelters as cyclone Amphan, the strongest recorded in the region, is set to make landfall on Bangladesh coast on Wednesday evening. The eastern edge of the storm headed for Bangladesh and neighbouring India is also expected to batter Bhashan Char island. \"Each block has a cyclone centre and they have been moved to the centre,\" Bimal Chakma, a senior official of the Refugee Relief and Repatriation Commission, told Reuters. The United Nations has called for the refugees to be moved to the camps in Cox's Bazar. Although the Cox's Bazar settlement, the world's largest refugee camp, is expected to escape the worst of the storm, the danger level has been raised to nine from six, signifying a severe threat. Heavy rain and high winds lashed the flimsy shelters, built on hills prone to landslides, and red flags were raised to warn refugees to stay inside. Aid workers say the cyclone could hamper efforts to control the novel coronavirus outbreak in the camps, which reported their first infections last week. \"It is already a huge challenge to contain the spread of coronavirus amongst the Rohingya refugees living in over-crowded camps, sharing water and toilet facilities,\" said Dipankar Datta, the country director of charity Oxfam in Bangladesh. Water-borne and other infections were also a threat, he added in a statement. Bangladeshis and Rohingya are among thousands of volunteers trained in emergency response measures who received life-jackets and torches. \"We are using megaphones and the mosque microphones to warn people,\" said Sabbir Ahmed, a 24-year-old Rohingya volunteer. Refugees have been told to head for madrasas and schools if the storm destroys shelters, he told Reuters by telephone, adding: \"If it hits the camps there will be huge destruction.\""
+}

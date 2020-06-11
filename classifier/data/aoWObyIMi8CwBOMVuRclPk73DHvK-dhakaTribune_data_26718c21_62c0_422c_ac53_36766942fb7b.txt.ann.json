@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_26718c21-62c0-422c-ac53-36766942fb7b.txt",
+  "text": "Date Published:2020-04-04 00:00:00      \nRMCH Medicine Department Associate Prof Azizul Haque Azad confirmed the matter at a press briefing, held at the hospital on Saturday Rajshahi Medical College Hospital (RMCH) is currently treating 12 people, including one of its nurses, who have been showing coronavirus symptoms.  RMCH Medicine Department Associate Prof Azizul Haque Azad confirmed the matter at a press briefing, held at the hospital on Saturday. \"Of the patients, six are male and six are female. Most of them shall be released very   soon as their condition has improved.\" said Prof Azizul Haque Azad. He said three males among them will be under close observation while the nurse has been kept in institutional isolation at the hospital as she has been suffering from fever for the last ten days and has other coronavirus symptoms.  On April 1, a test laboratory was installed at the RMCH and samples of eight persons were sent to the lab as of Friday.  Five samples were tested at the RMCH laboratory so far and all of them tested negative, said hospital sources.  Rajshahi District Administration sources on Saturday said around 2,959 people returned home to the district since March 1. Among them, 1,080 were sent to home quarantine. Deputy Commissioner Md Hamidul Haque said: \"We are working to collect samples from all upazilas of the district. We are also ensuring that no patient remains untreated, as well as making sure no unemployed people remain unfed during the shutdown.\" In Bangladesh, until Saturday, the deadly coronavirus has infected at least 70 people and killed eight, according to health authorities."
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_62ad4658-ba42-4035-8cd3-fd3a9da9f054.txt",
+  "text": "Date Published:2020-03-11 00:00:00      \nSince late December last year, 4,400 deaths have been recorded around the world The World Health Organization (WHO) is characterising the outbreak of the new coronavirus as a pandemic, its Director General Tedros Adhanom Ghebreyesus said on Wednesday. \"We are deeply concerned both by the alarming levels of spread and severity and by the alarming levels of inaction. We have therefore made the assessment that Covid-19 can be characterised as a pandemic,\" he told a news conference. The coronavirus, which emerged in China in December, has spread around the world, halting industry, bringing flights to a standstill, closing schools and forcing the postponement of sporting events and concerts. The WHO declared a public health emergency of international concern, its \"highest level of alarm,\" on January 30 when there were fewer than 100 cases of Covid-19 outside China and eight cases of human-to-human transmission of the disease.  BREAKING \"We have therefore made the assessment that #COVID19 can be characterized as a pandemic\"-@DrTedros #coronavirus pic.twitter.com/JqdsM2051A Now there are more than 121,000 cases in 121 countries and territories, while over 4,400 people have died, with the numbers expected to climb. China remains the hardest-hit overall with more than 80,000 cases and over 3,000 deaths. The WHO no longer has a category for declaring a pandemic, except for influenza. WHO officials have signalled for weeks that they may use the word \"pandemic\" as a descriptive term, but stressed that it does not carry legal significance. The novel coronavirus is not the flu. Under its previous system, the Geneva-based agency declared the 2009 H1N1 swine flu outbreak a pandemic. It turned out to be mild, leading to some criticism after pharmaceutical companies rushed development of vaccines and drugs."
+}

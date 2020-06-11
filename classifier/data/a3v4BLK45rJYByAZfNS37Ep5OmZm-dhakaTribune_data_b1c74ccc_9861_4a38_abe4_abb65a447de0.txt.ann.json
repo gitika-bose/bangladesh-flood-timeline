@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_b1c74ccc-9861-4a38-abe4-abb65a447de0.txt",
+  "text": "Date Published:2019-11-26 00:00:00      \nAll the preparations have already been completed for the tests, UGC says The cluster admission test of seven agricultural universities for 2019-2020 academic session will be held on November 30 as per the schedule. The Bangladesh University Grants Commission (UGC) announced it on Tuesday, reports UNB. The seven universities are Bangladesh Agricultural University (BAU), Bangabandhu Sheikh Mujibur Rahman Agricultural University (BSMRAU), Sher-e-Bangla Agricultural University, Sylhet Agricultural University (SAU), Khulna Agricultural University (KAU), Chittagong Veterinary and Animal Sciences University (CVASU), and Patuakhali Science and Technology University (PSTU). All the preparations have already been completed for holding the entry test, the UGC said, seeking support and cooperation from all to execute the cluster admission test system to reduce the sufferings and financial losses of the candidates and fulfill people's long-cherished expectations."
+}

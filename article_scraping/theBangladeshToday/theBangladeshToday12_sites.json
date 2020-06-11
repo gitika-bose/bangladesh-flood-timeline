@@ -1,0 +1,13 @@
+[
+  {
+    "query": "bangladesh \"cyclone\"",
+    "paper": "theBangladeshToday",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://thebangladeshtoday.com/?p=14865"
+    ]
+  }
+]
