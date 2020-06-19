@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_8cfd0427-ee1e-46d6-86dd-dd592561e681.txt",
+  "text": "Date Published:2019-02-28 00:00:00      \n Indian Army contingent comprising 170 personnel will participate in a joint training exercise Bangladesh and India will hold a joint army exercise from March 2 (Saturday) till March 15 at the Bangabandhu Senanibas (BBS) Cantonment in Tangail. \"The exercise is aimed to strengthen and broaden the aspects of interoperability and cooperation between Bangladesh and Indian Army and enrich from each other's experience while carrying out counter insurgency or counter terrorism operations,\" said a press release issued by the Indian High Commission in Dhaka on Thursday.The holding of such joint exercises is symbolic of the strong defence cooperation between the two countries, it said.  As in the past, Indian Army contingent comprising 170 personnel will participate in a joint training exercise \"SAMPRITI-8\" in Bangladesh from March 02-15, said the release, adding that the Indian Army contingent will arrive at the Hazrat ShahJalal International Airport on Friday in a special Indian Air Force aircraft.For the first time in the history of SAMPRITI series exercises, both armies will undertake exercises related to relief/response operations tied to natural disaster like earthquake, flood etc., it said.  The joint exercise was first held in Assam, India in 2011 and since then, both countries have been hosting the exercise alternatively. Last year, the training exercise was conducted at Counter Insurgency & Jungle Warfare School, Vairengte in Mizoram. After completion of the exercise, the Indian Army contingent will return to India on March 16."
+}

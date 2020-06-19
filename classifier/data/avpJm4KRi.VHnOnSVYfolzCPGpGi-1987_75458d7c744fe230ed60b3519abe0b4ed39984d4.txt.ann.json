@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1987_75458d7c744fe230ed60b3519abe0b4ed39984d4.txt",
+  "text": "World Hunger Found Still Growing\n1987-06-28T05:00:00.000Z\nDespite repeated international pledges to eliminate hunger in the world, the number of hungry, undernourished people now appears to be increasing at a quickening pace, according to new findings by a United Nations agency.\nMoreover, the increase in hunger is coming at a time when the world is awash with cheap surplus food, disproving the grim Malthusian prediction that rising population levels will eventually outrun the world's ability to feed its inhabitants.\nAt the 13th ministerial meeting of the United Nations World Food Council in Beijing this month, food and agriculture ministers from more than 30 countries received new estimates suggesting that the problem of hunger and malnutrition in parts of the developing world was getting worse.\nAccording to calculations made by the council and its parent body, the United Nations Food and Agriculture Organization, based in Rome, the number of hungry people in the world grew by 15 million from 1970 to 1980, to some 475 million, a rate of increase of about 1.5 million a year. The world's population is about five billion. Slower Growth Fuels Poverty\nIn the early 1980's, however, as economic growth slowed in the industrial nations, increasing the poverty of the developing nations, the pool of hungry people grew at a rate of nearly eight million a year, reaching 512 million in 1985, according to the World Food Council.\nDevelopment experts calculate that an economic slowdown in the industrial world reduces third-world income almost twice as much, with the poorest populations suffering even more, although hunger exists in virtually every nation.\nMost of those described as hungry by the council are not starving. But the council's chief of policy development, Uwe Kracht, said: ''They are chronically deprived of the food needed to enjoy an active, healthy life. Their lives are significantly impaired by poor diet.''\nEvidence that hunger is still increasing despite record harvests in many places comes from a World Bank study published last year. The study estimated the number of hungry people in 1980 at 340 million to 720 million and said the number had increased in the previous decade. 'A Reasonable Midpoint'\nThe lower figure referred to those with a calorie intake below that necessary ''to prevent serious health risks and stunted children,'' according to the study, and the higher number was based on a calorie intake allowing ''an active working life.''\n''Definitions of hunger vary,'' Dr. Kracht said, ''but our figure of 512 million seriously hungry people is a reasonable midpoint between the World Bank's low and high figures.''\nAlthough hunger effects the largest proportion of the population in the nations of black Africa with crippled economies, about two-thirds of the undernourished are found in the more densely populated Asian countries.\nChildren appear to be the prime victims. The World Food Council estimates that 40,000 children die of hunger-related causes every day. Rise in Child Mortality\nA recent report by Unicef, the United Nations Children's Fund, supported this broad picture. The report found that after a significant decline in infant and child mortality in the 1960's and 1970's, the decline slowed in the 1980's and in some countries has been reversed.\n''In the last two years, more children have died in India and Pakistan than in all the 46 nations of Africa together,'' Unicef said. ''In 1986 more children died in Bangladesh than in Ethiopia, more in Mexico than in the Sudan, more in Indonesia than in all eight drought-stricken countries of the Sahel.''\nThe continuing increase in the number of underfed people highlights the failure of at least two international campaigns to make a dent in hunger.\nIn 1974, Secretary of State Henry A. Kissinger backed a World Food Council commitment to eradicate hunger from the world within 10 years, saying that by 1980 ''not a single child should go to bed hungry.''\nThen, in opening the Second United Nations Development Decade in 1980, the General Assembly set the year 2000 as the new deadline for eliminating hunger. 'Pledges Look Empty'\n''Such pledges look empty now,'' said Alain Vidal Naquet, another council official.\nHunger is increasing at a time when food has probably never been as abundant or as cheap as it is today.\nThis month, the Director General of the Food and Agriculture Organization, Edouard Saouma, told his group's governing council that stocks of grains, sugar and butter were all at record levels and likely to increase, and even in the developing world food production was continuing to grow faster than the population.\nAs a result, countries like India and Indonesia, which were prone to disastrous famines, now export food even though increasing numbers of their people cannot afford enough to eat.\n''Thus the process of polarization in the global food system is continuing,'' Mr. Saouma said. Hunger is still on the rise in many developing countries because sections of the population, mainly marginal farmers, landless laborers and urban slum dwellers, are being left behind in the slow move toward economic development."
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_2e9efd09-ee89-49e6-a6d6-ffebf2810e04.txt",
+  "text": "Date Published:2019-08-05 00:00:00      \n'Fishes coming in from Swandeep, and Hatia are comparatively cheaper' Ilish prices in Chandpur fish markets are still steep, despite the booming supply of at least around 56,000 kilograms every day. According to the fishermen and traders, Ilish fishes have started coming in from the coastal areas in Hatia, Swandeep, Barisal, Bhola, and Charfashion at the beginning of this month. Jishan, who went to Chandpur from Comilla to buy the fish said, \"We thought that we'd get it at less price, but it's really expensive.\" Dhaka resident Tuhin reiterated that he expected the fish to be cheaper, and added, \"Since it's really expensive, I bought only five kilograms, each kilo for Tk 1,200.\" A worker at the fishing warehouse, Mofiz Uddin said, \"The good quality fish are expensive. Plus prices are always steep.\" Also Read- Ilish production up by nearly 160% in 15 yrs  \"Fishes coming in from Swandeep, and Hatia are comparatively cheaper,\" said Abul Hossain, the warehouse manager. Although, Ilish production has been less in the rivers in Chandpur, the prices of the ones that weigh one kilogram are selling for Tk 1,400 each. According to warehouse workers, Ilish weighing 200-500 grams are selling for Tk 18,000-20,000 per maund. The ones weighing 700-800 grams are selling for Tk 32,000 per maund, and the 1 kg to 1200 grams Ilish costs Tk 45,000-50,000 per maund, and up to Tk 1,200 per kilograms. The prices of per kilo of 1.5 kg Ilish is Tk 2,000. \"Local Ilish from Chandpur isn't really much available. The ones that are available are quite expensive. Even yesterday I sold a two kilogram fish at the rate of Tk 130,000 per maund,\" said warehouse merchant Matin Patwary. He recommended taking time before buying the fish as saltwater Ilish are a bit reddish, while famous Chandpur Ilish, known as 'Rupali Ilish [silver Ilish], is silver-ish in colour. District fisheries officer Asadul Baqi said that in a few days Ilish supplies will increase, and the prices are likely to go down then."
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_ca4709aa-ffac-456b-a27c-ce74557a6632.txt",
+  "text": "Date Published:2019-10-18 00:00:00      \nA member of BSF was killed after BGB members fired back in self defence Border Guard Bangladesh (BGB) has filed two cases against an Indian fisherman for trespassing through Rajshahi border and defying the government-imposed ban on mother ilish fishing, using electric net. Rajshahi Metropolitan Police Spokesperson and Senior Assistant Superintended of Police (ASP) Iftekhar Alam said: \"Charghat Border Outpost (BOP) Havildar Humayun Kabir filed the two cases with Charghat police station.\" The arrestee, Pranab Mandal --a resident of India's Murshidabad district -- was handed over to the court around 11am on Friday and later, sent to Rajshahi Central Jail by the court, the ASP added. BGB 1 Commander Lt Col Ferdous Ziauddin Mahmud said: \"A BGB patrol team of Charghat BOP managed to detain an Indian fisherman [Pranab], while two others escaped, after they trespassed through the border on Thursday. Also Read - Home minister: Peaceful solution in progress to resolve border fraught \"Soon after, four India's Border Security Force (BSF) members illegally made their way to confront the patrol team and demanded the release of the detained fisherman.\" He added: \"At that time, BGB patrol team informed them that both the detainee and the BSF men would be handed over to the BSF through a flag meeting as all of them were trespassing. \"The BSF members became nervous and opened fire on the BGB members, and tried to snatch the detained fisherman. When the BGB members returned fire in self defence, the BSF members retreated, during which one of them was killed and another wounded.\" Lt Col Ferdousalso said: \"A flag meeting between the two forces was held later in the afternoon over the incident, where both sides agreed to not let the matter escalate and take action peacefully through investigation.\" The detained fisherman was handed over to Charghat police station on Thursday night, the BGB official added. "
+}

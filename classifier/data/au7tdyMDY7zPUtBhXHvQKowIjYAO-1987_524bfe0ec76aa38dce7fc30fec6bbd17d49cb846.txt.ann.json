@@ -1,0 +1,304 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "cyclone",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 686,
+          "text": "In the floods"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 700,
+          "text": "of 1985"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_50": {
+          "value": "1985",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_51": {
+          "value": "1985",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 709,
+          "text": "10,000 to 20,000 people died"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "10000 to 20000 people died",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 739,
+          "text": "The ''great cyclone''"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "coastal_cyclone",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 761,
+          "text": "of 1970"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_50": {
+          "value": "1970",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_51": {
+          "value": "1970",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 769,
+          "text": "killed a half million to a million"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "killed between 500000 and 1000000 people",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|709,736",
+        "s1v1|e_49|700,706"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|769,802",
+        "s1v1|e_49|761,767"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  ],
+  "filename": "1987_524bfe0ec76aa38dce7fc30fec6bbd17d49cb846.txt",
+  "text": "Life in Bangladesh Delta: On the Edge of Disaster\n1987-06-21T05:00:00.000Z\nWhen the tide comes in, life pauses on the little silt islands that dot the great river delta of Bangladesh, and for miles around it seems that herds of cattle are standing up to their knees in the Bay of Bengal.\nAs the ocean rises, pushing a wall of water as high as a man up the riverways ahead of it, the people who make their precarious lives here between the land and the sea retreat, pulling their boats into sheltered creeks.\nBut when the annual cyclones roar in, in spring and early summer, there is no retreat. Each year, hundreds and sometimes thousands or tens of thousands of people are swept away.\nIn the floods of 1985, 10,000 to 20,000 people died. The ''great cyclone'' of 1970 killed a half million to a million.\nIn the endless harsh struggle for land in one of the world's most densely populated nations, the survivors return within days, ''rebuilding their houses,'' as one Bangladeshi put it, ''over the graves of their children.''\nOn thousands of alluvial islands, known as ''chars,'' the pressure of the world's expanding population is played out in starkest terms as crowding drives millions of people deeper into more perilous portions of the delta, where they battle for survival against nature and one another.\nIn the competition to cultivate these shifting, inhospitable spits of land, hundreds die each year as they battle each other with knives and clubs for homesteads. A Case Study In Too Many People\nOne hundred million people live in Bangladesh, an area about the size of Wisconsin, and one-fifth of that area is water, as two great river systems, the Ganges and Brahmaputra, converge to form the largest delta in the world.\nIf trends continue, the nation's population is expected to reach 160 million by the end of the century, increasing problems already at a crisis level. Experts on the problems of worldwide population growth are studying Bangladesh as an example of what might lie in the future for many nations.\nIt is agreed throughout the country, and among the char dwellers themselves, that life in the shadow of disaster has bred a race of tough, fierce men and women.\n''Their very existence on those shores depends on their being ferocious,'' said Salahuddin Ahmed, whose family migrated to the capital city, Dhaka, from an island area. ''They are closer to nature than we are, and in nature there is no sentimentality.''\nEach year, the Ganges and the Brahmaputra, joining in the middle of Bangladesh to form the broad Meghna River, flush what the World Bank has estimated at 2.4 billion tons of silt through the country from as far away as the melting snows of the Himalayas.\nAs deforestation has brought increased erosion in the Himalayas, the volume of silt flowing through Bangladesh has also risen. Beginning in summer, as the current eases, silt forms uncounted thousands of chars along the rivers and around the ocean's edges. Shifting Landscape: Maps Can't Keep Up\nMost of Bangladesh is geologically recent, a gigantic, shifting char formed over the millennia. Rivers slice through the soft land, changing their courses constantly, and little islands appear, disappear and sometimes reappear over the years.\nErosion can eat away as much as a mile of riverbank in a year, and sometimes entire towns are imperiled.\nThe city of Sirajganj is today fighting off the encroachment of the Brahmaputra River, known in Bangladesh as the Jamuna. The city has already lost its main marketplace, its railroad station and several schools. Yet some maps do not even show it to be on the river's edge.\n''There is no such thing as an up-to-date map of Bangladesh,'' a Western relief-agency worker said. ''The rivers and chars are moving about all the time.''\nThe nation's difficulties have increased since the opening in 1974 of a Ganges River diversion system just across the border in India.\nNow, less water flows from India into Bangladesh during times of drought, and more is released during flood season. A reduced current has raised silt deposits and caused flooding upriver.\nThe shifting landscape of Bangladesh increases the hardships of an impoverished population.\nAt least 30 percent of the people of Bangladesh - or 30 million people -cannot find paid work or are underemployed, mostly as agricultural laborers. Some 50 percent are considered landless by the Government. And 60 percent are underfed by the minimum standards of the Food and Agriculture Organization of the United Nations. Where Statistics Don't Tell the Story\nAccording to Government projections, this predominantly agricultural nation could become self-sufficient in food grains by the end of the decade. But experts here, both within and outside Government, dismiss this as a largely meaningless statistic.\nOne reason is the huge difficulties in food distribution in a country fragmented by shifting, often flooded rivers.\nA. R. S. Doha, a former foreign minister who left the Government of President H. M. Ershad three years ago, said: ''Almost every day we see Ershad flying about the country in his helicopter. There's not half a dozen helicopters in Bangladesh. He's the one man who can move about the country.''\nThe other reason that self-sufficiency could be viewed as a mere statistic is the poverty that makes it impossible for most Bangladeshis to afford enough food.\nIn a recent study of life on the chars, Atiur Rahman of the Bangladesh Institute of Development Studies described a common practice of ''calculated starvation,'' in which poor people cut down on meals and substitute a rice fluid for solid food.\nHe said rural women fare the worst, sometimes working for the equivalent of 3 cents a day and eating just one meal of rice in a week. Law of New Land: Survival of the Toughest\nPoverty is harshest for people whose homes are swept away by floods or erosion and who suddenly find themselves with no source of food.\nThus, the struggle for each new spit of land, as it surfaces above the brown waters of the rivers, becomes a fight for survival.\nBy law, each new char belongs to the Government, to be apportioned among the landless families on official waiting lists. But the law is a distant presence in much of Bangladesh.\nLong before the slow bureaucracy can apportion the islands, local warlords have seized them in land battles known as ''char dhakhal.''\nMeanwhile, legal battles can last decades or even generations. Landowners sometimes pay tax on water to insure rights to a char that slipped below the river but might resurface.\nThe first step in claiming a disputed char is to set cattle to graze on its sparse vegetation and compact the loose silt, said Badsha Mia, an assistant to the commissioner of Munchiganj district, which administers Char Kishoreganj.\nBushes and trees are planted to hold the land against the pressures of currents. After about two years, if the char has held against the river, farmers can begin to plant rice, vegetables and jute.\nIt is when the first harvest is ready that the fiercest fights for possession can take place, said M. Mokammel Haque, the Government's Secretary of Land Administration.\nMeanwhile, erosion continues, and even as the char grows, its edges are being washed away, and the farmers, with their new fields, retreat.\nThe silt washes from char to char without a permanent resting place, like the char dwellers themselves.\nAbdul Motalib, 25 years old, is one of these drifting island men, born on a long-gone char upriver and now fighting against the erosion of his rice field at the edge of Char Kishoreganj.\n''It is the natural process,'' he said. ''If this char washes away, we will look for another one. That is our destiny. We are poor men, and we have no choice.'' An Established Area: No Schools, No History\nHere on Char Kishoreganj, in the Dhaleswari River only 30 miles south of Dhaka, there are no schools, no doctors, no policemen, no trade, no government and no history.\nYet among chars, it is relatively well developed, with portions dating back 30 or 40 years. Although the interior is flat and sparsely populated, small groups of people are busy with fish or crops at its crumbling edges.\nSmall punts ferry towering loads of hay, and men pull fishing boats, like Volga boatmen, by long cables fastened to the masts. Women in their saris soap themselves, and then fill aluminum urns with muddy water to take back to their homes.\nIn the broad river beyond, ancient cargo boats with tattered brick-red sails drift by in the rain, with rows of sailors on their decks sheltering under large black umbrellas.\nMr. Motalib said he and other settlers had fought for their right to cultivate Char Kishoreganj. Residents said that 12 years ago, when the Government brought a group of legal settlers to their fields, the squatters fought back, killing seven people. Most-Feared Adversary: The Sudden Storms\nThe weather remains the most feared adversary of the island dwellers.\nEarlier that morning, a sunny sky had suddenly turned black. Lightning sliced down from fast-moving clouds, and the brown water became choppy as fat pre-monsoon raindrops splattered down. Farmers hurried for cover, and boats raced for shore. An hour later, all was peaceful again; the storm had not grown to full force.\nOn a sandy spit not far upriver lies the mass grave of 200 people who drowned last year when a sudden squall caused one of the country's frequent ferry disasters.\nBut for all their hardships, the char dwellers are the envy of Bangladeshis that possess even less.\nShahida Begum has lived in a burlap-and-cardboard hovel on a muddy street in Dhaka for 10 years, since a typhoon swept away her home on a char in the southern district of Noakhali.\n''After the storm, we returned to our land, but it had been seized by strongmen in a char dhakhal,'' she said.\nToday, Mrs. Shahida, a widow at the age of 30, supports a family of 11 on about 70 cents a day by chipping bricks for gravel on a construction site.\nAbdul Barik Howladar, a neighbor from Noakhali who is now Mrs. Begum's neighbor on the streets of Dhaka, said, ''Please tell the Government to let us have a char so that we will have some place to live.''"
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1987_9e188dfb5ec7e8859b0f5fa5e36d70763257c3a5.txt",
+  "text": "3 Die as Police Clash With Protesters in Bangladesh\n1987-11-11T05:00:00.000Z\nAt least three people were shot and killed by the police here today as thousands of rioters set fire to cars and buildings, and threw bricks and homemade bombs in an attempt to force President H. M. Ershad from office.\nAt the end of the day of running battles between protesters and the police, the streets of the capital's commercial center were strewn with rubble, and the air was tinged with tear gas and smoke. But the likely effect of the unrest was unclear.\nBoth sides in the disorders proclaimed victory - the opposition parties because they had carried out a protest ''siege'' of the capital in defiance of a ban on demonstrations, and the Government because President Ershad's position appeared unthreatened, at least for now.\nOpposition leaders acknowledged tonight that they had been hampered in their ability to mount the protest, originally conceived as drawing two million participants. The actual number of protesters was in the tens of thousands at most.\nIn addition to outlawing demonstrations, the Government had closed Dhaka University and shut down incoming bus, rail and ferry transportation. Opposition Vows to Fight On\nThe opposition parties vowed to continue their drive until President Ershad was forced from office, but Government officials predicted that it would abate as many protests had in the past.\n''The myth has been exploded,'' asserted M. A. Matin, the Home Minister and a close aide to the President. ''They were supposed to force the Government to resign. They couldn't. The so-called siege degenerated into an act of anarchy, vandalism, arson and an attempt to create civil disorder.''\nLeaders of the main opposition parties said the attacks on their members were unprovoked. They called for a nationwide protest strike Wednesday and Thursday.\n''He will have to resign,'' Khaleda Zia Rahman, the leader of a coalition of seven opposition parties, said of the President. ''It is a matter of time. We will be out in the streets tomorrow and the day after until he goes.''\nThe opposition said a total of six people, not three as the Government said, had died from police gunfire. But the report was impossible to verify because the police had taken possession of the bodies. Nearby hospitals reported two people with gunshot wounds and dozens of others with injuries from the rioting.\nThe opposition said dozens were wounded by gunfire. A Turbulent History\nBangladesh, one of the world's poorest and most densely populated countries, has had a history of natural disasters, riots, assassinations, coups and coup attempts since it broke from Pakistan to become an independent nation in 1971.\nPresident Ershad was the army's Chief of Staff when he seized power in 1982; he was elected President last October in a day of voting marked by charges of fraud.\nAnti-Government parties renewed agitation against President Ershad last summer, culminating in 3 days of strikes in which 10 people were killed. But protests subsided when Bangladesh was hit by the worst floods in 40 years.\nThis fall, the opposition tried to revive the protest drive with what it termed a siege of the capital. The authorities reported arresting more than 1,100 people for political activities in the last few days; the opposition said the number was more than 5,000.\nAn unusual aspect of these protests was the unity among political parties of all ideologies, except for the ruling National Party of President Ershad. Anatomy of a Protest\nThe day began peacefully, with small groups marching noisily through the downtown area, occasionally broken up by riot police officers wielding clubs and shields or firing tear gas. By mid-morning, demonstrators were throwing bricks and homemade bombs, and the police were firing back with blanks.\nThe police later resorted to bullets in ''self-defense,'' Government officials said; opposition spokesmen said the firing was unprovoked."
+}

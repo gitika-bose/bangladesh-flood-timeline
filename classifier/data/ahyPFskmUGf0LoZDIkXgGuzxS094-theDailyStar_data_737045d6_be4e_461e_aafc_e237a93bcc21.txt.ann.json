@@ -1,0 +1,253 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "river_erosion",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 91,
+          "text": "Monu River embankments in Kulaura upazila of Moulvibazar"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Moulvibazar",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_40": {
+          "value": "Kulaura",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 163,
+          "text": "the river has once again begun to erode the banks in Koterkuna area"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "river",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 508,
+          "text": "the river damaged the embankment"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "embankment damaged",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 541,
+          "text": "in the first week of last month"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_50": {
+          "value": "2019-07-07",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_51": {
+          "value": "2019-07-01",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|508,539",
+        "s1v1|e_2|91,146"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|508,539",
+        "s1v1|e_49|541,571"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  ],
+  "filename": "theDailyStar_data_737045d6-be4e-461e-aafc-e237a93bcc21.txt",
+  "text": "Date Published:2019-08-08 00:00:00      \nResidents of at least 30 villages living close to Monu River embankments in Kulaura upazila of Moulvibazar are at risk as the river has once again begun to erode the banks in Koterkuna area. The erosion of the river bank began on last Thursday, causing suspension of vehicle movement on Koterkuna-Hazipur road for one week, reports our Moulvibazar correspondent. Local people fear that the embankment may collapse any moment as a crack in it keeps widening. Earlier, the river damaged the embankment in the first week of last month. According to local sources, the Bangladesh Water Development Board (BWDB) repaired the crack with wooden pillars and sand sack structures in an attempt to curb damage from the escalating erosion, but the repair works failed to contain the river and were washed away in last few days. Ali Hosain, a resident of Koterkuna village, said that due to heavy rains for the last one month the flood control embankment at Koterkuna area got damaged twice. Persistent rains and water from the upstream hills have turned the river dangerous, he said. \"I have two acres of land near the embankment and I run my family with the income from selling the crops. I won't be able to maintain our livelihood if the embankment collapses,\" said Sadhon Das, a resident of Monu village. Abdus Salek, a farmer of the same village, said erosion also hit the embankment last year and villagers contained the damage by erecting corrugated iron fences and dumping sand bags. The locals also demanded alternative road for the 30 villages as vehicles movement on the Hazipur-Koterkuna road get suspended every time the embankment is damaged, This important embankment has been facing erosion threat due to mindless sand lifting by a section of local influential people, locals alleged. \"How can we celebrate Eid when we are tensed if the embankment collapses again? If it will collapse in Eid time then we will lose all our assets and crops,\" said Nargis Banu, a resident of Monu village. Hazipur Union Parishad Chairman Abdul Bachhit Bacchu said the 30 villages near the embankment and the Koterkuna market will not survive if action is not taken immediately. \"We have marked 67 points in the Sadar, Kulaura, and Rajnagar upazilas which are at risk due to river erosion,\" BWDB Executive Engineer Ranendra Shankar Chakrabarti said \"A Tk 1,000 crore development project will soon be proposed to build permanent boundaries around the river embankments which will contain the river waters in the rainy season,\" he added."
+}

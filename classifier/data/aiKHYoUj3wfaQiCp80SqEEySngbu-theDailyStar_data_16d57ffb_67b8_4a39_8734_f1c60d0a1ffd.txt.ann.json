@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_16d57ffb-67b8-4a39-8734-f1c60d0a1ffd.txt",
+  "text": "Date Published:2019-12-15 00:00:00      \nBangladesh expects that Myanmar would be more tolerant towards Rohingyas after facing trial at the International Court of Justice, Foreign Minister AK Abdul Momen said today. \"My expectation is that Myanmar would be sincere in implementing the bilateral deal that signed with Bangladesh on repatriating Rohingyas from Bangladesh,\" he told journalists at his ministry office in Dhaka. \"Myanmar has invited me before a case lodged with the International Court of Justice. In response, I told that I would go there when the Rohingyas will go back to Myanmar,\" the foreign minister said. \"I also invited Myanmar to visit Bangladesh to talk to their Rohingya people and to understand their expectations,\" Momen said. Globally it has been established that there was a massive crime committed against the Rohingyas, that was described by the UN as a classic case of ethnic cleansing while French President Macron termed it as genocide, he said. India not pushing anyone into Bangladesh Foreign Minister Dr AK Abdul Momen also said India is not pushing anybody into Bangladesh but some people are coming with the help of middlemen with an impression that one can have free food here, UNB adds. He said the government will send them back if anybody other than Bangladesh citizens enters the country through the Bangladesh-India border without following the due process. The Foreign Minister said Bangladesh requested India to give the list if there is any Bangladeshi living in India illegally. \"Let's know it (Bangladesh seeks info from India),\" he told reporters at the Foreign Affairs Ministry adding that there is a standard procedure to follow in that case. Dr Momen highlighted Bangladesh's socio-economic development while joblessness in India in some cases. He said those who are Bangladesh citizens have the right to come back to Bangladesh but others will be sent back. Responding to a question on National Register of Citizenship (NRC), he said India termed it their internal matter and assured Bangladesh that it will in no way affect Bangladesh. \"The Bangladesh-India relations are normal. The relations won't be affected...the relations are very sweet,\" said the Foreign Minister explaining reasons behind the cancellation of his New Delhi visit. The Ministry of Foreign Affairs here said the scheduled visit of Dr Momen was cancelled due to his 'busy schedule' at home ahead of Martyred Intellectuals Day and Victory Day, said a senior official on Thursday. India also termed its relations with Bangladesh \"very strong\" and brushed aside speculations over the last-minute cancellation of Dr Momen's New Delhi visit. \"We've been informed by Bangladesh side that the change in the programme was due to domestic issues related to commemoration of Bangladesh Victory Day on December 16,\" official spokesperson at the Indian Ministry of External Affairs Raveesh Kumar told reporters at a briefing in New Delhi on Thursday. He termed speculations linking the cancellation of the visit to the Indian Parliament's adoption of the Citizenship Amendment Bill \"unwarranted.\" The MEA spokesperson ruled out the speculation, saying: \"There have been unwarranted speculations...\""
+}

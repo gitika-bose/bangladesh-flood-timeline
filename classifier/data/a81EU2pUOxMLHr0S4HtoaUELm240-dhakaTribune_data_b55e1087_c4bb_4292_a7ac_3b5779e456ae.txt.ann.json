@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_b55e1087-c4bb-4292-a7ac-3b5779e456ae.txt",
+  "text": "Date Published:2019-03-19 00:00:00      \nAbdul Hamid said a large number of engineers, technologists, architects, and planners from Bangladesh travel to developed countries for higher education every year and many of them migrate President Abdul Hamid on Tuesday urged students to play a greater role in development of the country and its people. He made the call at the 11th convocation of Bangladesh University of Engineering and Technology (Buet) in Dhaka. Abdul Hamid said a large number of engineers, technologists, architects, and planners from Bangladesh travel to developed countries for higher education every year and many of them migrate. \"As a result, the country is deprived of their talents and services,\" he said, noting that there were congenial work atmosphere and ample professional fields in Bangladesh. He reminded the graduates that their institution is renowned at home and abroad. \"Remember, the university is not just a single entity. The students are its life and the honourable teachers are its soul. So, the students, who were honoured and recognized shouldn't forget the contributions of this university,\" said the president. He urged the graduates not to forget the role of the university and said he firmly believes that they will make a meaningful contribution to the development of this university and the country. The president reminded everyone that Bangladesh is making rapid progress and that it is now a member of the elite club of satellite owners. \"We want to become a developed country by 2041. To achieve this, the government is implementing mega projects like Padma Bridge, Rooppur Nuclear Power Plant, Rampal, and Matarbari power plant, Payra Deep Sea Port, Dhaka Metro Rail, Elevated Express Highway, and Padma Railway link project,\" he said.  \"The role of engineers in implementing, managing, and maintaining these mega projects is very important. I believe the skilled engineers of Buet will play an important role,\" Hamid said. The president said the government has adopted 'Bangladesh Delta Plan 2100' to tackle climate change induced disaster risks as part of a long-term plan. \"In this master plan, long-term strategies have been fixed for flood, river erosion, river management, water supply and waste management, urban water management and drainage. Engineers will play an important role in implementing these projects in national interest,\" he said. Terming the graduates as the most skilled human resources, the chancellor said the convocation not only recognizes them formally but also bestows responsibility on them.  \"You have to be always ready to carry out that duty. Never forget your motherland ... the general people, to whom you are indebted. Now it's your turn to pay back the country and the nation,\" President Hamid said. Stating that the fresh graduates are a standard for young generation, he said freshers will follow their ideal and get the inspiration to move forward. \"The birth anniversary of Father of the Nation Bangabandhu Sheikh Mujibur Rahman in 2020 and the golden jubilee of our great independence will be celebrated in 2021. I hope you will make that celebration more colourful, bright, and successful with your invigorating enthusiasm,\" he said. Education Minister Dr Dipu Moni, Buet Vice-Chancellor Saiful Islam, and former finance minister ABA Muhith spoke at the program. A total of 5,284 graduates from January 1, 2011 to December 31, 2018, registered for the convocation. Five students received gold medals from the president for outstanding academic performances."
+}

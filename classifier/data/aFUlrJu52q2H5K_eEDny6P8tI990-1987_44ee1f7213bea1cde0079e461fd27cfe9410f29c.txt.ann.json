@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1987_44ee1f7213bea1cde0079e461fd27cfe9410f29c.txt",
+  "text": "1,100 Held as Bangladesh Bans Protest in Capital\n1987-11-10T05:00:00.000Z\nBangladesh outlawed public demonstrations in the capital today and said more than 1,100 people had been arrested for political activities. The arrests were made to thwart a huge anti-Government protest scheduled for Tuesday.\nThousands of riot police officers and paramilitary troops also spread through the city. They broke up one demonstration at Dhaka University, where scuffling led to a minor leg injury for a prominent opposition leader, Khaleda Zia Rahman. She is the widow of President Ziaur Rahman, who wasassassinated in 1981.\nIn addition, Dhaka University was closed, while opposition leaders said that almost all bus, rail and even ferryboat service into the capital had been halted to stop protesters from taking part in what they have termed a siege to force the resignation of President H. M. Ershad. 'Prejudicial Activities' Cited\nOpposition leaders put the number of those arrested at more than 5,000, but Government officials asserted tonight that it was 1,146, including five members of Parliament elected last year. The Home Minister, Mohammed Abdul Matin, said that those arrested were people who the police felt were ''likely to do the prejudicial activities'' on Tuesday.\nThere was no indication how long they would be held, but some officials said they would probably be released once the current round of street protests subsides.\nThe action today marked the culmination of growing protests since last summer against Mr. Ershad, a former Army chief of staff who seized power in a 1982 military coup. Mr. Ershad was elected President last year, but there were widespread accusations of fraud in the voting. The protest activity reached a peak in July but was interrupted when the country was hit by severe floods. More than a thousand people died in the floods, and although Mr. Ershad had lifted martial law, the Army was in charge of relief efforts. Relief Effort Is Faulted\nThe opposition asserts that the Government was slow in its response to the flood, and politicians say the opposition hopes to use this issue to galvanize its protest. But Western diplomats said that members of international aid organizations had been generally impressed with the distribution of food, medicine and other assistance.\nPolitical experts also note that, in a rare display of unity, virtually all the opposition parties, from Communists to Moslem fundamentalists, are united behind the current protest. Most significant, Mrs. Zia has reached an agreement, albeit only temporary, to support the protest with her archrival, Sheik Hasina Wajed, who is the daugher of Bangladesh's founding President, Sheik Mujibur Rahman, who was himself assassinated in 1975. Unrest Since Independence\nBangladesh, one of the world's poorest and most densely populated countries, has been rocked by unrest since it broke from Pakistan and became an independent nation in 1971. Since then, besides the two assassinations, there have been three military coups and many more coup attempts.\nBut in the last few years, Mr. Ershad has brought a measure of stability and managed to preside over a time of some growth in the economy and in foreign investment. Nevertheless, he is today beset by rising charges of corruption, and many diplomats and politicians say he has grown increasingly unpopular, especially in the capital.\nPolitical experts said today they doubted the opposition could force the removal of Mr. Ershad, since it appeared that the Government crackdown had succeeded in putting the anti-government forces on the defensive.\nFor example, although opposition leaders had earlier said they hoped two million people would join the protest, today they predicted the number would be in the tens of thousands. A few preliminary demonstrations have been small and scattered."
+}

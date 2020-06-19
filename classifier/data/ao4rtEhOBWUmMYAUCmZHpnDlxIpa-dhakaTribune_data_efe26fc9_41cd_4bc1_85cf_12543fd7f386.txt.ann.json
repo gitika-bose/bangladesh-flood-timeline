@@ -1,0 +1,166 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 492,
+          "text": "Jamalpur"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "ml:regex"
+        ],
+        "prob": 0
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2032,
+          "text": "Jamalpur"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "ml:regex"
+        ],
+        "prob": 0
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2462,
+          "text": "the northern part of Bangladesh"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2507,
+          "text": "suffered a severe flood"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2616,
+          "text": "Jamalpur"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    }
+  ],
+  "relations": [],
+  "filename": "dhakaTribune_data_efe26fc9-41cd-4bc1-85cf-12543fd7f386.txt",
+  "text": "Date Published:2019-09-10 00:00:00      \nThe huge quantity of fertilizer, worth around Tk57 crore, was imported from abroad to meet the demands of farmers from the 19 northern districts of the country when Jamuna Fertilizer Company Ltd (JFCL) came to a halt after a fire incident on November 11, 2018 For almost a year, around 28,000 tons of imported urea fertilizers have been wasting away due to being stored in the open in front of the Jamuna Fertilizer Company Ltd (JFCL) at Tarakandi in Jamalpur's Sarishabari upazila. The huge quantity of fertilizer, worth around Tk57 crore, was imported from abroad to meet the demands of farmers from the 19 northern districts of the country when Jamuna Fertilizer Company Ltd (JFCL) came to a halt after a fire incident on November 11, 2018. According to JFCL, since the fire the factory was unable to resume despite repeated attempts, during which over 350,000 tons of urea fertilizer were imported through a government initiative. Among which, 40,810 tons are still reserved at the factory. But the factory owns only two warehouses with a storage capacity of 12,000 tons, therefore almost 28,810 tons are stored in front of the administrative building. However, while visiting the area it was found that the rest of the fertilizers are barely covered with sheets of tarpaulins, and lying under the open sky beside the factory. In the process, the fertilizer, which is otherwise in granular form, absorbs moisture, and turns rocky or melts into liquid in the seasonal heatwave, rain and cold, said local farmers. Workers of the Bangladesh Chemical Industries Corporation (BCIC) said the damage being done to the urea fertilizers which are not being maintained properly, due to lack of warehouse spaces, is going to cause not only the farmers but the government a huge financial loss. Sarker Abul Hossain, Osman Gani along with other BCIC dealers, said, the stored fertilizer loses its effectiveness, becomes coagulated, and then becomes hard to sell, and use.  Aligning with the dealers, Jamalpur Truck and Tank Lorry Owner's Association's Tarakandi union's President Ashraful Alam Manik said: \"The imported fertilizers have declined so much in quality that the sacks leak while loading in them in the truck. Dealers often refuse to store them in their warehouses.\" Farmers from different areas of the district, Hurmuz Ali of Sarishabari, Abdul Karim Mandal of Saatpoa, Belayet Mia, Rafet Mandalo of Charpalisha said, the northern part of Bangladesh has recently suffered a severe flood, and most of the croplands went underwater causing huge loss to the farmers. So, the Jamalpur farmers were planning to make up their losses by harvesting on a large scale. However, the deteriorated fertilizers are shattering their hopes. Frustrated over the maintenance failure of the authority, farmer Belayet Miya said: \"If the farmers do not get enough quality fertilizers for the upcoming Irri-Borro harvest season, the net harvest would be affected.\" \"The authority must import more fertilizers or resume the JFCL, otherwise farmers of the 19 districts would face huge loss due to shortage of fertilizers,\" he added. Regarding the inefficient maintenance of the fertilizers, JFCL's Manager (Commercial) Wahedur Rahman said: \"The fertilizers were stored in front of the factory for the lack of storage capacity in our warehouses. Though it is possible that some of the sacks can get damaged but it would not affect their overall quality by any means. \"Enough fertilizers are stored for the upcoming harvesting season. We would ensure proper supply to field level farmers. And hopefully, they would not face any shortage,\" he added."
+}

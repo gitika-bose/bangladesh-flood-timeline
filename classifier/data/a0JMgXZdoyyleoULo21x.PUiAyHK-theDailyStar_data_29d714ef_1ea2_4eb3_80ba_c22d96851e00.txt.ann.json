@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_29d714ef-1ea2-4eb3-80ba-c22d96851e00.txt",
+  "text": "Date Published:2019-02-10 00:00:00      \nThe costs of industrialisation are many. Human beings, wildlife, nature, the environment, and future generations often pay the price. In some instances, those who shoulder the burden do so voluntarily; some are compensated for their sacrifice and, in most cases, the suffering is imposed without their knowledge and consent. Add to that the tons of catastrophic events such as industrial accidents, mine collapses, and transport disasters that are a regular news item in this day and age. Ironically, many of these were foreseen and the deaths and illnesses could have been prevented. Victims of industrial accidents are sometimes paid compensation although these are often small quantities of money and frequently do not reach the victims on time. Fortunately, we now have the capability to identify the culprits and are constantly refining the mechanism to measure the cost of the pain, suffering and physical damage they generate. A review of these disasters has identified three problems: 1) Safety inspectors are lax or go easy on owners; 2) Companies hire inspectors from \"friendly\" agencies; and 3) Companies ignore inspection reports or disregard early warning signs.  To start off this dialogue and to provide a context for the theme of this write-up, I will mention two recent instances of criminal neglect that has caused death and suffering for workers. Amnesty International recently reported that children as young as seven are working in very dangerous conditions in the Democratic Republic of the Congo to mine cobalt, a metal used in smartphones, cars and computers sold by Apple, Microsoft and Vodafone. In Hungary, a few years ago, an industrial accident at an alumina plant killed eight people and injured more than 220. Finally, on February 4, two former senior executives were convicted and sentenced to prison in one of the few instances where the wheels of justice turned, however slowly. The latest disaster, which has led to a global outcry for action to prevent human rights abuse, happened in South America. An estimated 300 people were killed after a dam collapsed on January 25, at an iron ore mine owned by Vale SA. Vale is the world's biggest producer of nickel and iron ore, a raw ingredient for steel. A holding dam at the Corrego do Feijao mine, located near the city of Brumadinho in the state of Minas Gerais in south-eastern Brazil, gave way releasing a tide of mud, toxic sludge, and mining debris that swept away an entire village. The sludge buried a company cafeteria brimming with workers during a lunch break, and other Vale buildings, and inundated a part of Brumadinho. This is not the first time that Vale has been cited for its failure to ensure safety standards and abide by \"conflict of interest\" regulations designed to keep the fox away from the chicken coops. In 2015, a similar incident at Bento Rodrigues dam at the Brazilian mining company Vale's Samarco joint venture in Mariana town killed 19 people when the iron ore tailings dam gave way, and flooded two villages, destroying around 200 homes. Experts are blaming the Brumadinho disaster on criminal negligence on the part of the employees of Vale and contractors hired by the mine to inspect its dams. The government arrested five individuals, three of whom are senior members of the mining company and two inspectors from TUV SUD, a German company that Vale SA hired to certify the safety of the Corrego do Feijao dam. Officials indicated that while the criminal case against the owners and management of Vale is only beginning, the arrests are a precautionary move to prevent the individuals from leaving the country. Two of the five arrested are inspectors from TUV SUD, who had certified the dam as structurally sound. Makoto Namba, one of the arrested inspectors, had stated that the dam had a low probability of failure. Critics, however, observe that this is a familiar story in the business. The Vale mining company told the Associated Press that there are eight sirens in the area around its dam that failed. They also held that \"the speed in which the event happened made sounding an alarm impossible.\"  New documents show that TUV SUD also acted as consultants on Vale mine closures in Brazil. The Wall Street Journal ran a story on February 4 under the headline \"Inspectors of Collapsed Brazilian Dam Had Close Ties to Its Owner\", and again raised a critical alarm applicable for all. This incident \"raises fresh questions over whether the dual role of safety evaluator and consultant presents a conflict of interest that can compromise safety,\" the report said. Commenting on this cosy arrangement between Vale and TUV SUD, Dr Gavin Mudd, an environmental engineering professor at Australia's RMIT University, observed that \"the expertise is too connected with those controlling the money--and nowhere near enough emphasis on protecting the public interest.\" A review of guidelines for external audits for mining companies in Canada suggests that external audits should be conducted by entities whose \"independence can be demonstrated by the freedom from the activity being audited or freedom from bias and conflict of interest.\" The UN Human Rights immediately issued a statement asking for the Brazilian government to launch a prompt, thorough and impartial investigation. \"The tragedy demands accountability and calls into question preventive measures taken subsequent to the Samarco mining disaster in Minas Gerais just over three years ago, when a catastrophic flood of mining waste near Mariana killed 19 people and affected the lives of millions, including indigenous communities.\" In all these accidents, there is evidence that corrective measures could have prevented the loss of life, property, and human suffering. For example, a leaked report from 2013, two years before the Mariana dam collapse, had identified structural issues in the dam. Prosecutors allege that the company took no action, and many of the victims are still waiting for justice. There is a renewed question as to whether Vale did enough to improve its safety protocols following the Mariana accident. \"They prioritized profits and left safety in second place,\" said Jose Adercio Sampaio, coordinator of a task force of federal prosecutors, summarising the criminal case against the joint venture and its parent companies Government officials have been called out too this time. Federal officials have pledged to make mining regulations stricter, Catherine Osborn, a print and radio journalist based in Rio de Janeiro reported. \"But for many, this disaster has laid bare the difference between pledges and enforcement.\" Vale was suspended from the Corporate Human Rights Benchmark (CHRP) over the dam disaster. CHRP is a global compact aimed at preventing adverse impacts on workers, communities and consumers. Nonetheless, Vale is among the mining companies still receiving investments from several large European banks, despite the recurrent violations of environmental and human rights, as investigated in a Dirty Profits 6 report. Dr Abdullah Shibli is an economist and works in information technology. He is Senior Research Fellow, International Sustainable Development Institute (ISDI), a think-tank in Boston, USA. "
+}

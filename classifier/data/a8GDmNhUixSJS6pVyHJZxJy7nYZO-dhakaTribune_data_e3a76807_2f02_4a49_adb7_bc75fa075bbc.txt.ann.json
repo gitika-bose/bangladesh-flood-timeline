@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_e3a76807-2f02-4a49-adb7-bc75fa075bbc.txt",
+  "text": "Date Published:2019-05-22 00:00:00      \nMembers of all Chhatra League units have been instructed to assist farmers with their harvest Bangladesh Chhatra League members will volunteer to help farmers, nationwide, harvest paddy, according to press release signed by ruling party student wing President Rezwanul Haque Chowdhury Shovon, and General Secretary Golam Rabbani. The press release, issued on Wednesday, instructs members of all Chhatra League units, nationwide, to help farmers with their harvest. These directives came amid protests by farmers--in villages, towns, districts, and Dhaka--as the farmers are facing great losses due to the very low price of paddy. Some farmers set fire to their harvests as they could not afford day laborers to  cut the paddy  -as this year's paddy price is the lowest of the last three years. Over the past three weeks, a bountiful harvest has been overshadowed by the grief of rice farmers throughout Bangladesh. Farmers are demanding purchases be made directly from farms, and that crops be sold at a fair price. Currently, paddy is sold wholesale at Tk450 to Tk500 for every maund (1 maund=40kg). Many farmers have said the cost of harvesting each maund of paddy is between Tk1,000 to Tk1,500. Other reports say that farmers will suffer a loss of at least Tk300 per maund if they sell paddy at the current market price."
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1987_0ec8bdf35466ae8763b89c5ef208893a5bca0028.txt",
+  "text": "IN SHORT;\nNONFICTION\n1987-08-23T05:00:00.000Z\nLEAD: THE BOOK OF ALFRED KANTOR: An Artist's Journal of the Holocaust. (Schocken, Cloth, $25; Paper, $16.95.) The greater a suffering, and the better known its historical context, the more likely people are to be shattered by visual and literary testimonies, to consider them as sacrosanct and to turn them into a myth.\nTHE BOOK OF ALFRED KANTOR: An Artist's Journal of the Holocaust. (Schocken, Cloth, $25; Paper, $16.95.) The greater a suffering, and the better known its historical context, the more likely people are to be shattered by visual and literary testimonies, to consider them as sacrosanct and to turn them into a myth. Today, the Holocaust is being transformed into a legend, and documents from the concentration and extermination camps are collected and increasingly treasured. There is nothing wrong with this, as long as one realizes that the need to bear witness does not guarantee the adequacy of the testimony, and that drawings or paintings, in themselves meaningless, may be imbued with meaning by the mere fact that they were executed by the victims of the Holocaust. Alfred Kantor's drawings of the Holocaust do not convince. Although one admires this Czechoslovak Jew, who throughout his imprisonment in several concentration camps sketched the annihilation factories and after his liberation re-created his experiences in a series of watercolors, one turns over the pages of his ''Journal of the Holocaust'' with disappointment. Trained as a commercial artist, Mr. Kantor possessed a modest skill of neat representation that worked against him. His pedantic contours, schematic figures and naturalistically applied colors outline the horror without capturing it."
+}

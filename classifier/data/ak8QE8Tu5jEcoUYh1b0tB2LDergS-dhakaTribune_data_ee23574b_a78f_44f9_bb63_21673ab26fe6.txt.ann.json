@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_ee23574b-a78f-44f9-bb63-21673ab26fe6.txt",
+  "text": "Date Published:2019-09-24 00:00:00      \nBB officials says 240 rejected  notes were instructed to be destroyed Police have recovered huge cache of shredded Bangladesh Bank notes from a truck and a nearby marshland in Shahjahanpurupazila in Bogra The truck was found at the Chandai village road, next to Khowar Bill (marshland) in the upazila on Tuesday morning. The truck belongs to the Shajahanpur municipality, who was instructed to dispose of the currencies, Bangladesh Bank Bogra Zone Executive Director Jagannath Ghosh said. According to the correspondent, the truck driver Masum lives nearby from the scene and parked the truck at that place. When asked about dumping the banknotes in marshland, Jagannath replied: \"We follow two ways. We either dump the banknotes or burn them.\" He also mentioned that they had 1,800 rejected notes and off them 240 were asked to dump by the local municipality, instead they put those notes in the marshland. Earlier in the day, police found Bangladesh Bank currency of Tk1,000, Tk500 and Tk100 notes, all of them shredded into pieces. Shahjahanpur Police Station officer-in-charge (OC) (Investigation) AdulKalamk Azad confirmed the matter to Dhaka Tribune."
+}

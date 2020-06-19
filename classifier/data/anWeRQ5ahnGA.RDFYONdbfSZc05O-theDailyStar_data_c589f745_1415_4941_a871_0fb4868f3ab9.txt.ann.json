@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_c589f745-1415-4941-a871-0fb4868f3ab9.txt",
+  "text": "Date Published:2019-09-05 00:00:00      \nRenowned artist Jamal Uddin Ahmed  emphasises the need for spontaneity as an important aspect of art. The artist received the Ekushey Padak this year, for his outstanding contribution to fine arts. He is also famous for his artwork series on pigeons, horses, boats, gypsies, flood victims, fishermen, marine life and the mystic troubadours of Bangladesh. Ahmed's artworks have earned him many other accolades at home and abroad.   He uses soft pastel along with thin acrylic dust layers and charcoal as the background of his paintings. The acrylic and charcoal dust generate amazing textures, along with a mystique aura on the surface of the canvas. He often makes impromptu paintings with female models. \"A true artist always experiments with new techniques. Abstract art is easier to do while realistic art is hard to portray,\" says Ahmed. \"I do two types of paintings. Some of my works are meant to communicate with the general audience, while others are designed to satisfy the artist in me. At the end of day, an artist never truly retires. He lives on through his work.\" For Ahmed, painting is similar to composing music. \"People often become emotional while listening to melodious songs. However, singers who sing only with their voices and not with their hearts, fail to leave lasting impressions. The same is true for art,\" he says. \"Great artists always put their heart and soul into their creations.\" Referring to renowned artists Turner and Monet, he said that the forthcoming generation of artists should regularly go for outdoor projects. He also suggested the re-launching of compulsory art education in schools.   Ahmed was a visiting teacher and artist in residence in the Art and Design Department at the North Carolina State University in 1995. He is currently a Professor at the Department of Drawing and Painting of the Faculty of Fine Art, University of Dhaka. He is also the current President of Bangladesh Charushilpi Sangsad.  "
+}

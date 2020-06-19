@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_e5709126-21ed-414e-9731-c4406236ec08.txt",
+  "text": "Date Published:2019-04-26 00:00:00      \nThe Supreme Court yesterday upheld its earlier verdict that had directed the authorities concerned to restore the wetland in Savar where Modhumoti Model Town, a housing project, has been developed. A seven-member SC bench, headed by Chief Justice Syed Mahmud Hossain, dismissed the five petitions seeking a review of its earlier verdict. The apex court verdict has brought to an end the legal battle that had dragged on for around 15 years. Now the project authorities have to remove all the earth from the area for keeping it as a free-flood flow zone, say legal experts. On July 11, 2013, the SC released the full text of its 159-page verdict directing the project owner, Metro Makers and Developer Limited, to restore within six months the wetland in Savar's Bilamalia and Bailarpur moujas. In September 2013, the private firm and buyers of plots in the project lodged five petitions with the SC, seeking a review of its judgment. Earlier, the SC in a verdict on August 7, 2012, upheld a High Court judgment that had declared illegal the Modhumoti Model Town near Aminbazar.  The apex court directed the authorities concerned to keep the area as a free-flood flow zone. Metro Makers and Developer Limited developed the housing project, filling up 550 acres of wetland identified as floodplain in the 1997 Dhaka City Master Plan. The HC on July 27, 2005, declared the project unauthorised, illegal and against public interest. It also said that the interest of the buyers must be protected. In August 2004, Bangladesh Environmental Lawyers Association (Bela) filed a writ petition with the HC as public interest litigation, challenging the legality of the project. It said the project was developed violating the Environment Conservation Act, Town Improvement Act and Rajdhani Unnayan Kartripakkha (Rajuk) rules. In its petition, Bela mentioned that if the project continued, the character of the area would be destroyed and the environment would be polluted. Syeda Rizwana Hasan, chief executive of Bela, told this newspaper that following the SC order, the Metro Makers and Developer Limited must remove all the earth from the project area and restore the wetland within six months."
+}

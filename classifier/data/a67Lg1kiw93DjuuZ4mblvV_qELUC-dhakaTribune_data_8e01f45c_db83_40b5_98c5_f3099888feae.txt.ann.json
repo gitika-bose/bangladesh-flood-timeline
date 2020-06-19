@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_8e01f45c-db83-40b5-98c5-f3099888feae.txt",
+  "text": "Date Published:2019-12-09 00:00:00      \nPolice also presented the detainees before the court on Monday, asking for a 10-day remand Members of Counter Terrorism and Transnational Crimes (CTTC) of police on Sunday arrested four alleged members of the banned militant outfit Ansarullah Bangla Team (ABT) from the Durganagar area of Noakhali Sadar. Police also presented the detainees before the court on Monday, asking for a 10-day remand.  In response to the plea, Chief Judicial Magistrate Soeb Uddin Khan placed the detainees on a four-day remand instead. The detainees are Mahmudur Rahman Sohel alias Mohan, 26, Md Abdullah Kabir, 25, Arif Hossain Hridoy, 23, and Anwar Hossain, 20. CTTC sources say they conducted a drive to the area around 8pm on Sunday after receiving a tip-off. There they arrested the four with extremist books, leaflets, and mobile phones. OC Nabi Hossain of Sudharam Model police station said: \"A case was filed by CTTC Inspector Rashed Hossain on this regard. \"The accused will be taken to Dhaka for further investigation,\" the OC added."
+}

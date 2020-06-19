@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_88cb4c90-ff2d-4310-9e9a-73642b3d3724.txt",
+  "text": "Date Published:2019-09-30 00:00:00      \nThe blast destroyed some furniture at the office. However, no injuries were reported A blast went off at Awami League's Shiromoni office in Khulna. The incident at Shiromoni area under the jurisdiction of Khan Jahan Ali police station on Monday evening. The blast destroyed some furniture at the office. Police members have been deployed to the area immediately, said Khan Jahan Ali police station OC (Officer-in-Charge) Md Kabir Hossain. Awami League's Khan Jahan Ali Thana unit President Sheikh Abid Hossain said some of his followers had gathered around the office premises ahead of a party program in Khulna.  Destroyed furniture after an explosion at Awami League's Shiromoni office in Khulna |Dhaka Tribune Locals said there was a loud explosion and some furniture were seen scattered outside the office premises. Khulna Metropolitan Police Deputy (KMP) Commissioner (DC) (North) Mollah Jahangir Hossain said an unidentified person left a bag at the Awami League office in Shiromoni during the gathering.  The incident took place ten minutes after the entourage departed from the office, Jahangir said. It is to be noted that in February 1997, during a discussion on anti-terrorism in front of Shiromoni office, a bomb attack killed one Sanjit Pal and injured 40 other Awami League activists."
+}

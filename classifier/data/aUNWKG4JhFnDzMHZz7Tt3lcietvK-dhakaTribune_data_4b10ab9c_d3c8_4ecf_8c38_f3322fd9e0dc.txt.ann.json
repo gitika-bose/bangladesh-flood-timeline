@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_4b10ab9c-d3c8-4ecf-8c38-f3322fd9e0dc.txt",
+  "text": "Date Published:2019-02-23 00:00:00      \nThey allegedly were being used to make fake profiles and spread false propaganda Over 20 days, 1,500 Facebook accounts were shut because they spread: fanaticism, hateful comments, perverted photos and provocative statements; Technocrat Minister of Post, Telecommunication and Information Technology Ministry, Mustafa Jabbar, has said. Affiliated sources have confirmed that numerous fake Facebook IDs had been opened using the names of prominent personalities, politicians, and other renowned people. Based on this information, a request was sent to the Facebook authority to shut the fake personal IDs, pages, and groups, by using certain focal points in the country.  Mustafa Jabbar said: \"We were able to shut down 1,500 Facebook IDs recently. They were being used to spread false propaganda; several of them were owned by militants.\" The removed Facebook IDs are not related to pornography, Jabbar further said. \"These rumours circulated as we are closing down porn sites as well. However, the rumours are false.\" Bangladesh has a better relationship with Facebook than before, the technocrat minister said. \"If we ask for something, Facebook's authorities listen to us. They evaluate the requests with their community standards and try to respond to our requests as fast as possible. I believe it is a great achievement.\" He added: \"More accounts will be blocked in the future. We have already identified them, and our team is working diligently to monitor their activities.\" The Department of Telecom (Dot), under the Posts and Telecommunications Division, is working to monitor the cyber world. A cybersecurity monitoring project has been introduced under Dot, and half of the project has already been realized. Affiliated sources have said the ever since the cybersecurity monitoring project began being implemented, it has become easier to monitor social media sites. The government has IT monitoring cells to gather data on the cyber world as well. Other than that, due to better monitoring--by law enforcement agencies, BTRC, National Telecom Monitoring Cells, and other affiliated organizations--it has become easier to identify IDs, the sources said. "
+}

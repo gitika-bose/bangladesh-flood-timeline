@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_e6f35a23-e647-4cf4-803a-5c25dd27be76.txt",
+  "text": "Date Published:2019-12-27 00:00:00      \nEmdadul Hasan Shovon worked in the Karnaphuli Water Supply Project A Chittagong Wasa engineer has been killed after a covered van ran his motorcycle over in Chittagong city. The accident occurred on the Ambagan-Tigerpass road under Khulshi police station late on Thursday night. The deceased was identified by his family and police as Emdadul Hasan Shovon, 29, youngest son of late Abul Hossain of Chandpur. He lived with his family in Sardar Bahadur Nagar area at Jhautola. Shovon was an electrical design engineer at NJS Consultants Co Ltd and was working in the Karnaphuli Water Supply Project Phase-2 under Chittagong Wasa. Confirming the matter, Khulshi police station Sub-Inspector (SI) Md Kashem said the tragic accident took place in front of Railway Employee Girls' High School around 11:45pm. \"Shovon fell off when a CNG-run auto-rickshaw rammed his motorcycle. Afterwards, he was run over by a speeding covered van,\" SI Kashem added. Chittagong Medical College Hospital police outpost's Inspector Jahirul Islam said on-duty doctors declared Shovon dead after he was rushed in. Police later impounded both the auto-rickshaw and the covered van. But the drivers of both vehicles managed to flee. Shovon's family members said his namaz-e-janaza was held in front of Jhautola Rail Station Jame Mosjid, near Ambagan, after the Jummah prayers on Friday. He was later buried in the Haji Mosjid graveyard at Dewanhat. Shovon had completed his studies from Saint Xavier's School, Chittagong Collegiate School and College, and Chittagong University of Engineering and Technology."
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_d1e6f49f-89b2-43f3-b1dc-14fe7de3b86a.txt",
+  "text": "Date Published:2019-10-19 00:00:00      \nPakistan Prime Minister Imran Khan yesterday once again drew attention to the situation in occupied Kashmir, criticising Indian Prime Minister Narendra Modi for thinking he could \"get his agenda of annexation\" by using force to silence Kashmiris. In a post shared on Twitter, the premier said: \"Modi is riding a tiger -- he thought he could get his agenda of annexation by using 900,000 forces to silence Kashmiris. \"You don't need 900,000 troops to fight terrorism; you need them to terrorise 8m Kashmiri people.\" In a subsequent tweet, the prime minister said the Indian premier was now \"fearful\" because \"he knows the moment the siege is lifted, there will be a bloodbath -- which would be the only way to subdue the Kashmiri people\". Frustration, anger and fear have been growing in occupied Kashmir since August 5, when the Indian government stripped the region of its semi-autonomous status and imposed a curfew and a communications blackout. While some call and text services for mobile phone services were previously restored in the region, text messaging services were again blocked on Tuesday. The clampdown has now continued for over 70 days. According to Radio Pakistan, Friday is being observed as Kashmir Day across the country to express solidarity with Kashmiris. In this regard, sirens were rung at 3:00pm and people stood up to express solidarity with their Kashmiri brethren. A communications blackout in Kashmir region is fuelling a fake news war with Pakistan, as both sides unleash a deluge of disinformation to fill the vacuum and shape opinion. \"Both sides are stoking tensions, and both sides benefit from the information vacuum to fill the void with their own narratives and push them to domestic and international audiences,\" said Jan Rydzak, who has researched related topics at Stanford University. \"Pakistan cannot afford to let (the Indian) government's 'business-as-usual' narrative flood its citizens' social media feeds; India cannot afford to let reports of mass incarceration and chaos flood theirs.\" Disinformation has ranged from old photos from Gaza purportedly showing how India has turned Kashmir into a \"living hell\", to old images of happy children falsely claiming all is well in \"the new Kashmir\"."
+}

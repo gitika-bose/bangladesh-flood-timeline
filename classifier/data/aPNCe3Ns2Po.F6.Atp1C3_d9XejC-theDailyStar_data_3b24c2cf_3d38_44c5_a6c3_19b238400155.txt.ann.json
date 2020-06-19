@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_3b24c2cf-3d38-44c5-a6c3-19b238400155.txt",
+  "text": "Date Published:2019-12-05 00:00:00      \nInternational Classic Composite Ltd (ICCL) has been facing troubles to invest Tk 250 crore, as the Dhaka's development authority is not allowing the Bangladesh-Netherlands joint venture knitwear company to use its own land for factory expansion. The company has an export-oriented factory occupying half of the area of its 12-bigha land at Naojur in Gazipur.  It has been trying to set up another knitwear factory using the rest of the land.  In 2015, the company sought approval from the Rajdhani Unnayan Kartripakkha (Rajuk) to use the land for industrial purposes. The city's development authority said the proposed land is an arable land under its Detailed Area Plan (DAP). As per Rajuk's recommendation, the company then submitted an application to change the status of the land from farmland to an industrial one, said MA Muttaleeb (Khokan), managing director of ICCL. \"But the Rajuk has been delaying to give approval. Now our Dutch investor is threatening to withdraw the investment from Bangladesh due to the delay in implementation of the project.\" On November 27 this year, the commerce ministry came up to rescue the company and sent a letter to Rajuk with a request to allow ICCL to use the land. The Daily Star obtained a copy of the letter. \"This is my own land and I want to expand my operations. Rajuk should assist me, but it has not been doing it,\" said Khokan who has been exporting knitwear items worth more than $35 million a year employing nearly 5,000 workers. He also said if the proposed factory is set up, another some 5,000 workers could be employed and the export value will also increase. \"I have a lot of work orders from the international buyers, so I want to expand my operations,\" said Khokan who has been catering work orders for European brands Zara, Next and Bestseller. Earlier, the factory owners in Gazipur areas used to collect permissions to establish factory from local municipalities or Gazipur City Corporation.  After the Rana Plaza building collapse in April 2013, it has been made mandatory to seek Rajuk's approval for new factories in an effort to avoid such industrial disasters. Since then, the garment factory owners, especially in Gazipur, Ashulia, Savar and Tongi areas, have been complaining that they are facing troubles in obtaining permissions from Rajuk to setup new units. \"Bangladesh Garment Manufacturers and Exporters Association received no written complaint in this regard so far, but verbally some owners have discussed about the issue. Thus, no meeting with Rajuk was held in this regard,\" said Rubana Huq, president of BGMEA. \"Our suggestion is the revised DAP must be approved as soon as possible to avoid confusion.\" On the other hand, Sultan Ahmed, chairman of Rajuk, said if any factory owner submits the documents following the revised strategies of land use, mapping and design, they will get it easily.  \"We will take action if there is such specific complaint with the Rajuk,\" Ahmed told The Daily Star by phone. But, nobody needs to go through the backdoor or paying bribes to any official of the Rajuk, he said adding, \"Anybody can come to the me if he wants. I will solve his problem. I will suggest please come to me I can solve the problems.\" Of the total number of garment and textile factories in Bangladesh, nearly 60 percent are located at Gazipur, Ashulia, Maona, Bhaluka, Savar, Tongi and Mirpur areas.  The factory owners chose the high land of these areas when almost all units had gone under water due to massive flood in 1988.  So, these areas have turned into metropolis as the owners built factories and houses for millions of workers."
+}

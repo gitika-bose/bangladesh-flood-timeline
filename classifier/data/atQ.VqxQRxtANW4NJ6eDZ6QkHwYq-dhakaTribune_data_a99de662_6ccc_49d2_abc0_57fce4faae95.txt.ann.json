@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_a99de662-6ccc-49d2-abc0-57fce4faae95.txt",
+  "text": "Date Published:2019-09-21 00:00:00      \nThe move comes in the wake of a massive clampdown on gamblers that started on Wednesday Rapid Action Battalion (RAB) has conducted raids at three sporting clubs in Chittagong. The raids began around 7pm and continued till around 10:30pm on Saturday. Confirming the matter, Senior Assistant Superintendent of Police (ASP) of RAB Mimtanur Rahman said: \"Three separate teams of the elite force conducted various drives at Mohammedan Sporting Club in Sadarghat, Bangladesh Muktijoddha Sangsad Krira Chakra in Ice Factory Road, and Chittagong Abahani Limited in Halishahar area.\" Acting on a tip-off, RAB officials raided the three clubs, but no gambler or club owners were found, he added. Also read - 13 detained in raids on illegal casinos \"We have seized gambling equipments from the drives only at Muktijoddha Sangsad Krira Chakra,\" RAB-7 ASP Mahmudul Hasan Mamun furthered. The RAB official said the   sporting clubs have not been told to shut down as evidences of illegal casinos could not be found. The move comes in the wake of a massive clampdown on gamblers that started on Wednesday. RAB detained 142 people from a casino at Fakirerpool Youngmen's Club in Dhaka on Wednesday. Later, they arrested its president Khalid Mahmud Bhuiyan, also organizing secretary of Dhaka South city unit of Jubo League. He was expelled from the organization afterwards. As part of search operations, RAB two clubs in Dhaka, as well as a snooker club in Chittagong on Friday. Also read -  Skilled Chinese, Nepalese nationals hired to run Dhaka's casinos A Dhaka court placed Kalabagan Krira Chakra Club President Shafiqul Alam Firoz on a 10-day remand in two cases on Saturday, after a raid at the club on Friday. During the raid, 500 packs of playing cards, one foreign pistol with three bullets, and a few yaba tablets were recovered Hours later after the raid on Friday, RAB raided and sealed off the bar inside the Dhanmondi Club in Dhaka. The club was seen to have a liquor licence. \"We could not verify how much liquor they have permission to store. We have given them 24-hours time to present the necessary documents,\" said Shahab Uddin, company commander of RAB-2. Legal action will be taken if any irregularities are found with the stock, he added. The bar was closed during the raid, as Friday is a weekend. Also read - Casinos: Right under the nose of police On the same day, Chittagong Police detained two people after shutting down Hangout, a snooker club, on the first floor of Almas Cinema Bhaban at the city's Kazir Dewri under Kotwali police station. Police detained 27 people, including 25 players, from the club. Later, the 25 players, who included some students, were released after giving an undertaking."
+}

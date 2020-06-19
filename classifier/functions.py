@@ -50,7 +50,7 @@ def get_data_json(file, folder):
 
 
 def load_data(data_folder='data', save_file=None):
-    data_files = [f for f in os.listdir(data_folder) if '.json' in f]
+    data_files = [f for f in sorted(os.listdir(data_folder)) if '.json' in f]
     data = [get_data_json(f, data_folder) for f in data_files]
 
     columns = ['doc_id', 'filename', 'is_flood', 'is_bangladesh', 'flood_related', 'flood_climatechange', 'newspaper', 'flood_type', 'text']

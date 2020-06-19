@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_a2ef4e04-3dec-4f7e-a516-ea5ba1f6b4d8.txt",
+  "text": "Date Published:2019-05-28 00:00:00      \nRCC Mayor Liton and KCC Mayor Khalek will have the rank and status of state ministers  Dhaka North City Corporation (DNCC) Mayor Md Atiqul Islam will enjoy the rank and status of a minister. The Cabinet Division issued a gazette notification in this regard on Tuesday. Rajshahi City Corporation (RCC) Mayor AHM Khairuzzaman Liton and Khulna City Corporation (KCC) Mayor Talukder Abdul Khalek will have the rank and status of  state ministers. The decision took immediate effect, the gazette said."
+}

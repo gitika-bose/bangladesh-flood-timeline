@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_ffb4c763-a16f-4500-ab50-6ed3a8caf20c.txt",
+  "text": "Date Published:2019-12-13 00:00:00      \nThis year, 12 AIDS patients died, eight of them were women At least fifty-six new AIDS  patients were detected in Khulna division between November 2018 and October 2019. The patients include 26 men, 24 women and six children. This year, 12 AIDS patients died, eight of them were women. According to Strengthening of HIV Services Project of Khulna Medical College Hospital (KMCH) sources, 67 AIDS patients were detected in Khulna division last year. Currently, 250 patients are receiving free treatment at Anti-viral Therapy Centre (ART) of KMCH. Of them, 86 people are the residents of Khulna district. Sixty-two of the patients are from Jessore, 34 from Satkhira, 25 from Narail, 12 from Bagerhat, 10 from Jhenaidah, four from Magura, three from Chuadanga, six from Gopalganj, four from Faridpur, three from Pirojpur and a transgender person from Borguna. The first HIV patient was detected in Bangladesh in 1989, and since then the number has been on the rise. Between 1989 and last year, 6,455 people were infected with HIV virus. Dr ATM Manjur Morshed, KMCH Director and Director of the Project, said the only way to prevent the disease is raising awareness. \"If we can detect HIV in the blood of a pregnant woman, it's possible to save the child in the womb from through treatment,\" he said. 37.9 million people living with HIV/AIDS worldwide in 2018, according to WHO. Last year, 770,000 people died of HIV-related illnesses."
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1987_476bfd191ed9cb24fdb37cc953b5eeb597b928e9.txt",
+  "text": "The Editorial Notebook; India's Practical Communists\n1987-04-16T05:00:00.000Z\nThe campaign literature reads like boilerplate out of Pravda: ''The magnificent successes of the socialist world and the happy and prosperous life of the common people prove to the international community the superiority of the socialist system. . . .'' But the enduring success of the Communist Party of West Bengal, democratically elected to rule one of India's poorest states, owes more to clever politicking than it does to the theories of Karl Marx.\nIt is difficult to predict how Communists would run the rest of India were they given the opportunity, but West Bengal's Left Front government is currently playing a constructive role as gadfly to the country's inertia-bound Congress Party rulers.\nThe state of West Bengal, southwest of Bangladesh, might have been invented as a test for Job. Vastly overpopulated, torn by ethnic violence, prone to flood and drought, it has not shared the modest economic success of India's western regions. What it does have is leftist intellectuals who broke with the Congress movement after independence and took control of the state government a decade ago. Elections last month gave the Left Front its biggest majority ever.\nAnalysts credit the Communist Party's popular leader, Jhoti Basu, who is frequently compared to the pragmatic, business-tolerant Communist Party heads of Western Europe. Local industrialists have made their peace with Mr. Basu. They argue that the Communists out of power are trouble. In power, they have become realists, adept at persuading fractious unions to honor their agreements.\nThe Eurocommunist model doesn't quite fit. Here, practically everyone is a socialist in the sense that practically everyone pays lip service to the idea of government as Robin Hood. West Bengal's Communists clobber their me-too opponents at the polls because they are smarter, better organized and less corrupt.\nIndia's Constitution assigns key economic powers to the central Government, controlled by the Congress Party. Only New Delhi can site large-scale industry in West Bengal or provide the tax revenues to repair the collapsing infrastructure. When Calcutta barred commercial livestock from the city's traffic-choked business district, it took six months for the rule to receive the necessary blessing from unsympathetic ministries in New Delhi.\nLocal Communists overcome this handicap by focusing on rural justice and grass-roots development, where organization can serve as a substitute for cash. West Bengal's sharecroppers, for example, have long been legally entitled to keep 75 percent of their output. But their rights were rarely enforceable. Then the Left Front government made it almost impossible for landlords to evict recalcitrant sharecroppers.\nThe Communists have also increased the authority of village-based councils, making government more responsive and, perhaps, less corrupt. What little tax revenue the Communists do control is used for high-visibility projects in rural literacy and health.\nAshok Mitra, a witty ideologue who served as West Bengal's finance minister, insists his party's Marxist goals remain intact. Once Bengali peasants are properly organized, he predicts, Communists will be able to sell them on the virtues of collective ownership. And once Communists extend their reach beyond West Bengal and a few other peripheral states, the left will be able to discard the forms of bourgeois democracy for a proper dictatorship of the proletariat.\nPerhaps. But just now, India seems more inclined to inch right than left, and West Bengal's Communists seem fated to remain rural reformers rather than revolutionaries. India could do a lot worse."
+}

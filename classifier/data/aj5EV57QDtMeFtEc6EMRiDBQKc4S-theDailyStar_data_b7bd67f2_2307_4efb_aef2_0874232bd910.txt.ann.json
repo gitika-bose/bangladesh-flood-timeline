@@ -1,0 +1,392 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "river_erosion",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 15,
+          "text": "2019-07-16"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_50": {
+          "value": "2019-07-16",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 107,
+          "text": "strong current in rivers including the Jamuna and Arial Kha eroding"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "river",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 222,
+          "text": "Tangail and Faridpur"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Tangail and Faridpur",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 244,
+          "text": "In Bhuapur upazila of Tangail"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Tangail",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_40": {
+          "value": "Bhuapur",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 321,
+          "text": "Jamuna has been eroding hundreds of dwellings and vast tracts of croplands along its banks"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "Hundreds of dwellings and vast tracts of cropland along Jamuna's banks are being eroded",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 587,
+          "text": "The worst affected villages are Khanurbari, Kostapara and Bhalkutia under Govindasi union"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_41": {
+          "value": "Khanurbari, Kostarpara, and Bhalkutia",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_42": {
+          "value": "Govindasi",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_40": {
+          "value": "Bhuapur",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_39": {
+          "value": "Tangail",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 683,
+          "text": "over 300 dwellings and a large swathe of croplands have disappeared"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_54": {
+          "value": "300",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_45": {
+          "value": "Large swathe of croplands have disappeared",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|321,410",
+        "s1v1|e_2|244,272"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|683,749",
+        "s1v1|e_2|587,675"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|683,749",
+        "s1v1|e_49|15,24"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  ],
+  "filename": "theDailyStar_data_b7bd67f2-2307-4efb-aef2-0874232bd910.txt",
+  "text": "Date Published:2019-07-16 00:00:00      \nWith flood situation worsening in different parts of the country, strong current in rivers including the Jamuna and Arial Kha eroding houses and properties of hundreds of people in Tangail and Faridpur. In Bhuapur upazila of Tangail, the situation has taken a serious turn as the Jamuna has been eroding hundreds of dwellings and vast tracts of croplands along its banks, reports our correspondent in Tangail. Inhabitants in the area have been living in anxiety of losing their houses and properties to the river's erosion in the last one month. The worst affected villages are Khanurbari, Kostapara and Bhalkutia under Govindasi union where over 300 dwellings and a large swathe of croplands have disappeared in the Jamuna over the last three weeks. A large number of the affected people from the villages have taken shelter on different roads and houses of others. Last week, Firoza Bewa, a widow with four children, lost her house on eight decimals of land in Kostapara village to the erosion. Since then, they have been living in a makeshift structure by the river. \"My husband, a rickshaw-van puller, died in cardiac arrest few months ago. Now where will I go with my children? Who will give us shelter?\" wondered Firoza. Many others like her are now living in the open after losing everything including their crops and belongings to the river. Jhoton Chanda, upazila nirbahi officer in Bhuapur, said, \"We are preparing a list of the erosion victims in order to provide them with necessary assistance.\" Meanwhile, Water Development Board (WDB) workers were seen dumping geotextile bags along a 75-meter-long stretch at Khanurbari village. Obhijit Ghosh, a resident of Kostapara village, said finding the steps taken by the WDB inadequate for checking the erosion, villagers in many areas were seen dumping bags filled with dirt.   Contacted, Sirajul Islam, executive engineer of WDB in Tangail, said water in the Jamuna was flowing 15 centimetres above danger level at Bhuapur point yesterday. \"Since it's tough to get a big project passed, we are taking smaller projects in phases to check the erosion. Preparations are ongoing to dump geo bags along another 75 meters of the affected area,\" he added. In Faridpur, at least 11 houses and 2,000 bighas of croplands were lost to erosion of the Arial Kha river in five villages of Sadarpur upazila in the last three days, reports our correspondent in the district. The affected villages are Amir Khanar Kandi, Zajira Kandi, Charbondorkhola, Kazi Kandi and Adel Uddin Mollah Kandi village in Char Manair union. Ayub Ali, chairman of Char Manair Union Parishad, said the erosion of the river started last Friday and so far, at least 11 houses and 2,000 bighas of croplands were devoured. Although the WDB in Faridpur has been dumping geo bags to check the erosion, strong current of the river is washing those away. Even the building of Char Manair Union Parishad and Char Bandarkhola Madrasa are now under erosion threat, he added. Kulsum Bibi, an elderly resident of Zajira Kandi village, said, \"The rampage of the Arial Kha has distressed us enormously. The river has devoured our ancestral homestead.\" After losing 10 bighas of land to the erosion, Kamal Hawladar, another resident of the same village, said he and his family were bracing for further sufferings in future. Kazi Kandi village resident Abdul Karim Hawladar said in only two days' time, the river devoured 20 bighas of his land. Sadarpur Upazila Nirbahi Officer Purobi Goldar said the higher authorities were made aware of the situation. She also said, \"WDB has been dumping geo bags in the affected areas and we engaged an officer from our upazila administration [to oversee the work].\" WDB Executive Engineer in Faridpur Sultan Mahmud said as a temporary measure to contain the erosion as well as ease sufferings of people, they have been dumping geo bags in affected areas."
+}

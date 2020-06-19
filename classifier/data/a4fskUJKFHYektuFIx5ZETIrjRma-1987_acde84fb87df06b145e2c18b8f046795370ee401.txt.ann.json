@@ -1,0 +1,196 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "cyclone",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1778,
+          "text": "After the country was devastated by a cyclone and floods"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "coastal_cyclone",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1835,
+          "text": "that took 300,000 lives"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "300000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1859,
+          "text": "in November 1970"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_50": {
+          "value": "1970-11",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_51": {
+          "value": "1970-11",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|1835,1857",
+        "s1v1|e_49|1859,1874"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  ],
+  "filename": "1987_acde84fb87df06b145e2c18b8f046795370ee401.txt",
+  "text": "PRIEST IS HONORED FOR WORK IN ASIA\n1987-08-16T05:00:00.000Z\nAn American priest who has spent 35 years teaching and leading relief and development efforts in Bangladesh has been honored by the Rockefeller Brothers Foundation for ''exemplary work on behalf of the Asian people.''\nThe Roman Catholic priest, the Rev. Richard William Timm, the Superior of the Holy Cross Fathers in Bangladesh, was one of five recipients named last week to receive the Ramon Magsaysay Award for International Understanding.\nThe awards were created 30 years ago by the Rockefeller Brothers Fund as a memorial to the late Ramon Magsaysay, who was President of the Philippines. The awards are administered by the Magsaysay Foundation in Manila, created for this purpose by the New York-based Rockefeller Fund.\nEach recipient receives $20,000 and is to be honored at an awards ceremony in the fall in Bangkok, Thailand. Other Winners\nAmong the other winners was Dato Haji Hanafiah bin Haji Ahman, a Malaysian Government official, who was honored for helping to ease the hardships of the country's devout Moslems undertaking pilgrimages to Mecca.\nAnother winner, Hans Bague Jassin, director of Indonesia's Center for Literacy Documentation, received a Magsaysay award for public service, and Diane Ying, a Taiwanese editor and publisher of a business weekly, Commonwealth, received a prize in journalism. Dr. Aree Valyasevi, professor of pediatrics and director of the Institute of Nutrition at Mahidol University in Thailand, received a prize for community leadership.\nFather Timm, who is 64 years old, was born in Michigan City, Ind. He left the United States in 1952 to teach science at St. Gregory's College in East Pakistan, which became part of independent Bangladesh in 1971. Emergency Assistance\nAfter the country was devastated by a cyclone and floods that took 300,000 lives in November 1970, he gave up teaching to devote himself to emergency assistance for the disaster victims, mobilizing relief and rehabilitation activities.\nLater, he became involved in long-term rural development. He also undertook efforts to reduce communal tensions.\n''I have more hope in changed people than in changed structures and political systems,'' he said of his decision to devote his energies to improving life for the people of Bangladesh.\nIn 1974, he succeeded in inducing 130 relief agencies in the country to work together as the Association of Development Agencies. Last year, he helped establish the Coordinating Council for Human Rights in Bangladesh."
+}

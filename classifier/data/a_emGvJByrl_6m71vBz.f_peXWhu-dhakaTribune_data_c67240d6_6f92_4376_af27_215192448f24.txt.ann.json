@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_c67240d6-6f92-4376-af27-215192448f24.txt",
+  "text": "Date Published:2019-09-17 00:00:00      \nThe project will be implemented from October 2019 to September 2022 The Executive Committee of the National Economic Council (Ecnec) has approved a project involving Tk2,388.40 crore to set up a 100-bed full-fledged cancer centre in each government medical college hospital in every divisional city. The Ecnec cleared a total of eight projects with an estimated cost of Tk8,968.08 crore. The approval came from the Ecnec meeting held at the NEC conference room with Ecnec Chairperson and Prime Minister Sheikh Hasina in the chair. \"Today the meeting approved eight projects and the estimated cost of the project is Tk8,968.08,\" said Planning Minister MA Mannan while briefing reporters after the meeting. Of the cost, Tk8,952.59 crore will come from the national exchequer, while the rest Tk15.49 crore from the own funds of the agencies concerned, he said.  Of the approved projects, five are new and the remaining three are revised ones. The Planning Minister said the Directorate General of Health Services (DGHS) will implement the 'Establishment of 100-bed Full-fledged Cancer Centre in Government Medical College Hospital in Divisional City' project. The project will be implemented from October 2019 to September 2022. "
+}

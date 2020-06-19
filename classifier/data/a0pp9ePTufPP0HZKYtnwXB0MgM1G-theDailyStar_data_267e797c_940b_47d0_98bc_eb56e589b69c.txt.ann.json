@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_267e797c-940b-47d0-98bc-eb56e589b69c.txt",
+  "text": "Date Published:2019-11-08 00:00:00      \nYouthMappers is a network of universities around the globe which provides students with the opportunity to learn mapping skills, develop leadership experiences and create new geospatial data for development projects in places that are vulnerable to natural and social disasters. Launched by the USAID GeoCenter and three universities in 2015, it has grown into a global network of 163 university chapters with over 5000 students. \"We don't build maps, we build mappers\" is their official motto, as they attempt to cultivate a generation of young leaders to create resilient communities. Their leadership fellow programmes, research fellow programmes and virtual internships are beneficial to both students and faculty members for self-development. Maliha Binte Mohiuddin from University of Dhaka began her journey with YouthMappers in 2016, shortly after she wrote a blog entry titled, \"Mapping is like a box of chocolates\", for one of their programmes. Consequently, she was selected as a Leadership Fellow in 2017 and attended a seven-day training session in Nepal, where she also received the Best Blog certificate. In 2018, she was selected for a five-month training programme in Manila, under the National NGO Program for Humanitarian Leadership, organised by Concern Worldwide. She was the youngest representative at International Medical Corps and Harvard Humanitarian Initiatives. YouthMappers works around mapping for humanitarian matters and projects like malaria prevention, food security and resilience against natural calamities. Everyone at YouthMappers is engaged with remote and field mapping sectors. Maliha regards mapping to be an exciting activity for young students, as it enables them to utilise different areas of knowledge and turn them into diagrams. Her current job as the Regional Ambassador is to aid in the process of creating new chapters through local communication with the youth in Asia. Maliha is also involved with their Let Girls Map campaign for bringing aspiring female mappers to the forefront. She recently organised a workshop at Daffodil International University where she taught the students about mapping and worked on a project based on flood resilience in Noakhali. \"We used the Kobo Toolbox, field paper and Mapillary app. With the help of two female volunteers from University of Dhaka, Nowshin Afrose and Sabiha Muna, the programme was a great success,\" she shared. Presently, there are twelve chapters of the network at different institutions across Bangladesh, including University of Dhaka, Dhaka College, Eastern University, Jahangirnagar University, Asian University of Women, Daffodil International University and State University of Bangladesh.  Maliha had Dr Patricia Soils, Director and Principal Investigator of YouthMappers, as her mentor, when she started out. She strongly believes that the platform has given her the encouragement and strength to pursue her goals as a humanitarian in the long run. She is grateful to YouthMappers for equipping her with valuable life skills. Maliha recently presented her paper, Elevating the Skills of Youth Through the Humanitarian Remote Mapping with the Thrive of YouthMappers Network, as one of the keynote speakers at the 3rd International Conference on Natural Hazards and Disaster Management, held in Japan. She has also contributed to the engagement of students at Keio University and Okayama University of Science, with the goal of affiliating them with the YouthMappers network."
+}

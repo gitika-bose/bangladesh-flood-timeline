@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_99875649-8353-4676-8d12-d7198b4df537.txt",
+  "text": "Date Published:2019-07-27 00:00:00      \nBNP Secretary General Mirza Fakhrul Islam Alamgir has said the government is terming the Dengue outbreak as \"rumours\" after failing to prevent the viral disease from spreading across Bangladesh. \"People are dying from Dengue, while the government is calling it the whole issue as rumours created by BNP,\" he said.  The senior BNP leader made the remarks while distributing relief materials among flood victims in Hatibandha upazila of Lalmonirhat on Saturday afternoon. After distributing reliefs, Fakhrul said: \"Despite having such a crisis of relief materials in flood affected areas, ministers and MPs of this government are busy with looting instead of standing beside the victims.\" On the issue of lynching and child abduction rumours, he said: \"People are being lynched because there is no rule of law prevailing in country. If there was, then a mother would not have been beaten to death in front of her children.\" He also demanded the immediate release of the party's jailed Chairperson Khaleda zia and a re-election saying: \"Even though December 30 was the Election Day, voting was done in the night of December 29.\" The BNP leader also alleged that the government is systematically carrying out persecution against BNP men by pinning them in false cases and throwing them in jail. Senior BNP leaders including BNP Standing Committee member Iqbal Mahmud Tuku, Joint Secretary Syed Moazzem Hossain Alal, among others, were present at the event. "
+}
