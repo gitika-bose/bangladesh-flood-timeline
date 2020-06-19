@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_392446af-97d5-4bb8-8f19-8486c200fe2e.txt",
+  "text": "Date Published:2019-11-13 00:00:00      \nThe accident left 16 people dead and 70 others injured Railway authorities have filed an unnatural death case against unnamed people over Brahmanbaria's train accident, which left 16 people dead and 70 others injured. Mandabag Railway Station Master Zaker Hossain Chowdhury filed the case with Akhaura Railway police station on Tuesday night. Akhaura Railway police station Officer-in Charge Shyamol Kanti Das confirmed the matter. Mandabag Railway Senior Station Master Md Khalilur Rahman Mondol said: \" According to railway rule this case needs to be filed. Hence, we have filed it.\" On Tuesday, Dhaka-bound Turna Nishita, coming from Chittagong, crashed into Chittagong-bound Udayan Express, coming from Sylhet, near Mondobagh Railway Station in Kasba upazila of Brahmanbaria around 2:45am. The aftermath of the train colission between Udayan Expess and Turna-Nishita Epress on Tuesday, November 12, 2019 | Focus Bangla  Sixteen people, including five children, were killed in the collision. More than 70 others were also injured in the horrific accident. Officials feared the death toll might rise, as several injured were in critical condition. Train services between Dhaka, Chittagong and Sylhet were snapped for nearly eight hours after the accident, causing a schedule collapse as several trains were delayed. The rail links were restored around 10am. Later in the day, Railways Secretary Mofazzal Hossain visited the scene and confirmed that five committees were formed to investigate the mishap. He said: \"Turna Nishita's loco master Taser, assistant loco master Anup Deb and guard Abdur Rahman were suspended after the incident.\" The trio will remain suspended until the probe committees submit their reports, he added."
+}

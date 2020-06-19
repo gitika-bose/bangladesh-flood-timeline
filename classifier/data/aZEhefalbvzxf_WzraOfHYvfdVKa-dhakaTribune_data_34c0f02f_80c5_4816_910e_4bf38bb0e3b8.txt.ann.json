@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_34c0f02f-80c5-4816-910e-4bf38bb0e3b8.txt",
+  "text": "Date Published:2020-02-15 00:00:00      \nPrimarily, 500 consumers of two char areas - Charatra, Nawapara unions - now have access to electricity The inhabitants of char areas in Shariatpur district have received electricity connections through sub marine cables, drawn under the Padma River. Deputy Minister for Water Resources AKM Enamul Hoque Shamim inaugurated the power supply under a project in a program at Aziz High School and College premises of Naria upazila in the district on Saturday , a correspondent reports. Primarily, 500 consumers of two char areas - Charatra, Nawapara unions - now have access to electricity. A man working on a electricity poll | Dhaka TribuneThe project aims to provide electricity to different remote areas of Shariatpur, Chandpur and Munshiganj districts, the project cost of which is estimated to be Tk95 crore. Munshiganj Rural Electrification Board (REB) is working on the project . According to the Munshiganj REB, a 1km sub marine cable has been set up from Munshiganj to Naria upazila of Shariatpur district, beneath the Padma River to provide at least 20,000 consumers with electricity."
+}

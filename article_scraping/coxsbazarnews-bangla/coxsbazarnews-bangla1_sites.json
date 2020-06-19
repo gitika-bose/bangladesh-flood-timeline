@@ -1,0 +1,66 @@
+[
+  {
+    "query": "\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 \u09ac\u09a8\u09cd\u09af\u09be",
+    "paper": "coxsbazarnews-bangla",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": [
+      "http://www.coxsbazarnews.com/archives/128788.html",
+      "http://www.coxsbazarnews.com/archives/150764.html",
+      "http://www.coxsbazarnews.com/archives/132533.html",
+      "http://www.coxsbazarnews.com/archives/160681.html",
+      "http://www.coxsbazarnews.com/archives/143743.html"
+    ]
+  },
+  {
+    "query": "\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 \u09ac\u09a8\u09cd\u09af\u09be",
+    "paper": "coxsbazarnews-bangla",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "http://www.coxsbazarnews.com/archives/233437.html",
+      "http://www.coxsbazarnews.com/archives/204963.html",
+      "http://www.coxsbazarnews.com/archives/200375.html"
+    ]
+  },
+  {
+    "query": "\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 \u09ac\u09a8\u09cd\u09af\u09be",
+    "paper": "coxsbazarnews-bangla",
+    "date_range": [
+      "1/1/2020",
+      "12/31/2020"
+    ],
+    "sites": [
+      "http://www.coxsbazarnews.com/archives/265243.html",
+      "http://www.coxsbazarnews.com/archives/265466.html",
+      "http://www.coxsbazarnews.com/archives/259981.html",
+      "http://www.coxsbazarnews.com/archives/263587.html",
+      "http://www.coxsbazarnews.com/archives/263568.html",
+      "http://www.coxsbazarnews.com/archives/265292.html",
+      "http://www.coxsbazarnews.com/archives/264021.html",
+      "http://www.coxsbazarnews.com/archives/265523.html",
+      "http://www.coxsbazarnews.com/archives/265478.html",
+      "http://www.coxsbazarnews.com/archives/261445.html",
+      "http://www.coxsbazarnews.com/archives/265641.html",
+      "http://www.coxsbazarnews.com/archives/265300.html",
+      "http://www.coxsbazarnews.com/archives/259871.html",
+      "http://www.coxsbazarnews.com/archives/265465.html",
+      "http://www.coxsbazarnews.com/archives/265635.html",
+      "http://www.coxsbazarnews.com/archives/261571.html",
+      "http://www.coxsbazarnews.com/archives/265485.html",
+      "http://www.coxsbazarnews.com/archives/261170.html",
+      "http://www.coxsbazarnews.com/archives/265782.html",
+      "https://www.coxsbazarnews.com/archives/247420.html",
+      "http://www.coxsbazarnews.com/archives/251084.html",
+      "http://www.coxsbazarnews.com/archives/257664.html",
+      "http://www.coxsbazarnews.com/archives/253764.html",
+      "http://www.coxsbazarnews.com/archives/category/%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%A4%E0%A7%8D%E0%A6%AF-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE",
+      "http://www.coxsbazarnews.com/archives/category/%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%AE%E0%A6%A4",
+      "http://www.coxsbazarnews.com/archives/240859.html"
+    ]
+  }
+]

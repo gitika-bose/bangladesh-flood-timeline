@@ -1,0 +1,2869 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {},
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 15,
+          "text": "2019-05-05"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "2019-05-04",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_50": {
+          "value": "2019-05-04",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 41,
+          "text": "A total 17 people were killed"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "17",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 71,
+          "text": "in 10 districts"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 98,
+          "text": "Cyclone Fani"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "coastal_cyclone",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 377,
+          "text": "The casualties occurred in Barguna, Satkhira, Noakhali, Bhola, Lakshmipur, Patuakhali, Bagerhat, Kishoreganj, Netrokona and Brahmanbaria districts"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Barguna, Satkhira, Noakhali, Bhola, Lakshmipur, Patuakhali, Bagerhat, Kishoreganj, Netrokona and Brahmanbaria",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 613,
+          "text": "about 13,000 houses were damaged by the storm"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_54": {
+          "value": "13000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 660,
+          "text": "including 2,243 that were completely destroyed while 11,172 were partially damaged"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "2243 houses completely damaged and 11172 houses partially damaged",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 757,
+          "text": "about 330 acres of cropland was completely destroyed"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_34": {
+          "value": "330 acre",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_45": {
+          "value": "330 acres of cropland were completely destroyed",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 815,
+          "text": "52,729 acres was partially damaged"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_34": {
+          "value": "52729 acres",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_45": {
+          "value": "52729 acres of cropland were partially damaged",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2130,
+          "text": "Two people - grandmother Nurjahan Begum, 60, and grandson Jahidul Islam, 8 - were killed"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "2",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2219,
+          "text": "in Patharghata of Barguna"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Barguna",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_40": {
+          "value": "Patharghata",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2330,
+          "text": "In Noakhali"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Noakhali",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2343,
+          "text": "two-year-old Md Ismail, son of Abdur Rahman of Char Aminul Haque village, died"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "1",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2426,
+          "text": "30 others were injured"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "30 people injured",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2449,
+          "text": "in Char Wapda and in Char Jabbar unions of Subarnachar upazila"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Noakhali",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_40": {
+          "value": "Subarnachar",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_42": {
+          "value": "Char Wapda and Char Jabbar",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2766,
+          "text": "14 killed"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "14",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2776,
+          "text": "in 8 districts"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2802,
+          "text": "30 villagers were also injured"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "30 people injured",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2878,
+          "text": "in the two unions"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_42": {
+          "value": "Char Wapda and Char Jabbar",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_40": {
+          "value": "Subarnachar",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_39": {
+          "value": "Noakhali",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2997,
+          "text": "in Char Kakra union of Companiganj upazila"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_42": {
+          "value": "Char Kakra",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_40": {
+          "value": "Companiganj",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_39": {
+          "value": "Noakhali",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3041,
+          "text": "sixth-grader Nazmun Nahar Jhumur died"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3248,
+          "text": "In Satkhira"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Satkhira",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3261,
+          "text": "Ayna Moti Bibi, 92, died of sickness in a cyclone shelter"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "1",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3335,
+          "text": "In Bhola"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Bhola",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3385,
+          "text": "Dakshin Dighaldi union in Bhola sadar upazila"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Bhola",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_42": {
+          "value": "Dakshin Digaldhi",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3432,
+          "text": "was killed"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "1",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3597,
+          "text": "hundreds of houses in the district had been destroyed"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "hundreds of houses destroyed",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3670,
+          "text": "In Lakshmipur,"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Lakshmipur",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3685,
+          "text": "Anwara Begum, 70, was killed in a house collapse"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "1",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3833,
+          "text": "In Patuakhali"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Patuakhali",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 4045,
+          "text": "He succumbed to his injuries"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "1",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 4218,
+          "text": "In Bagerhat"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Bagerhat",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 4231,
+          "text": "Shahanur Begum, 50, wife of Mozahar Hawladar of Ranjitpur village in Bagerhat sadar upazila, was killed"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "1",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 4463,
+          "text": "In Kishoreganj"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Kishoreganj",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 4479,
+          "text": "six people including a seven-year old were killed"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "6",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 4729,
+          "text": "In Netrokona"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Netrokona",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 4744,
+          "text": "farmer Abdul Barek, 35, was killed"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "1",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 4896,
+          "text": "In Brahmanbaria"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Brahmanbaria",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 4913,
+          "text": "farmer Apel Mia, 20, son of Urmuz Ali Mia of Bagdahar village, was killed"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "1",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 5393,
+          "text": "In Barisal"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Barisal",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 5405,
+          "text": "the cultivation of boro paddy on 3,680 hectares of land"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_27": {
+          "value": "rice",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_34": {
+          "value": "3680",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 5462,
+          "text": "muug pulses on 1,510 hectares"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_27": {
+          "value": "pulses",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_34": {
+          "value": "1510",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 5493,
+          "text": "pepper on 1,476 hectares"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_34": {
+          "value": "1476",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_45": {
+          "value": "pepper on 1476 hectares",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 5520,
+          "text": "sesamum (til) on 250 hectares"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_27": {
+          "value": "oil_seeds",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_34": {
+          "value": "250",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 5551,
+          "text": "vegetables on 940 hectares"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_34": {
+          "value": "940",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_45": {
+          "value": "940 hectares vegetables",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 5580,
+          "text": "maize on 120 hectares"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_34": {
+          "value": "120",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_27": {
+          "value": "maize",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 5603,
+          "text": "betel-leaf on 535 hetares"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_34": {
+          "value": "535",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_45": {
+          "value": "betel-leaf on 535 hectares",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 5634,
+          "text": "soya bean  on 552 hectares were damaged"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_34": {
+          "value": "552",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_27": {
+          "value": "oil_seeds",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 5734,
+          "text": "1,015 non-brick houses"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_54": {
+          "value": "1015",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_45": {
+          "value": "1015 non-brick houses",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 5758,
+          "text": "65km of unpaved roads"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "65 km of unpaved roads",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 5781,
+          "text": "fish cultivation on  25 private ponds"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "fish cultivation on 25 private ponds",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 5824,
+          "text": "6,065 plants and trees were also damaged"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "6065 plants and trees",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 5950,
+          "text": "Satla-Bagda flood control embankments at Shibpur point"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "flood control embankment damaged",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 6013,
+          "text": "river erosion control embankment"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "river erosion control embankment damaged",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 6184,
+          "text": "In Sonagazi of Feni"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Feni",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_40": {
+          "value": "Sonagazi",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 6205,
+          "text": "50 houses were damaged"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_54": {
+          "value": "50",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 6229,
+          "text": "as well as crops and electrical pylons"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "crops and electrical pylons",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 6388,
+          "text": "the damage to crops and electrical lines would amount to about Tk1 crore"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "the damage to crops and electrical lines would amount to 1 crore ",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 6909,
+          "text": "A total 6,000 acres of cropland was damaged"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_34": {
+          "value": "2428.114",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 6960,
+          "text": "about 3000 trees"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "3000 trees",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 6978,
+          "text": "10km of embankments"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "10 km embankments",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 7003,
+          "text": "2,092 houses were partially damaged"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_54": {
+          "value": "2092",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 7042,
+          "text": "eight upazila of Patuakhali"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Patuakhali",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 7638,
+          "text": "had evacuated 1,640,000 people"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_36": {
+          "value": "1640000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 7710,
+          "text": "in 19 districts"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    }
+  ],
+  "relations": [
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|41,69",
+        "s1v1|e_2|377,522"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|613,657",
+        "s1v1|e_2|377,522"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|757,808",
+        "s1v1|e_2|377,522"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|815,848",
+        "s1v1|e_2|377,522"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|2130,2217",
+        "s1v1|e_2|2219,2243"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|2426,2447",
+        "s1v1|e_2|2449,2510"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|2766,2774",
+        "s1v1|e_2|2776,2789"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|2802,2831",
+        "s1v1|e_2|2878,2894"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|3041,3077",
+        "s1v1|e_2|2997,3038"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|3261,3317",
+        "s1v1|e_2|3248,3258"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|3432,3441",
+        "s1v1|e_2|3385,3429"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|3597,3649",
+        "s1v1|e_2|3335,3342"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|3685,3732",
+        "s1v1|e_2|3670,3683"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|4045,4072",
+        "s1v1|e_2|3833,3845"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|4231,4333",
+        "s1v1|e_2|4218,4228"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|4479,4527",
+        "s1v1|e_2|4463,4476"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|4744,4777",
+        "s1v1|e_2|4729,4740"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|4913,4985",
+        "s1v1|e_2|4896,4910"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|5405,5459",
+        "s1v1|e_2|5393,5402"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|5462,5490",
+        "s1v1|e_2|5393,5402"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|5493,5516",
+        "s1v1|e_2|5393,5402"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|5520,5548",
+        "s1v1|e_2|5393,5402"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|5580,5600",
+        "s1v1|e_2|5393,5402"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|5603,5627",
+        "s1v1|e_2|5393,5402"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|5634,5672",
+        "s1v1|e_2|5393,5402"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|5734,5755",
+        "s1v1|e_2|5393,5402"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|5758,5778",
+        "s1v1|e_2|5393,5402"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|5781,5817",
+        "s1v1|e_2|5393,5402"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|5824,5863",
+        "s1v1|e_2|5393,5402"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|5950,6003",
+        "s1v1|e_2|5393,5402"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|6013,6044",
+        "s1v1|e_2|5393,5402"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|6205,6226",
+        "s1v1|e_2|6184,6202"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|6229,6266",
+        "s1v1|e_2|6184,6202"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|6388,6459",
+        "s1v1|e_2|6184,6202"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|6909,6951",
+        "s1v1|e_2|7042,7068"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|6960,6975",
+        "s1v1|e_2|7042,7068"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|6978,6996",
+        "s1v1|e_2|7042,7068"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|7003,7037",
+        "s1v1|e_2|7042,7068"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|7638,7667",
+        "s1v1|e_2|7710,7724"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|613,657",
+        "s1v1|e_49|15,24"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|757,808",
+        "s1v1|e_49|15,24"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|815,848",
+        "s1v1|e_49|15,24"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  ],
+  "filename": "dhakaTribune_data_e19b4b4d-8a4c-45ee-953b-1ec6fc6bb8c2.txt",
+  "text": "Date Published:2019-05-05 00:00:00      \nA total 17 people were killed in 10 districts A weakened Cyclone Fani crossed Bangladesh on Saturday, without causing any major damage. Nevertheless, 17 people were killed in ten districts of the country on Saturday and on Friday, as a number of houses collapsed and trees were felled by gusts in the lead up to and during the cyclone. The casualties occurred in Barguna, Satkhira, Noakhali, Bhola, Lakshmipur, Patuakhali, Bagerhat, Kishoreganj, Netrokona and Brahmanbaria districts. According to initial estimates from the National Disaster Response Coordination Centre, about 13,000 houses were damaged by the storm, including 2,243 that were completely destroyed while 11,172 were partially damaged. Furthermore, about 330 acres of cropland was completely destroyed, and 52,729 acres was partially damaged. During a press conference in Dhaka on Saturday afternoon, Disaster Management Ministry's Senior Secretary Shah Kamal  said the risk posed by Cyclone Fani had passed. No major damage was reported, and there will be no problem recovering losses, he added. The senior secretary further said four people were killed in the storm as they did not move into cyclone shelters, despite no lack of preparation from the government. Compensation of Tk20,000 has been sent to the four families. Also Read- Cyclone Fani weakens further, maritime ports signal lowered to 3 According to the Met office, the storm approached Bangladesh at a speed of 20km/hr. The cyclone reached the Jessore, Satkhira and Khulna regions around 6am on Saturday, and then moved north-northeastwards, crossing Chuadanga, Rajbari, Manikganj and Dhaka with the speed increasing negligibly. The storm then crossed the Sylhet and Mymensingh region, and finally moved towards Meghalaya in India, leaving Bangladesh.  Meanwhile, Mongla and Payra maritime ports, Chittagong port, and Cox's Bazar have been advised to lower danger signals to cautionary signal 3. The Met Office on Saturday said coastal districts could experience heavy rain and tidal surges for the next 24 hours as an aftermath of Cyclone Fani. Casualties Two people - grandmother Nurjahan Begum, 60, and grandson Jahidul Islam, 8 - were killed in Patharghata of Barguna, as their house collapsed, said the district's executive magistrate M Zakir Hossain  In Noakhali, two-year-old Md Ismail, son of Abdur Rahman of Char Aminul Haque village, died and 30 others were injured in Char Wapda and in Char Jabbar unions of Subarnachar upazila. Iqbal Hasan, an upazila-level government official and also duty officer of Subarnachar upazila control room, said: \"A minor has been killed and several others of the family injured when the house collapsed on them during storm. Also Read- Cyclone Fani: 14 killed in 8 districts \"Moreover, 30 villagers were also injured as the storm destroyed over a hundred houses in the two unions.\" The injured were being treated at Subarnachar Upazila Health Complex, he added. On the other hand, in Char Kakra union of Companiganj upazila, sixth-grader Nazmun Nahar Jhumur died when the branch of a tree fell on her after she left her house to collect mangoes shaken off by the storm around 7am, District Deputy Commissioner (DC) Tonmoy Das said. In Satkhira, Ayna Moti Bibi, 92, died of sickness in a cyclone shelter at Shyamnagar.  In Bhola, Rani Begum, 45, wife of Samsul Haque of Dakshin Dighaldi union in Bhola sadar upazila, was killed after their house collapsed during the storm on Saturday morning. Bhola Sadar Upazila Nirbahi Officer (UNO) Md Kamal Hossain confirmed the matter, saying hundreds of houses in the district had been destroyed by Cyclone Fani.   In Lakshmipur, Anwara Begum, 70, was killed in a house collapse in Char Algi village of Ramgati upazila on Saturday morning, UNO Rafiqul Islam told Dhaka Tribune. In Patuakhali, motorcyclist Habibur Rahman Musulli, 25, was injured when the branch of a tree fell on him during gusts in the lead up to the storm in the Manastali area of Kuakata municipality on Friday evening. He succumbed to his injuries around 11pm, while undergoing treatment at Barisal Sher-e-Bangla Medical College and Hospital, said Kuakata Municipal Mayor Abdul Barek Molla.  In Bagerhat, Shahanur Begum, 50, wife of Mozahar Hawladar of Ranjitpur village in Bagerhat sadar upazila, was killed after the branch of a tree fell on her during gusts on Friday afternoon, said Khanpur Union Parishad Chairman Fakir Kahamuddin. In Kishoreganj, six people including a seven-year old were killed in lightning strikes in Mithamain, Itna and Pakundia upazilas on Friday afternoon, Pakundia police station OC Mohammad Ilias said. Also Read- PM Hasina thanks Almighty for saving Bangladesh from Fani In Netrokona,  farmer Abdul Barek, 35, was killed after being struck by lightning in Madan upazila on Friday afternoon, said Madan police station OC Md Ramizul Haque. In Brahmanbaria, farmer Apel Mia, 20, son of Urmuz Ali Mia of Bagdahar village, was killed when lightning struck him in Nabiganar upazila of Brahmanbaria on Friday evening, said Nabinagar police station OC Ranajit Roy. Damage In Barguna, water levels of three rivers- the Baleshwar, Bishkhali, and Payra - were about 25cm above the danger level. However, the Water development board's Barguna office Deputy Divisional Engineer Hannan Pradhan said there was no risk of water entering the locality. In Barisal, the cultivation of boro paddy on 3,680 hectares of land, muug pulses on 1,510 hectares, pepper on 1,476 hectares , sesamum (til) on 250 hectares, vegetables on 940 hectares,  maize on 120 hectares, betel-leaf on 535 hetares, and soya bean  on 552 hectares were damaged, according to reports from different upazilas. In addition, 1,015 non-brick houses, 65km of unpaved roads, fish cultivation on  25 private ponds, and 6,065 plants and trees were also damaged by Cyclone Fani in the district, reports our correspondent.  Furthermore, 20m of the Satla-Bagda flood control embankments at Shibpur point and the river erosion control embankment in ward -11 of Barisal City Corporation were damaged but repaired immediately, said Barisal District Deputy Commissioner SM Ajiar Rahman. In Sonagazi of Feni, 50 houses were damaged, as well as crops and electrical pylons. Sonagazi UNO M Sohel Parvez said there was massive damage at four unions of the upazila, and initial estimates suggest the damage to crops and electrical lines would amount to about Tk1 crore. Jessore district Relief and Rehabilitation Officer Nurul Islam said damage was relatively low, as about 50% of rice crops had already been harvested. At maximum, damage was sustained at about 5% of the cropland. Also Read- Biman flights cancelled for 2nd consecutive day for Fani Meanwhile, ferry services remain suspended due to bad weather on the Kathalbari-Shimulia river route in Madaripur, causing huge tailbacks on both sides of the river.  A total 6,000 acres of cropland was damaged, while about 3000 trees, 10km of embankments, and 2,092 houses were partially damaged in eight upazila of Patuakhali, said District Deputy Commissioner Motiul Islam Chowdhury at a press briefing on Saturday. An embankment on the Ichamoti river in Satkhira also sustained damage. In Sunamganj, the harvesting of paddy was still suspended because of the rain and bad weather.  In Netrokona, water was flowing 8.42m above the danger level in the Sumeshwari river, 4.33m in the Kangsha river, 3.31m in Dhanu river, and 4.1 meter in Ubdhakhali river, while 89mm rain was recorded in the district on Saturday. Shelters barely occupied, people head back home As a pre-caution, the government had evacuated 1,640,000 people and moved them to 4,071 cyclone shelters in 19 districts.  After the Met Office issued danger signals, the Ministry of Disaster Management and Relief in conjunction with Bangladesh Red Crescent Society began evacuating residents of coastal districts and sending them to cyclone shelters. However, most of the shelters remained vacant as locals termed Fani a usual natural phenomenon.    People who took shelter in the cyclone centres returned home on Saturday afternoon, after Fani had passed through their areas. 13 flights cancelled A total of 13 flights were cancelled on Saturday, and some others were delayed due to bad weather caused by Cyclone Fani. National flag carrier Bangladesh Biman cancelled two flights on the Dhaka-Chittagong route, Novo Air cancelled eight flights to Chittagong, Cox's Bazar, Jessore, and Kolkata, Regent Airways cancelled its Dhaka-Kolkata flight, and US-Bangla Airlines cancelled its Dhaka-Syedpur flight."
+}

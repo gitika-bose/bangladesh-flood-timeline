@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_c2a9d19f-4910-472a-9a06-01337a5e0abc.txt",
+  "text": "Date Published:2020-03-07 00:00:00      \nThere is no alternative to drill to reduce losses and risks of disaster, he said State Minister for Disaster Management and Relief Dr Md Enamur Rahman has said the government will purchase equipment worth Tk17 crore to boost Bangladesh capacity to fight disasters. He made the statement while speaking at an event marking the National Disaster Preparedness Day as chief guest at Sir Salimullah Medical College Hospital in Dhaka on Saturday, reports UNB. The equipment, including a helicopter and a rover craft, will add a new dimension in terms of disaster management, he said.  The minister said there is no alternative to drill to reduce losses and risks of disaster. It can play an important role to create awareness among the public.  Last year, the number of causalities was limited at Sir Salimullah Medical College Hospital just because of drill before the fire incident, he said.    He said they have decided to tour risky hospitals, markets and buildings across Bangladesh so that people can be aware of disasters like fire and earthquake. Senior Secretary of the Ministry of Disaster Management and Relief Md Shah Kamal, Director of Sir Salimullah Medical College Hospital Brig Gen Morshed Rashid, Prof Uttam Kumar Paul, among others, were present on the occasion."
+}

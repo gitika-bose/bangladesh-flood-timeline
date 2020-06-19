@@ -1,5 +1,6 @@
 import json
 import os
+import re
 from serpapi.google_search_results import GoogleSearchResults
 from dotenv import load_dotenv
 load_dotenv()
@@ -80,25 +81,57 @@ def query_serp(query, site, dates, num_results, paper_name):
     print('Total Sites: {}'.format(total_sites_count))
     return all_sites
 
+def generate_site_file_num(paper_name, file_num='auto', ):
+    if type(file_num)==str and file_num=='auto':
+        files = [f.split('_')[0] for f in os.listdir(paper_name) if '_sites.json' in f]
+        nums = [0]
+        for f in files:
+            r = re.findall(r'\d+', f)
+            if r and len(r)>0: nums.append(int(r[-1]))
+            else: nums.append(0)
+        file_num = sorted(nums, reverse=True)[0]+1
+    return str(file_num)
 
-year_start = 2013
-year_end = 2021
-dates = make_dates(year_start=year_start, year_end=year_end)
+def SERP(year_start, year_end, query, site, paper_name, num_results=100, file_num='auto'):
+    dates = make_dates(year_start=year_start, year_end=year_end)
+    if not os.path.isdir(paper_name): os.mkdir(paper_name)
+    file_num = generate_site_file_num(paper_name, file_num)
+    print('Paper: {}\tQuery: {}'.format(paper_name, query))
+    all_sites = query_serp(query=query, site=site, num_results=num_results, paper_name=paper_name, dates=dates)
+    add_to_file = 'w'
+    save_file_path = os.path.join(paper_name, '{}{}_sites.json'.format(paper_name, file_num))
+    if add_to_file == 'a':
+        if not os.path.exists(save_file_path): add_to_file = 'w'
+    save_file = open(save_file_path, add_to_file)
+    json.dump(all_sites, save_file, indent=2)
+    save_file.close()
 
-query, isBangla = "bangladesh flood", False
-# query, isBangla = "বাংলাদেশ বন্যা", True
-site = "www.dhakatribune.com"
+
+query_terms, isBangla = ['floods', 'flooding', 'flooded', 'cyclone', 'inundation', 'inundations', 'innundated'], False
+queries = ['bangladesh {}'.format(term) for term in query_terms] + \
+          ['bangladesh "{}"'.format(term) for term in query_terms] + ['bangladesh "flood"']
 num_results = 100
-paper_name = 'dhakaTribune'
-if isBangla and 'bangla' not in paper_name: paper_name += '-bangla'
-if not os.path.isdir(paper_name): os.mkdir(paper_name)
 
-all_sites = query_serp(query=query, site=site, num_results=num_results, paper_name=paper_name, dates=dates)
+save_paper_index_file = 'paper_index.json'
+file = json.load(open(save_paper_index_file))
+for k,paper_entity in file.items():
+    if int(k)<=10: continue
+    paper_name, site, date_range = paper_entity['paper_name'], paper_entity['site'], paper_entity['date_range']
+    year_start = int(date_range.split('-')[0])
+    year_end = int(date_range.split('-')[1])
+    isBangla = True if '-bangla' in paper_name else False
+    for query in queries:
+        SERP(year_start, year_end, query, site, paper_name, num_results)
 
-add_to_file = 'w'
-save_file_path = os.path.join(paper_name,'{}2_sites.json'.format(paper_name))
-if add_to_file=='a':
-    if not os.path.exists(save_file_path): add_to_file = 'w'
-save_file = open(save_file_path,add_to_file)
-json.dump(all_sites,save_file,indent=2)
-save_file.close()
+# year_start = 2019
+# year_end = 2020
+#
+#
+# query, isBangla = "bangladesh \"floods\"", False
+# # query, isBangla = "বাংলাদেশ বন্যা", True
+# site = "www.thedailystar.net"
+# paper_name = 'thedailystar'
+# num_results = 100
+# if isBangla: paper_name += '-bangla'
+#
+# SERP(year_start, year_end, query, site, paper_name, num_results)

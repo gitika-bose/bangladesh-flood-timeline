@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_2fb8248e-c12e-4664-8885-130dd8789697.txt",
+  "text": "Date Published:2019-05-01 00:00:00      \nJakarta, which suffers billions of dollars in annual congestion-and-flood linked economic losses, would remain the country's financial hub Indonesia is considering a plan to move its capital away from sprawling megalopolis Jakarta, officials said Monday, but any jump to a new city could still be years away. The idea of moving Indonesia's seat of government from an urban conglomeration of nearly 30 million people with some of the world's worst traffic jams has stretched on for decades. Low-lying Jakarta is also prone to annual flooding and is one of the world's fastest sinking cities due to excessive groundwater extraction. Indonesia wants to move the capital from sinking Jakarta https://t.co/g0ejcImWZL On Monday, urban planning minister Bambang Brodjonegoro said the long-stalled relocation plan won approval from President Joko Widodo who favoured moving the capital away from Indonesia's most populous Java island. Jakarta, which suffers billions of dollars in annual congestion-and-flood linked economic losses, would remain the country's financial hub. \"Widodo decided on the option to relocate the capital,\" Brodjonegoro said after a cabinet meeting.  In a statement before the meeting, Widodo expressed support for the idea, but he did not give an alternate location or a timeline for any move. \"In the future, would Jakarta be able to carry the double burden of being both the centre of government and its business centre?\" he asked in the statement. \"If we prepare well from the very beginning, this great relocation idea could be realised,\" he added. During his re-election campaign, Widodo pledged to spread economic growth more evenly in the nation of 260 million.  He won a second term this month, according to unofficial poll results.  Local media have reported that a possible new capital would be Palangkaraya city on the island of Borneo."
+}

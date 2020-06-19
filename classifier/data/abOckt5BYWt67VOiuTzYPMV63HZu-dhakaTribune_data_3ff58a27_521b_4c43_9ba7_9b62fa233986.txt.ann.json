@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_3ff58a27-521b-4c43-9ba7-9b62fa233986.txt",
+  "text": "Date Published:2020-02-07 00:00:00      \nThe draft amendment has made several additions to the list of diseases, disorders, conditions covered in the Act The Indian government's health ministry has introduced a bill in parliament which cracks down on misleading fairness cream ads, among others, and the punishment can be up to five years in jail, and a hefty fine of Rs50 lakh. The Indian Health and Family Welfare Ministry has proposed the draft amendment to the Drugs and Magic Remedies (Objectionable Advertisements Act, 1954), for magic remedies and drugs promoting fair skin, enhancing sexual performance, treating stammering, infertility in women, premature ageing and greying of hair among others, reports NDTV. The draft amendment has made several additions to the list of diseases, disorders, conditions covered in the Act. The Act already states that medicines, \"magic remedies\" and products to cure any of these 78 diseases, disorders, conditions named should not be advertised. The new additions include ads for drugs for improving sexual performance and skin tone and treating premature aging, AIDS, greying of hair, stammering, sterility in women, among others.  Under the Act, the first conviction is punishable with imprisonment of up to six months or fine or both; and a subsequent conviction can result in imprisonment of up to a year or fine, or both. The amendment proposes to increase the penalties. For the first conviction, the proposed punishment is imprisonment of up to two years and fine up to Rs10 lakh. For subsequent conviction, the imprisonment may extend to five years with a fine of up to Rs50 lakh. The ministry said the amendment is being made in order to keep pace with changing time and technology. It has been decided that suggestions, comments and objections from the public and stakeholders will be sought. They may be forwarded within 45 days from the date of issue of this notice. The draft bill also proposes an expansion of definition of an advertisement. It says: \"Any audio or visual publicity, representation, endorsement or pronouncement made by means of light, sound, smoke, gas, print, electronic media, internet or website and includes any notice, circular, label, wrapper, invoice, banner, poster or such other documents.\"  "
+}

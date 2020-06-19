@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_550124bc-8558-4c2c-bf41-bbe4e8955f40.txt",
+  "text": "Date Published:2019-06-20 00:00:00      \nA primary school student from Pirojpur Sadar has written to Prime Minister Sheikh Hasina for a new school building in replacement of the existing rundown building. Lamia Akter, a fifth grader at Dakkhin Gazipur Government Primary School, wrote the letter on June 18 and posted it through the local post office. She wrote, around 130 students attend classes at the school under risk. \"Every day, we have to clean our classrooms as dust falls from damaged walls and ceilings.\" The Daily Star has obtained a copy of the letter. Md Selim Talukder, head teacher of the school, told our local correspondent that the existing school building is in a sorry state and is very risky for students. \"Now it has become impossible to conduct classes inside the school building,\" assistant teacher of the school Mahmuda Akter told The Daily Star. Head teacher Talukder says, the school was established in 1975 and a new building was built in 1994. But now, the building is damaged and metal rods poke out from several points. \"This school is a flood or cyclone shelter. It is the only school in the village,\" he said. \"We have informed authorities of the school's sorry state. But no steps have been taken.\" Md Ruhul Amin, Sadar Upazila Education Officer, told The Daily Star that he is aware of the problem and has informed his higher authority about it. Harashit Sarkar, Upazila engineer in Pirojpur sadar, told The Daily Star: \"We will repair the damaged school building on a priority basis\"."
+}

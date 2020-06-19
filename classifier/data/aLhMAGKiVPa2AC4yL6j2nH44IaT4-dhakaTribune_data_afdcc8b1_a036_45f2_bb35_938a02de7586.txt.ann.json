@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_afdcc8b1-a036-45f2-bb35-938a02de7586.txt",
+  "text": "Date Published:2020-01-14 00:00:00      \nTea workers in Moulvibazar suffering in bitter cold At least six children died from pneumonia in Khagrachhari between January 1 and 13, according to local medical professionals.  Due to the cold wave that has been sweeping across Bangladesh for over a week, there has been a rise in pneumonia and cold-induced diarrhoea infection in the hill district,  particularly in the rural areas.  Confirming the death toll, Dr Rajendra Tripura, paediatric specialist at Khagrachhari Sadar Hospital, said the hospital had received many patients whose health had deteriorated because of primary treatment being neglected.  Newborns and children are the worst sufferers of cold-related diseases - pneumonia and diarrhoea - in the district, hospital sources said. Most of these children are aged between 6 and 18 months.  Children with severe cases of pneumonia have been getting admitted to the hospital. Many of them are in critical condition.  The hospital staff are overwhelmed with the growing number of patients coming in, sources have said.  Dr Nayanmoy Tripura, resident doctor at Khagrachhari Sadar Hospital, said at least 1,200 people had been treated for pneumonia and diarrhoea in the hospital since the advent of winter.  Medical professionals have advised local citizens, especially guardians of children, not to panic and instead arrange proper medical care in time.  Moulvibazar tea workers suffer in bitter cold A bitterly cold weather has gripped the seven upazilas of Moulvibazar, making life miserable for tea workers, especially the elderly and children. Due to dense fog, the sun remains invisible for most of the day in Sreemangal and Kamalganj.  \"The bitter cold leaves us shivering even inside the house,\" said Koloti Ghatuar, an elderly woman working at Kurma tea garden, beside the Dhalai River. The temperature was recorded at 11 degrees Celsius in Sreemangal on Tuesday, said Anisur Rahman, assistant meteorologist at the local met office. Dr Zakir Hosain, resident medical officer at Kulaura Upazila Health Complex, said the number of patients suffering from cold-related diseases had increased in the last few days.  Workers of Harincherra tea garden went to the local union parishad office for warm clothes, but did not get any help, said Swapan Nayek, a Sreemangal resident. The impoverished people of the tea garden areas are the worst sufferers as they can hardly afford any warm clothes, according to Rajghat Union Parishad Chairman Bijoy Benarjee. Around 400,000 workers of 92 tea gardens in the district are suffering, yet they have not received any help from the tea garden owners, complained Makhon Lal Karmakar, president of Bangladesh Tea Workers' Union.  But Bangladesh Cha Sangsad Vice-Chairman Shafwan Chowdhury said tea garden owners had provided support to tea workers this winter, though on a limited scale. District Relief and Rehabilitation Officer Ashraf Ali said the authorities had distributed Tk10 lakh and 43,200 blankets among cold-stricken people in the district, and allotted Tk2 lakh to help the poor buy winter clothes for children."
+}

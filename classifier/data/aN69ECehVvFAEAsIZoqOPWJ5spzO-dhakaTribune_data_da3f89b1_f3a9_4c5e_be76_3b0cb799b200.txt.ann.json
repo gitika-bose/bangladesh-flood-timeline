@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_da3f89b1-f3a9-4c5e-be76-3b0cb799b200.txt",
+  "text": "Date Published:2019-10-20 00:00:00      \nPreviously on Saturday, police recovered the throat-slit bodies of Abu Taher, 35, a day labourer, and his daughter Bibi Fatema from their house in Nimtoli area of the city Just one day following the recovery of throat-slit bodies of a man, and his daughter from a rented house in Chittagong, police unearthed the mystery of the killing. Prime suspect Hasina Begum, wife of victim Abu Taher, confessed to police that she along with her next-door neighbor Mainuddin first killed her four-year-old daughter Bibi Fatema, and then her husband on Saturday morning. Additional Commissioner of Chittagong Metropolitan Police (CMP) Amena Begum disclosed the matter at a press briefing at Dampara Police Lines in the port city on Sunday. Hasina also confessed that she had an extra-marital affair with Mainuddin for a long time, said the police official. Previously on Saturday, police recovered the throat-slit bodies of Abu Taher, 35, a day labourer, and his daughter Bibi Fatema from their house in Nimtoli area of the city. Police also recovered a bloodstained knife from the spot.  Hasina killed her daughter Fatema after the little girl discovered her mother's illicit affair with Mainuddin in the morning, Additional Commissioner Amena Begum said. \"When Fatema threatened her mother that she would reveal the matter to her father, Mainuddin held the girl tightly, and Hasina slit her throat. After sometime, Taher entered the house, and they strangled him first, and then slit his throat,\" Amena said.  Immediately after the murders, Mainuddin went into hiding, and was arrested from Noakhali early on Saturday. Nur Alam, elder brother of Abu Taher lodged a case with Bandar police station against Hasina Begum, and Mainuddin."
+}

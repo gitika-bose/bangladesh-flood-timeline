@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_e96bdfc3-086d-4533-bd9b-4bdd9bfbd618.txt",
+  "text": "Date Published:2019-10-08 00:00:00      \nEarlier on Tuesday, the 10 arrested on Monday were placed on a five-day remand by a Dhaka court Police have arrested three more accused in the Abrar murder case. Shamsul Arefin, 21, Moniruzzaman Monir, 21, and Md Akash, 21, were arrested from different places on Tuesday, confirmed Dhaka Metropolitan Police Additional Deputy Commissioner Khandaker Rabiul Arafat Lelin, bring the total to 13 apprehended. Monir is also the Buet Chhatra League literature secretary. Earlier on Tuesday, the 10 arrested on Monday were placed on a five-day remand by a Dhaka court. Abrar, a second year student of electrical and electronic engineering department of the university, was beaten to death on Monday. Some Chhatra League leaders have been accused of beating him for his alleged involvement with Islami Chhatra Shibir, the student wing of Jamaat-e-Islami.   Meanwhile, Abrar's father Barkat Ullah filed a murder case against 19 people with Chawkbazar police station on Monday evening. Later, Bangladesh Chhatra League expelled 11 of its members permanently from the organization for their involvement in Abrar's murder. Abrar's death sparked protest across Bangladesh. The protesters have demanded justice for Abrar and capital punishment for the murderers. As of now, 13 people have been arrested in connection to the murder."
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1988_1c633e34cd4e988e11b9225de35fae2d669462fa.txt",
+  "text": "BURMA: At a Glance\n1988-07-24T05:00:00.000Z\nEconomy\nDespite fertile farm land, rich teak forests and large deposits of petroleum and precious gems, Burma is among the world's poorest nations. It was once the world's leading rice exporter, but it experienced spot food shortages in 1987. Its economic decline is generally attributed to poor Government management and to a crippling war against several ethnic minorities seeking autonomy. Per capita income is less than $200 a year; firmer estimates are made more difficult by the existence of a vast black market, which is generally considered to be larger than the official economy. Japan and West Germany are major aid donors, and the United States has a modest assistance program, mainly directed at combatting the opium trade. People\nTwo-thirds of the 38 million people are ethnic Burmans. Important minorities include Chinese, Indians, Karens, Shans, Chins and Kachins. Burmese Communists form the largest rebel force; Karens lead the second-largest guerrilla group. The guerrillas have been active since independence in 1948, but riots involving Burmese under the Government's control are a recent phenomenon. About 85 percent of the people are Buddhists. The literacy rate is estimated at 66 percent. Government\nAfter independence from Britain in 1948, Burma had a parliamentary democracy. In 1958, the army chief, Gen. Ne Win, was asked to form a caretaker Government to resolve a political crisis. Elected government was restored in 1960. General Ne Win staged a coup in 1962 and has ruled since then, imposing an isolationist and socialist one-party state. A poorly equipped army of about 160,000 is responsible for internal order and for resisting rebel attacks. Land\nWith 262,000 square miles, Burma is nearly the size of Texas. It shares frontiers with Bangladesh, India, China, Laos and Thailand. Much of the country is mountainous and heavily forested. Most of the agricultural and population centers are clustered along the Irrawaddy River valley and its broad delta. Rangoon, with a population of 3.5 million, is the capital and the largest city. Mandalay, in the heart of the country, is the second-largest city and the center of traditional culture. (Sources: Associated Press, World Almanac, Europa Year Book)"
+}

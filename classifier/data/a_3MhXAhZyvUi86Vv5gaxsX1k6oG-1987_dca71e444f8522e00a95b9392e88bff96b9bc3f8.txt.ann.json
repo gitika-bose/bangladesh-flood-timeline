@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1987_dca71e444f8522e00a95b9392e88bff96b9bc3f8.txt",
+  "text": "TV REVIEW; 'ADAM SMITH'S MONEY WORLD' ON THE PACIFIC RIM\n1987-05-18T05:00:00.000Z\nASIAN economies now compete with the American economy; we know that already.\nCan ''Adam Smith's Money World'' say anything new about this, even in a five-part series? Perhaps not, but what it can and does do is assemble what we know and then offers fresh insights. The interesting series, ''The Eagle and the Dragons: The U.S. and the Challenge of the Pacific Rim Nations,'' begins on Channel 13 at 8:30 tonight.\nThe eagle is the United States, of course. The dragons are Japan and the newly industrialized countries of South Korea, Taiwan, Hong Kong and Singapore. They make up, Mr. Smith says, the ''most productive manufacturing center in the world.''\nWhat does this mean? The flight of jobs from the United States to the Far East for one thing; a trade deficit for the eagle and a surplus for the dragons for another. In 1986, Japan had a $58 billion trade surplus with the United States. Even tiny Hong Hong, a city-state rather than a sovereign nation, had a surplus of $7 billion.\nNonetheless, the Pacific rim nations are unlikely candidates to challenge the United States economically. They have a scarcity of natural resources, and some of them must import all their food. They do have cheap labor pools, which counts for part of their competitive edge, but other countries have even cheaper labor pools and still are not nearly as productive.\nThe biggest part of the edge, says Mr. Smith, whose real name is George J. W. Goodman, comes from ''Confucian capitalism.'' Along the Pacific rim a free market has joined with 2,500 years of cultural values: hard work, formal education, family continuity. The result, Mr. Smith finds, is a mighty economic engine.\nThe episode tonight is an overview of the series. The next three programs will deal with specific countries; next week, for example, it's Taiwan. The final episode, on June 13, is a look ahead. Who wins and who loses under the new economic rules? Implicit in much of this are questions for American investors. Mutual funds that invest in the Pacific nations, for instance, have flourished.\nWill they continue to flourish? Mr. Smith and his colleagues - Lisa Hsia and John Mernit are the producers -don't get down to crass considerations like that, but they do give investors something to chew on. The Pacific rim nations don't compete only with the United States; they also compete with one another. At the same time, it is likely that they will be challenged by countries with even cheaper labor pools - Sri Lanka, say, or Bangladesh.\nMeanwhile, what about China? China has slowed its move toward a market economy, but what will happen under a new leader? Indeed, the question of political change along the Pacific rim may be the biggest question of all. South Korea has civil unrest. Hong Kong will become part of China in 1997. Taiwan has an aging leadership.\nEven though capitalism has scored a monumental triumph today -Prime Minister Lee Kuan Yew of Singapore notes that the North Vietnamese won the war but went on to lose the peace - what about tomorrow?\nThe series, with Alvin H. Perlmutter as executive producer, explores the question with interviews, graphics and visits to plants and companies along the Pacific rim. The program tonight opens with Mr. Smith outside a factory on Taiwan. (A sign, which he translates, says, ''We will make you anything.'') It concludes with Mr. Smith, cautiously optimistic, saying that now the Asian nations and the United States must ''fix the imbalances.'' The series is off to a nice start."
+}

@@ -1,0 +1,243 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "monsoon",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 42,
+          "text": "1988-09-30"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_50": {
+          "value": "1988-09-30",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 713,
+          "text": "Bangladesh, which suffered one of the worst floods in its history this year"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_50": {
+          "value": "1988",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_51": {
+          "value": "1988",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 790,
+          "text": "with more than 1,000 dead"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "1000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 820,
+          "text": "three-quarters of the country's farmland inundated"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "three-quarters pf the country's farmland inundated",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|790,814",
+        "s1v1|e_49|713,787"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|820,869",
+        "s1v1|e_49|713,787"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  ],
+  "filename": "1988_3069cbdc15e5c9cac2f37ddc0665fd84ee6a654d.txt",
+  "text": "Bangladesh Thwarted On Area Flood Control\n1988-09-30T05:00:00.000Z\nThe Indian Government today deflected pleas from Bangladesh for an international approach to flood control in South Asia and announced instead that there would be another joint Indian-Bangladeshi study of river waters.\nIn a statement tonight after more than six hours of talks here between Prime Minister Rajiv Gandhi and Bangladesh's President, H. M. Ershad, the Indian Foreign Ministry spokesman said a task force of experts from the two countries would be set up.\nThe Indian press has accused Bangladesh of ingratitude for Indian assistance during the recent flood, while Bangladesh has asserted that India was lax in controlling floodwaters.\nBangladesh, which suffered one of the worst floods in its history this year, with more than 1,000 dead and three-quarters of the country's farmland inundated, called earlier this month for an international study of the rivers of the region."
+}

@@ -1,0 +1,331 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "monsoon",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 43,
+          "text": "1988-09-02"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_50": {
+          "value": "1988-09-02",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 265,
+          "text": "At least 680 people have died"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "680",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_45": {
+          "value": "680 died according to local newspapers",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 301,
+          "text": "floods started in June"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "1988-06",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 324,
+          "text": "with the annual monsoon season"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "monsoon",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 433,
+          "text": "floods have displaced 25 million people"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_36": {
+          "value": "25000000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 571,
+          "text": "the death toll was 250"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "250",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_45": {
+          "value": "250 people died according to government",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|265,293",
+        "s1v1|e_49|43,52"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|433,471",
+        "s1v1|e_49|43,52"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|571,592",
+        "s1v1|e_49|43,52"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  ],
+  "filename": "1988_4730bf7e13916d0c5d77161146a93eb6aac3a371.txt",
+  "text": "Bangladesh Flood Toll Up to 680 in Monsoon\n1988-09-02T05:00:00.000Z\nOffice workers in small boats and banana-plant rafts sailed to work through flooded streets in the capital today as the Burhi Ganga River reached its highest level in 34 years - more than 23 feet.\nAt least 680 people have died since floods started in June with the annual monsoon season, according to several Dhaka newspapers, and the Government estimates that the floods have displaced 25 million people, nearly one-fourth of the population of Bangladesh.\nPresident H. M. Ershad said on Wednesday that the death toll was 250, but the Government's count usually is considered low.\nDhaka, a city of four million, is virtually cut off from the rest of the country. The Ministry of Communications said 18 highways leading out of the capital were closed because of flooding. A fourth of the city was under water, at depths that ranged from a few inches to several feet. No deaths have been reported in Dhaka.\nMost of the flooding was in poor and middle-class neighborhoods, but by today the water had started seeping into districts on Dhaka's northeast side where foreign diplomats and wealthy Bangladeshis live."
+}

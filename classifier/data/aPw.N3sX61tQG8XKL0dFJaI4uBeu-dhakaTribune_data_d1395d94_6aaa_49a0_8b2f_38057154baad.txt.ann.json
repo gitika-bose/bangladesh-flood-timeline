@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_d1395d94-6aaa-49a0-8b2f-38057154baad.txt",
+  "text": "Date Published:2020-03-22 00:00:00      \nKuwait's cabinet also decided to extend a suspension of government and private agencies for two weeks The government of Kuwait imposed a nationwide curfew on Sunday starting from 14:00 GMT and running until 1:00 GMT to fight the spread of the coronavirus pandemic, state news agency KUNA said, citing the cabinet. Kuwait, which went into virtual lockdown on Thursday, has taken some of the most drastic steps in the region to curb the virus' spread. The Gulf Arab country, which has reported 176 cases of the virus, said violators of the curfew could face up to three years in jail or fines of up to $32,157. The Kuwait National Guard will aid police in imposing the curfew. The decision was made due to \"some manifestations of non-compliance with precautionary measures,\" Deputy Prime Minister Anas al-Saleh said, according to KUNA. Kuwait's cabinet also decided to extend a suspension of government and private agencies for two weeks. It had already announced on Thursday an extension to a suspension of schools and universities until Aug. 4 - the first among its neighbours to impose such lengthy education closures to limit the spread of the sometimes deadly disease. After a late-night cabinet meeting on Saturday, the minister of trade and industry said the country's strategic food reserves were \"secure and plentiful\", KUNA said. He urged people not to stockpile food and said there was no need to panic. Last week, the cabinet approved a bill to increase the budget of ministries and governmental departments by 500 million dinars for the 2020/21 fiscal year due to the coronavirus outbreak. It also established a temporary fund for receiving financial contributions from institutions, companies, and individuals to support the government's efforts to fight the virus. The country's stock market has been battered by the virus outbreak as well as a historic plunge in oil prices. Its main index has lost nearly 30% of its value since the start of the year."
+}

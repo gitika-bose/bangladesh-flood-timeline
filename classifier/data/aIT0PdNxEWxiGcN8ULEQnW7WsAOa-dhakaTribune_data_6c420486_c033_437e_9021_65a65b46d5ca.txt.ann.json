@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_6c420486-c033-437e-9021-65a65b46d5ca.txt",
+  "text": "Date Published:2020-03-17 00:00:00      \nFurther east, Iran has the third highest case load after China and Italy, with nearly 13,000 confirmed cases, according to WHO data The World Health Organization will start testing for coronavirus in rebel-held northwest Syria later this week, the agency's regional head said on Monday, adding that he was \"very concerned\" about the spread of the pandemic to a region where the health system has been wrecked by a long civil war. Only about half of medical facilities in the wedge of rebel-held Syria are operational. Nearly a million people recently displaced by violence are living in make-shift housing or crowded camps. \"We are hoping ... to have the machinery and the tests sometime this week so we can start testing,\" said Dr Rick Brennan, emergency director for the region, told Reuters. \"And we are very concerned. All of the surrounding countries have documented cases.\" Syria's government has started testing in areas in the rest of the country, although has not yet reported a case to the WHO. Turkey to the north confirmed its first case last week and Iraq has at least 93 confirmed cases. Further east, Iran has the third highest case load after China and Italy, with nearly 13,000 confirmed cases, according to WHO data. However, Brennan, who just returned from a mission to Iran last week, said that the number of cases reported could represent only about a fifth of the real numbers. The reason was that testing, as is the case even in some wealthy European countries, was restricted to severe cases. \"We've said the weakest link in their chain is the data,\" he said. \"They are rapidly increasing their ability to test and so the numbers will go up,\" he said. Iran's response to the pandemic has drawn strong criticism, both from government critics, and a UN official last week. However, Brennan was generally upbeat about Tehran's response. \"There's a great commitment and they are taking it seriously from the highest level of government.\" Iranian authorities say they have been especially hard hit by global supply shortages for tests and protective equipment, blaming the impact of US sanctions. Brennan described visiting new centres with dozens of beds where everything from the bed sheets, to the oxygen masks had been made locally. However, he said that some of the locally-produced personal protective equipment was exposing medical workers to risks. He acknowledged that some health care workers had been infected, although the cause of infection was not clear. \"We are impressed that Iranians have acknowledged their weaknesses and are working on them,\" Brennan said. "
+}

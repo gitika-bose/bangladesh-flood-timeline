@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1989_16838a17f804e4d3f94b962fdc33514d3cc41212.txt",
+  "text": "33 in Northern Bangladesh Are Reported Killed by Cold\n1989-12-29T05:00:00.000Z\nA cold wave in normally tropical northern Bangladesh has killed at least 33 people in the last week, a newspaper reported today.\nTemperatures in the region have hovered near 42 degrees Fahrenheit since Monday, and the newspaper New Nation said the victims were laborers and other poor people who were unable to protect themselves from the cold.\nAt least 18 people were reported killed in the Kurigram district, 150 miles north of Dhaka, in the last three days, the English-language daily said. Another 15 deaths were reported from the Pabna and Rangpur districts, also in the north.\nSuch low temperatures are rare in Bangladesh, which has a tropical climate for most of the year. Of its 110 million people, most people live in houses with mud floors and walls woven from straw and bamboo, which offer little protection from the cold."
+}

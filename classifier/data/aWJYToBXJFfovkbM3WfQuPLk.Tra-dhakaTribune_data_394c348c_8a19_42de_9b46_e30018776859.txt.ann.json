@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_394c348c-8a19-42de-9b46-e30018776859.txt",
+  "text": "Date Published:2019-07-21 00:00:00      \nAs the order of HC was not followed, the teachers filed a case with the High Court for non-compliance of the HC order The High Court has summoned the Director General (DG) of Directorate of Secondary and Higher Education (DSHE) Syed Golam Faruque for not complying with its previous order on issuing MPO. A bench of Justice Mamnoon Rahman and Justice Ashish Ranjan Das passed the order on Sunday, as the DG failed to comply with its previous order on issuing Monthly Pay Order (MPO) scheme to the 19 teachers, and staff of Saleha Begum Mohila Degree College at Jhenaidah district. The DG has been asked to appear before the court, and present his explanation on July 31. Lawyer Mohammad Siddique Ullah Mia, who stood on behalf of the applicants in court, said the High Court on March 13, 2017 issued a verdict on issuing MPO to the 19 teachers and staff of the college, which got rejected on August 6, 2018 following an appeal. Meanwhile, as the order of HC was not followed, the teachers filed a case with the High Court for non-compliance of the HC order. On December 18, 2018, the HC issued a rule on contempt of court. Later on April 16, 2019 it gave the director general a week to comply. As the directive was not complied to, yet again, the HC summoned him on Saturday, and asked him to produce explanations over the matter."
+}

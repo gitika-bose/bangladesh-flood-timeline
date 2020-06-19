@@ -1,0 +1,341 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "monsoon",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_56": {
+      "value": "8000 displace- not sure \"which town?\"",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 39,
+          "text": "1988-09-07"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_50": {
+          "value": "1988-09-07",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 90,
+          "text": "more than 8,000 residents of this town in Bangladesh, about 100 miles south of Dhaka,were forced today to take shelter any way they could."
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_36": {
+          "value": "8000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:btellman"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 407,
+          "text": "this town in Bhola district"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 456,
+          "text": "the start of the extensive flooding that has taken at least 550 lives"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "550",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1930,
+          "text": "Narayangang"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Narayanganj",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2350,
+          "text": "200,000 of of the district's 1.4 million people had been affected by the flooding"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_35": {
+          "value": "20000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2447,
+          "text": "70,000 had lost everything they owned"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "70,000 people lost everything",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|456,524",
+        "s1v1|e_2|407,433"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|2350,2430",
+        "s1v1|e_2|1930,1940"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|2447,2483",
+        "s1v1|e_2|1930,1940"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  ],
+  "filename": "1988_070a1e672e54cc996208defedbc88d7198204e46.txt",
+  "text": "By the River, Refuge but Little Relief\n1988-09-07T05:00:00.000Z\nClustered on a riverbank, more than 8,000 residents of this town in Bangladesh, about 100 miles south of Dhaka,were forced today to take shelter any way they could.\nIn outlying areas, those displaced by the floods took refuge in treetops and on tin roofs - survival having become a matter of ingenuity and improvisation.\nNo relief had reached this town in Bhola district today, 10 days after the start of the extensive flooding that has taken at least 550 lives and left much of Bangladesh under water.\n''How long will I survive with my family if this continues?'' asked one of those living on the embankment, Abdul Haq, 55, head of a family of nine. An Annual Event\nThe overall flood situation in this south Asian nation remained basically unchanged, though the levels of most rivers had dropped further after the devastation wrought by the monsoon, the wind-driven torrential rain that occurs annually in this part of the world. The monsoon is both devastating and beneficial: the death and destruction it brings is repetitive, yet agriculture -and particularly rice cultivation - depends on it.\nDuring a two-hour helicopter trip to and from Bhola today, vast sheets of water stretched as far as the eye could see.\nIn the affected districts - Narayangang, Munshigang, Faridpur and Chandpur - the treetops and tin roofs still protruded above water. Some communities, and the district headquarters of Narayangang and Munshigang, 11 and 20 miles south of Dhaka respectively, measured the flooding at knee-deep levels. Boats were seen plying the roads along with rickshaws. Many Are Cut Offs\nA helicopter pilot, flying over vast areas during the last few days, said he has seen many people trapped by flood waters asking for food.\nInformation Minister Mahbubur Rahman said that about 1,700 relief centers were in operation throughout the country. On one such place in Narayangang hung a sign reading ''Ershad Gruel Kitchen.''\nIn Nichkasia, Mr. Haq and about 200 other flood victims rushed toward three journalists today, having mistaken them for relief officials.\n''They don't care about us,'' said Mohammad Musa, 60 years old. ''They show up only when such great disasters befall us.''\nNaziur Rahman Mia, Minister of State for Local Government and Rural Development, said that more than 200,000 of of the district's 1.4 million people had been affected by the flooding and that about 70,000 had lost everything they owned.\n''Now the main problem is erosion of the river,'' said Mr. Mia, who is from this district. ''Already, 22 square miles have been gobbled up by the Meghna, leaving thousands homeless.''\nHe said he would assess the damage and provide relief as it is needed. Surviving on Biscuits\nStanding nearby was an 11-year-old girl, who gave her name as Fajilatunnesa, who said she had received a small package of biscuits four days ago, but nothing after that.\nThe Bhola area becomes nearly inaccessible in the rainy season. The five-mile road to the district headquarters is mostly unpaved and full of potholes and deep ruts. It took about half an hour to travel those five miles by jeep.\nHealth officials throughout the country continued to express concern both over hunger of flood victims and disease in places where there is little or no pure drinking water.\nA daily newspaper, Ittefaq, reported large-scale outbreaks of diarrhea and other intestinal ailments. Health Minister Abdul Munim said 2,250 medical teams are now working in the flooded areas."
+}

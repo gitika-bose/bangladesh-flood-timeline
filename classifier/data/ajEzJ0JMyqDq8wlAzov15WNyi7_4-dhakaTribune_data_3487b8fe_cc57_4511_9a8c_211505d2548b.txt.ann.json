@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_3487b8fe-cc57-4511-9a8c-211505d2548b.txt",
+  "text": "Date Published:2019-01-31 00:00:00      \nDhaka-Delhi cooperation in maritime, waterways connectivity makes rapid strides, said envoy India has invited Bangladesh business community, particularly those from shipping and waterways industries, to attend \"Maritime Conclave 2019\" to be held in Bhubaneswar, Odisha from February 14 to 15. \"Besides presenting opportunities for investment in the maritime sector of India, I am certain that Maritime Conclave 2019 will also generate new ideas on further enhancing bilateral cooperation in this area,\" said acting Indian high commissioner to Bangladesh Dr Adarsh Swaika on Thursday. He was addressing a function organized to promote \"Maritime Conclave 2019\" at a hotel in Dhaka. Economic Affairs Advisor to the Prime Minister Dr Mashiur Rahman, Shipping Ministry Secretary Md Abdus Samad, India Bangladesh Chamber of Commerce and Industry (IBCCI) President Abdul Matlub Ahmad, and Federation of Bangladesh Chambers of Commerce Industry (FBCCI) Senior Vice President Sheikh Fazle Fahim also spoke on the occasion. The acting High Commissioner requested FBCCI and IBCCI to consider leading business delegations for the conclave. The event focused on promotion of Maritime India Conclave 2019 being organized jointly by the Ministry of Shipping and Ministry of Petroleum and Natural Gas of the Indian Government. The conclave will provide a major platform for promotion of investment in the maritime sector in India. The event is expected to be attended by over 200 investors, developers and over 1,000 delegates, both domestic and international. Besides, representatives from government, public sector enterprises, developers and financial institutions, state maritime boards, and other related stakeholders are also expected to attend. In the last few years government of India has taken a number of initiatives to upgrade their maritime and logistics infrastructure, said Dr Adarsh. The acting high commissioner said Bangladesh-India cooperation in the area of maritime and waterways connectivity has also made rapid strides since the visit of Indian Prime Minister Narendra Modi to Bangladesh in June 2015. Under the third Line of Credit of $5 billion, he said, India and Bangladesh are also partnering to develop infrastructure of three major ports in Bangladesh."
+}

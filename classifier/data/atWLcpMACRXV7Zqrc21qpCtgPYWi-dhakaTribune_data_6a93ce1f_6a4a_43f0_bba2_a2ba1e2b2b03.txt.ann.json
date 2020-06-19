@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_6a93ce1f-6a4a-43f0-bba2-a2ba1e2b2b03.txt",
+  "text": "Date Published:2019-07-21 00:00:00      \nRizvi said the city corporations are only giving lip services instead of carrying out adequate anti-mosquito drives BNP has alleged that the ruling Awami League imported the deadly dengue virus in 1997, and later Aedes mosquito widely spread everywhere. The party also said that the dengue situation has turned epidemic in the capital due to the government's failure to take any effective preventive measure and conduct drive against Aedes mosquito. \"The Department of Public Health and the Directorate General of Health Services have no extensive drive and action to prevent it,\" said BNP Senior Joint Secretary General Ruhul Kabir Rizvi on Sunday. Speaking at a press conference at the party's Nayapaltan central office, he said the city corporations are only giving lip services instead of carrying out adequate anti-mosquito drives. \"Many people are dying getting affected with dengue, but no effective step in sight to protect them.\" The senior BNP leader said this government has no sense of responsibility for people as it is only busy pocketing public money. He also said the government is hardly bothered about public welfare and improving public health and checking diseases since it is not elected by people. Rizvi alleged that though the ruling party leaders are used to talk about the country's development, people are going through immense sufferings due to serious tailbacks and sorry state of roads.  He came down hard on the Anti-Corruption Commission (ACC) Chairman Iqbal Mahmood for his comment that corruption committed \"in good faith\" by public servants is not an offence, saying he encouraged the government employees to indulge in corruption. Rizvi also said the ACC chief's remark is a dangerous message of bad governance. The BNP leader said Iqbal Mahmood has no other alternative to defending the corruption by government officials since the ACC officials themselves are involved in corruption. He also alleged that the ACC is busy suppressing opposition in the name of preventing corruption while it has turned a blind eye to the real corrupt plundering public money and making second homes in different countries. Rizvi said the banking sector has been ruined due to government officials' corruption \"in good faith\". About the deteriorating flood situation, he said the ministers and the ruling party MPs are giving lip services from the capital instead of standing beside the victims with necessary relief materials."
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_7dcf8e88-46a3-46ac-9845-5d3959fb1ea2.txt",
+  "text": "Date Published:2020-03-27 00:00:00      \nThe United States on Thursday took the grim title of the country with the most coronavirus infections and reported a record surge in unemployment as world leaders vowed $5 trillion to stave off global economic collapse. More than 500,000 people around the world have now contracted the new coronavirus, overwhelming healthcare systems even in wealthy nations and triggering an avalanche of government-ordered lockdowns that have disrupted life for billions. In the United States, more than 82,000 people have tested positive for COVID-19, edging out Italy, which has reported the most deaths, and China, where the virus was first detected in December in the metropolis of Wuhan. With fears mounting of a global recession if not depression, leaders from the Group of 20 major economies held crisis talks by video link Thursday, pledging a \"united front\" to fight the outbreak -- along with an enormous financial injection. Spain's death toll has surpassed China's and the country's hospitals have been badly hit \"The virus respects no borders,\" the leaders said in a statement. \"We are injecting over $5 trillion into the global economy, as part of targeted fiscal policy, economic measures, and guarantee schemes to counteract the social, economic and financial impacts of the pandemic.\" They also pledged \"robust\" support for developing nations, where coronavirus could next take hold after ravaging China and then Europe. But the unity pledged by the G20 has been in short supply with China and the United States trading barbs over their handling of the coronavirus crisis. And Italy as well as Spain, which has the second-highest death toll, objected to a draft economic plan by the European Union which they saw as too weak. Italian Prime Minister Giuseppe Conte wants a \"strong and sufficient\" financial response that deploys \"innovative financial instruments truly adapted to a war,\" his office said. Record one-day toll in France Alarmed by the rapid spread of the sickness in Italy, France has taken aggressive action to stem the virus and went under lockdown on March 17. But the 365 deaths reported Thursday was its highest in a one-day period and, alarmingly, included a 16-year-old girl -- a rare case of a young person succumbing to a virus that has devastated the elderly. \"It is very difficult to estimate when the peak will come,\" French health official Jerome Salomon said. \"People who are ill now were infected before the confinement began.\" A health worker carries a body on a stretcher outside Gregorio Maranon hospital in Madrid \"Now there is less contact, people are going out less and get infected less. So we hope there will be fewer people getting sick next week and fewer people going to hospital,\" he told reporters. With hospitals under severe strain, medical workers in Italy and Spain are making painstaking choices. \"If I've got five patients and only one bed, I have to choose who gets it,\" Sara Chinchilla, a pediatrician at a hospital near Madrid, told AFP. \"People are dying who could be saved but there's no space in intensive care.\" In Britain, the National Health Service said London's hospitals are facing a \"continuous tsunami\" of seriously ill COVID-19 patients, despite a lockdown imposed this week. People stand on designated areas to maintain social distancing as they queue outside a medical store in Allahabad, India And in New York, the virus hotbed in the United States, authorities hope to stem the growth of infections as the city needs to more than double the number of available hospital beds. \"Almost any scenario that is realistic will overwhelm the capacity of the current healthcare system,\" Governor Andrew Cuomo warned. Economic devastation The pandemic has already, and rapidly, been catastrophic to the global economy. Containers are seen at the Port of Los Angeles on March 26, 2020 as the economy faces severe pressure from the coronavirus In the United States, the world's largest economy, the Labor Department reported that 3.3 million people applied for unemployment benefits last week -- by far the highest number ever recorded. Job losses have swept across sectors from food services to retail to transportation as nearly half of the country has closed to \"non-essential\" businesses. \"It is staggering. We are only seeing the initial numbers; they will get worse, unfortunately,\" New York Mayor Bill de Blasio told reporters, estimating that half a million people in the city would lose work. Hundreds of people queue outside a government welfare centre, Centrelink, in Melbourne on March 23, 2020, as jobless Australians flood unemployment offices But Wall Street soared for a third straight day, recouping more of this month's hefty losses, on expectations for the largest stimulus in US history. The Senate early Thursday unanimously passed a $2 trillion package that will provide cash payouts averaging $3,400 for a family of four. Speaker Nancy Pelosi voiced confidence that the House of Representatives would follow suit on Friday. President Donald Trump, who has been hoping that a strong economy would win him re-election in November, has been one of the few US leaders to seek a quick return to normal. Priests at risk The global lockdown -- which also hemmed in India's huge population this week -- tightened further on Thursday as Russia announced it was grounding all international flights, while Moscow's mayor ordered the closure of cafes, shops and parks. Tokyo's millions of citizens have been told to stay home, too, just days after the city was forced to postpone the 2020 Olympic Games for a year. China said it was barring entry to most foreigners, fearing that imported cases were undermining its success in bringing domestic transmissions way down. And South Africa braced for a nationwide lockdown as its cases climbed to more than 900 -- about a third of Africa's 2,975 cases. Italy has the highest death toll in the world, though new cases have dipped slightly in recent days The impact of the virus has stretched well beyond frontline health workers, with billions trapped in their homes and facing what experts say could be lasting psychological harm. In virus-stricken Italy, clergy members have been among the worst affected. Out of Italy's more than 7,500 deaths, 67 have been priests. But offering a glimmer of hope, both Italy and Spain have seen lower daily rates of new infections this week. The World Health Organization called Italy's numbers \"encouraging signs\" but warned it was \"still too early to say whether the pandemic is peaking.\" A study from Britain's Imperial College provided a grim prediction, saying 1.8 million people could die worldwide this year even with swift action to halt the virus."
+}

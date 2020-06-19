@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1988_de5143209f91dd1e7ae9c93a2c8bffd3b861d2b8.txt",
+  "text": "TV Review; 'Politics of Food,' on Channel 13\n1988-01-06T05:00:00.000Z\n''THE Politics of Food'' examines worldwide hunger and finds it's the fault of the West. Western creditors and governments, particularly the United States, have joined to choke off world food supplies. The two-hour documentary, on Channel 13 at 10 o'clock tonight, is provocative, but it doesn't have much breadth.\nThe documentary - produced by an international consortium headed by Britain's Yorkshire Television, and narrated by Martin Sheen -visits Minnesota, Brazil, the Sudan, Bangladesh and India. Dispossessed farmers in Minnesota, it finds, have conterparts in the third world; they are all burdened by debt, manipulated by creditors and forced off the land by big business.\nConsequently, much of the world goes hungry, even though there is ample food. The world distribution process, the documentary says, is faulty. Grain and other surpluses pile up in the West, while millions of people starve to death or suffer from malnutrition.\nThe documentary is persuasive about this. How could it not be? The West does indeed have food surpluses, and much of the world does starve. Why does this happen? The documentary suggests that a principal villain is the World Bank, which forces debtor nations to grow cash crops, rather than food that will feed their people.\nNonetheless, the documentary does seem a shade simplistic. Revolutions and wars, one thinks, have done at least as much to disrupt third-world food supplies as bureaucrats in Washington or on Wall Street. At the same time, ''The Politics of Food'' is ambivalent about centralized economies. Are they good or bad? The documentary wants it both ways.\nThus it pleads for family farmers the world over; it argues for rural economies, where governments and banks stay off the farmers' backs. That's decentralization. On the other hand, the only bright spot the documentary seems able to find is a region in India that makes grants to the poor, practices land reform and regulates food prices. That's not decentralization.\nOn television, however, the region is prettily filmed. Mr. Sheen says the inhabitants even elect Communists to office, and that the system is such that ''everything is shared more equally.'' Well, perhaps, but surely world hunger is more complicated than that.\nThe documentary concludes with a warning about ''antidemocratic structures.'' It says they ''are the main cause of hunger.'' That's sufficiently vague to include many things, but whatever they are, they all have their roots in the West. ''The Politics of Food'' is interesting, but it never looks beyond its own horizon."
+}

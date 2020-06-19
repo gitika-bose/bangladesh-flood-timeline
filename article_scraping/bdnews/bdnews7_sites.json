@@ -1,0 +1,58 @@
+[
+  {
+    "query": "bangladesh inundations",
+    "paper": "bdnews",
+    "date_range": [
+      "1/1/2014",
+      "12/31/2014"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh inundations",
+    "paper": "bdnews",
+    "date_range": [
+      "1/1/2015",
+      "12/31/2015"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh inundations",
+    "paper": "bdnews",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh inundations",
+    "paper": "bdnews",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "https://opinion.bdnews24.com/2017/03/04/building-payra-deep-sea-harbor-a-challenge-of-nature/"
+    ]
+  },
+  {
+    "query": "bangladesh inundations",
+    "paper": "bdnews",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh inundations",
+    "paper": "bdnews",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": []
+  }
+]

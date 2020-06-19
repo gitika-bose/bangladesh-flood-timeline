@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_19f94b41-1be4-4e95-ab70-3106bc948a59.txt",
+  "text": "Date Published:2020-01-16 00:00:00      \n'My children were forced to stop going to school as we receive death threats every day' Family members of Folk Singer Shariyat Sarker Bayati--who was arrested recently for his alleged anti-Islamic remarks--are reportedly living as if under house arrest as they are receiving death threats from local representatives and pro-Islamic groups. Shirin Begum, Shariyat's wife alleged they are living in fear of security, while the police failed to pay heed to their concerns. \"We have been shunned-off by the village arbiters for 15 days. They are also influencing the locals so they do not interact with us.\" \"My children were forced to stop going to school as we receive death threats every day,\" she added. Nayan Miah, Shariyat's uncle, hoped the Prime Minister Sheikh Hasina would soon intervene to ensure the safety of their family members as well as Shariyat's. \"The Matbar (Village Arbitration Chief) held a meeting at the local mosque premises on Saturday, and declared us as outcasts.\" Mirzapur police station OC Syedur Rahman said necessary measures have been taken to ensure the safety of Shariyat's family members. We are watching over their concerns as soon as they arise.\" \"The family is regularly paying visits to Bayati Shariyat,\" he added. Meanwhile, Tangail Qawmi Ulama Parishad on Thursday held a press conference, and demanded death sentence for Shariyat Bayati over his anti-Islamic remarks. They urged the government to pass a blasphemy law that ensures death penalty to Shariyat and other anti-Islamists. They have asked singers, actors, and directors not to endorse anti-Islamic content. Bayati Shariyat Sarker, a folk singer, was arrested on Saturday over his alleged anti-Islamic remarks at a program, and sent to jail on Tuesday after a three day remand. Cultural activists from all over the country, including Dhaka, Manikganj, Rajbari, Rajshahi districts are holding processions, human chains and demonstrations asking for Bayati's prompt release."
+}

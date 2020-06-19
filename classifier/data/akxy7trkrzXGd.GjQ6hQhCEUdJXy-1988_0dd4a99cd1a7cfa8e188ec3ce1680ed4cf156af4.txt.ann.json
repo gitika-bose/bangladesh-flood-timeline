@@ -1,0 +1,334 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "monsoon",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 45,
+          "text": "1988-09-18"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "1988-08-25",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 486,
+          "text": "ow-lying neighborhood of Mugdapara here in the capital"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_41": {
+          "value": "Mudapara",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:btellman"
+            ],
+            "prob": 1
+          }
+        },
+        "f_53": {
+          "value": "urban",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:btellman"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 607,
+          "text": "Bangladesh was inundated with widespread flooding late last month"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "monsoon",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 695,
+          "text": "at least a third of the capital's five million people have been without regular water supplies because of the flooding"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "1633333 people without regular water supply",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1243,
+          "text": "The Government says that 935 people have died in the flooding"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "935",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1357,
+          "text": "Dhaka newspapers put the toll at more than 1,800"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "1800",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1407,
+          "text": "The Health Ministry says that about 220,000 people are suffering from gastrointestinal diseases like diarrhea and dysentery as a result of the flooding"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_37": {
+          "value": "220000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1569,
+          "text": "185 people have died from such diseases"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "185 died from diarrhea and dysentery",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [],
+  "filename": "1988_0dd4a99cd1a7cfa8e188ec3ce1680ed4cf156af4.txt",
+  "text": "In Bangladesh, Too Much Water and Not Enough\n1988-09-18T05:00:00.000Z\nWith two jerrycans in hand, Muklesha Khatun waited impatiently for about four hours for the water trucks to arrive, and finally took home her allotted daily quota, two gallons.\n''I have to make do with these two pots for my entire family of five,'' Mrs. Khatun said, ''but in a way I'm thankful to Allah that we're still getting it.''\nMrs. Khatun, 45 years old, is one of about 30,000 residents of the overcrowded, low-lying neighborhood of Mugdapara here in the capital who have been at the mercy of such erratic water deliveries since Bangladesh was inundated with widespread flooding late last month. It is estimated that at least a third of the capital's five million people have been without regular water supplies because of the flooding.\nWith reservoir tanks and pumping stations submerged in many areas, hundreds of thousands of people are now dependent on drinking water brought from outside. The water and sewerage authority and political and volunteer organizations have mounted a major operation to bring drinking water to the affected areas, but, as Mrs. Khatun's experience shows, their efforts sometimes fall short.\nMuch of the country is still under water. The Government says that 935 people have died in the flooding, but its count is generally considered too low, and Dhaka newspapers put the toll at more than 1,800. The Health Ministry says that about 220,000 people are suffering from gastrointestinal diseases like diarrhea and dysentery as a result of the flooding, and that 185 people have died from such diseases. [ Railroad service from Dhaka to Chittagong, the main port, and Sylhet, the business center, has been restored after repairs to a railroad bridge outside the capital, Reuters reported. The bridge was washed away two weeks ago in the flooding. ] Getting water to Mugdapara, Mrs. Khatun's neighborhood, is an arduous and time-consuming exercise.\nVolunteers of the Family Planning Association of Bangladesh must first negotiate by rickshaw through waterlogged roads to reach the municipal pumping station, where their drums are filled. The drums are taken by pickup truck for a distance, but transferred again to rickshaws for delivery through streets where the water is still too deep. A stretch of mud has to be covered by men who carry the drums on their heads. Finally, when the drums reach the neighborhood, they are loaded onto boats that set off down serpentine lanes and bylanes to the community center, where the family planning association has set up its distribution camp.\n''It's a killing job,'' said Kazi Anisur Rahman, secretary general of the association. ''We spend nearly two hours to deliver five drums to this area less than three miles from our headquarters.'' Land for Dead and Living\nThe wan smile never left Nuruddin Mia's face as he wearily maneuvered his boat past submerged trees and houses under a blazing sun, on his way to Paschimgaon, a village of about 5,000 people 12 miles southwest of Dhaka.\nFor 30 years, Mr. Mia, who is from the village, has been ferrying people to and from the village of Demraghat three miles away. His route is the Balu River, which in the flooding has become a huge lake stretching as far as the eye can see.\n''Never, ever have I heard or seen such a flood and horror in my life,'' said Mr. Mia, who is 46. ''There's not a single house in this area that has escaped its wrath.''\nHis own house has been inundated by waist-deep water and looks as if it might crumble at any moment.\nMr. Mia and his 18-year-old son, Sohrab Hossain, spend nights in the boat. The other five members of his family sleep on the tin roof of the house, exposed to the elements. ''My own nephew, born 20 days ago, died of cold, and there is no doctor here who could be consulted with,'' he said.\nHe said the family had a hard time finding a dry spot where the body could be buried. ''Ultimately we took him to an adjoining area where a small parcel of land was found and we buried him there,'' he said.\nThe parcel holding the burial site is also haven for at least 200 people, mostly women and children huddling together with cattle, ducks and chickens.\n''This flood has leveled everybody -rich and poor, high and low,'' said Janab Ali Matbar, 65, the village headman. 'Living Like Animals'\nIn another neighborhood, 30 minutes ride by boat, an incomplete two-story rural health center converted into a relief camp houses more than 300 men, women and children. Of the four toilets in the building, two in the ground floor are under water, so many of those taking refuge in the building relieve themselves in the surrounding flood water. Many people were seen bathing and washing in the contaminated water.\n''You can't really call it life,'' said Rafiqul Islam Khandker, 40, who is in charge of the camp and who is also the headmaster of the local high school. ''They're living like animals.'' Still, many of those in the center appeared grateful to have found a place where one meal is provided daily, since they are extremely poor even in their normal circumstances.\nMr. Khandker said that there have been surprisingly few cases of diarrhea, dysentery and flu, diseases normally inevitable in such conditions.\n''There's no death yet due to these diseases,'' Mr. Khandker said.\nAzimul Baki, a rural health assistant, interjected: ''If there is any, we simply have to put the dead on a makeshift raft for lack of dry space for burial.''"
+}

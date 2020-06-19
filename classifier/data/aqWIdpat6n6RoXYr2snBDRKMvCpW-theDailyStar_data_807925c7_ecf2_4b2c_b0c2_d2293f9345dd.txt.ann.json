@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_807925c7-ecf2-4b2c-b0c2-d2293f9345dd.txt",
+  "text": "Date Published:2019-02-17 00:00:00      \nThe world celebrated Valentine's Day on 14 February. Wishes were exchanged, special parties were planned and dear ones were busy trying to do something beautiful on the occasion. But former Bhutan Prime Minister Tshering Tobgay won the Internet with a Valentine's Day photo posted on his official Facebook page. Tobgay, who was the Prime Minister of Bhutan from 2013 to 2018, is married to Tashi Dolma, who has accompanied him on many of his official foreign trips including a visit to India in 2015.  On Thursday, Tobgay shared a beautiful picture which quickly went viral. In the photo, Tobgay is seen in the front seat of a vehicle grimacing in pain as his wife, seated in the back seat, pulls on his ears. Tobgay captioned the photo with a Valentine's Day greeting and an emoji. The photo left the Internet in splits. The post garnered over 4K likes in less than 2 hours. Many wished the couple on Valentine's Day while some joked that Tashi is \"punishing\" Tobgay for his loss in last year's general elections. This is not the first time Tobgay won the Internet with a post featuring the couple. In September 2018, Tobgay, who is the president of People's Democratic Party (PDP) of Bhutan, had posted a photo on Twitter showing him carrying Tashi on his back through a muddy road. \"Not as dashing as Sir Walter Raleigh, but a man's gotta do what a man's gotta do to keep his lady's feet clean,\" Tobgay captioned the photo referring to the 17th century English nobleman. That post, too, went viral, attracting 5.5K likes and a flood of comments praising the former PM for his humility and love for his wife. The 53-year-old Tobgay completed his schooling in India and went for higher studies in the US. A keen environmentalist, he married Tashi in 1998. The couple have two children. His party badly lost the 2018 general elections in the landlocked country, finishing third in the first round and thereby losing all 32 seats in the 47 member House it had won in 2013. Copyright: The Statesman/The Asia News Network"
+}

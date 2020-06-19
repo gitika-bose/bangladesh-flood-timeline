@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_7650c5fd-22cc-41be-bab2-14c54fc810a3.txt",
+  "text": "Date Published:2019-11-04 00:00:00      \nThe court also fined Shahjalal Tk 5,000 A court in Khulna has sentenced Md Shahjalal, whose eyes were gouged out under police custody, to two-year rigorous imprisonment in a case filed for mugging. Khulna Metropolitan Magistrate Amirul Islam delivered the verdict on Monday afternoon. The court also fined Shahjalal Tk5000, and in default, he will have to serve one month more behind bars. The convict, who was on bail, was escorted to jail soon after the verdict.  Shahjalal's lawyer Nurul Haque said they will file an appeal with the apex court against the verdict.  On July 18, 2017, police arrested Shahjalal in a mugging case and took him to the Khalishpur police station in Khulna city. The convict's mother, Renu Begum, claimed police demanded Tk1.5 lakh from the family to release Shahjalal.  As they refused to do so, police members took Shahjalal out of the police station in their vehicle and tortured him, she said. The next day the family found him lying on a bed of the Khulna Medical College and Hospital with gouged eyes. Quoting Shahjalal, Renu Begum claimed the law enforcement members gouged out both his eyes with a screwdriver. On September 7, 2017, the victim's mother filed a case with a Khulna court against 13 people including 11 police personnel in connection with the incident. The then officer-in-charge of Khalishpur police station, Nasim Khan, was made one of the accused. Renu Begum said police are still threatening her and other family members for filing the case."
+}

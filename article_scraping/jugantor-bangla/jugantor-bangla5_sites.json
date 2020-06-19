@@ -1,0 +1,66 @@
+[
+  {
+    "query": "bangladesh cyclone",
+    "paper": "jugantor-bangla",
+    "date_range": [
+      "1/1/2014",
+      "12/31/2014"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh cyclone",
+    "paper": "jugantor-bangla",
+    "date_range": [
+      "1/1/2015",
+      "12/31/2015"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh cyclone",
+    "paper": "jugantor-bangla",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh cyclone",
+    "paper": "jugantor-bangla",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "https://www.jugantor.com/news-archive/tutorial/2017/11/15/171885/%E0%A6%87%E0%A6%82%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A6%BF-%E0%A6%AE%E0%A6%A1%E0%A7%87%E0%A6%B2-%E0%A6%9F%E0%A7%87%E0%A6%B8%E0%A7%8D%E0%A6%9F"
+    ]
+  },
+  {
+    "query": "bangladesh cyclone",
+    "paper": "jugantor-bangla",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh cyclone",
+    "paper": "jugantor-bangla",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://www.jugantor.com/national/241443/%E0%A6%98%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%BF%E0%A6%9D%E0%A7%9C-%E0%A6%AC%E0%A7%81%E0%A6%B2%E0%A6%AC%E0%A7%81%E0%A6%B2%E0%A6%8F%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE-%E0%A6%A6%E0%A6%BF%E0%A6%B2-%E0%A6%AF%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%B6",
+      "https://www.jugantor.com/national/241927/%E0%A6%98%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%BF%E0%A6%9D%E0%A7%9C-%E0%A6%AC%E0%A7%81%E0%A6%B2%E0%A6%AC%E0%A7%81%E0%A6%B2-%E0%A6%85%E0%A6%A4%E0%A6%BF%E0%A6%9D%E0%A7%81%E0%A6%81%E0%A6%95%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A7%A7%E0%A7%A9-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE",
+      "https://www.jugantor.com/national/173126/%E0%A6%AB%E0%A6%A8%E0%A6%BF-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%86%E0%A6%98%E0%A6%BE%E0%A6%A4-%E0%A6%B9%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A7%87-%E0%A6%B6%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B0",
+      "https://www.jugantor.com/tech/259985/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%97%E0%A7%81%E0%A6%97%E0%A6%B2-%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9A%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A7%80%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%B0%E0%A6%BE",
+      "https://www.jugantor.com/tech/259985/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%97%E0%A7%81%E0%A6%97%E0%A6%B2-%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9A%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A7%80%E0%A6%B0%E0%A7%8D%E0%A6%B7-%E0%A7%A7%E0%A7%A6-%E0%A6%8F-%E0%A6%AF%E0%A6%BE%E0%A6%B0%E0%A6%BE",
+      "https://www.jugantor.com/national/259616/%E0%A6%9A%E0%A6%B2%E0%A6%A4%E0%A6%BF-%E0%A6%AC%E0%A6%9B%E0%A6%B0%E0%A7%87-%E0%A6%97%E0%A7%81%E0%A6%97%E0%A6%B2-%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9A%E0%A7%87-%E0%A6%B6%E0%A7%80%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%87%E0%A6%87-%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A6%BF",
+      "https://www.jugantor.com/national/241820/%E0%A6%AC%E0%A7%81%E0%A6%B2%E0%A6%AC%E0%A7%81%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A6%A4%E0%A6%BF%E0%A6%AE%E0%A7%81%E0%A6%96-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A6%AC%E0%A6%A8%E0%A7%87-%E0%A6%A7%E0%A7%87%E0%A7%9F%E0%A7%87-%E0%A6%86%E0%A6%B8%E0%A6%9B%E0%A7%87-%E0%A6%89%E0%A6%AA%E0%A6%95%E0%A7%82%E0%A6%B2%E0%A7%87"
+    ]
+  }
+]

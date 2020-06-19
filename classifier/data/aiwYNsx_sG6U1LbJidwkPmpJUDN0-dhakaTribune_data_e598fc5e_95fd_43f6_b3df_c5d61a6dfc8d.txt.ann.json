@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_e598fc5e-95fd-43f6-b3df-c5d61a6dfc8d.txt",
+  "text": "Date Published:2020-01-17 00:00:00      \nThe accident took place at Shantirhat area under Patiya upazila around 11:15am on Friday Three people were killed and five others injured following a collision between two buses on the Chittagong-Cox's Bazar Highway in Chittagong. The accident took place at Shantirhat area under Patiya upazila around 11:15am on Friday. The deceased were identified as Omar Faruque, 40 and ASM Zahed Hossain, 41 and Nigar Sultana, 32. Assistant Sub-Inspector (ASI) Alauddin Talukdar of Chittagong Medical College Hospital (CMCH) police outpost said that the on-duty doctor declared Omar and Zahed dead upon arrival.  Authorities of Park View Hospital, a privately-run hospital in the port city, informed that the on-duty doctor declared Nigar Sultana dead upon arrival.     Inspector Bimol Bhowmik of Highway Police told the Dhaka Tribune that the accident occurred when a bus of Shyamoli Paribahan collided with a local passenger bus. \"The deceased and the injured were all passengers of the local bus,\" said the police official."
+}

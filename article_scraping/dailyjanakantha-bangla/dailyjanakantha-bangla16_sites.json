@@ -1,0 +1,49 @@
+[
+  {
+    "query": "bangladesh \"flood\"",
+    "paper": "dailyjanakantha-bangla",
+    "date_range": [
+      "1/1/2015",
+      "12/31/2015"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh \"flood\"",
+    "paper": "dailyjanakantha-bangla",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh \"flood\"",
+    "paper": "dailyjanakantha-bangla",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh \"flood\"",
+    "paper": "dailyjanakantha-bangla",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": [
+      "https://www.dailyjanakantha.com/details/article/333375/%E0%A6%A8%E0%A6%AC%E0%A6%AE-%E0%A6%A6%E0%A6%B6%E0%A6%AE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A3%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A7%9C%E0%A6%BE%E0%A6%B6%E0%A7%8B%E0%A6%A8%E0%A6%BE-Question-no-6-Changing-sentence/"
+    ]
+  },
+  {
+    "query": "bangladesh \"flood\"",
+    "paper": "dailyjanakantha-bangla",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": []
+  }
+]

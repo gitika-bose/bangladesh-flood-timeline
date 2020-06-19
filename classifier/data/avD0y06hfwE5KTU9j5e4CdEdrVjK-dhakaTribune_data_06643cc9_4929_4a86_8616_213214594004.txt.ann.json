@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_06643cc9-4929-4a86-8616-213214594004.txt",
+  "text": "Date Published:2020-02-17 00:00:00      \n'We have received 10 bodies so far and 35 injured in Civil Hospital' At least 10 people were killed in a suicide blast that hit a police vehicle in south-western Pakistan on Monday, officials said. Two police personnel were among those killed in the blast in the city of Quetta, the capital of Balochistan province, which borders Afghanistan and Iran. \"We have received 10 bodies so far and 35 injured in Civil Hospital,\" a hospital official told Reuters. Two police officers were among the dead, a senior police official confirmed.  The suicide bomber wanted to target rally of a religious group, but blew himself up when police stopped him, Abdul Razzaq Cheema, Quetta police chief, told reporters. Last month, 13 people were killed in Quetta when blast ripped through a mosque during evening prayers. Mineral-rich Balochistan province is at the centre of the $60 billion China Pakistan Economic Corridor, which is part of Beijing's massive Belt and Road infrastructure project. Violence in Balochistan has fuelled concerns about the security of projects such as a planned energy link from western China to Pakistan's southern port of Gwadar."
+}

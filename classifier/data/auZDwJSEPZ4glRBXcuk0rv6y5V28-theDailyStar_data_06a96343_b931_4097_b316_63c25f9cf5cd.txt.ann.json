@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_06a96343-b931-4097-b316-63c25f9cf5cd.txt",
+  "text": "Date Published:2019-02-27 00:00:00      \nMore than 300 trees on a road alongside the Padma river in Jagannathpur village of Khoksa upazila were allegedly stolen in broad daylight recently. Locals said Gopgram Union Parishad (UP) Chairman and also Khoksa upazila unit Krishak League President Alamgir Hossain, with the connivance of government officials, felled the trees. The felling of the trees, worth around Tk 6 lakh, started after February 15, when construction work of a two-kilometre-long flood control embankment was undertaken on the road in the village.  The government departments concerned did not raise any objection or stop the political goons of the UP chairman when they started to chop the trees down, claiming to have purchased the trees at an auction of Water Development Board (WDB), alleged locals.  While removing the trees from the road, the thugs threatened witnesses with dire consequences if anyone wished to complain to the administration or police, they also claimed. A member of the same Union Parishad seeking anonymity said, \"Men of the UP chairman chopped down the trees.\"   On February 20, locals submitted a written complaint to upazila nirbahi officer (UNO) of Khoksa in this regard. Contacted, UNO Maffara Tasnim said a three-member investigation committee, led by Upazila Engineer Abdus Samad of Local Government Engineering Department (LGED) in Khoksa, was formed yesterday to probe into the accusation. The committee has been asked to submit its report within seven working days, she said, adding, \"Action will be taken after receiving the report.\" ABM Mehedi Masud, officer-in-charge of Khoksa Police Station, said at the directive of the UNO, a police team went to the spot and found the accusation of trees being felled is true. They seized eight pieces of logs from the spot, but was not clear whether those were chopped down illegally, he said adding that no one filed any complaint with them over the matter yet. Ariful Islam, section officer of WDB in Kumarkhali upazila, admitted that several hundred trees were felled and stolen although those were not put on auction.  \"The trees belong to us [WDB], while the road belongs to LGED. This happened due to miscoordination between WDB and LGED,\" he also said. LGED's Khoksa Upazila Engineer Abdus Samad said they did not authorise anyone to fell the trees. When this correspondent contacted Gopgram UP Chairman Alamgir Hossain for his comments over the accusations, he said, \"I was in Dhaka when the trees were felled.\""
+}

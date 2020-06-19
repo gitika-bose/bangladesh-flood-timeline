@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_6d339fbd-ac7b-4c8b-8c07-20fba36d4816.txt",
+  "text": "Date Published:2019-09-14 00:00:00      \nA dam in Kakunkhai area of Sylhet's Gowainghat has killed the Baulikhal river at its source, depriving many villages of a freshwater source for about one-and-a-half-year. Water flow to the Baulikhal, which is a branch of the Sari river, has been completely stopped at the confluence by the 400-feet long dam that now serves as a road, locals said. The Baulikhal, also known as the Hidairkhal, merged with the Kapna river 13-km downstream. The Baulikhal was a water source for 18 smaller rivers and canals and 37 haors and beels. People of about 39 villages in Gowainhat depend on these waterbodies, officials and environmentalists said. Alirgaon Union Parishad constructed the dam early last year, they added. Residents of Khola, Budhigaon and Titkulli villages raised Tk 35 lakh for it as they needed better communication across the Baulikhal, said Golam Kibria Helal, general secretary of Gowainghat Awami League, who was chairman of the union parishad at the time. The rest of the money was funded by the union parishad, upazila chairman and local lawmaker. Abdul Karim Kim, general secretary of Bangladesh Poribesh Andolon's Sylhet Chapter, said laws and regulations regarding dam construction were not followed while constructing the dam. He added that nearly 50,000 people in the upazila are being deprived of a freshwater source due to the dam. Zahirul Islam, section officer of the Bangladesh Water Development Board (BWDB) in Sylhet, said, \"The board knew nothing about the construction of the dam. If we were informed, we could have stopped the construction and suggested a suitable and appropriate alternative.\" Former UP chairman Golam Kibria Helal said, \"I supported the dam construction considering the communication problem. \"We knew about the laws regarding rivers but how could we call this a river? Water flowed only during monsoon and it stayed dry during the rest of the year. We believe that we did the right thing.\" Meanwhile, the primary findings of a study, conducted last year in Gowainghat by the Institute of Water and Flood Management (IWFM) of Bangladesh University of Engineering and Technology, showed the negative impact of the dam on the local ecosystem, BWDB officials said. The study, titled \"Feasibility Study for Flood Control, Drainage and Irrigation System at Gowainghat in Sylhet District\", recommended removal of the dam. BWDB Executive Engineer Sahiduzzaman Sarkar said, \"The IWFM is yet to provide the final report of the study. We will remove the dam after getting the report. We may propose construction of a structure that will allow the river to flow as well as maintain road communication.\" On September 3, environmentalists held a rally on the bank of the Rangpani river in Jaintiapur upazila, urging the government to take prompt steps to remove the dam."
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1989_48493975beba2e2565f86370bdbeb61f25cfef8b.txt",
+  "text": "U.N. Critical of I.M.F. Austerity Plan\n1989-09-06T05:00:00.000Z\nAusterity measures imposed on the poorest countries by the International Monetary Fund as a condition for new loans, have produced no results, according to a United Nations report.\n''I guess you could say the sacrifices have been in vain,'' said Roger Lawrence, an official of the United Nations Conference on Trade and Development, referring to the reductions in social spending and the drop in living standards the austerity measures have caused.\nThat is one of the conclusions of the conference's annual report, scheduled for release Wednesday. The Geneva-based body is the main United Nations agency promoting the economic interests of the developing countries. The agency has often criticized the ways that industrialized countries have responded to economic conditions in poor nations. Foreign Debt\nThe report says there is a troubling split in world economic performance. While healthy growth has continued, both in the industrialized countries and in several developing countries - mainly in eastern Asia - the economies of the developing countries of Africa and Latin America have stagnated or worsened. The report attributed much of their plight to their large foreign debts.\nRecent initiatives, particularly by the United States and France, to forgive part of the debt are ''extremely welcome and positive,'' Mr. Lawrence said. However the conference argued that these measures would provide only about half the minimum debt reduction needed to spur economic growth.\nThe report examined the results of the adjustment programs adopted by the least developed countries to qualify for new I.M.F. loans. The United Nations has put 42 nations, with a combined population of more than 400 million, in this category. They all have very low per-capita income levels.\nThe report found that of the 12 least developed countries, which have applied such programs for most of the 1980's, the growth rates of only three - Bangladesh, Gambia and Mali -were above the average for all the least developed countries. ''The adjustment programs in the least developed countries have so far produced mixed results and achieved, at most, limited success,'' the report said. Detrimental Effects\nThe adjustment programs usually involve cutting public spending, devaluing the national currency to stimulate exports and reducing imports. By causing governments to reduce subsidies on food staples, such programs have provoked rioting, most recently in Venezuela.\nThe report said that often the main result of these programs had been a contraction of economic activity. Currency devaluation ''had little effect in stimulating exports in the least developed countries, but certainly created hardship, particularly to vulnerable groups,'' by raising prices, the report said.\nWhat is needed, it continued, is increased debt relief, more flexible adjustment programs and better access to industrialized countries' import markets."
+}

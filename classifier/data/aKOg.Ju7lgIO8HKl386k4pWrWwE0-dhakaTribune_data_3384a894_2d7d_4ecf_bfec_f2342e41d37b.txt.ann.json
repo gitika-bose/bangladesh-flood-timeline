@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_3384a894-2d7d-4ecf-bfec-f2342e41d37b.txt",
+  "text": "Date Published:2019-05-16 00:00:00      \nThe tweet came after a series of recent arrests under the ICT Act  The South Asian unit of Amnesty International has urged the authorities of Bangladesh to show respect towards people's right to peaceful freedom of expression. The human rights organization made the call through a statement posted on their Twitter account on Wednesday night. The tweet said: \"A human rights defender, a poet and a lawyer have been arrested in Bangladesh under draconian laws that punish speech with heavy fines.\" Also Read- Lawyer Imtiaz Mahmood jailed under ICT Act The tweet was posted following a series of arrests of two prominent individuals under the ICT Act.  On Wednesday, a Dhaka magistrate court sent lawyer Imtiaz Mahmood to jail under the ICT Act after he was arrested that morning for a pending case under Section 57. His bail petition was denied by the court.  A human rights defender, a poet and a lawyer have been arrested in Bangladesh under draconian laws that punish speech with heavy fines. We call on the authorities to respect people's right to peaceful freedom of expression. The case accuses Imtiaz of spreading rumours, hurting religious sentiment, and deteriorating the law and order situation through several Facebook posts on Bangali residents of hill areas and law enforcement. Also Read- PEN Bangladesh condemns arrest of poet Henry Sawpon On Monday, eminent poet Henry Sawpon was arrested and sent to jail in a case filed under the Digital Security Act accusing him of hurting religious sentiment. Henry's arrest came at a time when local police had allegedly refused to accept a general diary the poet wanted to lodge after receiving threats to his life from unidentified miscreants."
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1988_2fd250201bceefe63fcb60b82a0487bc17b3bb05.txt",
+  "text": "Plane for Bhutan Opens Many Lost Horizons\n1988-11-27T05:00:00.000Z\nThe tiny and remote landlocked Himalayan kingdom of Bhutan took a major new step toward improving its communications with the outside world recently when it bought its first passenger jet.\nA top Bhutanese official said last week that the new plane, a British Aerospace 146 jetliner with 82 seats, will increase the strength of Druk Airways, the kingdom's carrier, to a total of three. The others are small turbo-prop Dorniers bought from West Germany that hold 18 people each and are used between Calcutta and Bhutan. ''This aircraft will play a positive role in the further development of Bhutan,'' said the official, Chi Dorji, Secretary of the Planning Commission. Mr. Dorji said the plane will be used not only to promote tourism but also to ferry cargo from India to Bhutan.\nMost Western visitors to Bhutan travel by air and must stop or make a connection in India or Bangladesh.\nThe current ruler of Bhutan, governed for much of this century by the Wangchuk family, is King Jigme Singye Wangchuk, who sent his Foreign Minister to India a few weeks ago to announce the solemnization of his marriage to four sisters and the declaration of his successor, an 8-year-old boy born to one of the sisters.\nKing Jigme, 32 years old, revered throughout his nation of 1.3 million that has an annual per capital income of $150. One of the poorest countries in the world, Bhutan is cautiously trying to blend its cultural traditions and economic development at its own pace.\nMr. Dorji said the Aid Bhutan Consortium that meets in the French capital every three years had substantially increased its contribution. Explaining that in previous years Bhutan had been getting $45 million a year from the consortium, he said, ''We have been pledged $63 million a year.'' This figure does not include India's aid, which is several times higher.\nHe said that he had to sharply counter demands by those who suggested that Bhutan modernize its economy.\nMr. Dorji said the new plane would would be used to transport people and goods between New Delhi, Bhutan and Calcutta. ''Later we can explore some more areas, maybe Katmandu in Nepal, maybe other places,'' he said.\nHe stressed that Bhutan was not going to open its borders to a flood of tourists. For years, the kingdom has kept mass tourism at bay because it does not want to be swamped by Western influence and because the powerful Buddhist clergy believes that largescale tourism will hurt national character and the morality of the young.\nFor decades, India has played a powerful role in developing Bhutan and keeping other nations out. It bankrolls most of the country's economic plans, has built all-weather roads across tough mountain terrain, trains Bhutanese soldiers and keeps an eye on Chinese troops across the border, has set up a major hydro-electric project that supplies power to the kingdom and is sold to power-hungry Indian states. Under the terms of a 30-year accord, New Delhi also consults regularly with Bhutanese leaders on foreign policy.\nSignificantly too, the Indian Embassy was for many years the only diplomatic mission in Bhutan. It is still the largest although Bangladesh and the United Nations Development Program also have presences there now. Most other foreign embassies operate out of New Delhi and cover Bhutan in occasional visits."
+}

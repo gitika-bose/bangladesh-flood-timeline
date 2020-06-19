@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_2d04b6a8-9242-4af4-98e9-25b3dcaf6ef9.txt",
+  "text": "Date Published:2020-01-07 00:00:00      \nThe police official said they expected the arrest of the rapist soon Gulshan Division Deputy Commissioner of Dhaka Metropolitan Police (DMP) Sudeep Kumar Chakraborty has said some video footage of the area near the site of the Dhaka University student rape incident has been found. DC Sudeep was  talking to the media at Dhaka Medical College Hospital (DMCH) on Tuesday about the investigation into Sunday's rape incident. The police official said they expected the arrest of the rapist soon. \"The only goal is to identify the rapist and arrest him,\" he added. On Sunday, a student of Dhaka University was picked up and raped on the side of the road in Kurmitola. The student's father filed a case with Cantonment police station regarding the incident. No arrests have been made so far."
+}

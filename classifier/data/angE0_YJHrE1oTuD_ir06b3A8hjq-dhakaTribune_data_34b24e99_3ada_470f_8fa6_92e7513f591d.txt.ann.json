@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_34b24e99-3ada-470f-8fa6-92e7513f591d.txt",
+  "text": "Date Published:2019-07-16 00:00:00      \nThe prices of garlic and ginger have fallen by Tk10 to Tk15 per kg in the wholesale market Onion prices still remain high in retail market selling at Tk50 to Tk60 per kg although the prices have decreased in the wholesale market.  On Tuesday, at Karwanbazar wholesale market, five kg of local onion sold at Tk190 and the imported one at Tk170, while three days ago they were Tk220 and Tk180 respectively. At wholesale rate, per kg local onion costs Tk38 while the imported one Tk34.  But in retail market, per kg local onion was selling at Tk60 and the imported onion at Tk45 to Tk50, Dhaka Tribune found while visiting different kitchen markets in the capital.  Md Masud, a trader at Karwanbazar, said: \"There is no sign of the price going down as Eid-ul-Azha is drawing near. Besides, flood is another reason for high price of onion.\"  Another importer and trader of the market Abdul Karim claimed that in the last three days, the price remained stable and feared that it would increase as the transportation cost would be high because of inclement weather.  Meanwhile, prices of garlic and ginger have fallen by Tk10 to Tk15 per kg in the wholesale market. But in the retail market per kg garlic is selling at Tk230 to Tk250 which is Tk180 to Tk130 in the wholesale market. Similarly, per kg ginger is selling at Tk200 to Tk220 in retail market which is sold at Tk140 to Tk180 in the wholesale market.  Asked about price gap between retail and wholesale market, Md Matin, a trader at Panthapath, said: \"We cannot preserve onion because of bad weather. So, to minimize our loss, we have to sell at higher prices.\"  He also blamed short supply for the price hike. Government plans to sell onion through TCB The government is considering measures to rein in the price spiral of onion. \"Prices of onion increased due to supply shortage as imports from India slowed down. In addition, rain has had negative impact on the supply chain,\" said Commerce Minister Tipu Munshi. The minister made the comment while briefing journalists at his secretariat on export performance of the just concluded fiscal year yesterday. To monitor prices, especially those of onion and garlic, ahead of Eid-ul-Azha, the government already directed the deputy commissioners, said Tipu. \"We have come to know that the Indian government has withdrawn incentives against export of onion, which may be a reason for the price hike. I have already asked the commerce secretary to check it and take necessary steps,\" said the minister. \"We are closely monitoring the prices of essentials and if needed, onion will be sold at open market through Trading Corporation of Bangladesh (TCB),\" said Tipu. "
+}

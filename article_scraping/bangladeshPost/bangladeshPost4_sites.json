@@ -1,0 +1,16 @@
+[
+  {
+    "query": "bangladesh flooded",
+    "paper": "bangladeshPost",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://www.bangladeshpost.net/posts/fake-sony-products-flood-local-market-3942",
+      "https://www.bangladeshpost.net/posts/padma-crosses-danger-level-near-hardinge-bridge-after-16-year-13541",
+      "https://www.bangladeshpost.net/posts/ramadan-fruits-in-abundance-1137",
+      "https://www.bangladeshpost.net/posts/mexican-food-affair-at-dos-locos-1251"
+    ]
+  }
+]

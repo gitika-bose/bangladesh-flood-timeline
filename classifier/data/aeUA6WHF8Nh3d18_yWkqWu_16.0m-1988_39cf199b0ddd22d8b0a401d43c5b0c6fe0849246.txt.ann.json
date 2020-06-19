@@ -1,0 +1,322 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_56": {
+      "value": "4 people dead on Sept.7 and 6 dead on Sept. 8. Do I add these two data and if I do which date should I use? Which entity label should I use: fatalities or disease?",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 38,
+          "text": "1988-09-10"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_50": {
+          "value": "1988-09-10",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 949,
+          "text": "4 people dead on Sept. 7; 16,827 newly ill and 6 dead on Sept. 8"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "10",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1015,
+          "text": "Today, 21,412 people were reported sick"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_37": {
+          "value": "21412",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1869,
+          "text": "In all of last year, Government health records reported 2,993,192 cases of serious gastrointestinal disease"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_37": {
+          "value": "2993192 GI",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun",
+              "user:btellman"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1983,
+          "text": "4,720 deaths"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "4720",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1997,
+          "text": "Most of those occurred in September and October during another devastating flood"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "1987-09",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_50": {
+          "value": "1987-09",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|1015,1053",
+        "s1v1|e_49|38,47"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|1869,1975",
+        "s1v1|e_49|1997,2076"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|1983,1994",
+        "s1v1|e_49|1997,2076"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  ],
+  "filename": "1988_39cf199b0ddd22d8b0a401d43c5b0c6fe0849246.txt",
+  "text": "Deaths and Illness Rise in Bangladesh\n1988-09-10T05:00:00.000Z\nReports of illness and deaths from gastrointestinal diseases began to rise suddenly today, increasing fears of an epidemic even as the waters of this country's devastating flood continue to recede.\n''This year, we may surpass all records,'' Dr. Ziaul Islam, a medical officer in the Presidential Secretariat, said as he studied data coming in to the Government Health Information Center tonight.\nMillions of Bangladeshis are thought to be out of communication, marooned in villages or farmsteads built above water by a people experienced in the ways of rivers. Some relief groups say that even in normal times, only a small fraction of those afflicted by epidemic illnesses are ever recorded.\nNevertheless, the statistical jump today was dramatic. For the last few days, incidence of illness and deaths from gastrointestinal diseases remained fairly constant - 16,813 new illnesses and 4 people dead on Sept. 7; 16,827 newly ill and 6 dead on Sept. 8.\nToday, 21,412 people were reported sick and 13 died by early evening. Dr. Zia said the most frequent diseases were amoebic dysentery and gastroenteritis. Official Toll of 500 Dead\nBangladesh and relief agency officials fear that a rising incidence of disease will push up a death toll that initially was low. The official figure remained at about 500 today with much of the country still out of touch and unable to report.\nPast flooding, while not as extensive as this year's, has taken far larger tolls, particularly in the case of cyclones. This year, officials say, many people survived because they had time to reach higher ground.\nBangladesh is facing this rise in disease without adequate supplies of water purification tablets and medicines, officials say. But even if these were available, there is no way to deliver them to most affected areas.\nIn all of last year, Government health records reported 2,993,192 cases of serious gastrointestinal disease, with 4,720 deaths. Most of those occurred in September and October during another devastating flood.\n''Already this year there is a dangerous trend all over the country,'' Dr. Zia said. ''We are making all efforts to prevent an epidemic.''\nGrim forecasts by Government officials are worsened by the knowledge that only a few of the local authorities in Bangladesh have been able to report flood-related diseases.\nIn addition to amoebic dysentery and gastroenteritis, shigellosis, known here as ''blood dysentery,'' and cholera have been reported. Purification Tablets Needed\nDr. Zia and relief officials said the most pressing needs were for clean water or water purification tablets.\n''Our second line of defense is medicine and oral rehydration therapy,'' the doctor said. He added that most important was public education. Many villages now have contaminated wells and ground water, and people who can be reached - a minority now - will have to be persuaded to filter and boil all the water they consume.\nBangladesh continues to receive pledges of assistance from many foreign nations as it begins to assess flood damage and distribute relief supplies. U.S. OFFERING $150 MILLION\nWASHINGTON, Sept. 9 (Reuters) -The United States said today that it is prepared to give about $150 million to Bangladesh to help it recover from the flooding.\nThe Agency for International Development said it would contribute $4.6 million in direct disaster aid, $60 million in grain and $84 million for reconstruction."
+}

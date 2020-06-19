@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_63bcb451-93e7-41fa-9d33-a385f612c14a.txt",
+  "text": "Date Published:2020-04-16 00:00:00      \nWith this, a total of 27 people from the district have died from Covid-19 Mother of a coronavirus-infected physician died at Kurmitola General Hospital from the virus infection on Wednesday night. The deceased was identified as Kohinur Begum, mother of Minara Begum, a physician of Narayanganj 300-Bed Hospital who also tested positive for coronavirus a few days ago, said control room of Civil Surgeon's office, reports UNB. With this, a total of 27 people from the district have died from Covid-19. Meanwhile, ten more people died from coronavirus in Bangladesh in the last 24 hours till Thursday, taking the death toll in the country to 60. Besides, a record 341 people tested positive for the virus coronavirus during the period, taking the number of such cases in the country to 1,572."
+}

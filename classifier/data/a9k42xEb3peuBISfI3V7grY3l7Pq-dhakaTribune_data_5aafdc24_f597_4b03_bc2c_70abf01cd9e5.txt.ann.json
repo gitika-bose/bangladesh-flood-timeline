@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_5aafdc24-f597-4b03-bc2c-70abf01cd9e5.txt",
+  "text": "Date Published:2019-11-23 00:00:00      \nA case was filed against the bus driver with Sreenagar police station on Friday night The bus driver's negligence caused the fatal road accident that claimed nine lives in Sreenagar upazila of Munshiganj, highway police has said. Hashara highway police outpost in-charge Inspector Md Abdul Based said vehicles were temporarily plying through the single lane on the highway's accident's spot, as another lane was blocked for development work. \"The maximum speed of a vehicle should be no more than 30kmph on that specific road. But, seeing the mangled microbus, we can assume that the bus hit the vehicle at a speed between 70-80kmp,\" he said. \"Besides, the microbus was travelling on the designated side, while the bus driver lost his control over the steering and rammed the microbus,\" the police official added. The Dhaka-bound microbus, which was carrying a groom's party from Louhajang upazila in Munshiganj, met a head-on collision with the bus of Swadhin Paribahan on the Dhaka-Mawa Highway in Shologhar area on Friday afternoon. Nine people, including five women and children, were killed and 13 others were injured in the accident. A case was filed against the bus driver with Sreenagar police station on Friday night. A five-member probe committee led by Additional District Magistrate Asma Shahin was formed to investigate the incident. Inspector Based said: \"Although the case was filed only against the driver, the bus owner will also be brought to book if he is found guilty in our investigation.\" Hashara highway police outpost Sub-Inspector (SI) Md Shahjahan, also the investigation officer of the case, said: \"We are conducting drives to arrest the bus driver.\" Meanwhile, all the nine deceased were buried after their funeral prayers on Saturday. The deceased are  Abdur Rashid Bepari, 70, Liza, 24, Tabassum, 6, Runa, 24, Renu, 12, Tahsan, 4, Keramat Bepari, 70, Mofizul Molla, 65, and the microbus driver Billal, 40. The  deceased were all residents of Louhajang, except for Billal,who hailed from Sreenagar. "
+}

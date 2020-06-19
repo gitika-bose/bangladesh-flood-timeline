@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_e08c6806-469e-4fed-a7a4-59a124ebfb93.txt",
+  "text": "Date Published:2019-09-01 00:00:00      \nTeachers and students of the institution spotted the owl in the corridor An endangered barn owl has been rescued from Monowara Anowara Medical, MATS & Nursing Institute of Hallpara, Thakurgaon. Teachers and students of the institution spotted the owl in the corridor, and rescued it through a combined effort on Saturday. MA Islam Abdullah, a teacher of the intuition said: \"After rescuing the endangered barn owl, we informed and requested the Dinajpur Forest Division, and Department of Livestock Services (DLS) to take necessary steps. \"But with no response from them we later handed the owl over to a local resort owner Narayan Chandra Pal,\" he added. Narayan Chandra Pal, owner of the \"Sonar Bangla Resort\" said: \"Obliging the medical college authority's request, I took the barn owl in. I will try to take care of the owl with utmost sincerity.\" Thakurgaon Department of Livestock Services (DLS) official Altaf Hossain said:\"We were informed about the barn owl, but it is Dinajpur Forest Division's responsibility to rescue animals. \"We only provide medical attention to animals if needed,\" he added. Majed Jahangir, who is an Assistant Teacher of Zoology in Thakurgaon Government College, said: \"The Barn Owl is considered endangered at this point in time. Due to their habitat being destroyed, hunting, and other problems such as viruses, they have a population that is very low. As a result of this they are struggling to survive out there in the wild.\" Wildlife and Biodiversity Conservation Officer of Dinajpur Forest Division, Smriti Singha Ray, said: \"Barn owls are not considered as endangered in this country as it is commonly found.\" \"So when we received the call to rescue the owl, we suggested the college authority to contact DLS for medical attention, and set it free afterwards.\""
+}

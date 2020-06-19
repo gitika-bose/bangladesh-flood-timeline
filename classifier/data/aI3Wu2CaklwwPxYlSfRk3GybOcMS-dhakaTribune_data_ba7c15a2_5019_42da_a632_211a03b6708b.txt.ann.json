@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_ba7c15a2-5019-42da-a632-211a03b6708b.txt",
+  "text": "Date Published:2019-09-29 00:00:00      \nHe was trying to bring cows from India India's Border Security Force (BSF) shot a Bangladeshi man on Sunday in Beurjhari area of Baliadangi upazila in Thakurgaon district. The injured is Md Dulal, 30, son of Md Sabratur, a resident of Charuigati village of the upazila. Quoting locals, Amjankhor Union Parishad (UP) Chairman Akalu Muhammad said, BSF personnel shot Dulal when he was allegedly trying to smuggle cows from India. Bangladesh Border Guard-50 Company Commander SMN Samiunnabi Chowdhury said: \"BSF opened fire, hitting Dulal on his right shoulder, when three to four Bangladeshi smugglers were illegally crossing the Indian border through Beurjhari BOP area. Dulal succeeded to escape, and later was taken to Rangpur Medical College Hospital by the locals.\" According to BGB, they held a flag meeting with BSF members in the no man's land of the border following the incident.  But BSF refuted the allegation, and said they only fired rubber bullets on the intruders with no arrests made."
+}

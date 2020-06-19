@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_b2b27aab-5eb1-47bb-b585-5bcadc138d45.txt",
+  "text": "Date Published:2020-04-17 00:00:00      \nIn light of lockdowns and social distancing measures, most farmworkers are isolated in their homes The sudden outbreak of the coronavirus pandemic is worrying farmers ahead of the Boro paddy harvest season in Jessore, with farmers facing a shortage of workers to bring home their ripe crops in hundreds of acres of land.  In light of lockdowns and social distancing measures, most farmworkers are isolated in their homes, as a result, the upcoming harvesting season is threatened by impediments to harvesting. The Department of Agricultural Extension (DAE) of the district has announced that it will help farmers by providing them with harvester machines at nominal value to harvest crops with less manpower. However, most farmers are unaware of DAE's plan to assist, so they are coming up with awareness campaigns to relieve farmers of their worries, according to district DAE sources. Farmers said the Boro harvest season has begun and they have to begin harvesting their crops in the next 15-20 days. They are facing a manpower shortage and they are not themselves allowed to work due to the lockdowns in place. They fear that their crops will either rot or the annual flood in the upcoming monsoon will ruin their year-long toil. According to the Agricultural Department of the district, over 54,615 hectares of lands are booming with Boro paddy and due to pleasant weather, this year farmers are expecting a good yield. The deputy director of the district DAE, Dr Md Akhtaruzaman, said the authorities had also taken up a scheme to provide 44 harvesters and 18 reapers to the farmers to lessen the need for manpower. He said: \"The Combine Harvester and Reapers will significantly reduce the work and cost of farmers. It can harvest around 1.5 bigha land per hour.\" The official added that the DAE was ready to provide additional farmworkers from other districts if needed, making sure of course that measures were also taken to prevent a spread of the coronavirus virus as well. When asked about the aid promised, most of the farmers said they did not know about the assistance but did appreciate the move. Dr Md Akhtaruzaman said: \"The scheme will only cost Tk250 in every two bigha land. And even if we face a shortage of machines we will employ farmworkers from Satkhira and other districts after consulting medical professionals regarding the necessary safety measures.\""
+}

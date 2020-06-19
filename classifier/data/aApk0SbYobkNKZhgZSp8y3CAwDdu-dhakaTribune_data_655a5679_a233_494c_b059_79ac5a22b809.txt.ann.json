@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_655a5679-a233-494c-b059-79ac5a22b809.txt",
+  "text": "Date Published:2019-03-22 00:00:00      \nThe minister's original plans were to travel by rail, but the prevailing conditions forced the change The railways minister had to resort to travel by road to inspect lamentable state of rail services in parts of Kurigram on Friday. The minister's original plans were to travel by rail, but the prevailing conditions forced the change. Railways Minister Nurul Islam Sujon was set to visit a stretch of the rail tracks along the Kurigram-Teesta route after a bridge near Tagraihat rail station partially sank into the soil after a flood in 2017. Kurigram Deputy Commissioner Sultana Parveen confirmed the visit. While Kurigram has experienced great strides in development under the Awami League government over the past 10 years, the negligence in the rail sector has caused consternation among locals. According to sources at the Kurigram rail station, only one train operates in the district under two separate names. Due to the shortage of trains and the poor state of tracks, commuting has become a tedious endeavour for locals. A 33km route takes nearly two hours by train now, a staggering example of the breakdown in infrastructure. The dependence on rail is mostly because of the low cost. The bus fare from Kurigram to Rangpur is Tk80, while it costs only Tk15 by rail. Hence, countless people from low-income groups opt for the train despite its many deficiencies. The local railway officials are also concerned about operating on the hazardous route, fully aware than an accident could befall any day. Advocate Pradip Kumar Roy, spokesperson of a Kurigram-based concerned citizens' group, said the people demand extensive overhaul of railway infrastructure and introduction of an intercity train between Chilmari and Dhaka popularly referred to as \"Bhawaiya Express.\""
+}

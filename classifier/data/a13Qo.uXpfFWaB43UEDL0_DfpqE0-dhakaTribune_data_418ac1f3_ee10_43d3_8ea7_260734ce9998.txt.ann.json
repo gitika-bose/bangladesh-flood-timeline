@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_418ac1f3-ee10-43d3-8ea7-260734ce9998.txt",
+  "text": "Date Published:2020-03-10 00:00:00      \nThe patient, who revealed his identity this week as Adam Castillejo, 40, was diagnosed with HIV in 2003  A second patient has been cured of HIV after undergoing stem cell transplant treatment, doctors said Tuesday, after finding no trace of infection 30 months after he stopped traditional treatment. The so-called \"London Patient\", a cancer sufferer originally from Venezuela, made headlines last year when researchers at the University of Cambridge reported they had found no trace of the AIDS-causing virus in his blood for 18 months. Ravindra Gupta, lead author of the study published in The Lancet HIV, said the new test results were \"even more remarkable\" and likely demonstrated the patient was cured. \"We've tested a sizeable set of sites that HIV likes to hide in and they are all pretty much negative for an active virus,\" Gupta told AFP. The patient, who revealed his identity this week as Adam Castillejo, 40, was diagnosed with HIV in 2003 and had been on medication to keep the disease in check since 2012. Later that year, he was diagnosed with advanced Hodgkin's Lymphoma, a deadly cancer. In 2016 he underwent a bone marrow transplant to treat blood cancer, receiving stem cells from donors with a genetic mutation present in less than one percent of Europeans that prevents HIV from taking hold. He becomes only the second person to be cured of HIV after American Timothy Brown, known as the \"Berlin Patient\", recovered from HIV in 2011 following similar treatment. Viral tests of Castillejo's cerebral fluid, intestinal tissue and lymphoid tissue more than two years after stopping antiretroviral treatment showed no active infection. Gupta said the tests uncovered HIV \"fossils\" -- fragments of the virus that were now incapable of reproducing, and were therefore safe. \"We'd expect that,\" he said. \"It's quite hard to imagine that all trace of a virus that infects billions of cells was eliminated from the body.\" Ethical dilemma  Researchers cautioned that the breakthrough did not constitute a generalised cure for HIV, which leads to nearly one million deaths every year. Castillejo's treatment was a \"last resort\" as his blood cancer would likely have killed him without intervention, according to Gupta. The Cambridge doctor said that there were \"several other\" patients who had undergone similar treatment but who were less far along in their remission. \"There will probably be more but they will take time,\" he said. Researchers are currently weighing up whether or not patients suffering from drug-resistant forms of HIV might be eligible for stem cell transplants in future, something Gupta said would require careful ethical consideration. \"You'd have to weigh up the fact that there's a 10-percent mortality rate from doing a stem-cell transplant against what the risk of death would be if we did nothing,\" he said. Commenting on The Lancet study, Sharon Lewin, an infectious disease expert at the University of Melbourne, said the findings could provide comfort to patients. But she advised caution. \"Given the large number of cells sampled here and the absence of any intact virus, is the London patient cured?\" she said. \"Unfortunately in the end, only time will tell.\""
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_f425d9e2-e413-4934-ba8c-904118819351.txt",
+  "text": "Date Published:2020-04-17 00:00:00      \nA mobile court sentenced Banaripara upazila unit Awami League Vice President AKM Yusuf Ali to six months in jail for hoarding and selling government allotted rice in the black market While more and more marginalized people continue to miss out on government-provided reliefs and rations to sustain life during the nationwide shutdown, a faction with ill-motives are keeping up the trend of stealing and hoarding these necessary essentials meant for the needy. In Gaibandha, police seized 50 sacks (1,500kg) of Vulnerable Group Development (VGD) rice from an abandoned house in Sundarganj upazila Thursday night, confirmed OC Abdullahil Zamal of Sundarganj police station. Meanwhile, Mokbul Hossain Bapary, 52 and Aynal Mia, 35 were also arrested with 50 sacks of VGD rice in Domerhaat Nijgram village, said the OC. In Barisal, a mobile court on Friday sentenced Banaripara upazila unit Awami League Vice President AKM Yusuf Ali to six months in jail for hoarding and selling government allotted rice in the black market, said Banaripara Upazila Nirbahi Officer (UNO) Sheikh Abdullah Sadid. In Chittagong, local administration on Friday arrested three people, including a dealer of Open Market Sale (OMS) rice, for selling stolen government rice at Azadi Bazar of Fatikchhari upazila, said UNO Sayedul Arefin. In Gopalganj, Rapid Action Battalion (RAB) on Thursday detained a former UP member Mannan Hossain Sheikh, 48, for hoarding 345kgs of OMS rice, confirmed Company Commander ASP Tajul Islam of RAB-8. In Sirajganj, police and local administration arrested three people with 60 sacks of OMS rice in different areas of the district. The detainees, Al Amin Chowdhury, a former UP member and two others were arrested during different drives on Thursday night, said AC Land Anisur Rahman."
+}

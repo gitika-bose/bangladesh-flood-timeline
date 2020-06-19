@@ -1,0 +1,128 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 9717,
+          "text": "the flash flood"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "flash",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 9736,
+          "text": "2017"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "2017",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [],
+  "filename": "theDailyStar_data_52bbc611-44c8-449b-8929-023ce450b416.txt",
+  "text": "Date Published:2019-05-24 00:00:00      \nSeveral hundred people, mostly children, gathered at a paddy field in Bankina village of Kalihati upazila of Tangail district. They were witnessing something they had never seen before. A part of a paddy field, overflowing with fully-ripened harvest-ready paddy, was set ablaze by its owner. While the children were cheering at the \"bonfire,\" as they could not perceive the gravity of the incident, some people were trying to console a weeping Abdul Malek Shikder, the owner of the paddy field, while others were trying to extinguish the fire. Abdul set fire to the fruit of his hard labour out of sheer desperation. He had already spent more than Tk 25,000 to cultivate and irrigate his 52 decimals of land. Then, he just learnt that he had to pay at least Tk 900-1000 to a labourer, along with providing food and accommodation, to harvest the crop. A land of this size required at least 10 to 15 labourers. However, he would not get more than Tk 500 from selling one maund (one maund is 40 kilogrammes) of paddy. Abdul was shocked to his core when he learnt about this rate. This meant that he would not be able to hire a single labourer to harvest his crop. He says, \"When I saw my fully ripened paddy was being reduced to food for rats and birds, I could not control myself. Sometimes I thought of committing suicide. I had taken a loan to purchase seeds, pesticides and fertiliser and I didn't know how I would pay back the loan when the price of paddy is this low. Then, out of desperation, I set my field on fire.\" Abdul was not alone. Another farmer named Nazrul Islam also set fire to his paddy field because he could not afford to harvest his crop due to the low price of paddy. In several districts, farmers like Abdul have taken to the streets demanding fair prices for paddy. And while the farmers are being given a nominal price for their hard-earned harvest, the costs of rice and all other essential commodities are on the rise. This year, in different parts of the country, the price per kilogram of rice has increased up by Tk 3-5. Now, a farmer has to purchase a kilogram of coarse rice at Tk 50 and half a litre of bottled water at Tk 15 whereas he is being forced to sell every kilogramme of paddy only at Tk 12.  Kazi Sazzad Zahir Chandan, general secretary of Bangladesh Krishak Shamiti (Bangladesh Farmers' Association) says, \"Farmers have agreed to sell paddy at the government fixed rate of Tk 1,040 per maund of paddy. Despite the fact that a rate has been declared by the government, they are being forced to sell their paddy at less than half this rate. The middlemen and millers are making a huge profit by depriving the farmers.\" Every year the government takes the initiative to procure rice and paddy directly from the farmers at a fixed price. However, the government procures such an insignificant amount of paddy that it cannot influence the market at all. For instance, last year, 19.5 million tonnes of Boro rice was harvested in Bangladesh and the government procured only one million tonne of that. As a result, most of the farmers have to sell their paddy to the middlemen and millers. According to Abdul and his neighbours, \"During every harvest season, the local political leaders and their henchmen suddenly become rice-paddy traders. Many of us cannot afford the transport cost of shipping our crops to the rice mills. We are forced to sell our paddy harvest to these seasonal traders. They are rich people and have sufficient storage facility. Sometimes, they sell the paddy to the rice mills at a profit, and sometimes they trade with the government.\" These middlemen sell their stock to the government buyers and the millers at the government fixed rate of Tk 1040 per maund of paddy but they purchase paddy from the farmers at only Tk 500-600 per maund. In this way, these middlemen make more than a hundred percent profit while the farmers incur huge losses.  Considering increasing production costs, the government is supposed to increase the buying rate of paddy to ensure a fair price for the farmers. For instance, in 2017, the government's fixed price for each kilogramme was Tk 24 and in 2018 it was increased to Tk 26. However, this year, the government did not increase the price at a time when price of rice and all other commodities are increasing. Dr Mohammad Yunus, senior research fellow, Bangladesh Institute of Development Studies (BIDS) says, \"We should keep in mind that the government procures paddy from the farmers not to ensure a fair price for them. They make the procurements only to replenish the government granaries. The Bangladesh government procures a very small amount of paddy from the farmers. China, Japan and Vietnam have formed purchase commissions to buy crops directly from the farmers and also to ensure that they get a fair price. Unfortunately, we have not formed any such body in Bangladesh yet.\" Just several days earlier, minister for agriculture, Dr Abdur Razzaque told the media that it would not be possible to increase the price of paddy. \"This season, the farmers will have to bear with the loss. We don't see any alternative at this moment. We will try to purchase as much paddy as possible. But the government's stockpiles are already full with imported rice. We are thinking of exporting paddy to increase its price but we need to think about making such commitments because Bangladesh is extremely prone to natural calamities,\" states Dr Abdur Razzaque. While the state is being indifferent to the plight of the farmers, hundreds of thousands of them are passing days in poverty and starvation. Many of them are moving to the cities to avoid meeting their debtors. Some of them like Abdul are taking desperate and destructive measures. This year on March 29, a farmer named Arjun Sarker from Naogaon district killed his wife and son by poisoning their food and then committed suicide. The officer-in-charge of Mohadebpur police station of Naogaon district says, \"Arjun borrowed money from several non-government organisations and individuals. Due to repeated loss in agriculture, he could not repay the debts. His debtors had been pursuing him for months.\" On April 19 this year, another farmer named Subroto Pramanik from Magura district committed suicide as his debtors seized all of his lands and his house when he failed to repay the interest of his debts. Subrata and Arjun's suicides are not isolated incidents. According to a 2013 research conducted by Centre for Injury Prevention and Research, Bangladesh, the monthly income of 55 percent of the suicide victims was less than Tk 4000 and most of them were involved in agricultural activities. In 2016, a local NGO of Jhenaidah called Society for Voluntary Activities (SOVA), conducted a survey on the suicide victims of the district and found that 63 percent of them were involved in agriculture and most of them committed suicide due to poverty and debt-related reasons. So far, loan default cases have been filed against at least 168,000 farmers by different NGOs, individuals and banks. Among these cases, arrest warrant has been issued against at least 12,000 farmers. Some NGOs and banks announced the names of the defaulters in the local bazaars. Md Mokbul Hossain, a farmer from Joatpur village of Cumilla's Burichong upazila says, \"I took Tk 20,000 as a loan from the Bangladesh Krishi Bank. When my name was announced in the market as a defaulter, I felt ashamed. I don't know how to pay the debt because I took out only Tk 20,000 but they filed a case claiming Tk 55,000 from me. How will I pay such a huge amount of interest? So, I have fled from my village and am now pulling a rickshaw in Dhaka.\" According to an official of the bank who requested anonymity, \"We announced names and filed these cases to create psychological pressure among the farmers. This measure has worked out already. Many of them have partially paid their debts back.\" However, the total amount of money owed by all the 168,000 farmers who have been prosecuted, is only Tk 561 crore. Muhammad Nazrul Islam, chairman of Rajshahi Krishi Unnayan Bank, a specialised state-owned financial institution that finances the farmers of Rajshahi and Rangpur divisions, says, \"Most of the farmers take very small loans. And, according to my experience, they usually repay the loan in time unless they are hit by severe loss or crop failure. In this area, we are disbursing the loan at four percent interest and we never give any pressure to the farmers. I think we should decrease the rate of interest and make the loan payment system more popular and easier so that farmers feel more interested to take out loans from banks than from usurers and NGOs. This year, we are thinking of launching an agricultural fair where farmers will be able to sell their produces and repay their loan at the same spot.\" According to experts, the lack of a farmer-friendly policy has led to this crisis and it might worsen the situation in the near future. Dr MA Sattar Mondol, professor emeritus, department of agricultural economics and rural sociology at Bangladesh Agricultural University says, \"The agricultural ministry should conduct area-wise customised research to predict crop production all over the country. If we could conduct this research annually, such is being conducted even in India, our farmers and traders could prepare accordingly. Secondly, we must ensure automation in agriculture. We have ensured almost 100 percent automation in ploughing the land but we could not ensure it in sowing and harvesting the crop which are extremely labour intensive. We should also formulate a concrete policy regarding export and import of rice. After the flash flood of 2017, the government withdrew tariffs on rice import but did not reinstate the tariff in 2018. As a result, the government granaries are now flooded with imported rice and there is hardly any place left for the home-grown rice.\"     Just on May 20, the parliamentary standing committee on ministry of food recommended to stop all kinds of rice import immediately to recover from the situation. The committee has also recommended procuring more paddy from the farmers than the amount previously determined. However, according to experts, this decision has come too late to make any impact on the situation. According to Kazi Sazzad Jahir Chandan of Bangladesh Krishak Samity, \"The government must build temporary granaries in all the major rice producing areas. In this way, they can purchase paddy directly from the farmers and stockpile it properly. They should provide incentives to the farmers who have suffered irreparable losses so that they feel motivated to harvest paddy again. Otherwise, the situation will not improve.\" Development of high-yield crops has ensured sustained agricultural production in Bangladesh but due to the lack of a farmer-friendly agricultural policy, the farmers are not getting any benefit from the increased production. A manipulated and unstable market has been pushing a large number of farmers below the poverty line. If the state does not address this issue immediately with a sustainable and pro-farmer policy, our agriculture, our country's economic backbone will be broken in the near future.       The writer can be contacted at shahnawaz.khan@thedailystar.net\n  "
+}

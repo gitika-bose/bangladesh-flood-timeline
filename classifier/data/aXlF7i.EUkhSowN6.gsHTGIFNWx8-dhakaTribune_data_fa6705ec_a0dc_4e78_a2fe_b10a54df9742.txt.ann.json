@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_fa6705ec-a0dc-4e78-a2fe-b10a54df9742.txt",
+  "text": "Date Published:2019-02-03 00:00:00      \n'We would to take the new rice varieties and technologies to the farmers' doorsteps along with increased subsidies for ensuring safe food production' Agriculture Minister M Abdur Razzak called for increasing safe food production by taking the newly developed rice varieties and associated technologies to the doorsteps of the farmers. \"We would to take the new rice varieties and technologies to the farmers' doorsteps along with increased subsidies for ensuring safe food production,\" he said. He was inaugurating the Annual Research Review Workshop 2017-18 of Bangladesh Rice Research Institute in Gazipur, according to a press release issued on Friday. The minister asked the BRRI scientists to develop more rice varieties and appropriate technologies that can withstand adverse environmental effects such as salinity, drought, cold, flood and water resurge. Secretary of the Ministry of Agriculture M Nasiruzzaman presided over the inaugural session while Chairman of the Bangladesh Agricultural Development Corporation M Fazle Wahed Kondker, Executive Chairman of the Bangladesh Agricultural Research Council Dr M Kabir Ikramul Haque and Director General of the Department of Agricultural Extension Mir Nurul Alam joined the programme. BRRI Director (Research) Dr Tamal Lata Aditya presented a keynote paper in the workshop."
+}

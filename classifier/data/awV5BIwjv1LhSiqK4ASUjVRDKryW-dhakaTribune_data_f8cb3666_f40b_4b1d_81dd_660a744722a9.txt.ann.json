@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_f8cb3666-f40b-4b1d-81dd-660a744722a9.txt",
+  "text": "Date Published:2019-11-18 00:00:00      \nThe fire originated at a shop around 6:30pm on Sunday Around 50 shops have been gutted after a fire broke out at Islamia Market in Chowmuhani area under Begumganj upazila in Noakhali.  Witnesses said the fire originated at a shop around 6:30pm on Sunday and spread to adjacent shops rapidly. \"Five people, including a firefighter, were injured while extinguishing the blaze,\" Noakhali Fire Service and Civil Defense Deputy Assistant Director Toufik-E-Elahi said. Ten firefighting units from Chowmuhani, Maijdi, Sonaimuri and neighbouring Feni district went to the spot and brought the blaze under control after two hours of frantic effort, he said. The reason behind the fire and extent of damage could not be ascertained immediately, he said.  The injured have been sent to Begumganj Upazila Health Complex for treatment. Traders, however, claimed they incurred a loss of taka several crore. Meanwhile, Deputy Commissioner Tonmoy Das visited the spot and formed a three-member probe body with Begumganj Upazila Nirbahi Officer (UNO) Mahbubur Rahman as its chief to look into the incident. The committee was asked to submit its report within the next seven working days."
+}

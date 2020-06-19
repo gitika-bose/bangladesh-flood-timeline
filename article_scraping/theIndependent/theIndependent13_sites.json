@@ -1,0 +1,53 @@
+[
+  {
+    "query": "bangladesh \"inundation\"",
+    "paper": "theIndependent",
+    "date_range": [
+      "1/1/2015",
+      "12/31/2015"
+    ],
+    "sites": [
+      "http://www.theindependentbd.com/printversion/details/8652",
+      "http://www.theindependentbd.com/printversion/details/13692",
+      "http://www.theindependentbd.com/arcprint/details/15810/2015-09-15",
+      "http://www.theindependentbd.com/arcprint/details/24309/2015-11-25",
+      "http://www.theindependentbd.com/printversion/details/24309"
+    ]
+  },
+  {
+    "query": "bangladesh \"inundation\"",
+    "paper": "theIndependent",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": [
+      "http://www.theindependentbd.com/magazine/details/30330/St-Martin%E2%80%99s-Island-under-threat-"
+    ]
+  },
+  {
+    "query": "bangladesh \"inundation\"",
+    "paper": "theIndependent",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "http://www.theindependentbd.com/arcprint/details/108524/2017-08-10",
+      "http://www.theindependentbd.com/arcprint/details/87652/2017-03-30",
+      "http://www.theindependentbd.com/arcprint/details/112759/2017-09-07"
+    ]
+  },
+  {
+    "query": "bangladesh \"inundation\"",
+    "paper": "theIndependent",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "http://www.theindependentbd.com/post/229682",
+      "http://www.theindependentbd.com/post/201385"
+    ]
+  }
+]

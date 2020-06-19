@@ -1,0 +1,164 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "monsoon",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3058,
+          "text": "experiencing heavy rains and flooding"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "monsoon",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3210,
+          "text": "In neighboring Bangladesh"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3237,
+          "text": "the death toll has been reported at 350"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    }
+  ],
+  "relations": [
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|3237,3275",
+        "s1v1|e_2|3210,3234"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  ],
+  "filename": "1987_0985827a486240912deea3294f1f11f371231b7d.txt",
+  "text": "India's Drought Is Worst in Decades\n1987-08-16T05:00:00.000Z\nDawn broke in these parched farmlands today with gray clouds, raising a few hopes of rain. But by midmorning the sun was ablaze, once again burning farmers' hopes of relief from India's driest rainy season in decades.\n''I am 75 years old, and I have never seen anything this bad,'' said Naufat Mohammed, a white-bearded farmer, looking at the cracked earth around a well. ''This is God's will, but God is angry with us.''\nAfter weeks of false hopes that the summer monsoon rains would come, India faces the prospect of devastation to the national economy, the uprooting of hundreds of thousands of people and the need for a huge relief effort to distribute drinking water and prevent starvation.\nThe drought, which Government officials say is unprecedented in intensity, has already spread through most of the country, hitting hardest in the northern grain belts. There wells, reservoirs and water tanks are running at dangerously low levels or are already dry. Rain 75% Below Normal\nLess than a third of the country has received normal rainfall this year, with the hardest-hit areas as low as 75 percent below normal.\nAlthough the monsoon floods cause many deaths, the rains are normally one of the great life-giving forces in India, central to its culture and the expectations of its people. The monsoon season is incubated as heat in the subcontinent increases while the Indian Ocean to the south remains cool, unleashing a stormy mix of air that then pushes up from the south.\nAlmost nothing is anticipated as much as summer rains carried by winds heading northward starting in early June. The failure of the monsoon is a severe blow to Indian morale as well as to the survival of its people.\nThere have been no signs yet of death or starvation, but experts say they fear that a large-scale loss of cattle could wipe out the livelihoods of countless families. Milk production has already fallen sharply as the Government struggles to rush fodder such as spoiled wheat or sugar cane to drought areas. Driest in 80 Years\nNew Delhi, 50 miles northwest of here, is suffering its driest season in 80 years. Residents of New Delhi and other cities are suffering water shortages and widespread power cuts so electricity can be diverted to farm areas to run hard-pressed wells and irrigation systems. Other cities are experiencing the same thing.\nAgriculture experts say they fear that India's summer grain crop, once expected to be 90 million metric tons, could fall drastically short. This would force India to rush its 23 million tons of buffer grain, now in storage, throughout the countryside.\nSuch relief efforts helped to check starvation in the drought of 1979-80, which was described as the worst in this century nationwide. The army was called out to help distribute drinking water by train and military trucks, something many experts think could happen on an even larger scale this year.\nOn top of all these problems, the areas in eastern India that are not suffering from lack of rain are experiencing heavy rains and flooding. News reports say that more than 140 people have died in the northeastern states of Bihar, West Bengal and Assam. In neighboring Bangladesh, the death toll has been reported at 350. Emergency Committee Created\nFaced with a crisis that could dwarf all his other political difficulties, Prime Minister Rajiv Gandhi recently established an emergency committee, of which he is chairman, to oversee drought relief efforts.\nOfficials say a food distribution and rural employment program costing about $1.5 billion is about to be announced. A water distribution plan was announced in Parliament today. These and other steps are certain to worsen the national budget deficit and curtail other development programs.\nAides to Mr. Gandhi say they also fear that bureacratic problems could undercut Government efforts, creating unrest and disenchantment throughout the north. A senior member of the Gandhi Cabinet said he was afraid that on his next visit to his constituency villagers would throw stones at him.\nOfficials say that even if the monsoon were to come now at full force it would not save crops in most areas. The biggest fear is that for some reason the rains may never come at all this year. Although most of India depends on the monsoon of July and August, rainfall lingering into the fall is essential if farmers are to recoup this year with their winter crop of wheat. 'Cannot Image the Horror'\n''If the rain fails even in September, we cannot imagine the horror,' said a former Agriculture Minister, Rao Birendra Singh. He said that from all indications so far, the 23 million metric tons of reserve grain should be enough to prevent starvation - ''provided we do not lose our next wheat crop.''\nThe actual reason for the failure of the monsoon is unclear, although meteorologists say it appears to be part of odd global weather patterns this year, including unusually hot weather in Europe and the United States.\nTwo-thirds of India's annual grain crop is supposed to be grown during the summer monsoon. The problem is especially acute in the 70 percent of the country's farmlands that have no irrigation and depend entirely on rain. In these areas, fields that are normally iridescent-green with rice are bare, brown or stunted.\nBut even the developed farmlands of the north in Punjab and here in Haryana, where irrigation is extensive, are suffering. The Financial Development Commissioner of Haryana said the state had reached ''near-famine conditions.'' Grain Fields Should be High\nA canal running along the main road here was bone dry today. Farmers complained that a 60-foot well was useless because the water it pumped was brackish and salty.\n''This water would destroy any crops,'' said Jivan Singh, whose family members were plowing a nearby field with two oxen in the hope that at some point rain would come and something, perhaps vegetables, could be planted. A few scrubby sprouts of millet grew at his ankles. He said the grain in this field was normally several feet high at this time.\nThe drought has been most devastating in the sandy western regions of Gujarat and Rajasthan states, which have had unusually little rain in three or four years. In these areas, recent visitors say, whole village populations have begun moving in search of water for cattle and people."
+}

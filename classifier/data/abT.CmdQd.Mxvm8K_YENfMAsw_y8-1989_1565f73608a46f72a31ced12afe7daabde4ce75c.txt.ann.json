@@ -1,0 +1,66 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun",
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1989_1565f73608a46f72a31ced12afe7daabde4ce75c.txt",
+  "text": "Dozens Die in Cold Weather in South Asia\n1989-12-31T05:00:00.000Z\nAt least 75 people, many of them homeless, have died of exposure to the cold in northern India and Bangladesh during the last three days, news reports said today.\nTemperatures plummeted to near freezing, chilling people who have little in the way of clothing or shelter to cope with the brief winter in this normally hot, sunny region.\nForty-four people in Bangladesh have died since Wednesday, newspapers in Dhaka said.\nIn India during the same period, 20 people have died of the cold in Bihar state, 7 in Uttar Pradesh state and 4 in Gujarat, the Press Trust of India reported.\nAlthough midday temperatures have reached the low 60's, many people are not equipped to cope with temperatures dropping to around 40 at night, even those with shelter.\nMost of Bangladesh's people live in houses with mud floors and walls made of thin straw mats. In both countries, the homeless sleep on the ground, with the luckier ones wrapped in blankets."
+}

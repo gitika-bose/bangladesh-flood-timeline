@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_0ed9e93f-e0f0-4608-b062-6a9345b8d82f.txt",
+  "text": "Date Published:2020-03-22 00:00:00      \nFighting climate change plays a key role as rising temperatures create more amenable conditions for diseases to spread The novel coronavirus will not be the last pandemic to wreak havoc on humanity if people continue to ignore links between infectious diseases and destruction of the natural world, environmental experts have warned. \"I'm absolutely sure that there are going to be more diseases like this in future if we continue with our practices of destroying the natural world, deforestation and capturing wild animals as pets or for food and medicine,\" Dr Enric Sala, marine ecologist and part of National Geographic's Campaign For Nature, told The Independent. The World Health Organization has reported 8,778 deaths and 209,839 confirmed cases of COVID-19. The virus is thought to have initially passed from animals to humans at a \"wet market\" selling produce, seafood and live animals in Wuhan, China in December but this is not yet confirmed. Researchers in China have suggested that pangolins, mammals known as 'scaly ant-eaters', are the probable animal source of COVID-19, according to scientific journal Nature. China has since issued a ban on consumption and farming of wild animals, and wildlife markets. However, environmentalists warn of a broader issue: Humanity's voracious destruction of diverse ecosystems which brings us in closer contact with wildlife than ever before. David Quammen, author of 2012 bestseller, Spillover: Animal Infections and the Next Human Pandemic, became interested in infectious diseases while researching Ebola and has been warning about the risk of pandemics ever since. He told The Independent: \"Our highly diverse ecosystems are filled with many species of wild animals, plants, fungi and bacteria. All of that biological diversity contains unique viruses. \"When we tear down tropical forests to build villages, timber and mining camps, kill or capture wild animals for food, we expose ourselves to those viruses. \"It's like if you demolish an old barn then dust flies. When you demolish a tropical forest, viruses fly. Those moments of destruction represent opportunity for unfamiliar viruses to get into humans and take hold.\" Dr Samuel Myers, principle research scientist at Harvard's Department of Environmental Health and director of the Planetary Health Alliance, told The Independent: \"Human incursions into wildlife habitat bring people into closer proximity with wildlife populations. \"What we know is that other animals are an enormous reservoir of pathogens, many of which we haven't yet been exposed to.\" Vector-borne diseases - those from living organisms that can transmit infectious pathogens between humans, or from animals to humans - account for more than 17% of all infectious diseases and cause more than 700,000 deaths each year, according to WHO. They have increased over time. Around 30 new infectious diseases emerged during the 1950s, according to a study in journal Nature. By the 1980s, that number more than tripled.  We have previously seen the spread of other zoonotic diseases like HIV, Ebola, SARS, MERS and Zika. Dr Myers said: \"The HIV epidemic and Ebola were thought to have emerged from bushmeat hunting. MERS and SARS came out of live animal 'wet markets'.  \"At the live markets in Wuhan, for example, there was an extraordinary number of exotic species alive in cages, all in proximity to each other and to humans in a way that you would never find in the natural world.\" He added: \"It's a combination of the size of the human ecological footprint and globalization. Once a pathogen has made that jump from animals to humans, it has the capacity to spread around the globe very quickly with air travel.\" Regulation and education on the dangers of consuming wildlife plays a part in mitigating the risk. Quammen said: \"There are people all over the world desperate for protein who eat wild animals. It's not something I want to demonize as a Chinese vice. \"There are so many of us hungry for resources that as we reduce the wild down to these tiny remnants, we offer ourselves as a target of opportunity for viruses.\" Dr Sala said: \"When it comes to populations that depend on the exploitation of nature for their day-to-day living, alternatives have to be provided. \"Governments have a key role in setting policies that protect the nature world and regulate or ban wildlife trade. Companies can help. The world already produces enough food for 10 billion people, only we waste a third of it.\" Fighting climate change plays a key role as rising temperatures create more amenable conditions for diseases to spread. Dr Myers said: \"We're aware that malaria is being found in higher latitudes, and higher altitudes, like in the Kenyan Highlands where we never used to see temperatures as warm.\" The decimation of the natural world extends far beyond infectious disease outbreaks, Dr Myers points out. \"We're seeing impacts on the quality and quantity of food we produce; exposure to noncommunicable diseases like heart disease, cancer and respiratory disease along with mental health impacts, population displacement and conflict,\" he said. With biodiversity loss and a growing global population - expected to rise by 2 billion to 9.7 billion by 2050 - seeking food sources, the question of the next pandemic is not if but when, experts warn. \"If we get [COVID-19] under control, then we can be glad that human ingenuity and will managed to control this one. But after we celebrate for five minutes, we should start thinking about the next one,\" David Quammen said. Sweeping change is needed including making the crucial link between human health and conservation of the planet. Dr Sala said: \"They are not disconnected. There is no sustainable human health without a healthy ecosystem. These infectious diseases we have experienced over the last 20 years are best proof of that. \"Keeping the wild places intact, banning the hunting and traffic of wildlife species, many of which are endangered, would not only be practical but beneficial in terms of human health and economics. \"For governments and policy-makers, it is going to be very clear that investment in protecting our natural world is the most cost-effective one they can make.\" "
+}

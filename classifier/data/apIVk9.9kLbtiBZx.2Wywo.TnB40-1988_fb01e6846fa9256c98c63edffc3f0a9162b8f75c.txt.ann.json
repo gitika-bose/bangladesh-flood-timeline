@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1988_fb01e6846fa9256c98c63edffc3f0a9162b8f75c.txt",
+  "text": "Groups Taking Aid Donations\n1988-09-09T05:00:00.000Z\nAmerican Jewish World Service, 729 Boylson Street, Boston, Mass. 02116. American National Red Cross, Bangladesh Relief, P.O. Box 37243, Washington, D.C. 20013. CARE, Bangladesh Flood Relief, 660 First Avenue, New York, N.Y. 10017. Catholic Relief Services, 1011 First Avenue, New York, N.Y. 10022. Church World Service, Bangladesh Emergency, P.O. Box 968, Elkhart, Ind. 46515. Interaction, 200 Park Avenue South, Suite 1115, New York, N.Y. 10003. Lutheran World Relief, Bangladesh Emergency Fund, 360 Park Avenue South, 15th Floor, New York, N.Y., 10010. MAP International, 2200 Glynco Parkway, Brunswick, Ga. 31520. Operation California, 7615 1/2 Melrose Avenue, Los Angeles, Calif. 90046. Oxfam America, 115 Broadway, Boston, Mass. 02116. Salvation Army, National Headquarters, 799 Bloomfield Avenue, Verona, N.J. 07044. Save the Children, 54 Wilton Road, Westport, Conn. 06880. United Nations for Bangladesh, 821 United Nations Plaza, eighth floor, New York, N.Y. 10017. U.S. Committee for Unicef, 331 East 38th Street, New York, N.Y. 10016. World Relief Corporation, 450 Gunderson Drive, P.O. Box WRC, Carol Stream, Ill. 60188. World Vision Relief Organization. 919 West Huntington Drive, Monrovia, Calif. 91016."
+}

@@ -1,0 +1,742 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "river_erosion",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 15,
+          "text": "2019-09-29"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "2019-09-01",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_50": {
+          "value": "2019-09-30",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 301,
+          "text": "Rajbari"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Rajbari",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 314,
+          "text": "Shariatpur"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Shariatpur",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 366,
+          "text": "erosion by Padma River"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "river",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 500,
+          "text": "A large number of houses, structures, trees, and crops on vast tracts of land were washed away by floodwaters"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 775,
+          "text": "under the Sadar, Goalanda, and Kalukhali upazila"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Rajbari",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_40": {
+          "value": "Sadar, Goalanda and Kalukhali",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 825,
+          "text": "to leave their houses, due to rise in water levels"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_54": {
+          "value": "1",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_36": {
+          "value": "4060",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1686,
+          "text": "In Shariatpur"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Shariatpur",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1701,
+          "text": "at least 20 establishments, including a mosque, 5 business centres, and houses were devoured by the Padma River"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "20 establishments were damaged",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1850,
+          "text": "Naria upazila of Shariatpur district"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Shariatpur",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_40": {
+          "value": "Naria",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2068,
+          "text": "making hundreds of residents, around the riverbank, to shift from the spot instantly"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_36": {
+          "value": "200",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2666,
+          "text": "last year"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "1998",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_50": {
+          "value": "1998",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2677,
+          "text": "more than 6,000 houses"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_54": {
+          "value": "6000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2701,
+          "text": "around 1,000 business centres"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "1000 business centres",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|500,608",
+        "s1v1|e_2|314,323"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|500,608",
+        "s1v1|e_2|301,307"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|825,874",
+        "s1v1|e_2|775,822"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|1701,1811",
+        "s1v1|e_2|1686,1698"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|2068,2151",
+        "s1v1|e_2|1850,1885"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|2677,2698",
+        "s1v1|e_2|1850,1885"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|2701,2729",
+        "s1v1|e_2|1850,1885"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|500,608",
+        "s1v1|e_49|15,24"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|825,874",
+        "s1v1|e_49|15,24"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|1701,1811",
+        "s1v1|e_49|15,24"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|2677,2698",
+        "s1v1|e_49|2666,2674"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|2701,2729",
+        "s1v1|e_49|2666,2674"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  ],
+  "filename": "dhakaTribune_data_cce64f66-5382-4fdc-b55b-78d880719d46.txt",
+  "text": "Date Published:2019-09-29 00:00:00      \nA large number of houses, structures, trees, and crops on vast tracts of land were washed away by floodwaters, and strong river currents in different flood-hit areas The overall flood situation remained unchanged, but river erosion has taken a serious turn in Rajbari, and Shariatpur districts on Sunday . Local sources said erosion by Padma River has intensified in Rajbari, and is gradually receding in Shariatpur, causing immense sufferings to the people. A large number of houses, structures, trees, and crops on vast tracts of land were washed away by floodwaters, and strong river currents in different flood-hit areas. In Rajbari, erosion in the Padma River has taken an alarming turn, it already forced thousands of families, under the Sadar, Goalanda, and Kalukhali upazila, to leave their houses, due to rise in water levels, villages within the district are becoming more vulnerable. According to Bangladesh Water Development Board (BWDB), they are dumping sand bags in the river to prevent erosion in the area. But locals claimed that BWDB's efforts aren't enough as forceful current, and rising water level is washing the sand bags away. They hoped the authority would take more effective measures to prevent erosion, which eroded at least 19 points of the district. Goalanda's Bhakla Union Parishad Chairman Md Amjad Hossain said: \"Not only the houses, but acres of croplands are underwater. BWDB initiatives are praiseworthy, but not enough to avert the erosion.\"  Arifur Rahman Angkur, Sub-Divisional Engineer BWDB's Rajbari office, said: \"We are dumping Geo bags to lessen the casualties. We will take more measures if needed.\" In Shariatpur, at least 20 establishments, including a mosque, 5 business centres, and houses were devoured by the Padma River, and it is threatening more areas in Naria upazila of Shariatpur district due to a wild rise in water level, causing severe river erosion in the past couple of days. Around 200 meters of the river protection dam has collapsed in the district on Thursday, making hundreds of residents, around the riverbank, to shift from the spot instantly. Locals said, the water level of the Padma was increasing since Thursday but has receded on Sunday.  Member of Parliament (MP), Deputy Minister for Water Resources AKM Enamul Haque Shamim, State Minister Zahid Faruque, and Director General of Bangladesh Water Development Board (BWDB) Mahfuzur Rahman, visited the area Sunday. They said there was no negligence with the construction of the protection dam. The damage was a result of increased current, and rise of water level in the river. It is to be noted that last year, more than 6,000 houses, around 1,000 business centres, and many other establishments were washed away due to devastating erosion of the Padma River in Naria upazila."
+}

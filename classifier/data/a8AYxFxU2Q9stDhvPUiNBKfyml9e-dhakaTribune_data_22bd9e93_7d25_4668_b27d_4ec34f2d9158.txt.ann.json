@@ -1,0 +1,730 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "cyclone",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 143,
+          "text": "Cyclone Amphan wreaked havoc"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "coastal_cyclone",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 172,
+          "text": "on southwestern Bangladesh"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 583,
+          "text": "The government has estimated the damage from cyclone Amphan is to the tune of Tk1,100 crore"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "total 1100 crore",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 675,
+          "text": "with some 26 districts hit"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2008,
+          "text": "70km embankment damaged"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "70 km embankment",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2032,
+          "text": "in Khulna"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Khulna",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2805,
+          "text": "Koyra upazila was severely affected"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Khulna",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_40": {
+          "value": "Koyra",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2968,
+          "text": "Approximately Tk50 crore worth of fish was washed away in the flood"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "Taka 50 crore worth of fish",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3080,
+          "text": "Satkhira farmers have suffered huge losses in crops and fish"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Satkhira",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3343,
+          "text": "As many as 12,257 fish enclosures and ponds on 13,477 hectares in 12 unions of seven upazilas have been flooded"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "12257 fish enclosures and ponds",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3456,
+          "text": "Fish, including 1,677 tons of whitefish and 2,531 tons of shrimp, worth over approximately Tk176 crore, was washed away"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "176 crore worth of whitefish and shrimp",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3584,
+          "text": "approximately Tk137 crore of crops, fruits and vegetables on over 5,000 hectares was also lost in the district"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_43": {
+          "value": "137 crore",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3749,
+          "text": "1500 shrimp enclosures have been flooded by recent tidal surges"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "1500 shrimp enclosures",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3816,
+          "text": "Mongla of Bagerhat"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Bagerhat",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_40": {
+          "value": "Mongla",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3836,
+          "text": "Also, 125 homes were completely damaged and 325 homes partially damaged, while numerous trees were uprooted"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_54": {
+          "value": "450",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 4110,
+          "text": "Magura"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Magura",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 4125,
+          "text": "Tk100crore in damage"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "total 100 crore",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|2008,2030",
+        "s1v1|e_2|2032,2040"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|2968,3034",
+        "s1v1|e_2|2805,2839"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|3343,3453",
+        "s1v1|e_2|3080,3139"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|3456,3574",
+        "s1v1|e_2|3080,3139"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|3584,3693",
+        "s1v1|e_2|3080,3139"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|3749,3811",
+        "s1v1|e_2|3816,3833"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|3836,3942",
+        "s1v1|e_2|3816,3833"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|4125,4144",
+        "s1v1|e_2|4110,4115"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  ],
+  "filename": "dhakaTribune_data_22bd9e93-7d25-4668-b27d-4ec34f2d9158.txt",
+  "text": "Date Published:2020-05-23 00:00:00      \nSome 1,100 kilometres of roads, and 200 bridges and culverts under local government have been damaged Cyclone Amphan wreaked havoc on southwestern Bangladesh, leaving a trail of devastation in its wake. It lashed the West Bengal-Bangladesh coastline on Wednesday evening and prevailed till the early hours of Thursday. Hundreds and thousands have been displaced, homes destroyed, trees uprooted, embankments smashed, electricity and telephone lines, dykes and croplands damaged, and numerous villages inundated by the cyclone's tidal surges. The government has estimated the damage from cyclone Amphan is to the tune of Tk1,100 crore with some 26 districts hit, said State Minister for Disaster Management, Enamur Rahman.  Some 1,100 kilometres of roads, and 200 bridges and culverts under local government have been damaged, said official sources. The Water Development Board reported that 150 kilometres of embankments were seriously damaged while another 84 dams developed cracks,\" state minister said. 3,000 electric poles damaged in south-western regions  Three thousand electric poles of the power division have sustained damage in the southwestern regions of Bangladesh, where cyclone Amphan first made contact, said West Zone Power Distribution Company Limited (WZPDC) Managing Director, Engineer Shafiq Uddin.  \"We will start repair work as soon as possible,\" he added. WZPDC Executive Director Engineer Abu Hasan said: \"Two transformers of the Kushtia power grid short circuited around 10pm on Wednesday, cutting power to the district. The electricity supply remained suspended till Thursday. We are trying to tap into the closest alternative source to supply Kushtia with electricity.\"  Engineer Altaf Hossain, senior general manager of Bangladesh Rural Electrification Board, Khulna, said: \"A total of 316,000 customers lost electricity in eight upazilas of the district. We have 600 workers on the ground who will start repair work as soon as possible.\" 70km embankment damaged in Khulna Seventy kilometres of the 121km embankment that was built to protect Khulna from typhoons and cyclones, have been either completely or partially damaged.  Palash Kumar Banarjee, executive engineer for the water development board, Khulna-2, said: \"10km of the embankment completely collapsed, while 60km of the embankment are partially damaged.\"  As a result, low lying unions are completely submerged in saline water, putting thousands of people in jeopardy, he added. Mostajibul Hoque, an affected local of Koyra upazila, said: \"Since Aila last wreaked havoc on the embankments, the WDB hasn't been able to repair the damage completely in the last decade. Without a sustainable embankment, lives will always be at risk.\"  Khulna 6 MP, Akhtaruzzaman Babu, said: \"Koyra upazila was severely affected and inundated when 10km of the 121km-long embankment collapsed. Another 40km of the embankment were partially damaged as well. Approximately Tk50 crore worth of fish was washed away in the flood.\" Satkhira farmers count crores in losses   Satkhira farmers have suffered huge losses in crops and fish as the cyclone levelled fields and tidal surges flooded fish enclosures. Satkhira Deputy Commissioner SM Mostafa Kamal held a press briefing on the loss to lives and property in the district. He said: \"As many as 12,257 fish enclosures and ponds on 13,477 hectares in 12 unions of seven upazilas have been flooded. Fish, including 1,677 tons of whitefish and 2,531 tons of shrimp, worth over approximately Tk176 crore, was washed away.  Also, approximately Tk137 crore of crops, fruits and vegetables on over 5,000 hectares was also lost in the district, he added. 1,500 shrimp enclosures flooded in Mongla  1500 shrimp enclosures have been flooded by recent tidal surges in Mongla of Bagerhat. Also, 125 homes were completely damaged and 325 homes partially damaged, while numerous trees were uprooted.  Upazila Nirbahi Officer Md Rahat Mannan said: \"Risky embankments in Kanainagar, Kalatala, and Sundartala have collapsed, flooding many houses and fish enclosures.\" Magura suffers Tk100crore in damage It is initially estimated that cyclone Amphan has caused a total damage of over Tk100 crore in loss of homes, domestic animals, and crops. Magura Deputy Commissioner Dr Ashraful Alam said: \"Cyclone Amphan has caused huge losses in the district which is yet to be calculated accurately. But we estimate it is over Tk100 crore.\"  "
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_3bb301b0-8b31-4943-90d3-d79bbd220d06.txt",
+  "text": "Date Published:2019-06-17 00:00:00      \nKalmakanda-Thakurakona road in Netrakona lies in an awful state for four years, causing immense sufferings to passengers. As part of routine road maintenance work of Roads and Highways Department (RHD) the 21 km road is repaired every year. But locals blamed low quality materials used in the repair work for the road's present condition.   Hundreds of people in Kalmakanda upazila use the road to reach Netrakona and Mymensingh, but the dilapidated condition of the road makes their journey extremely painful. Especially critical patients are the worst sufferers due to the bad condition of the road. AKM Hadisuzzaman Hadi, chairman of Borokhapon Union Parishad (UP), said the carpeting of many parts of the road wore off, resulting in several potholes. Despite the condition, people of the area are using the road as they have no alternative to reach Netrakona town, he said. In emergency cases, people of Kalmakanda use Durgapur-Jaria road as an alternative way to go to Mymensingh and due to this, they have to spend more time which made their journey very painful, said the chairman. Suruj Ali Fakir, former chairman of Roypur UP, said as the road lies in a low-lying area, it gets flooded by the onrush of hill waters from across the border. Upazila Nirbahi Officer Md Zakir Hossain said the road needs immediate repair to ease people's sufferings and he has already informed the authorities concerned about the matter. Netrakona RHD Executive Engineer Md Didarul Alam said different parts of the road were washed away by flood in 2017. \"We need Tk 21 lakh for maintenance of the road every year but we do not get the required money from the department,\" said the engineer."
+}

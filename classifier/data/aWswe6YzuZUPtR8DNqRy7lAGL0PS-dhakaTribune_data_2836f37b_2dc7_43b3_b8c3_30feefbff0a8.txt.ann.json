@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_2836f37b-2dc7-43b3-b8c3-30feefbff0a8.txt",
+  "text": "Date Published:2019-02-27 00:00:00      \nThe Leader of the House also said her government is considering implementing  similar projects in Chittagong also Prime Minister Sheikh Hasina on Wednesday said her government will introduce digital traffic systems to ease traffic jam in the capital. \"We want to control traffic in Dhaka city digitally...some parts of the capital have already been brought under such a system and if the system is introduced in other parts, the sufferings of the people will be reduced to a great extent,\" she said. The prime minister said this in replying to a supplementary raised by Jatiya Party lawmaker Kazi Feroz Rashid in the House during a question-answer session with Speaker Dr Shirin Sharmin Chaudhury. The Leader of the House said her government has reintroduced an automatic signalling system in the capital which had almost gone out of order previously. She said traffic could be controlled manually in some areas, but there are allegations that manual traffic control is ineffective.    Sheikh Hasina said the biggest problem is that city commuters do not follow traffic rules. Referring to the notorious traffic jams in London and Washington, the Leader of the House said traffic jams are now a worldwide problem. She said people are buying more cars as the population's financial solvency is on the rise. In reply to a question from treasury bench member Didarul Alam, the premier said a number of projects were executed in the last 10 years through various ministries and departments, while many schemes are being implemented to ease traffic jams in the capital. If the schemes are implemented, she said, it is expected that Dhaka city will be free from traffic jams very soon. The Leader of the House also said her government is considering implementing projects similar to Dhaka, in Chittagong also, to reduce traffic jams in the port city."
+}

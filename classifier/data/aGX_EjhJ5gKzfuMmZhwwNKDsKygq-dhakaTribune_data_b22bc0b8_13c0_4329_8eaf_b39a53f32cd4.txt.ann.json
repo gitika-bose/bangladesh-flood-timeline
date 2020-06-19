@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_b22bc0b8-13c0-4329-8eaf-b39a53f32cd4.txt",
+  "text": "Date Published:2020-01-15 00:00:00      \nIn a post on Bernie Sanders official Facebook page on Wednesday, an image showed 'healthcare is a human right' written in Bengali  As part of his on-going 2020 presidential campaign, Democratic Party heavyweight candidate Bernie Sanders posted a political message in Bengali language to drum up support from the Bangladeshi American community. In a post on Bernie Sanders official Facebook page on Wednesday, an image showed \"healthcare is a human right\" written in Bengali.  This is not the first time that the Sanders campaign made an effort to reach out to the Asian American communities, which were long ignored by most presidential candidates in the past.    Earlier, the Sanders campaign uploaded a video showing the plight of low-income earning Bangladeshi American families living in a community building run by a corrupt rental agency in Jamaica, a middle-class neighborhood in the New York City borough of Queens. New York remains a state where the majority of America's Bangladeshi community calls home. The Bangladeshi American community is also well-represented in neighbouring New Jersey, Maryland, DC, Florida, and, of course, California. It has a formidable presence in Michigan (especially in cities like Detroit and Hamtramck)."
+}

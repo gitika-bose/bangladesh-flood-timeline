@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_1fbabe56-c3c8-4cef-877b-0e75e164837b.txt",
+  "text": "Date Published:2020-02-21 00:00:00      \nIt expects correction on his narrative, understanding about Bangladesh The Embassy of Bangladesh in Washington, DC has categorically rejected the remarks on Bangladesh made by US Senator Chuck Grassley, saying what the senator said was farthest from the truth. \"The Embassy clearly states that the remarks made by Senator Grassley are not only biased and motivated but also absolutely contradictory to the 2019 Annual Report of the United States Commission on International Religious Freedom (USCIRF),\" the Bangladesh embassy said in a statement, strongly protesting his remarks. It said the embassy is surprised to see that Senator Grassley had stated in his op-ed that citizens of Bangladesh live under an authoritarian regime and face persecution for faith and religious beliefs, reports UNB. Bangladesh is a secular democracy, where people from all faiths live in peace and harmony, the embassy said. The statement further said the embassy is extremely disappointed to see that instead of appreciating the democratic government of Bangladesh for sheltering more than 1.1 million Rohingyas from Myanmar, who were persecuted in their own country for their religion and ethnicity, Senator Grassley has opted for complete subjectivity to criticize the government [of Bangladesh] that actually saved their lives. An op-ed, titled \"Religious freedom under attack - US can promote and protect liberty globally,\" by Chuck Grassley, senator for Iowa, appeared on his official website (https://www.grassley.senate.gov/) on Tuesday. The embassy said it expects that Senator Grassley would correct his narrative and his understanding about Bangladesh based on facts and realities on the ground. A few examples of religious freedom and harmony in Bangladesh were also shared. These are as follows: Bangladesh is a country where festivals of major religious communities (Muslims, Hindus, Christians, and Buddhists) are public holidays, the president of Bangladesh hosts reception for members of each religious community on the day of these festivals and prime minister of Bangladesh promotes a national slogan \"Religion unto individual, festivals unto all.\" People from all faiths celebrate the festivals together, which is truly reflective of the spirit of secularism and non-communalism, added the embassy. Verses from the holy books of all major faiths are recited at the beginning of all important official programs, it said. The embassy said that Senator Grassley is welcome to visit Bangladesh and see for himself the values of democracy, freedom, openness, inclusiveness, and religious harmony that exists in Bangladesh."
+}

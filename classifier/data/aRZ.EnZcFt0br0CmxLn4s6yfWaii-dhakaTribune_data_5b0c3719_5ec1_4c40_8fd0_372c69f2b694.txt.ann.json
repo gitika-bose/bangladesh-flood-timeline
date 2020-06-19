@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_5b0c3719-5ec1-4c40-8fd0-372c69f2b694.txt",
+  "text": "Date Published:2019-08-08 00:00:00      \nWithout a collective effort, we cannot fight climate change The global temperature has been increasing since the pre-industrial era. This year, a widespread increase in temperatures continues to affect several parts of the world.  India witnessed its highest temperature in the northern part of the country. Some parts of the country experienced temperatures exceeding 45 degrees Celsius. On June 10, the highest temperature soared to 48C, which was highest temperature recorded in June.  On June 8, Kuwait recorded the highest temperature in the world, reaching 52.2C in the shadows and 63C under direct sunlight.  In early May, parts of Bangladesh experienced searing heat. The highest temperature recorded was 39.5C in Rajshahi. According to a World Bank report, \"South Asia's Hotspots: The Impact of Temperature and Precipitation Changes on Living standard,\" the average temperature of South Asia has increased and will continue to increase, with negative impacts on agriculture, health, and productivity.  The report said that the average temperature of Bangladesh is projected to increase by 1C to 1.5C by 2050. Chittagong has been selected as the most vulnerable to changes in average temperature and precipitation followed by Barisal and Dhaka divisions. One of the major impacts of rising temperature is rapid glacier retreat across countries.  Approximately, there are 150,000 glaciers in the world, excluding large ice sheets of Greenland and Antarctica, which occupy about 200,000 square miles of the Earth's surface.  Over the last 40 years, the glaciers that have been lost or melted are equivalent to a layer of ice 70 feet thick.  The Tuyuksu glacier, 30km (or 18 miles) south of Kazakhstan's largest city Almaty, is melting at an unprecedented rate.  Millions of people rely on the melted waters of the Tuyuksu glacier. In the past 60 years, glaciers equivalent to more than half a mile have been lost.  Between 1986 and 2014, the glaciers of Bolivia have shrunk by 43%, according to new research. Researchers studied the satellite images produced by NASA of the Bolivia Cordillera Oriental and found out that the glaciers had decreased from 530sq-km to 300sq-km. In the long run, more than two million people will be in a dire situation in the dry season. The Himalayan region has lost 13% of its glaciers contributing to a loss of 443 billion tons of glacial ice over the past 40 years.  Himalayan glaciers are a vital source of water for eight countries, including Afghanistan, Bangladesh, China, and India and capture 10% of the world's freshwater and support irrigation, energy, and the livelihoods of 750 million people living downstream.  Hence, further melting of the Himalayan glaciers will wreak havoc on bio-diversity and economic growth, and lead to food and water shortages of billions of people.  Climate vulnerable countries such as Bangladesh have primarily relied on devising climate adaptation approaches and strategies.  It is imperative for the developing countries to devise climate adaptation approaches in conjunction with mitigation measures to effectively address climate change.  The NGOs of different developing countries should also come forward in this regard. For example, by the end of the year 2019, BRAC's Climate Change Program (CCP) is planting around 200,000 trees in 65,000 households with the intention of sequestering carbon dioxide and enhancing livelihood options in three selected environmentally critical areas that include cyclone, flood, and drought-prone areas of Bangladesh. Also, different mitigation efforts through application of renewable energy technology will be undertaken in conjunction with climate adaptation approaches.  Developing countries such as Bangladesh contribute insignificant greenhouse gases into the atmosphere. However, collective efforts may help to minimize the problem to some extent.  Tahmina Hadi is Deputy Manager, Knowledge Management, Climate Change Program (CCP), BRAC."
+}

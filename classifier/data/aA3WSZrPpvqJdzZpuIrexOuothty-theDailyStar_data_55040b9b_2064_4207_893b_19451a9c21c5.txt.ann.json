@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_55040b9b-2064-4207-893b-19451a9c21c5.txt",
+  "text": "Date Published:2020-04-16 00:00:00      \nA pregnant nurse has died after contracting the coronavirus but her baby, a girl, was delivered successfully and is doing well, the British hospital where she worked said on Wednesday. Mary Agyeiwaa Agyapong, 28, who had worked as a nurse on a general ward at Luton and Dunstable University Hospital, to the north of London, died on Sunday. It was not clear if the baby had tested positive for the disease. The Bedfordshire Hospitals NHS Foundation Trust said that Ms Agyapong tested positive on April 5 and was admitted to the hospital she worked at on April 7. \"It is with great sadness that I can confirm the death of one of our nurses, Mary Agyeiwaa Agyapong, who passed away on Sunday,\" said David Carter, chief executive of the trust. \"Mary worked here for five years and was a highly valued and loved member of our team, a fantastic nurse and a great example of what we stand for in this trust. \"Our thoughts and deepest condolences are with Mary's family and friends at this sad time.\" The announcement of the death comes amid an ongoing row over the lack of protective equipment provided for frontline healthcare staff in the UK during the crisis. Meanwhile it was announced that Connie Titchen, 106, was believed to be the oldest person in Britain to overcome the virus. Doctors at City Hospital in Birmingham, in central England, said she had fought off the virus after being ill for around three weeks. And a 99-year-old army veteran on Wednesday, was said to have raised more than PS8 million (9 million euros, US$10 million) for the NHS. Tom Moore had aimed to raise PS1,000 by completing 100 laps of his garden but saw donations flood in after news of his quest spread. His fundraising was recognised by Health Minister Matt Hancock, who said at Wednesday's Downing Street press briefing: \"Captain Tom, you're an inspiration to us all and we thank you.\""
+}

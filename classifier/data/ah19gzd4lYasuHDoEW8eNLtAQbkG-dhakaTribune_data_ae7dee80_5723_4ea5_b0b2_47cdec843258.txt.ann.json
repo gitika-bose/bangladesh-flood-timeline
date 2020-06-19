@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_ae7dee80-5723-4ea5-b0b2-47cdec843258.txt",
+  "text": "Date Published:2019-07-30 00:00:00      \nHailing from Sylhet City's Lamabazar, Supriyo was a former president of the district's association of tax lawyers Eminent lawyer, and cultural and sports organizer Supriyo Chakravarty Ronju has passed away. He was 75. He died at Dhaka's Birdem Hospital at 7:40pm on Monday, family friend Khushi Kabir said. Supriyo, husband of Bangladeshi lawyer and human rights activist Sultana Kamal, was put on life support at the hospital after suffering a brain haemorrhage induced by a stroke.   He was hospitalized on July 14, and put under intensive care on July 21. Born on December  25 in 1944, he had donated his eyes to Sandhani and all other mortal remains to Kumudini Hospital at Tangail's Mirzapur to facilitate research. Hailing from Sylhet City's Lamabazar, Supriyo was a former president of the district's association of tax lawyers. Foreign Minister AK Abdul Momen and Sylhet Mayor Ariful Haque Chowdhury expressed their condolences at Supriyo's demise. Supriyo was the president of Sylhet Sammilita Natyo Parishad and worked as a vice-president of Rabindra Sangeet Sammilon Parishad and chairman of Sylhet Cricket Development Committee."
+}

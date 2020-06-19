@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_b5e446b7-6e87-4dde-8df5-122a9f393c0b.txt",
+  "text": "Date Published:2019-05-02 00:00:00      \nThe lower intensity of conflict in Syria and Iraq has contributed to this decrease, observes PEC The Press Emblem Campaign (PEC) noted with satisfaction a decrease in the number of journalists killed so far in the year compared with the same period last year.  On the occasion of World Press Freedom Day, the PEC noted a 56% decrease registering 20 victims in 12 countries from January 1 to April 30 against 46 during the same period last year, using the same metrics. The figure is the lowest figure since 2006.  PEC Secretary-General Blaise Lempen observed the lower intensity of conflict in Syria and Iraq contributed to this decrease. In addition, the continuous engagement of governments, associations and civil society in favor of the issue of the safety of journalists has certainly produced positive effects. It is also true that other means are used to neutralize journalists. The situation remains steadily hostile in Mexico with six journalists killed and Afghanistan with four killed, which adds up to half the victims since the beginning of 2019.  One journalist was killed in the following countries: Ghana, Honduras, India, Iraq, Northern Ireland, Kenya, Libya, Pakistan, the Philippines and Yemen. The PEC strongly condemns the killings and calls for quick identification of the killers and bringing them to justice."
+}

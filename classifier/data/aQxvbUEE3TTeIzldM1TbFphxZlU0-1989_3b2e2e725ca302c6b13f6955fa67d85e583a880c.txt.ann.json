@@ -1,0 +1,356 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "monsoon",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 362,
+          "text": "58"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 392,
+          "text": "late June"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 402,
+          "text": "by rising water and erosion of banks"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "monsoon",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:btellman"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 457,
+          "text": "At least 9,000 families lost their homes"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_54": {
+          "value": "9000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:btellman"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 520,
+          "text": "After record-breaking floods"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "monsoon",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 549,
+          "text": "last September"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "1988-09-01",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 666,
+          "text": "2,000 people dead"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "2000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 688,
+          "text": "millions homeless"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_36": {
+          "value": "2000000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1808,
+          "text": "Last September"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "ml:regex"
+        ],
+        "prob": 0
+      },
+      "fields": {
+        "f_51": {
+          "value": "1988-09-01",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|666,682",
+        "s1v1|e_49|549,562"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|688,704",
+        "s1v1|e_49|549,562"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  ],
+  "filename": "1989_3b2e2e725ca302c6b13f6955fa67d85e583a880c.txt",
+  "text": "Studies Seek Flood Control In Bangladesh\n1989-07-06T05:00:00.000Z\nAs monsoon rains begin to fall again on Bangladesh, the World Bank is mobilizing an international force of scientists and aid officials to draft a comprehensive, long-term plan to save this vulnerable nation from perennial catastrophe.\nWith the height of the flood season still a few weeks away, 58 villages were destroyed in late June by rising water and erosion of banks along six rivers. At least 9,000 families lost their homes, the Government says.\nAfter record-breaking floods last September, in which three of the world's mightiest rivers inundated two-thirds of Bangladesh and left more than 2,000 people dead and millions homeless, four major flood prevention studies were begun.\nIn the last few weeks, all four reports - by the United States, France, Japan and the United Nations Development Program - were completed and turned over to the Government of President H. M. Ershad, diplomats and officials of international agencies said in interviews. Consideration at Summit\nSome proposals are so sweeping as to envisage a multibillion-dollar rebuilding of Bangladesh's river embankments, or the construction of huge dikes or polders to keep away both the rivers and the unpredictable sea.\nThe reports will now be discussed in international forums, including the group of seven leading industrialized nations at a summit meeting in Paris in mid-July.\nAt about the same time, the World Bank will convene a meeting in Washington of scientific experts and officials from donor nations, Francis van Gigch, chief of the World Bank's Bangladesh office, said in an interview.\nWhile Bangladesh waits for international action, the Government has been building embankments around low-lying areas of Dhaka to protect the capital and its airport. Last September, the airport was closed for nearly a week during the flood, delaying the arrival of relief supplies. A Fatal Convergence\nDiplomats and Bangladeshi officials say that last year's flood, caused by a fatal convergence of rising water in all three major river systems, the Brahmaputra, Ganges and Meghna, dealt a heavy blow to an already fragile development process.\nBangladesh, one of the world's poorest and most densely populated nations, suffered millions of dollars in losses to buildings, roads and other essential structures. Untold numbers of farm animals were lost.\nThe findings of the four studies are in agreement on several points, but differ in recommending courses of action. All agree, for example, that projects must be confined to Bangladesh, not the larger region.\nNations in South Asia say it is unrealistic to expect that India, which controls substantial river water, can be brought into a regional discussion. New Delhi has said repeatedly that it will discuss the issue only on a one-to-one basis with its neighbors.\nIn the case of Bangladesh, this has led to a stalemate over an Indian proposal to build a huge canal across Bangladeshi territory to link the Brahmaputra and Ganges Rivers. But the reports on the whole say that better coordination in issuing flood warnings should be possible. Disagreement on Embankments\nAll reports agree that some annual flooding is not only inevitable but beneficial to the agricultural lands of Bangladesh that feed 110 million people. They say that the damages of these ''normal'' floods could be minimized by better warning systems and emergency services inside the country.\nWhere the reports diverge, and enter into political territory, is on the question of embankments.\nThe United Nations Development Program and the French studies advocate the building of more and higher banks along the rivers, a course favored by President Ershad.\nThe American study - prepared for the United States Agency for International Development by the Irrigation Support Project for Asia and the Near East - questions the value of embankments designed for worst-case floods.\nIt puts emphasis on more effective utilization of ground water in dry seasons, lowering the aquifers by pumping through tube wells, and on drainage during rainy periods."
+}

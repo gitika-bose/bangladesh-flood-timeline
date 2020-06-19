@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_c3f40138-d840-40c2-8798-420e7a10bd91.txt",
+  "text": "Date Published:2019-07-10 00:00:00      \nTwo fishermen rescued alive A fishing boat with six dead fishermen has washed up ashore at Seagull point of Cox's Bazar sea beach. Two fishermen were also rescued alive from the vessel. \"We were informed that a fishing boat has washed up ashore after capsizing on early hours of Wednesday. A Tourist Police team went to the scene immediately and began a rescue operation. Six dead bodies were recovered and two persons were rescued alive from the boat,\" Tourist Police Cox's Bazar Superintendent Zillur Rahman said while confirming the incident on Wednesday morning. He also said the dead bodies were recovered in a decomposed state and had no marks of injuries. \"We believe that the boat and the fishermen had drifted into Bangladesh territory from Myanmar. As there is currently a fishing ban on our territorial waters and Signal 5 was hoisted at maritime ports for the last five days, it can be assumed that the boat did not capsize in our waters,\" he added. The dead bodies have been sent to Cox's Bazar Sadar Hospital for autopsy.  \"The two rescued alive are receiving treatment at Cox's Bazar Sadar Hospital. We are working to get more details regarding the incident,\" Cox's Bazar Sadar Model Police Station Officer-in-Charge (OC) Md Farid Uddin Khandaker told Dhaka Tribune.  "
+}

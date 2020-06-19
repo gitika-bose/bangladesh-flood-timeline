@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1988_aecd9390d0d4920b19252aab95e97745e88fbe49.txt",
+  "text": "Death Toll in India After Heavy Floods Is Reported at 1,000\n1988-10-03T05:00:00.000Z\nThe death toll from floods that have submerged many areas in India's northwest was nearing 1,000 today, according to reports from the region. Hundreds of thousands of residents in four states have been evacuated to higher ground.\nMost severely affected in more than a week of flooding has been Punjab State, where many acres of farmland have been inundated. A state government spokesman in Chandigarh said Saturday that at least 400 people had died in the state in nearly 9,000 affected villages and towns.\nLocal news organizations put the number of deaths in Punjab at about 600, with some areas still cut off and unable to report casualties. The districts of Ferozepore, Jullundur and Amritsar were among those hardest hit. Food Stocks Are Gone\nTens of thousands of farm animals have perished. Food stocks have been destroyed, prompting the Government to begin dropping relief supplies by air. [ A boat evacuating people from floodwaters in Pakistan's Punjab Province capsized and 35 people aboard were feared drowned, Reuters reported. It quoted the state-run Radio Pakistan as saying seven bodies had been recovered after the incident near Faisalabad. ] The states of Himachal Pradesh, Haryana and Jammu and Kashmir have reported hundreds more casualties as rivers swollen by record monsoon rains have poured into the fertile plains and valleys of the northwest. In Rajasthan, officials said they were on the alert for rising water in rivers and canals that pass through Punjab. Flooding Near the Capital\nThe Jumna River, which runs along the eastern edge of the capital, has also overflowed, disrupting the lives of many poor Indians who erect makeshift homes on its wide banks. But apart from the flooding of some city roads, the functioning of the capital has not been badly affected.\nToday, flood waters were reported to be receding in Haryana and Himachal Pradesh. But the rivers are still high in Punjab, a politically sensitive state where four years of violence has already damaged the economy.\nThis weekend, Prime Minister Rajiv Gandhi named a Cabinet committee to open talks with the legal political opposition in the state, which Mr. Gandhi visited on Sept. 21. The talks, announced before the floods, are intended to consider solutions for the state's political and economic deterioration.\nViolence, which has claimed at least 2,000 lives this year, began with a call for a separate homeland by Sikh militants, followed by an armed response by New Delhi. Terrorism is now no longer confined to the Sikh dispute, but has spread into general lawlessness, Punjabis say. Robberies and attacks occur daily.\nDeforestation in the Himalayas and their foothills is easing the rush of water into India's northern states, experts say. The barren, eroded hills along the mountainous roof of India and nearby Nepal are also thought to have contributed to recent heavy flooding in northeastern India and in Bangladesh, where several large river systems enter the Bay of Bengal. Cooperation With Bangladesh\nBangladesh has been seeking international support in studying the river systems and making recommendations for joint projects to control the waters. Bangladesh's President, Lieut. Gen. H. M. Ershad, visited India on Thursday to raise his concerns with Prime Minister Gandhi.\nThe Indians told General Ershad that New Delhi wanted to keep the discussions confined to an Indian-Bangladesh commission, and not involve other nations at this point. India, where politicians are sensitive to what they see as infringements on national sovereignty, has long resisted the ''internationalization'' of the rivers issue.\nIndia has proposed building a canal across Bangladeshi territory to link the Brahmaputra and Ganges systems to drain water from the former into the latter.\nIn Bangladesh, where the idea of an ''Indian'' canal has never been popular, a sense of desperation is growing, spurred by this year's devastating floods. The floods submerged nearly three-quarters of the country and left millions homeless.\nGeneral Ershad plans to go ahead with his plans to visit Nepal, Bhutan and China to discuss possible projects for managing the Himalayan rivers.\nHe is scheduled to go to Katmandu on Monday, less than a week after Indian officials made it clear that they did not want to involve Nepal in talks."
+}

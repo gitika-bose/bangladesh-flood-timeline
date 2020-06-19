@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_dadbad7e-d0e7-4c87-9a3b-e5c118f42cd7.txt",
+  "text": "Date Published:2020-03-31 00:00:00      \nHabiganj workers demand govt food relief from starvation Workers at 23 tea gardens in Sylhet have been abstaining from work due to the fear of coronavirus transmission for the last five days. Hundreds, among the 10,000 permanent workers and 50,000 temporary workers, demonstrated with a sit-in protest on Tuesday at their respective tea fields, demanding protective gear for work, said Raju Goala, president of Bangladesh Tea Workers' Union in Sylhet. Answering a query, he told Dhaka Tribune that the workers are prepared to work as per the premier's directives if Personal Protective Equipment (PPE) is provided to them with their salary for the last five days, when they abstained from work. He added that they will go for a large movement if the demands are not fulfilled. Sylhet Additional Deputy Commissioner (ADC) Abul Kalam Azad said Tk12 lakh and 521 tons of rice have so far been allocated for marginal communities in the district to fight the coronavirus crisis so far. However, the allocated resources were not for the district's tea workers. \"Over video conference on Tuesday, the premier instructed to keep all tea gardens of the country operational,\" added the ADC. The tea worker's leader Raju Goala, said: \"People in other occupations in the country are in quarantine, but there were no clear guidelines for tea workers. To avoid risk of virus transmission, workers are abstaining from work. \"Although poor people in the district are receiving government support, none is allocated for tea workers.  \"Most of the workers are hired on a temporary basis. They routinely work at places other than the gardens. They could not work at these other places due to the virus outbreak and the authorities do not have any specific guidelines regarding how workers will not starve, but yet be safe,\" added Raju. In Habiganj, hundreds of tea workers demonstrated in Chunarughat upazila demanding government relief.  During a three hour protest in front of the upazila parishad until 12pm yesterday, they chanted 'Du Mutho Bhat De (give us two fistfuls of rice) as a slogan. Tea worker Koilash Munda said: \"We will die of starvation before catching coronavirus. No one has come to our aid so far.\" Nipen Paul, joint secretary of Bangladesh Tea Workers' Union central committee, said: \"Tea workers were not given leave. We asked workers of some of the gardens to abstain from work. We couldn't arrange government allocations for workers by contacting the upazila administrations. I have heard that workers protested for food in Habiganj.\" Debashish Das, manager of Deundi Tea Garden in the upazila, said: \"We haven't received any instruction from the authorities to allow leave for the tea workers and we haven't put pressure on them to come to work either.\" He added that no worker from his tea garden received any government relief. Chunarughat Upazila Nirbahi Officer Shattyajit Roy couldn't be reached for comment over phone."
+}

@@ -1,0 +1,25 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_56": {
+      "value": "Do we need to remove this article?",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_26d8971e-f26e-4ed9-b765-aceeeeaa15b8.txt",
+  "text": "Date Published:2020-01-28 00:00:00      \nA chronological timetable of historical events that occurred on this day in history. Historical facts of the day in the areas of military, politics, science, music, sports, arts, entertainment and more. Discover what happened today in history "
+}

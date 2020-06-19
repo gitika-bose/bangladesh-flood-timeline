@@ -1,0 +1,107 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "cyclone",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 197,
+          "text": "With a wind speed of up to 245kmph, Amphan was located 940km off the coast"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "coastal_cyclone",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [],
+  "filename": "theDailyStar_data_c39b2248-dcae-43ba-b568-3afc96cb875b.txt",
+  "text": "Date Published:2020-05-19 00:00:00      \nCyclone Amphan was gaining pace in the Bay yesterday and may hit Bangladesh coast near the Sundarbans in the early hours of tomorrow, the met office warns. With a wind speed of up to 245kmph, Amphan was located 940km off the coast at 9:00pm yesterday. It was formed in the Bay of Bengal on Saturday. Weathermen fear that if it does not weaken before hitting the coast, it could be as devastating as Cyclone Sidr. Amid the coronavirus pandemic, the cyclone may come as a double blow to disadvantaged people in the coastal regions. Many of them are reluctant to go to cyclone shelters as they are worried about protecting whatever little resources they have left. \"Along with the existing 4,071 permanent shelters, we have already prepared another 1,278, where around 51 lakh people could be accommodated. But with the coronavirus situation in mind, we will ensure maintaining social distance among the people,\" Dr Md Enamur Rahman, state minister for disaster management and relief, told The Daily Star yesterday. If somebody does not want to go to cyclone shelters, law enforcers will have to force them to leave vulnerable areas, he said. These shelters are located in 19 coastal districts under Khulna, Barishal and Chattogram divisions. The ministry has allocated 3,100 metric tons of rice, Tk 50 lakh in cash, Tk 31 lakh for children's food, Tk 28 lakh for fodders for livestock to support the people on the coastal belt during their stay at the shelters. \"From our experience after Cyclone Bulbul and Foni, we can say it takes seven to eight hours to evacuate 20 lakh people from their homes and take them to the shelters,\" the state minister said. Law enforcement agencies will help people living on chars and in island areas and bring them to the mainland today. Volunteers were using loudspeakers and urging people to move to the shelters, reports our correspondents from Khulna and Barishal divisions. Already more than two thousand people have moved to cyclone shelters in Satkhira's Gabura. Zohora Khatun, 60, a survivor of Sidr, which killed over four thousand people in Bangladesh, moved to Chadnimukh MM High School yesterday afternoon. \"We have moved here after hearing the announcement about the cyclone on loudspeaker,\" she said over telephone yesterday evening. Many, however, don't want to leave their houses, leaving behind their livestock and poultry, while others complained that the shelters were in bad condition. Imtiaz Uddin, a fisherman of Dakkhin Bedkashi village in Koyra upazila, told The Daily Star that they were the most vulnerable and affected people in any cyclone due to poor embankment. \"If I leave home and go to a shelter, where will my two cows and 10 ducks go? The cyclone shelter is two and a half kilometers away from my home,\" said Imtiaz, a survivor of Sidr and Aila, two severe cyclones that hit the Bangladesh coast in 2007 and 2008. \"My wife and mother will go to the shelter tomorrow [today] if this cyclone is that bad or if any instructions come from the administration,\" he said. Uttam Mondal, of Sutorkhali village in Dacope upazila, told The Daily Star that people of the village usually do not go to shelters due to their poor environment. \"Almost all shelters are dilapidated and most of the windows and gates are damaged. Very few locals go to shelters,\" said Uttam, adding that there is no privacy for women there either. \"If any major crisis comes, I will go to the shelter with my father,\" he said. Over 50,000 people in Patuakhali's coastal area are fearing a sudden surge due to the storm and that some area like Charipara, Kuakata, Lotachapli and Dulsar under Kolapara upazila may be submerged. Around a 500-kilometer-long embankment built to protect those areas has been damaged and its repair work is still going on. \"The flood protection dam has been damaged in our area. We fear that water will come rushing through this breach of the dam. And our whole village may go under water,\" said Abdur Rahim of Charipara village. Several hundred people on that remote island of Dhalchar have already been evacuated. \"In the district, there are 21 risky remote islands, on which around three lakh people are living. Most of them don't want to go to the cyclone shelters. But we will try to bring in as many as possible [to the shelters],\" said Mohammed Masud Alam Siddique, deputy commissioner of Bhola. GETTING CLOSER Amphan, a Thai word meaning ambition or strength, was located 940km southwest from Payra, 955km southwest from Mongla, 990km away from Cox's Bazar and 1,045km from Chattogram at 9:00pm yesterday. \"If it does not weaken before making the landfall, it could be worse than Cyclone Sidr,\" said Samarendra Karmakar, a retired director of the Bangladesh Meteorological Department. Currently, the wind speed is between 225km to 245km. In its special bulletin, the Bangladesh Meteorological Department said the cyclone may intensify further and may cross Bangladesh coast between Khulna and Chattogram early tomorrow, which could, however, be delayed to tomorrow evening. The sea will remain very high near the eye of the cyclone, the bulletin said. The met office asked the Chattogram and Cox's Bazar port authorities to hoist signal number six, while Mongla and Payra port authorities were asked to hoist signal number seven, which means those ports will experience a severe storm. The coastal districts of Satkhira, Khulna, Bagerhat, Jhalakathi, Pirojpur, Barguna, Patuakhali, Bhola, Barishal, Laxmipur, Chandpur, Noakhali, Feni, Chattogram and their shore islands and chars will suffer the worst of the storm, while low-lying areas of those districts could be inundated. All fishing boats have been asked to take immediate shelter until further notice. (Our correspondents from Khulna, Barishal, Bhola, Patuakhali, Bagerhat, Pirjojpur and Noakhali contributed to the report.)"
+}

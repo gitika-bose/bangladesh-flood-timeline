@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_9ea35403-e9e7-4867-8971-098c7e98d27b.txt",
+  "text": "Date Published:2020-01-21 00:00:00      \nPolice have arrested two in connection with the incident A man's legs were broken by goons on Friday because he was helping the police find witnesses in a rape case in Pabna.  The video of his merciles beatingin Gachhpara market in Pabna Sadar upazila went viral when went to meet the police to discuss his cooperation in the case. Abdul Alim, 36, of Nurpur area in the upazila is now under treatment for severe bone fractures in Pabna General Hospital, this correspondent found upon a visit.   Abdul Alim, while on the hospital bed, told Dhaka Tribune: \"Ariful Islam, Helal, Ashraf, who are accused in the rape case attacked me. Inspector Khairul sought my help to find witnesses of the rape case. The law enforcers were with me during the assault; my sorrow is, while I tried to help them no one came to my rescue when I was attacked.\" Police on Tuesday arrested Ashraf Hossain, 45, and Tofazzol Hossain, 42, in connection with the incident after a case was filed against 10 people by the victim's wife Ruma Khatun on Monday night. On Friday, the rape case investigation in-charge, Inspector Khairul Islam and a constable met Alim at the Gachhpara market. Just after the police officials left him, local men attacked him with blunt weapons that left him severely injured. Inspector Khairul Islam said: \"The assault took place after we left him and had already gone too far. As we saw people running from the distance, we informed the higher officials and requested backup. Locals took him to hospital after the incident.\" Pabna Acting Superintendent of Police (SP) Gautam Kumar Biswas said that a three-member probe committee was formed to investigate the incident. \"The probe committee will look if there was any negligence from police members. The committee headed by Additional SP Shamima Akhter has been guided to submit the report within seven days,\" added SP Gautam. On December 20, a woman was reportedly raped in Gopalpur village of the Pabna Sadar upazila. Two days after the woman's family filed a case against the prime accused Ariful Islam, younger brother of Maligachha Union Parishad Chairman Shariful Islam, and seven others."
+}

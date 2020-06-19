@@ -1,0 +1,199 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 15,
+          "text": "2019-09-29"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "2019",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_50": {
+          "value": "2019-09-29",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2872,
+          "text": "Ghorjan union of the district"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_42": {
+          "value": "Ghorjan",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_39": {
+          "value": "Sirajganj",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_40": {
+          "value": "Chauhali",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2904,
+          "text": "At least 3,000 families were gravely flood affected"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "3000 families were gravely affected",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_35": {
+          "value": "12180",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [],
+  "filename": "theDailyStar_data_59d53f3e-f0d0-43bc-9137-1dcb4d072501.txt",
+  "text": "Date Published:2019-09-29 00:00:00      \n The underprivileged people of Borangile village in Sirajganj's Chauhali upazila can sleep a little better at night, knowing that if they are ever unable to find work as day labourers the next day, they can easily borrow some rice from the community food bank. Such little comfort is all thanks to the smart thinking of Kohinoor Begum, who along with some 40 other villagers, set up the food bank for times of need. The initiative is now a source of inspiration for neighbouring villages. Situated around a hundred kilometres from Sirajganj town, the people of Borangile often fall out of the purview of receiving government amenities or relief, even though they are among those critically affected by flood. The village lies on char lands of the Jamuna basin, where people are mostly dependent on finding work as day labourers to survive. They are able to grow some crops when the water in the river recedes and the char lands are exposed. Kohinoor, a housewife, and the others set up the food bank last year to meet food demands during times like off-crop periods. She is chairman of the reserve. When this correspondent visited the village on August 9, he attended one of the meetings of the reserve at the chairman's house along with the other members. \"Early in 2018, a few women of our underprivileged community and I walked back barefoot for a couple of hours after we went to collect relief materials from the local government. However, we were let down as relatives of the local member-chairman got the relief items instead of us,\" said Kohinoor, reminiscing the time when the reserve came into being. \"I then called a meeting at home to take matters in my hand and shared my decision to form a food bank.\" The community is poor and destitute, but there are some who are needier than the others, she added. \"We should do something for them. During hard times, any member can take rice from our bank.\" On avoiding total dependence on government support, she said, \"We are also trying to gather financial support from other villagers as donations.\" Members of this food bank started setting aside whatever little they could manage in 2018. They now have 45 members and their savings crossed Tk 30,000. \"A few days ago, our family fell into a crisis. I borrowed eight kilograms of rice from the food bank and overcame the crisis,\" said Aduri Khatun, also a member of the bank. The bank does not charge any interest for such services, said Shumi Khatun, 28, one of the beneficiaries of the bank. Another villager, Rajib Siddique, 27, who recently completed his graduation, said, \"Kohinoor Khala [aunt] is an inspiration for all of us. Her lone initiative has saved us from extreme hunger.\" \"The food bank is a laudable example. They can now solve some of their problems from their own resources,\" said Romjan Ali, chairman of Ghorjan union of the district. \"At least 3,000 families were gravely flood affected in our union and the government budget hardly covered all the victims. In this situation, this type of a food bank is really beneficial,\" he added.  "
+}

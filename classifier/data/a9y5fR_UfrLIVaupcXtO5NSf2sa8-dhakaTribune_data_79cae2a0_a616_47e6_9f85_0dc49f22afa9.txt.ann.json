@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_79cae2a0-a616-47e6-9f85-0dc49f22afa9.txt",
+  "text": "Date Published:2019-10-11 00:00:00      \nVC says sorry for 'lacking' in his role; protest to continue Amid growing protests by students demanding justice for Bangladesh University of Engineering and Technology's (Buet) slain student Abrar Fahad, the university authorities have banned student politics on the campus. This apart, Buet also suspended 19 of its students who have been named in the Abrar murder case. Buet Vice Chancellor (VC) Prof Saiful Islam announced the decisions around 5:45pm yesterday, nearly four hours after the 2pm deadline the agitating students set for him to meet them, clarifying his stance on a 10-point demand. The meeting between Buet authorities led by the VC, and the protesters started at Buet auditorium around 5:30pm, on the fifth day of demonstrations that erupted after several now-expelled Buet Chhatra League leaders killed Abrar Fahad in the early hours on Monday. Earlier yesterday, several hundred students of the university gathered in front of Buet Shaheed Minar at 11am with placards, and chanted different slogans demanding capital punishment for Abrar's killers.  On Thursday afternoon, the students placing a charter of 10 demands threatened to lock down all the academic, and administrative buildings of the university, if the VC failed to meet them by 2pm on Friday.   The protesters, at that time, clarified that they demanded the banning of political party-affiliated student organizations on campus, not student politics as a whole. Several hours later, the VC agreed to sit with them to decide on their demands.  Abrar, a second year student of Electrical and Electronic Engineering Department of Buet, was beaten to death at Sher-e-Bangla Hall. The killers-- all Buet students--beat him for his alleged involvement with Islami Chhatra Shibir, the student wing of Jamaat-e-Islami, an unsubstantiated claim which is yet to be proven. VC says sorry for his role  During the meeting, the VC apologized to the students for \"lacking\" in the role he should have played immediately after the incident.  \"I did have some shortcomings. I beg apology,\" said the VC adding: \"I am extremely sorry as I could not appear on time.\" VC Saiful went on saying that the Buet authorities will bear all the expenses needed to run the murder case, as well as to compensate the victim's family.  Promising to take necessary measures to stop ragging by the students, he assured that the university authorities will write to the government seeking speedy trial of the killers.  The VC has been drawing the protesters' wrath since he did not show up on the campus until after 5pm on Tuesday, nearly 40 hours after Abrar was reported dead.  His finally made a public appearance, and issued a statement around 5:30pm that day, after the students set a 5pm deadline.  However, sources at his office claimed that the VC failed to make public appearance due to illness.  Protesters also demanded his resignation.  Criticism over the matter did not just stop there. The Awami League-led 14-party alliance, too, yesterday lashed out at him. The alliance's spokesperson Mohammed Nasim at a meeting in Dhaka said: \"We're hurt over the delay by Buet VC in reaching there (Sher-e-Bangla Hall). This is so unfortunate, something we cannot expect from a VC.\"  Protests to continue as campus still 'unsafe' Despite assurance from the authorities regarding meeting their demands, protesters announced to keep protesting on campus until the entire campus becomes safe for all students.  According to them, leaders and activists of some student fronts including Chhatra League are still residing at different dormitories of Buet.  For this reason, they did not even retreat from their decision of boycotting Buet admission test slated for October 14. The murder sparked protests not only in a number of higher educational institutions in Dhaka, but also in many universities, cities, and divisional headquarters across the country.  Abrar, a second year student of Electrical and Electronic Engineering Department of the university, was beaten to death by some activists, and leaders of Bangladesh Chhatra League's Buet unit inside the university's Sher-e-Bangla Hall in the early hours of Monday. Abrar's father filed a murder case against 19 people-- all Buet students--with Chawkbazar police station on Monday evening.  Until yesterday evening, 18 accused were arrested. Of them, 17 have been placed on remand for different periods."
+}

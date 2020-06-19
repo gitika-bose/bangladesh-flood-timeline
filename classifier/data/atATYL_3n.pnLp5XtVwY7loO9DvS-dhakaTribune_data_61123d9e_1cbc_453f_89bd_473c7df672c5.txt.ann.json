@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_61123d9e-1cbc-453f-89bd-473c7df672c5.txt",
+  "text": "Date Published:2020-01-16 00:00:00      \nThey defaulted Tk140cr in loans from three banks An arrest warrant has been issued against former textiles and jute minister Abdul Latif Siddique's wife Laila Siddque, son Anik Siddiqui and daughter Raina Farzin for defaulting on Tk140 crore in loans from three banks. A Dhaka court on December 2, 2019 issued the warrant against them in a case filed by Arab Bangladesh (AB) Bank. Following the court order, police on Wednesday conducted a drive at their residence in Gulshan 1 in the capital. Gulshan police station officer-in-charge (OC) MdKamruzzaman said they were trying to arrest them. According to banking sources, Latif Siddique's family members formed two companies - Dhaleshwari Limited and Majestica Holdings Ltd -- for printing press and real estate business. Laila Siddque, wife of Latif Siddique, is the chairman of the two companies, Anik Siddiqui, their son, is the managing director of those companies while Raina Farzin, their daughter, is the director of those companies, as per the sources. They took Tk55.62 crore from AB Bank, Tk56 crore from state-owned Janata Bank and Tk31 crore from Padma Bank. Majestica Holdings Ltd is among the top 300 defaulters' list, which was disclosed in parliament last year. Latif Siddique, the former MP from Tangail-4 seat, was in charge of the textiles and jute ministry in the Awami League's 2009-13 term. Dhaka Tribune reporter was trying to reach Anik Siddiqui over phone but he did not receive the phone. Talking to Dhaka Tribune, Tarique Afzal managing director of AB Bank, said: \"Now we are strict against all defaulters.\""
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_b6dacf5b-d43c-48c4-ad86-4d52b72f120c.txt",
+  "text": "Date Published:2019-09-29 00:00:00      \nIndia is the second largest onion producer and exporter in the world after China India's ban on onion export will not affect the local market as the country has sufficient stock, a top trade official has claimed, saying a large quantity of onion imports from Vietnam, Thailand and Myanmar are in the pipeline. \"There is nothing to be worried about India's ban. We have adequate stock,\" Commerce Secretary Jafar Uddin told Dhaka Tribune last night. He said two ships carrying onions from Myanmar already anchored at Chittagong port, which would raise the domestic stock.  \"I don't see any possibility of instability in local market. What we need is coordinated efforts to strongly monitor the market to ensure smooth supply and check price manipulation,\" he maintained.     The Indian government on Sunday banned onion export amid growing prices in their domestic market after production of the vegetable fell short of target due to flood caused from incessant rainfall, India Today reports.  India is the second largest onion producer and exporter in the world after China. In last couple of months, the Union government of India started tightening onion export by imposing several initiatives leading to price hikes.  Apart from this, the Indian government firstly withdrew 10% incentives on onion export in June and later, in mid-September, it re-fixed the vegetable's minimum export price per ton at $850. Reuters adds: The Indian government said exports would be prohibited with immediate effect. In several cities, prices of the essential kitchen item have doubled in recent weeks, prompting the government of the world's major onion exporter to take steps to calm prices ahead of key state elections later this year. In June, India withdrew 10% export incentives on onions after prices started to rise due to dwindling supplies from last year's harvest and a delay in planting of the summer-sown crop. Excessive rainfall in the second half of the monsoon season has led to crop damage in several states and stocks held by traders are insufficient to meet demand until the new crop arrives in end-October.  The government has also attempted to bring down prices by releasing more onions from federal buffer stocks, prices have remained fairly high. The ban has sent waves of panic in the country that the essential cooking commodity will be costlier.  Bangladesh consumes a higher quantity of onions than the country produces annually.  According to Bangladesh Bureau of Statistics, the country's onion production in 2016-17 fiscal year was 1.86 million tons against the demand for 2.4 million tons. The country has been facing a price spiral of the cooking ingredient since the Eid-ul-Azha celebrations early last August. In recent weeks, prices of the commodity escalated further. On August 17, the commerce ministry came up with the statement that the country had 1.6 million tons of onions in stock and claimed that the quantity of stock was enough to meet domestic demand.  Onion prices in the country jumped from Tk45 to Tk70 per kg on September 14, a day after India fixed minimum onions export price per ton at $850. Usually, the minimum export price of onion at international market stays in between $250 and $300. Yesterday evening, visiting Sukrabad kitchen market, Dhaka Tribune found per kilogram local onion selling for Tk80-90 while imported one for Tk70-80. On the other hand, super shop Shwapno at Panthapath was selling Indian onion at Tk74 per kilogram.  Bangladeshi is eighth on the Food and Agricultural Organization's (FAO) list of top ten countries producing onion.  China tops the FAO list with annual production of 24.28 million tons, followed by India 22.42 million tons, USA 3.73 million tons, Iran 2.37 million tons, Egypt 2.37 million tons, Russian Federation 2.13 million tons, Turkey 2.13 million tons, Bangladesh 1.86 million tons, Pakistan 1.83 million tons and The Netherlands 1.77 million tons."
+}

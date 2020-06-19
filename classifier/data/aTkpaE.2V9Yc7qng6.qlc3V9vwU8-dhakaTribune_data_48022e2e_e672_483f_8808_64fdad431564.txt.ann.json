@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_48022e2e-e672-483f-8808-64fdad431564.txt",
+  "text": "Date Published:2019-09-14 00:00:00      \nThe mosque has been under construction in its latest design since 2011 An Indian Border Security Force (BSF) patrol has interrupted the construction of a two floor mosque in the Borolekha Dolpara border area of Hatibandha upazila in Lalmonirhat. On Friday afternoon, a BSF  patrol team from Amit camp under the Shitalkuchi police station of India stopped the construction of Keramatia Boro Mosque when its windows were being installed. BGB 61 Company Commander Subedar Ibrahim Molla said: \"After the obstruction by BSF, construction work has been temporarily halted. We are discussing the issue with BSF.\"  Locals say, in Mughal times a darbesh (holy man) by the name of Keramatia Hujur built a mosque in the Dolpara area. By the side of the mosque, a shrine was later built around his grave and the mosque was developed further over time.  During the partition of India in 1947 the mosque and the shrine fell in no man's land, where thousands of Muslims go to pray every Friday. The mosque committee's secretary, Alimuddin said: \"The reconstruction of the mosque was approved in 2011 by the authorities of both Bangladesh and India and construction work began on April 29 that year.\""
+}

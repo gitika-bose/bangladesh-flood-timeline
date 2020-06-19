@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_45e68dc7-3840-42ab-85d2-6f3fcd66f4ac.txt",
+  "text": "Date Published:2020-01-15 00:00:00      \nThe makeshift shop owners continued building the illegal shops despite several notices served to them, Magistrate Saiful Alam said The Chittagong Development Authority (CDA) in a special drive has evicted around 300 illegal establishments from Patenga sea beach in the port city. The drive, led by Special Metropolitan Magistrate of CDA Saiful Alam Chowdhury, started around 11am on Wednesday in cooperation with the law enforcers, reports BSS. Around 300 illegal establishments, built up on about half kilometre area on the beach, were evicted during the drive. Magistrate Saiful Alam said despite several notices served by the district administration, the makeshift shop owners continued building the illegal shops by occupying both the sides of the main beach road. Representatives of different stakeholders including CDA, Power Development Board, and Chittagong Metropolitan Police were present during the drive."
+}

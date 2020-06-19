@@ -1,0 +1,39 @@
+[
+  {
+    "query": "bangladesh \"flood\"",
+    "paper": "bangladeshPost",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://www.bangladeshpost.net/posts/breach-closing-of-embankments-progressing-in-gaibandha-9514",
+      "https://www.bangladeshpost.net/posts/shapludu-comes-off-on-sep-27-10850",
+      "https://www.bangladeshpost.net/posts/bumper-aman-paddy-production-likely-in-kishoreganj-17043",
+      "https://www.bangladeshpost.net/posts/asif-jhumur-in-devdas-8990",
+      "https://www.bangladeshpost.net/posts/porimoni-to-star-in-puff-daddy-2200",
+      "https://www.bangladeshpost.net/posts/fake-sony-products-flood-local-market-3942",
+      "https://www.bangladeshpost.net/posts/dipankar-dipon-to-make-operation-sundarban-3917",
+      "https://www.bangladeshpost.net/posts/toya-models-for-hasan-s-song-21379",
+      "https://www.bangladeshpost.net/posts/padma-crosses-danger-level-near-hardinge-bridge-after-16-year-13541",
+      "https://www.bangladeshpost.net/posts/nishita-barua-debuts-in-tollywood-2421",
+      "https://www.bangladeshpost.net/posts/19-countries-taking-part-in-sheikh-russell-tennis-tournament-in-khulna-17262",
+      "https://www.bangladeshpost.net/posts/shimana-returns-to-acting-8007",
+      "https://www.bangladeshpost.net/posts/victory-day-of-bangladesh-20126",
+      "https://www.bangladeshpost.net/posts/mim-in-new-tvc-and-cinema-16911",
+      "https://www.bangladeshpost.net/posts/director-tuhin-coming-up-with-four-projects-2599",
+      "https://www.bangladeshpost.net/posts/battle-of-kowloon-10933",
+      "https://www.bangladeshpost.net/posts/i-do-not-want-work-being-in-the-wrong-dev-18480",
+      "https://www.bangladeshpost.net/posts/we-will-celebrate-humayun-ahmed-s-birthday-at-nuhash-polli-meher-afroz-shaon-17094",
+      "https://www.bangladeshpost.net/posts/hundreds-of-people-enjoy-boat-race-on-bhairab-river-15063",
+      "https://www.bangladeshpost.net/posts/disha-patani-underwater-adventure-for-malang-21467",
+      "https://www.bangladeshpost.net/posts/2-crore-need-for-andrew-kishore-s-treatment-18221",
+      "https://www.bangladeshpost.net/posts/bd-now-role-model-in-disaster-management-pm-14579",
+      "https://www.bangladeshpost.net/posts/rooppur-nuclear-power-plant-installation-of-core-catcher-at-unit-2-begins-598",
+      "https://www.bangladeshpost.net/posts/river-erosion-taking-heavy-toll-14612",
+      "https://www.bangladeshpost.net/posts/save-river-save-bangladesh-8827",
+      "https://www.bangladeshpost.net/posts/encroachment-pollution-destroy-ichamati-river-20293",
+      "https://www.bangladeshpost.net/posts/i-was-enthralled-by-the-speech-of-bangabandhu-10745"
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_ae67dbcb-80eb-4fbf-a478-5a2ec8bc445c.txt",
+  "text": "Date Published:2019-08-02 00:00:00      \nDengue, the notorious mosquito-borne menace in the country, is back and so is the familiar paranoia that accompanies its advent every monsoon. Splashed across the front pages of newspapers and the headlines of news channels are the alarming numbers of new cases of dengue every day. People are grappling with anxiety and confusion over the news that dengue is manifesting itself in a different form this time; patients are presenting with atypical features and their conditions rapidly deteriorating in the absence of timely medical intervention. \"The epidemiology of dengue is complex and it still remains poorly understood. It entails the host (humans), vector (Aedes mosquito) and viral (Dengue virus) status; these factors are further influenced by demographic, behavioral and societal determinants,\" explains Professor Dr Quazi Tarikul Islam, during his speech at the seminar \"Dengue: changing trends and management update\", organised by the Dhaka Medical College Hospital (DMCH) and the Bangladesh Society of Medicine. \"Aedes mosquito is very adaptive.  It has evolved in terms of both longevity and survival due to climate change and different socio-cultural and economic factors of human habitation,\" adds Dr Islam, who is also editor-in-chief of the national guideline on dengue. He refers to the shift in the affected age group earlier, dengue fever used to be uncommon in adults, whereas older age groups being affected have been reported not only in Bangladesh, but also in Thailand, Singapore, and Indonesia. Another shift is that the largely urban-centric disease has now spread to rural areas too. \"Moreover, changes in the dengue virus are altering its ability to cause infections. In sequential or secondary infections, the manifestations become severe,\" says Dr Islam. According to the World Health Organisation (WHO), warmer temperatures due to global warming accelerate the development of mosquitoes and reduce the time it takes for them to become infectious. In addition, increased rainfall leads to more ideal breeding sites and high humidity enhances their chances of survival. The worsening flood situation this year, coupled with the unusually high temperatures, could have triggered such alterations. Concerns over the re-emergence of a new serotype have also been voiced by experts. There are four distinct serotypes of dengue. The national guideline on dengue, published by the Directorate General of Health Services (DGHS), documents that following its first outbreak in Bangladesh back in mid-2000, the prevalent serotypes of dengue were the first three; among them, serotype-3 was only predominant till 2002. A study published in the journal New Microbes and New Infections states that the re-emergence of serotype-3 in 2017 may have been responsible for the massive dengue outbreak in Bangladesh last year. Previously, no cases of serotype-3 or serotype-4 had been seen in Bangladesh after 2002--the Institute of Epidemiology, Disease Control & Research (IEDCR) found only serotype-1 and serotype-2 in patients' serum samples between 2013 and 2016. In a report in The Daily Star last month, Dr HM Nazmul Ahsan, associate professor at Shaheed Suhrawardy Medical College Hospital, said that the number of serotype-3 cases were higher than the others last year and that would most likely prove the same this year. In a subsequent report, Kinkar Ghosh, an epidemiologist at Dhaka Shishu Hospital, also stated to The Daily Star that the pattern of dengue was different this year. Patients presented with new as well as faster-acting symptoms indicating that the serotype of the virus had changed but why, he stated, is as of yet uncertain. When a person is infected with one serotype, his/her immune system confers him life-long protection from re-infection from the same serotype. But he/she still remains vulnerable to infection from the other serotypes after a transient protective state lasting for a few months. That is when the complications ensue. Secondary infection with a different serotype is the most significant risk factor leading to dengue hemorrhagic fever and dengue shock syndrome--severe forms of dengue, where mortality rates can be as high as 20 percent. However, it is to be noted that Bangladesh's dengue mortality rate is still significantly lower than that of other endemic zones of dengue such as Thailand, the Philippines, and Indonesia. Hence, the re-emergence of serotype-3 in Bangladesh where serotype-1 and serotype-2 were prevalent for over a decade increases the chances of cross-infections and consequently, the severity of dengue. Which is why it is important to immediately screen anyone with a fever during this time, for dengue. \"Plasma leakage [the fluid portion of our blood, plasma, leaking from the blood vessels] or impaired ability of our body to regulate bleeding may proceed to multi-organ failure. When three or more organs fail, there is an 80 percent risk that it will culminate in death. That's what concerns us,\" states Dr Md. Robed Amin, associate professor of medicine at DMCH and an editor of national guideline at the seminar. Droves of patients have been getting admitted to hospitals and medical care is stretched thin. \"The workload is overwhelming as we constantly juggle between evaluating new patients and monitoring the admitted ones. But we're always here for them,\" says a duty doctor at DMCH, busy examining dengue patients. \"Early diagnosis and appropriate quality care can bring down the mortality rate to below one percent,\" states Dr Sanya Tahmina, line director of communicable disease control at the DGHS. \"Our case fatality rate (CFR), calculated by dividing total deaths by total identified cases, is quite below one percent. The numbers (as of July 25) show eight deaths out of 9,256 cases, yielding a CFR of only 0.09 percent. Even if you consider the death rate to be 28 as per some unsupported sources, CFR is still 0.3 percent--still below one percent.\" \"We have an efficacious national guideline on the management of dengue. We regularly train our physicians to enhance their skills. This year, from January to June, we've trained around 2,000 clinicians both in government and public sectors including the consultants of Intensive Care Units about the clinical management of dengue,\" states Dr Tahmina. Considering diagnostic efficacy and quality care as the metrics, we are performing quite well. Our doctors are putting in their best efforts to rein in the epidemic, but is the government doing the same?   Kazi Md. Shaimul Reza is a medical student at Dhaka Medical College."
+}

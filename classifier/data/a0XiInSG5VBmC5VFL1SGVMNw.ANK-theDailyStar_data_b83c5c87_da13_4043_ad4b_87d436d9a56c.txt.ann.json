@@ -1,0 +1,222 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 108,
+          "text": "of the district"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Rangpur",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 467,
+          "text": "the old bridge was washed away"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "bridge washed away",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 498,
+          "text": "in the flood"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 511,
+          "text": "of 2015"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_50": {
+          "value": "2015",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_51": {
+          "value": "2015",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|467,496",
+        "s1v1|e_2|108,122"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|467,496",
+        "s1v1|e_49|511,517"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  ],
+  "filename": "theDailyStar_data_b83c5c87-da13-4043-ad4b-87d436d9a56c.txt",
+  "text": "Date Published:2019-02-03 00:00:00      \nAround 50,000 people of 20 villages in Sadar and Jaldhaka upazilas of the district have been suffering for around three years as construction of a bridge over Burikhora river on important Ramnagar-Mirganj Road has not been completed. Work on the bridge is stopped as the construction firm withdrew the workers around three months ago. Sadar Upazila Engineer of Local Government Engineering Department (LGED) Saiful Islam said the old bridge was washed away in the flood of 2015, so they floated a tender to build a new 190-foot-long and 20-foot-wide concrete bridge at a cost of Tk 2.41 crore. Local firm Messrs Mofakkharul Islam got work order in November, 2016, to complete it within two years. Visiting the site on January 22, this correspondent found that girders, wing walls and three pairs of pillars have been completed, but the railings on both sides of the bridge are still incomplete. No labourers or masons were present at the site, he added. The upazila engineer said only 70 percent of the work has been completed so far. The contractor did not build the approach roads but just dumped some sand on the two ends of the bridge, he added. Locals said they made a bamboo bridge on one side so that bikes and rickshaw vans can cross, but it is risky and people sometimes fall from it and get hurt. Tafser Ali of the area said a biker, Laxmikanta Roy, 50, was injured when he slipped from the risky makeshift bridge and fell on the dried river bed last week. He is undergoing treatment at Rangpur Medical College Hospital, Tafser added. Giriza Prosonna Roy, 60, a resident and an ex-schoolteacher, said the contractor took his workers to work at another site, leaving the bridge incomplete.  \"We are now compelled to bring groceries on trucks, travelling an additional 30 km,\" said Abdus Sattar, 45, a grocer of nearby Bahalipara market. Wahidul Islam, 55, headmaster of Ramnagar High School, said there are five schools on both sides of the river and many students cannot attend classes in the rainy season for want of a bridge. Contractor Mofakhkharul Islam Mamun refuted the allegatiosn, alleging that some people stopped the construction, claiming that the land belongs to them.  \"Initially, locals donated land to build the bridge and approach roads but now they are demanding compensation, which we cannot give as the government has not allocated any money. We want to solve the problems with the help of elected public representatives,\" said Md Belal Hossain, executive engineer of district LGED."
+}

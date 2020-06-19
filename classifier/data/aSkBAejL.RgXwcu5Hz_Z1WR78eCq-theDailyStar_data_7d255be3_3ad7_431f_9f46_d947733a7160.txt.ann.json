@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_7d255be3-3ad7-431f-9f46-d947733a7160.txt",
+  "text": "Date Published:2019-05-16 00:00:00      \nThe Rajshahi prison authorities have sought allotment of some 100 acres of char land in the Padma River in the city's Sreerampur area to build a prison training academy. The reason being given is that no other suitable land has been found to build the complex. Locals are against the idea for the reason that these lands remain submerged during the rainy season and the forest in the area has trees that are over a hundred years old. If the ministry of land leased the area for the proposed construction, it would require land filling and the decimation of some 5,000 trees. While there is a need for the police administration to build the necessary infrastructure to train police personnel, developing this particular spot for an academy complex would threaten the forest cover and disturb the ecological balance that the forest provides. On top of that, the land in question is flood-prone and would require significant expenditure in land filling and dredging to protect it from future inundation. It is understood that the prison authorities have already marked some 800 trees for felling to make way for the construction of the complex, and people of the locality fear that it will mean irrecoverable damage to the forest with its ancient trees. A visit to the area has found that the authorities have set up several signboards on the flood control embankment of the area, declaring the proposed site of the academy.  Precious forest areas need to be conserved, not decimated. Forest land should not be leased to any party, even if it is for public construction, because it sets the precedence for private entities to follow suit. We hope that an alternative site would be found for the academy that does not disturb the environment or the ecological balance of the area."
+}

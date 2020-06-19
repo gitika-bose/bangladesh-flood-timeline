@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1988_8f66e40f412f67359dba13f4b4a795131f2aeca0.txt",
+  "text": "ANSWERS TO QUIZ\n1988-09-10T05:00:00.000Z\nQuestions appear on page 14.\n1. The boots were worn by Elton John in the rock opera ''Tommy.'' The shoe manufacturer who bought them at an auction in London said he would use them for promotional tours.\n2. The main defendant is Yuri M. Churbanov, son-in-law of Leonid I. Brezhnev, whose regime has been discredited. Many Muscovites think the Government of Mikhail S. Gorbachev may use the trial as an example of the corrosive effect of the earlier leadership.\n3. Mr. Bush, who says Governor Dukakis is the better debater, insisted on only two debates instead of three, at a time in the fall when air time is shared with the Olympics, the World Series and other sports events that may cut into the debates' viewership.\n4. They are electronic ''cadavers,'' created by computer-imaging techniques.\n5. Mayor Koch had traveled to Brooklyn in a futile attempt to persuade Justice Ruth E. Moskowitz of State Supreme Court to jail a group of former collections agents who had stolen thousands of dollars from parking meters, and not to grant them conditional discharges for pleading guilty, as she had promised she would.\n6. Mr. Ueberroth announced that he would will relinquish the post six months before the scheduled end of his five-year term.\n7. Whether sentences that were imposed on members of the Richard Kurth family, who grew and sold marijuana to forestall bankruptcy, were too lenient.\n8. Norcocaine, a water-soluble byproduct of cocaine, stays for days in the amniotic fluid, where the fetus repeatedly ingests and excretes it.\n9. The Turks, who have problems with their own Kurds, say they will accept the Iraqis only on a temporary basis and have transferred some of them to Iran.\n10. Wage stagnation.\n11. As fines against Yonkers for contempt mounted, the People's Union, which has supported the City Council's resistance to a court-ordered desegregation plan, began lobbying for the Council to give up. 12. Japan pledged $13 million in flood relief to Bangladesh, as against a pledge of $3.6 million by the United States.\n13. A Titan 34D, one of the last of an old rocket fleet, was launched four days before the Titan 2 and failed to carry its payload into correct orbit.\n14. The plan gives challengers the right to nominate a common vessel for the next series and select the type of race course, the number of races and the date.\n15. The destruction of the missile engines at an Army ammunition plant in Texas was the first step to reduce United States arms under a treaty with the Soviet Union."
+}

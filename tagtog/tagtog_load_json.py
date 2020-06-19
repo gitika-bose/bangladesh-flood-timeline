@@ -87,7 +87,7 @@ with open(file_path, "r") as f:
                 0 if characters > 0 and text[-1] == "\n" else 1
             )
             count_paragraphs += paragraphs
-            res = post(config, folder, f"{name}_{code}", text)
+            res = post(config, folder, f"{name}_{code}", text)z
             results[code2] = dict(
                 res=res,
                 file_path=str(file_path),

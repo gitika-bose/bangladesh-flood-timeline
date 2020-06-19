@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_d6e37255-a985-448b-a929-a8cc60a1a3f1.txt",
+  "text": "Date Published:2019-02-13 00:00:00      \nExperts are hopeful, but cannot attest the long term effects of the project Bangladesh and India will both benefit from the opening of the Farakka barrage, as it will be favorable for ilish fish in general, said sector experts. India has redesigned a navigation lock at the Farakka barrage on the Ganges to ensure the smooth and safe migration of ilish during their three-month spawning season. This lock has now been redesigned to ensure the smooth and safe migration of ilish shoals during their mating season. A navigation lock is a device used to raise and lower boats and ships between stretches of water on a river. Inland Waterway Authority of India Vice-Chairman Pravir Pandey said the barrage gates will remain open for only eight metres between 1am and 5am each day, the preferred time when the ilish seek passage. The tentative completion date of the project is in June. Professor Monirul Islam of the Department of Fisheries at University of Dhaka said: \"It is important to note at which season India is going to open the barrage. In mating season it is forbidden to catch ilish in Bangladesh. If India opens the barrage at that time, then Bangladesh will suffer the consequences.\" \"It seems to me that India is doing this project experimentally. If this works out and India gets more ilish, then perhaps they will realize the value of cooperating with Bangladesh, and that it is wrong to block river flow,\" he added. Also Read- India to open Farakka for illish migration He said there is still a possibility that India might block the barrage after the ilish are on their side, but it would not do them much good. Ilish is a fish of the sea; after releasing eggs in the river, they will return to the sea. If that is blocked, the fish will not release any more eggs. Sector experts have said factors such as pollution, unplanned river islands and water politics may contribute to lessening the ilish population. However, not all experts are skeptical. Dr Md Niamul Naser, an ilish researcher from Department of Zoology at University of Dhaka, is viewing this as a positive turn of events. He said: \"The illish need the flow of water. If there is proper current in the river, the fish will be able to go as far as Rajshahi.\" \"Meghna has enough flow right now. If there is enough flow in Teesta, Surma and Kushiyara rivers, then there will be no issues. It is not as if it will be bad for Bangladesh if India gets ilish,\" he said. Department of Fisheries Deputy Director Dr Zillur, who is in charge of the Aquaculture Branch, said: \"We do not think Bangladesh will face any problems from this project. If the fish traverse the water bodies, then both countries will benefit from it.\" \"However, I cannot attest to the long-term effects of this project. Ilish is a natural resource; no single country owns them. They should be able to migrate in the way that is natural for them.\" When asked about the potential effects of India's project on Bangladesh, Department of Fisheries Director (Scientific Research and Fisheries Survey) Dr Monowar Hossain said: \"If the water flow is improved, then both countries will benefit from the project. Bangladesh will have no issues regarding ilish breeding.\""
+}

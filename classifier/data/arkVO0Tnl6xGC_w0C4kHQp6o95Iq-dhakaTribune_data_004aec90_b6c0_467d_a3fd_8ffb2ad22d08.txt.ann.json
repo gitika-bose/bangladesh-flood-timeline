@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_004aec90-b6c0-467d-a3fd-8ffb2ad22d08.txt",
+  "text": "Date Published:2020-02-13 00:00:00      \nSheikh Hasina thanked the Chinese leader for taking good care of the Bangladeshi citizens living in China Prime Minister Sheikh Hasina has expressed deep condolences for the loss of lives following the outbreak of coronavirus in Wuhan city and other places in the People's Republic of China.  She also expressed sympathy for the families of the victims.  The prime minister's message was conveyed in a letter sent to Chinese President Xi Jinping on Thursday evening, confirmed her Assistant Press Secretary Sarwer Sarker Jeebon. In the letter, the prime minister said: \"It is my firm conviction that the government of China, under your great leadership, will be able to face and stop the aggravation of the situation with utmost capacity and control.  \"Establishing a taskforce and building emergency hospitals to address the crisis is timely and praise-worthy.\" She also expressed the readiness of the government of the People's Republic of Bangladesh to extend any help to mitigate the plight of the victims.   Sheikh Hasina thanked the Chinese leader for taking good care of the number of Bangladeshi citizens living in China at this crisis time of coronavirus outbreak. She appreciated China for becoming a global model of development through the dynamic leadership of President Xi.  \"Your contributions in the international arena and Asian region in particular are truly appreciable,\" the premier added. Besides, Prime Minister Sheikh Hasina renewed her invitation to the President Xi Jinping to grace the inauguration ceremony of Bangabandhu's Birth Centenary during the \"Mujib Year\" to be held on March 17, 2020. At least 1,355 people have so far died nationwide and nearly 60,000 have been infected with the deadly virus in China. Hubei's health commission confirmed another 14,840 new cases in the central province, where the outbreak emerged in December."
+}

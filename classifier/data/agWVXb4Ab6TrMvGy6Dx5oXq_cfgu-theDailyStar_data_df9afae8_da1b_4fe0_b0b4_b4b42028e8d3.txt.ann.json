@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_df9afae8-da1b-4fe0-b0b4-b4b42028e8d3.txt",
+  "text": "Date Published:2020-05-08 00:00:00      \nAbout 280 Rohingyas, who had been adrift in the Bay of Bengal for weeks, were rescued by the Bangladesh Navy and taken to Bhashan Char in Noakhali today. \"They were taken to Bhashan Char earlier today,\" Mahbubul Alam Talukder, Refugee, Relief and Repatriation Commissioner (RRRC) of Bangladesh, confirmed to The Daily Star today. Earlier, the rights bodies said two boats carrying around 500 Rohingyas were refused by Malaysia and Thailand in mid-April and were adrift in the sea. The UN, European Union and a number of rights bodies had called on Bangladesh to rescue the Rohingya and shelter them. Bangladesh, however, had responded that it was not possible to shelter any more Rohingya, as it was already facing huge pressures to shelter and manage the 1.1 million Rohingya in Cox's Bazar. However, Bangladesh today rescued a portion of them. \"It is a very tiny boat compared to its 280 passengers. They are starving. The navy has given them food, water and first aid,\" a navy official told AFP. The men, women, and children on the boat -- found some 40 kilometres south of Saint Martin's Island -- were seen squatting with their hands on their knees, he said. Authorities say they are likely to have come from Myanmar's Rakhine state rather than camps in southeastern Bangladesh where nearly one million refugees live, as they did not have identity cards issued by UNHCR, the UN refugee agency, AFP reports. On May 3, Bangladesh Navy sheltered at least 29 Rohingyas, who swam to the coast of Teknaf in Cox's Bazar, were then rescued by locals and finally handed over to the navy. Earlier on April 16, some 400 Rohingyas were rescued by Bangladesh authorities. They were, however, quarantined in the Rohingya camp healthcare facilities. On May 4, Bangladesh Foreign Minister AK Abdul Momen said no more Rohingya would be sheltered in Cox's Bazar camps because of the risk of a coronavirus infection in the camps. \"If any new Rohingya is to be sheltered, we will take them to Bhashan Char,\" he told The Daily Star. Bangladesh Navy has built a housing facility of 120 cluster villages on the 40sqkm island in Bhashan Chair under a Tk 2,312 crore project for accommodating one lakh of the nearly 1 million Rohingyas sheltered at the crowded camps in Cox's Bazar. However, the authorities were considering shelving the relocation plan after the UN and other aid agencies opposed the plan, saying there were risks of flood and cyclones and that the location did not have facilities for accommodating aid agency officials."
+}

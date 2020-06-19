@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_ad0d964a-2f38-42f9-b3a1-604ef1cee780.txt",
+  "text": "Date Published:2020-03-01 00:00:00      \nAmid ongoing turmoil over the Citizenship Amendment Act (CAA) across India, the statement has created quite a stir India's Hindu nationalist Prime Minister Narendra Modi has no citizenship documents, Modi's office said in reply to a query on Friday, reports Anandabazar. Subhankar Sarkar, an Indian citizen, asked if the prime minister possessed citizenship documents under Right to Information Act, on February 17. In response to his question, Under Secretary of the Indian Prime Minister's Office, Praveen Kumar wrote: \"Prime Minister Shri Narendra Modi is a citizen of India by birth in terms of Section 3 of the Citizenship Act, 1955 and as such the question of his having a citizenship certificate which is for citizenship by registration does not arise.\"  Amid ongoing turmoil over the Citizenship Amendment Act (CAA) across India, the statement has created quite a stir. Ever since the right wing Bharatiya Janata Party (BJP) led government passed the CAA, protests against the controversial citizenship law have continued across India, with every citizen worrying over how to prove citizenship. Even Modi fails to show the citizenship certificate.  At least 42 people were killed in Hindu-Muslim violence in northeast New Delhi, amid mounting international criticism that authorities failed to protect minority Muslims. The clashes began over a citizenship law that Modi's Hindu nationalist government introduced in December providing a path to Indian citizenship for six religious groups from neighbouring countries - but not Muslims. Critics say the law is discriminatory and comes on top of other measures such as withdrawal of autonomy for Muslim-majority Jammu and Kashmir, that has deepened disquiet about the future of India's 200 million Muslims. Critics of the government however blamed this week's violence on members of Modi's BJP, which was trounced in local Delhi elections at the beginning of the month.  The violence morphed into street battles between Hindu and Muslim groups, with the police largely ineffective in ending the violence."
+}

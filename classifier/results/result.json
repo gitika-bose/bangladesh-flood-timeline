@@ -1,0 +1,542 @@
+{
+  "all-CountVect-DecisionTree": {
+    "data_ratio": "all",
+    "feature_extract": "CountVect",
+    "classifier": "DecisionTree",
+    "accuracy": 0.8852459016393442
+  },
+  "all-CountVect-min_df5-DecisionTree": {
+    "data_ratio": "all",
+    "feature_extract": "CountVect-min_df5",
+    "classifier": "DecisionTree",
+    "accuracy": 0.8442622950819673
+  },
+  "all-CountVect-min_df10-DecisionTree": {
+    "data_ratio": "all",
+    "feature_extract": "CountVect-min_df10",
+    "classifier": "DecisionTree",
+    "accuracy": 0.9016393442622951
+  },
+  "all-TFIDF-DecisionTree": {
+    "data_ratio": "all",
+    "feature_extract": "TFIDF",
+    "classifier": "DecisionTree",
+    "accuracy": 0.8934426229508197
+  },
+  "all-TFIDF-min_df5-DecisionTree": {
+    "data_ratio": "all",
+    "feature_extract": "TFIDF-min_df5",
+    "classifier": "DecisionTree",
+    "accuracy": 0.9180327868852459
+  },
+  "all-TFIDF-min_df10-DecisionTree": {
+    "data_ratio": "all",
+    "feature_extract": "TFIDF-min_df10",
+    "classifier": "DecisionTree",
+    "accuracy": 0.8934426229508197
+  },
+  "1:1-CountVect-DecisionTree": {
+    "data_ratio": "1:1",
+    "feature_extract": "CountVect",
+    "classifier": "DecisionTree",
+    "accuracy": 0.7692307692307693
+  },
+  "1:1-CountVect-min_df5-DecisionTree": {
+    "data_ratio": "1:1",
+    "feature_extract": "CountVect-min_df5",
+    "classifier": "DecisionTree",
+    "accuracy": 0.7692307692307693
+  },
+  "1:1-CountVect-min_df10-DecisionTree": {
+    "data_ratio": "1:1",
+    "feature_extract": "CountVect-min_df10",
+    "classifier": "DecisionTree",
+    "accuracy": 0.9230769230769231
+  },
+  "1:1-TFIDF-DecisionTree": {
+    "data_ratio": "1:1",
+    "feature_extract": "TFIDF",
+    "classifier": "DecisionTree",
+    "accuracy": 0.8461538461538461
+  },
+  "1:1-TFIDF-min_df5-DecisionTree": {
+    "data_ratio": "1:1",
+    "feature_extract": "TFIDF-min_df5",
+    "classifier": "DecisionTree",
+    "accuracy": 0.8076923076923077
+  },
+  "1:1-TFIDF-min_df10-DecisionTree": {
+    "data_ratio": "1:1",
+    "feature_extract": "TFIDF-min_df10",
+    "classifier": "DecisionTree",
+    "accuracy": 0.7692307692307693
+  },
+  "1:2-CountVect-DecisionTree": {
+    "data_ratio": "1:2",
+    "feature_extract": "CountVect",
+    "classifier": "DecisionTree",
+    "accuracy": 0.9210526315789473
+  },
+  "1:2-CountVect-min_df5-DecisionTree": {
+    "data_ratio": "1:2",
+    "feature_extract": "CountVect-min_df5",
+    "classifier": "DecisionTree",
+    "accuracy": 0.8947368421052632
+  },
+  "1:2-CountVect-min_df10-DecisionTree": {
+    "data_ratio": "1:2",
+    "feature_extract": "CountVect-min_df10",
+    "classifier": "DecisionTree",
+    "accuracy": 0.8947368421052632
+  },
+  "1:2-TFIDF-DecisionTree": {
+    "data_ratio": "1:2",
+    "feature_extract": "TFIDF",
+    "classifier": "DecisionTree",
+    "accuracy": 0.6842105263157895
+  },
+  "1:2-TFIDF-min_df5-DecisionTree": {
+    "data_ratio": "1:2",
+    "feature_extract": "TFIDF-min_df5",
+    "classifier": "DecisionTree",
+    "accuracy": 0.8157894736842105
+  },
+  "1:2-TFIDF-min_df10-DecisionTree": {
+    "data_ratio": "1:2",
+    "feature_extract": "TFIDF-min_df10",
+    "classifier": "DecisionTree",
+    "accuracy": 0.8157894736842105
+  },
+  "1:3-CountVect-DecisionTree": {
+    "data_ratio": "1:3",
+    "feature_extract": "CountVect",
+    "classifier": "DecisionTree",
+    "accuracy": 0.8627450980392157
+  },
+  "1:3-CountVect-min_df5-DecisionTree": {
+    "data_ratio": "1:3",
+    "feature_extract": "CountVect-min_df5",
+    "classifier": "DecisionTree",
+    "accuracy": 0.8431372549019608
+  },
+  "1:3-CountVect-min_df10-DecisionTree": {
+    "data_ratio": "1:3",
+    "feature_extract": "CountVect-min_df10",
+    "classifier": "DecisionTree",
+    "accuracy": 0.8235294117647058
+  },
+  "1:3-TFIDF-DecisionTree": {
+    "data_ratio": "1:3",
+    "feature_extract": "TFIDF",
+    "classifier": "DecisionTree",
+    "accuracy": 0.8823529411764706
+  },
+  "1:3-TFIDF-min_df5-DecisionTree": {
+    "data_ratio": "1:3",
+    "feature_extract": "TFIDF-min_df5",
+    "classifier": "DecisionTree",
+    "accuracy": 0.8627450980392157
+  },
+  "1:3-TFIDF-min_df10-DecisionTree": {
+    "data_ratio": "1:3",
+    "feature_extract": "TFIDF-min_df10",
+    "classifier": "DecisionTree",
+    "accuracy": 0.8823529411764706
+  },
+  "1:5-CountVect-DecisionTree": {
+    "data_ratio": "1:5",
+    "feature_extract": "CountVect",
+    "classifier": "DecisionTree",
+    "accuracy": 0.868421052631579
+  },
+  "1:5-CountVect-min_df5-DecisionTree": {
+    "data_ratio": "1:5",
+    "feature_extract": "CountVect-min_df5",
+    "classifier": "DecisionTree",
+    "accuracy": 0.9342105263157895
+  },
+  "1:5-CountVect-min_df10-DecisionTree": {
+    "data_ratio": "1:5",
+    "feature_extract": "CountVect-min_df10",
+    "classifier": "DecisionTree",
+    "accuracy": 0.8552631578947368
+  },
+  "1:5-TFIDF-DecisionTree": {
+    "data_ratio": "1:5",
+    "feature_extract": "TFIDF",
+    "classifier": "DecisionTree",
+    "accuracy": 0.8552631578947368
+  },
+  "1:5-TFIDF-min_df5-DecisionTree": {
+    "data_ratio": "1:5",
+    "feature_extract": "TFIDF-min_df5",
+    "classifier": "DecisionTree",
+    "accuracy": 0.8157894736842105
+  },
+  "1:5-TFIDF-min_df10-DecisionTree": {
+    "data_ratio": "1:5",
+    "feature_extract": "TFIDF-min_df10",
+    "classifier": "DecisionTree",
+    "accuracy": 0.8552631578947368
+  },
+  "all-CountVect-RandomForest": {
+    "data_ratio": "all",
+    "feature_extract": "CountVect",
+    "classifier": "RandomForest",
+    "accuracy": 0.8852459016393442
+  },
+  "all-CountVect-min_df5-RandomForest": {
+    "data_ratio": "all",
+    "feature_extract": "CountVect-min_df5",
+    "classifier": "RandomForest",
+    "accuracy": 0.8770491803278688
+  },
+  "all-CountVect-min_df10-RandomForest": {
+    "data_ratio": "all",
+    "feature_extract": "CountVect-min_df10",
+    "classifier": "RandomForest",
+    "accuracy": 0.8934426229508197
+  },
+  "all-TFIDF-RandomForest": {
+    "data_ratio": "all",
+    "feature_extract": "TFIDF",
+    "classifier": "RandomForest",
+    "accuracy": 0.8934426229508197
+  },
+  "all-TFIDF-min_df5-RandomForest": {
+    "data_ratio": "all",
+    "feature_extract": "TFIDF-min_df5",
+    "classifier": "RandomForest",
+    "accuracy": 0.8852459016393442
+  },
+  "all-TFIDF-min_df10-RandomForest": {
+    "data_ratio": "all",
+    "feature_extract": "TFIDF-min_df10",
+    "classifier": "RandomForest",
+    "accuracy": 0.9016393442622951
+  },
+  "1:1-CountVect-RandomForest": {
+    "data_ratio": "1:1",
+    "feature_extract": "CountVect",
+    "classifier": "RandomForest",
+    "accuracy": 0.9615384615384616
+  },
+  "1:1-CountVect-min_df5-RandomForest": {
+    "data_ratio": "1:1",
+    "feature_extract": "CountVect-min_df5",
+    "classifier": "RandomForest",
+    "accuracy": 0.9230769230769231
+  },
+  "1:1-CountVect-min_df10-RandomForest": {
+    "data_ratio": "1:1",
+    "feature_extract": "CountVect-min_df10",
+    "classifier": "RandomForest",
+    "accuracy": 0.9615384615384616
+  },
+  "1:1-TFIDF-RandomForest": {
+    "data_ratio": "1:1",
+    "feature_extract": "TFIDF",
+    "classifier": "RandomForest",
+    "accuracy": 0.9230769230769231
+  },
+  "1:1-TFIDF-min_df5-RandomForest": {
+    "data_ratio": "1:1",
+    "feature_extract": "TFIDF-min_df5",
+    "classifier": "RandomForest",
+    "accuracy": 0.9615384615384616
+  },
+  "1:1-TFIDF-min_df10-RandomForest": {
+    "data_ratio": "1:1",
+    "feature_extract": "TFIDF-min_df10",
+    "classifier": "RandomForest",
+    "accuracy": 0.9230769230769231
+  },
+  "1:2-CountVect-RandomForest": {
+    "data_ratio": "1:2",
+    "feature_extract": "CountVect",
+    "classifier": "RandomForest",
+    "accuracy": 0.8947368421052632
+  },
+  "1:2-CountVect-min_df5-RandomForest": {
+    "data_ratio": "1:2",
+    "feature_extract": "CountVect-min_df5",
+    "classifier": "RandomForest",
+    "accuracy": 0.868421052631579
+  },
+  "1:2-CountVect-min_df10-RandomForest": {
+    "data_ratio": "1:2",
+    "feature_extract": "CountVect-min_df10",
+    "classifier": "RandomForest",
+    "accuracy": 0.8947368421052632
+  },
+  "1:2-TFIDF-RandomForest": {
+    "data_ratio": "1:2",
+    "feature_extract": "TFIDF",
+    "classifier": "RandomForest",
+    "accuracy": 0.9210526315789473
+  },
+  "1:2-TFIDF-min_df5-RandomForest": {
+    "data_ratio": "1:2",
+    "feature_extract": "TFIDF-min_df5",
+    "classifier": "RandomForest",
+    "accuracy": 0.9473684210526315
+  },
+  "1:2-TFIDF-min_df10-RandomForest": {
+    "data_ratio": "1:2",
+    "feature_extract": "TFIDF-min_df10",
+    "classifier": "RandomForest",
+    "accuracy": 0.9473684210526315
+  },
+  "1:3-CountVect-RandomForest": {
+    "data_ratio": "1:3",
+    "feature_extract": "CountVect",
+    "classifier": "RandomForest",
+    "accuracy": 0.9607843137254902
+  },
+  "1:3-CountVect-min_df5-RandomForest": {
+    "data_ratio": "1:3",
+    "feature_extract": "CountVect-min_df5",
+    "classifier": "RandomForest",
+    "accuracy": 0.9019607843137255
+  },
+  "1:3-CountVect-min_df10-RandomForest": {
+    "data_ratio": "1:3",
+    "feature_extract": "CountVect-min_df10",
+    "classifier": "RandomForest",
+    "accuracy": 0.9411764705882353
+  },
+  "1:3-TFIDF-RandomForest": {
+    "data_ratio": "1:3",
+    "feature_extract": "TFIDF",
+    "classifier": "RandomForest",
+    "accuracy": 0.9411764705882353
+  },
+  "1:3-TFIDF-min_df5-RandomForest": {
+    "data_ratio": "1:3",
+    "feature_extract": "TFIDF-min_df5",
+    "classifier": "RandomForest",
+    "accuracy": 0.9607843137254902
+  },
+  "1:3-TFIDF-min_df10-RandomForest": {
+    "data_ratio": "1:3",
+    "feature_extract": "TFIDF-min_df10",
+    "classifier": "RandomForest",
+    "accuracy": 0.9411764705882353
+  },
+  "1:5-CountVect-RandomForest": {
+    "data_ratio": "1:5",
+    "feature_extract": "CountVect",
+    "classifier": "RandomForest",
+    "accuracy": 0.881578947368421
+  },
+  "1:5-CountVect-min_df5-RandomForest": {
+    "data_ratio": "1:5",
+    "feature_extract": "CountVect-min_df5",
+    "classifier": "RandomForest",
+    "accuracy": 0.868421052631579
+  },
+  "1:5-CountVect-min_df10-RandomForest": {
+    "data_ratio": "1:5",
+    "feature_extract": "CountVect-min_df10",
+    "classifier": "RandomForest",
+    "accuracy": 0.8552631578947368
+  },
+  "1:5-TFIDF-RandomForest": {
+    "data_ratio": "1:5",
+    "feature_extract": "TFIDF",
+    "classifier": "RandomForest",
+    "accuracy": 0.8947368421052632
+  },
+  "1:5-TFIDF-min_df5-RandomForest": {
+    "data_ratio": "1:5",
+    "feature_extract": "TFIDF-min_df5",
+    "classifier": "RandomForest",
+    "accuracy": 0.881578947368421
+  },
+  "1:5-TFIDF-min_df10-RandomForest": {
+    "data_ratio": "1:5",
+    "feature_extract": "TFIDF-min_df10",
+    "classifier": "RandomForest",
+    "accuracy": 0.881578947368421
+  },
+  "all-CountVect-LinearSVC": {
+    "data_ratio": "all",
+    "feature_extract": "CountVect",
+    "classifier": "LinearSVC",
+    "accuracy": 0.9426229508196722
+  },
+  "all-CountVect-min_df5-LinearSVC": {
+    "data_ratio": "all",
+    "feature_extract": "CountVect-min_df5",
+    "classifier": "LinearSVC",
+    "accuracy": 0.9426229508196722
+  },
+  "all-CountVect-min_df10-LinearSVC": {
+    "data_ratio": "all",
+    "feature_extract": "CountVect-min_df10",
+    "classifier": "LinearSVC",
+    "accuracy": 0.9426229508196722
+  },
+  "all-TFIDF-LinearSVC": {
+    "data_ratio": "all",
+    "feature_extract": "TFIDF",
+    "classifier": "LinearSVC",
+    "accuracy": 0.9590163934426229
+  },
+  "all-TFIDF-min_df5-LinearSVC": {
+    "data_ratio": "all",
+    "feature_extract": "TFIDF-min_df5",
+    "classifier": "LinearSVC",
+    "accuracy": 0.9508196721311475
+  },
+  "all-TFIDF-min_df10-LinearSVC": {
+    "data_ratio": "all",
+    "feature_extract": "TFIDF-min_df10",
+    "classifier": "LinearSVC",
+    "accuracy": 0.9590163934426229
+  },
+  "1:1-CountVect-LinearSVC": {
+    "data_ratio": "1:1",
+    "feature_extract": "CountVect",
+    "classifier": "LinearSVC",
+    "accuracy": 0.7307692307692307
+  },
+  "1:1-CountVect-min_df5-LinearSVC": {
+    "data_ratio": "1:1",
+    "feature_extract": "CountVect-min_df5",
+    "classifier": "LinearSVC",
+    "accuracy": 0.7307692307692307
+  },
+  "1:1-CountVect-min_df10-LinearSVC": {
+    "data_ratio": "1:1",
+    "feature_extract": "CountVect-min_df10",
+    "classifier": "LinearSVC",
+    "accuracy": 0.7307692307692307
+  },
+  "1:1-TFIDF-LinearSVC": {
+    "data_ratio": "1:1",
+    "feature_extract": "TFIDF",
+    "classifier": "LinearSVC",
+    "accuracy": 0.8846153846153846
+  },
+  "1:1-TFIDF-min_df5-LinearSVC": {
+    "data_ratio": "1:1",
+    "feature_extract": "TFIDF-min_df5",
+    "classifier": "LinearSVC",
+    "accuracy": 0.8846153846153846
+  },
+  "1:1-TFIDF-min_df10-LinearSVC": {
+    "data_ratio": "1:1",
+    "feature_extract": "TFIDF-min_df10",
+    "classifier": "LinearSVC",
+    "accuracy": 0.8846153846153846
+  },
+  "1:2-CountVect-LinearSVC": {
+    "data_ratio": "1:2",
+    "feature_extract": "CountVect",
+    "classifier": "LinearSVC",
+    "accuracy": 0.8947368421052632
+  },
+  "1:2-CountVect-min_df5-LinearSVC": {
+    "data_ratio": "1:2",
+    "feature_extract": "CountVect-min_df5",
+    "classifier": "LinearSVC",
+    "accuracy": 0.9210526315789473
+  },
+  "1:2-CountVect-min_df10-LinearSVC": {
+    "data_ratio": "1:2",
+    "feature_extract": "CountVect-min_df10",
+    "classifier": "LinearSVC",
+    "accuracy": 0.8947368421052632
+  },
+  "1:2-TFIDF-LinearSVC": {
+    "data_ratio": "1:2",
+    "feature_extract": "TFIDF",
+    "classifier": "LinearSVC",
+    "accuracy": 0.9210526315789473
+  },
+  "1:2-TFIDF-min_df5-LinearSVC": {
+    "data_ratio": "1:2",
+    "feature_extract": "TFIDF-min_df5",
+    "classifier": "LinearSVC",
+    "accuracy": 0.9210526315789473
+  },
+  "1:2-TFIDF-min_df10-LinearSVC": {
+    "data_ratio": "1:2",
+    "feature_extract": "TFIDF-min_df10",
+    "classifier": "LinearSVC",
+    "accuracy": 0.9210526315789473
+  },
+  "1:3-CountVect-LinearSVC": {
+    "data_ratio": "1:3",
+    "feature_extract": "CountVect",
+    "classifier": "LinearSVC",
+    "accuracy": 0.8823529411764706
+  },
+  "1:3-CountVect-min_df5-LinearSVC": {
+    "data_ratio": "1:3",
+    "feature_extract": "CountVect-min_df5",
+    "classifier": "LinearSVC",
+    "accuracy": 0.8823529411764706
+  },
+  "1:3-CountVect-min_df10-LinearSVC": {
+    "data_ratio": "1:3",
+    "feature_extract": "CountVect-min_df10",
+    "classifier": "LinearSVC",
+    "accuracy": 0.8823529411764706
+  },
+  "1:3-TFIDF-LinearSVC": {
+    "data_ratio": "1:3",
+    "feature_extract": "TFIDF",
+    "classifier": "LinearSVC",
+    "accuracy": 0.9019607843137255
+  },
+  "1:3-TFIDF-min_df5-LinearSVC": {
+    "data_ratio": "1:3",
+    "feature_extract": "TFIDF-min_df5",
+    "classifier": "LinearSVC",
+    "accuracy": 0.9215686274509803
+  },
+  "1:3-TFIDF-min_df10-LinearSVC": {
+    "data_ratio": "1:3",
+    "feature_extract": "TFIDF-min_df10",
+    "classifier": "LinearSVC",
+    "accuracy": 0.9019607843137255
+  },
+  "1:5-CountVect-LinearSVC": {
+    "data_ratio": "1:5",
+    "feature_extract": "CountVect",
+    "classifier": "LinearSVC",
+    "accuracy": 0.9342105263157895
+  },
+  "1:5-CountVect-min_df5-LinearSVC": {
+    "data_ratio": "1:5",
+    "feature_extract": "CountVect-min_df5",
+    "classifier": "LinearSVC",
+    "accuracy": 0.9210526315789473
+  },
+  "1:5-CountVect-min_df10-LinearSVC": {
+    "data_ratio": "1:5",
+    "feature_extract": "CountVect-min_df10",
+    "classifier": "LinearSVC",
+    "accuracy": 0.9342105263157895
+  },
+  "1:5-TFIDF-LinearSVC": {
+    "data_ratio": "1:5",
+    "feature_extract": "TFIDF",
+    "classifier": "LinearSVC",
+    "accuracy": 0.9473684210526315
+  },
+  "1:5-TFIDF-min_df5-LinearSVC": {
+    "data_ratio": "1:5",
+    "feature_extract": "TFIDF-min_df5",
+    "classifier": "LinearSVC",
+    "accuracy": 0.9473684210526315
+  },
+  "1:5-TFIDF-min_df10-LinearSVC": {
+    "data_ratio": "1:5",
+    "feature_extract": "TFIDF-min_df10",
+    "classifier": "LinearSVC",
+    "accuracy": 0.9473684210526315
+  }
+}

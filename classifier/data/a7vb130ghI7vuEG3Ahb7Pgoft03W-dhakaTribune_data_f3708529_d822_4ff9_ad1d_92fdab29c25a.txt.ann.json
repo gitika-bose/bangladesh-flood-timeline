@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_f3708529-d822-4ff9-ad1d-92fdab29c25a.txt",
+  "text": "Date Published:2019-07-23 00:00:00      \nShe is doing well after the surgery, her press secretary says Prime Minister Sheikh Hasina underwent surgery on her left eye at a London hospital on Monday. \"The prime minister underwent surgery on her left eye at a hospital in the British capital on Monday afternoon,\"  confirmed Ihsanul Karim, the PM's Press Secretary, from London, reports UNB. Prime Minister Sheikh Hasina is reported to be in good spirits and is doing well after the operation, he said. The press secretary also added that the prime minister cleared a number of urgent files over digital devices from the British capital. \"The prime minister disposed of a number of important electronic files (e-files) after reaching London on July 19,\" he said. The premier is also monitoring Bangladesh's flood situation round-the-clock and has given necessary directives to the ministers and officials concerned in this regard. Sheikh Hasina went to London on July 19 to attend a Bangladeshi envoys' conference and several other programs. The prime minister is expected to return home on August 5."
+}

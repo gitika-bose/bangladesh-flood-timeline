@@ -1,0 +1,38 @@
+[
+  {
+    "query": "bangladesh cyclone",
+    "paper": "bssnews",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh cyclone",
+    "paper": "bssnews",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": [
+      "http://www.bssnews.net/?p=140268&print=print",
+      "http://www.bssnews.net/?p=131024",
+      "http://www.bssnews.net/?p=133567",
+      "http://www.bssnews.net/?p=110784"
+    ]
+  },
+  {
+    "query": "bangladesh cyclone",
+    "paper": "bssnews",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://www.bssnews.net/?p=299509",
+      "https://www.bssnews.net/?p=224732",
+      "https://www.bssnews.net/?p=322169"
+    ]
+  }
+]

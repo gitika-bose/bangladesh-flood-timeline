@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_b48dfab9-5c63-4e6f-b00b-8d3d72ea8c93.txt",
+  "text": "Date Published:2020-04-07 00:00:00      \nThe source of the fire is yet to be confirmed and no casualties have been reported so far Bhai Bhai Sheet Cutting and Dyeing Factory A fire has broken out at a bed sheet, cotton and plastic factory at Par Gandaria's Rasulbagh in Dhaka. The incident occurred on the second floor of the five-storied building at around 1:57pm on Tuesday.  Confirming the incident, Fire Service and Civil Defence Control Room Duty Officer Ershad Hossain said two fire units had rushed to the spot immediately after being informed about the incident. The fire was brought under control at around 2:50pm, he added.  The source of the fire was yet to be confirmed and no casualties had been reported so far, said Ershad."
+}

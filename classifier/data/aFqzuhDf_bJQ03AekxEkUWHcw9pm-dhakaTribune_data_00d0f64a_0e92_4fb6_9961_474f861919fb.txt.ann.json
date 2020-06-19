@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_00d0f64a-0e92-4fb6-9961-474f861919fb.txt",
+  "text": "Date Published:2019-09-24 00:00:00      \nThe minister made the statement at the roundtable meeting Agriculture Minister Dr Abdur Razzaque says a joint task force has to be set up to ensure safe food for all. \"We need to form a task force comprised of ministries, law enforcement agencies, and stakeholders so that this taskforce can work properly to ensure food safety for people,\" he said. The minister made the statement at the roundtable meeting, \"Safe food and agriculture management,\" arranged by Daily Bangladesher Khabar at the National Press Club in Dhaka on Tuesday. \"We cannot change anything rapidly due to bureaucratic problems in our country.  There is lack of skilled manpower and infrastructure for a safe food institute,\" he said. To solve the manpower shortage, new employees have to be recruited and the process of recruiting them is underway, he added.  Saying that the Bangladesh Food Safety Authority needs to be well equipped and that there is a need for labs in all districts to conduct food tests, he continued: \"We need to form a task force along with all ministries and authorities concerned that will work together to ensure food safety.\" The future of the coming generation depends on food safety, he added.  He expressed disappointment, saying the media does not focus on issues of food safety.  Dr Md Fazlul Karim, dean of the agriculture department at the Sher-e-Bangla Agriculture University, said the rule of law must be sustained to ensure food safety. He said: \"We cannot ensure food safety without ensuring rule of law.\" Chairman of Bangladesh Food Safety Authority, Syeda Sarwar Jahan, said food safety is a basic right, and food safety has to be ensured to achieve Sustainable Development Goals (SDGs). She said: \"Everyone in the food industry has to take responsibility to ensure food safety,\" adding that the government plans to set up \"healthy markets\" across Bangladesh to promote organic agriculture. She continued: \"We have already sat with CEOs of city corporations and theyhave  agreed to help set up healthy markets where farmers can sell their produce. She also urged the mass media to publish reports on healthy markets soelt that people are made aware of such products in the market. Shajahan Ali Badsha, a poultry farm owner, said authorities have to arrange training sessions for farmers so that they are made aware of everything about food safety. Bangladesh Food Safety Authority member Abdul Alim, Member Director of Bangladesh Agriculture Research Council Monirul Islam, former managing director of Directorate General of Health Services, Sha Munir Hossain, and Dr Nurul Islam, director of Agriculture Information Service, and others, spoke at the roundtable meeting. Daily Bangladesher Khabar Editor Azizul Islam Bhuiyan was chaired the discussion."
+}

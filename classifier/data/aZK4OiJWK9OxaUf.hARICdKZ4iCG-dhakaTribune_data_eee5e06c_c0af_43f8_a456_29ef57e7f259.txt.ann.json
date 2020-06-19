@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_eee5e06c-c0af-43f8-a456-29ef57e7f259.txt",
+  "text": "Date Published:2019-11-12 00:00:00      \nThe community health workers are unsung heroes and have been a powerful workforce in promoting health services around the world An International Symposium on Community Health Workers (CHWs) 2019 will be held at the Pan Pacific Sonargaon in Dhaka. International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b) will jointly organize  the three-day event in association with the Directorate General of Health Services (DGHS), James P Grant School of Public Health (JPGSPH), and Save the Children, Bangladesh from November 22 to 24. The announcement was made at a press conference held at MIS conference room, DGHS, in Dhaka's Mohakhali on Tuesday. This year's theme is titled - \"Potentials of Community Health Workers in Prevention and Control of Non-communicable Diseases (NCDs) in the Context of Universal Health Coverage (UHC).\" During the press conference, Additional Director General (Admin) of DGHS Prof Nasima Sultana said: \"The community health workers are unsung heroes and have been a powerful workforce in promoting health services around the world ... presently, the CHWs are considered as 'alternative solutions' and has received increased attention in many LMICs including Bangladesh.\" She also spoke about the prevalence of non-communicable diseases in low- and middle-income countries including Bangladesh. The Dhaka Symposium brings academics, health experts, development partners, and other relevant professionals to a common platform to discuss about the successes and challenges with the CHWs.  The symposium is supported by the USAID, European Union, UKaid, Management Sciences for Health, Bangladesh (MSH), Vital Strategies, Brac, Unicef, United Nations Population Fund (UNFPA), and WHO. The symposium has received immense interest from the participants around the world. About 500 participants from more than 35 countries have registered in this symposium to gain practical knowledge and experience about CHWs related policy and programs."
+}

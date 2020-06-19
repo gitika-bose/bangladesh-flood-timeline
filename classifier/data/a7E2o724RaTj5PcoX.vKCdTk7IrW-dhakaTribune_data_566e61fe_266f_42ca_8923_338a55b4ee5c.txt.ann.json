@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_566e61fe-266f-42ca-8923-338a55b4ee5c.txt",
+  "text": "Date Published:2020-01-18 00:00:00      \nHundreds of thousands of Muslim devotees braved a cold spell to take part in the final prayers on the banks of the Turag in Gazipur's Tongi on Saturday The 55th edition of Bishwa Ijtema is expected to end with the second phase's Akheri Munajat or final prayer on Sunday on the banks of the river Turag at Tongi. Hundreds of thousands of Muslim devotees braved a cold spell to take part in the final prayers on the banks of the Turag in Gazipur's Tongi on Saturday, amid heightened security measures. On the second day of the first phase's Ijtema, the second largest congregation of the Muslim community after Hajj, Islamic scholars delivered sermons on different aspects of Islam in the light of the holy Quran and Hadith on Sunday. The Muslim devotees have thronged the Ijtema ground under the open sky while more than 1,500 foreign devotees from 35 countries, including from Jordan, Libya, Africa, Lebanon, Afghanistan, Palestine, the USA, Turkey, Iraq, Saudi Arabia, India, Pakistan, England, joined the Ijtema from the first day of the second phase. People from all corners of the country started streaming into Tongi since Saturday evening to join the Akheri Munajat. Many made the journey to the venue on foot as a large part of Dhaka Mymensingh Highway was closed to traffic. Md Anwar Hossain, commissioner of Gazipur Metropolitan Police, said the plying buses will remain closed on Dhaka-Mymensingh highway from Gazipur Chowrasta intersection to Mohakhali in the capital from 4am for smooth movement of the devotees. Buses from northern districts will remain halted at Konabari in Gazipur while all link roads towards Tongi will be closed during the Akheri Munajat, he added. Besides, around 8,500 members of law enforcement agencies have been deployed for ensuring security in and around the Ijtema ground. Four more Muslim devotees have died at the Bishaw Ijtema venue in Friday, January 17. The total death tolls of the devotees in the 55th Bishwa Ijtema stood at 5 so far, , including 13 in the first phase. They passed away in their respective tents between Friday morning and Saturday evening, said Md Manjur Rahman, deputy commissioner of Gazipur Metropolitan Police. Bangladesh Railway (BR) has scheduled special trains for easy transportation of devotees on the occasion of the first and second phase of 55th Biswa Ijtema. Earlier, the first phase of the Ijtema was held on January 10 to 12 at the same venue. Followers of Moulana Zubair joined the first phase of Ijtema while the second phase is alloted to the disciples of Moulana Mohammed Saad Kandhalvi, a Delhi-based member of the Tabligh Jamaat Supreme Council. Tablig Jamaat has been organizing the Biswa Ijtema on the bank of Turag river since 1967. Now, Ijtema is being held in two phases since 2011 to ease the accommodation problem."
+}

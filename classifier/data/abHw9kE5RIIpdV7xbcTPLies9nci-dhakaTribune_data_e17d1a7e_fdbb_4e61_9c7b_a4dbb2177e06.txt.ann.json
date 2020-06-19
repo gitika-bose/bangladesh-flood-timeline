@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_e17d1a7e-fdbb-4e61-9c7b-a4dbb2177e06.txt",
+  "text": "Date Published:2019-11-25 00:00:00      \nState Minister for Water Resources Zahid Faruk, attending as chief guest, said the Delta Plan will improvise Bangladesh's GDP and make it two digits, impacting economical-social development Institute of Water Modeling (IWM) organized a conference to exchange opinions with their users as service provider and to let them know about sustainability and challenges of Bangladesh Delta Plan 2100 at Bangabandhu International Conference Centre in Dhaka recently. State Minister for Water Resources Zahid Faruk, attending as chief guest, said the Delta Plan will improvise Bangladesh's GDP and make it two digits, impacting economical-social development, said a press release. The discussion topics covered a wide range of water-related areas such as flood control, flood forecasting, irrigation and drainage, river morphology, salinity and sediment transport, coastal hydraulics, port, coast, and estuary management, environmental impact assessment, bridge hydraulics, and related infrastructure. According to Prof M Monowar Hossain, executive director of IWM, their mathematical model has played a significant role in solving various complex water problems in the country and abroad. \"IWM can play a significant role in implementing the Delta plan 2100 by using these methods,\" he suggested. Many government institutions including the Water Development Board, LGED, etc partners with IWM to verify the feasibility of many projects, he added. Within the coming 100 years, Bangladesh needs to fight against challenges such as temperature rising, heavy rainfall, flood, disintegration of river, drought, rising sea level caused by climate change. To combat these challenges; a long-term Delta Plan-2100 in Water Management and Flood Control is prepared for implementation by using limited resources all together in area-based planning will develop the economic state of Bangladesh."
+}

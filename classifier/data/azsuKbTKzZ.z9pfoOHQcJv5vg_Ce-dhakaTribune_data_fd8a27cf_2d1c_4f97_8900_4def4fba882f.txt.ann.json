@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_fd8a27cf-2d1c-4f97-8900-4def4fba882f.txt",
+  "text": "Date Published:2019-04-23 00:00:00      \nMonirul islam says they are also yet to find any evidence to IS's claims of appointing a chief in Bangladesh The police counter-terrorism chief has said Bangladeshis returning to the country after having joined the terror group Islamic State (IS) in the Middle East, will face legal action. Additional Commissioner Monirul Islam, head of Dhaka Metropolitan Police's (DMP) Counter Terrorism and Transnational Crime (CTTC) unit, was speaking at a Dhaka event yesterday. The event was organized by the Crime Reporters Association of Bangladesh (CRAB) and CTTC at the Cirdap auditorium. The CTTC chief was asked about several issues in light of the massive terrorist attack in Sri Lanka on Sunday, including if he had the exact number for Bangladeshis who had joined IS, and what would happen if they came back home. \"Young people began going out to join IS in late 2014,\" Monirul Islam said in response. \"We suspect that some were detained or arrested, some were killed and some of them were identified. But we do not have accurate statistics,\" he said. \"If they want to return home now, they have no alternative but to come via air. So they need passports. But people who left the country in 2014 no longer have valid passports. If anybody wants to return, they will have to apply for a travel pass,\" Monirul explained. \"When we receive an application for a travel pass, it is given a very serious scrutiny,\" he added. \"So, they cannot come in to the country without us knowing.Even if anyone wants to return, they will face legal action,\" the official said. Asked about the possibility of Rohingya refugees getting involved in militancy and extremism, the CTTC chief said that the refugees are a big problem for Bangladesh.  \"Rohingyas have lost their homes, lost family members; they may be involved in extremism in the future,\" he added. All intelligence agencies are keeping the refugees under strong surveillance, he said. Asked if there was any truth to IS's claims of appointing a chief in Bangladesh, the official said police had not found any evidence to support this. \"They may have appointed a Bangladeshi abroad,\" he added. The additional commissioner said that Afghanistan-returnees were the first to bring religious extremism and militancy into Bangladesh. \"Many of them have been arrested. Some have been hanged. Three or four are absconding but all of them have been identified,\" he said. Responding to a question about the spread of militancy in prison, Monirul said this is a global problem.  \"Many people become radicalized in prisons across the world. Bangladesh is at particular risk because incarcerations become lengthy due to slow trial,\" he said. He said two anti-terrorism tribunals have been established to speed up the trial of militants. CRAB President Abul Khayer, General Secretary Dipu Sarwar, DMP's Deputy Commissioner (Media) Masudur Rahman and senior officials of CTTC were present at the event. Public attention turned to the Bangladeshi Islamic State fighters from Syria and Iraq for the first time when they issued video messages hailing the Gulshan terrorist attack of 2016. At least 50 young men and a few women and children were reported missing after that."
+}

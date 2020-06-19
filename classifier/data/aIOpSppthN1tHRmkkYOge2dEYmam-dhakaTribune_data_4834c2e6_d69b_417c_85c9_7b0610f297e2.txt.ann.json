@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_4834c2e6-d69b-417c-85c9-7b0610f297e2.txt",
+  "text": "Date Published:2019-12-24 00:00:00      \nA total of 359 people were killed in thunderbolts in 2018 Some 3.8 million palm trees have been planted across the country to  minimize the impacts of lightning strikes and casualties . State Minister for Disaster Management and Relief Dr Md Enamur Rahman came up with the information at a roundtable meeting arranged by Brac at Spectra Convention Centre in the capital on Tuesday, reports UNB. The government declared lightning it as a natural disaster in 2015. Enamur said there is no tested model in lighting management in Bangladesh unlike that of cyclone and flood. State Minister for Disaster Management and Relief Dr Md Enamur Rahman and other officials present at a roundtable meeting arranged by Brac at Spectra Convention Centre in Dhaka on Tuesday, December 24, 2019 | Courtesy He said to overcome the problem, the government looks for structural and infrastructural solutions, and it gives the highest emphasis on research. \"Because there is a huge misconception at all levels of people about lightning strikes, and only scientific research can help remove that misperception.\"         The state minister, however, said the palm tree plantation drive taken by the government is going on and it will continue to increase forest resources in the country and minimize casualties caused by thunderbolts.    He said the government will carry out a campaign at all levels to create public awareness about lightning strike as it causes huge casualties, not only in Bangladesh but all over the world.    Enamur said some 2,000 to 24,000 people are killed in the world every year in addition to some 50,000 who get injured in lighting strikes. He said 81 people were killed in Bangladesh in just four days in 2016.    At least 246 people were killed and 97 others injured in lightning strikes from February to September this year. According to official statistics, a total of 359 people were killed in thunderbolts in 2018. In 2015, the government declared lightning as a natural disaster."
+}

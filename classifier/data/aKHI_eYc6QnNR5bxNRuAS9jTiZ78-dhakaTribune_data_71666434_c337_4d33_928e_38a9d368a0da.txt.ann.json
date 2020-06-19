@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_71666434-c337-4d33-928e-38a9d368a0da.txt",
+  "text": "Date Published:2020-03-19 00:00:00      \n'The woman is currently undergoing treatment at the Thakurgaon Sadar Hospital' A female agricultural worker has been raped in her home in Sadar upazila of Thakurgaon. The incident took place when the woman was alone at her residence in Purba Begunbari, and her husband, a van-puller, was out working on Wednesday night. Police arrested the rape suspect Montaz Ali, 60, after locals apprehended him from the scene of the crime. The other accused Nurul Islam, 32, who kept guard when the crime was in-progress, fled the scene, say police quoting locals. Subsequently, a case was recorded with Thakurgaon police station. According to the case statement, the woman used to work at the accused Montaz Ali's lands. On the night of the incident, Montaz, finding her alone at her home, appointed Nurul Islam to guard the place, as he entered her home and raped her. When she screamed for help, local rushed in and rescued her from Montaz. Later, when locals took the matter to Begunbari Union Parishad Chairman Bani Amin, he suggested a complaint with the Sadar police station.  Thakurgaon Sadar police station Officer-in-Charge (OC) Tanvirul Islam said: \"The woman is currently undergoing treatment at the Thakurgaon Sadar Hospital.\" As soon as we receive confirmation of rape from the hospital, we'll take necessary legal action against the accused, he added."
+}

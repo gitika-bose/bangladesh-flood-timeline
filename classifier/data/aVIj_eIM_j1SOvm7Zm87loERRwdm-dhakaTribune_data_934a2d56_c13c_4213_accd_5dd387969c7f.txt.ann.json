@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_934a2d56-c13c-4213-accd-5dd387969c7f.txt",
+  "text": "Date Published:2020-01-07 00:00:00      \nBangladesh maintains friendship with all, he says Foreign Minister Dr AK Abdul Momen has said Bangladesh wants to see peace and stability across the world noting that around 12.2 million Bangladeshi citizens live in various parts of the globe. Momen was talking to reporters at International Mother Language Institute after a meeting of sub-committee of celebration of the birth centenary of Father of the Nation Bangabandhu Sheikh Mujibur Rahman on Tuesday, reports UNB. Chief coordinator of the Father of the Nation Bangabandhu Sheikh Mujibur Rahman Birth Centenary Celebration National Implementation Committee Dr Kamal Abdul Naser Chowdhury and former foreign minister AH Mahmood Ali were present at the meeting, among others. The minister said Bangladesh has adopted a \"balanced policy\" without any deviation from the path shown by father of the Nation - \"friendship to all and malice towards none\". \"We have good relations with everybody,\" he told reporters mentioning countries like India, China and the USA.   When asked about escalating tensions between Iran and the USA and any possibility of third world war, the foreign minister said: \"Hope not, I do not think there will be a third world war.\"  Momen hoped that Bangladesh nationals in Iraq will remain safe since there are some targeted attacks. In this globalized world, he said peace and stability are must and there will be negative impacts if the peace and stability are hampered in any part of the world. He said they are in touch with Bangladesh Mission in Iraq and Bangladeshis so far remain safe. Earlier, Bangladesh Ambassador in Baghdad Abu Maksud M Forhad assured Bangladesh nationals living in Iraq of providing all sorts of support and urged them not to get worried and lose their mental strength. In a video message, he said Prime Minister Sheikh Hasina is in touch and enquiring about their condition round the clock. He said they will remain available round the clock for any support that may be required. The video message was issued for Bangladesh nationals amid escalating tensions between Washington and Tehran following the killing of Iranian general Qasem Soleimani near Baghdad airport on January 3. Over 200,000 Bangladesh nationals are believed to be living in Iraq. On Friday, the Bangladesh Embassy in Baghdad requested Bangladeshi expatriates in Iraq to stay alert and maintain caution considering the current security situation in the Middle-Eastern country. The embassy will remain open 24/7 to extend consular services to the expatriates. Everyone has been requested to extend cooperation. Between 2009 and November last year, 75,748 Bangladeshis went to Iraq for work, according to the Bureau of Manpower, Employment and Training."
+}

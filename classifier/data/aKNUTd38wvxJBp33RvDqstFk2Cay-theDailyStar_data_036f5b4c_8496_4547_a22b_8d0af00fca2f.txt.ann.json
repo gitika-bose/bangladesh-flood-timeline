@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_036f5b4c-8496-4547-a22b-8d0af00fca2f.txt",
+  "text": "Date Published:2020-03-25 00:00:00      \nIn the wake of the coronavirus outbreak, a large number of people have opted for ordering groceries online from the safety of their homes. Customers want to avoid the danger of interacting with people and at the same time, stock up on necessities as people fear a drawn-out self-isolation period until the crisis passes. Home deliveries are considered a safe option. Waseem Alim, co-founder and CEO of Chaldal, an online grocery and delivery platform, says they have been serving 4,000 customers a day in Dhaka through their 350 delivery workers. Such platforms have seen a surge in business in the past weeks. Chaldal has been inundated with orders and has been operating at maximum capacity. Due to this, customers now need to wait for almost a week for their next available slot for delivery. Sabrina Fatema, a resident of Dhanmondi, said she was trying to order a disinfectant item on the site on March 21. The first available slot she found was March 28. Farhana Lubaba, a resident of the Kazipara area of Mirpur, said she had to wait four days to get her order from Shwapno. \"I was expecting that I wouldn't be getting my order anymore. I was surprised to get a phone call from a delivery worker on the fourth day,\" she said. Since more and more people are ordering groceries and other items online since the outbreak, delivery workers have been working tirelessly from morning till night. According to some delivery workers this correspondent interviewed, they would earlier make around 18 to 25 deliveries daily. In the past ten days, they have been doing between 30 and 40 home deliveries a day. \"The situation has changed massively. Now, customers are madly buying online to avoid public gathering at the supershops and bazaars,\" said Md Shaown Hazari, a Chaldal delivery worker. The rise in demand means Arif Hawlader, another Chaldal delivery worker, leaves for work at 7:00am and returns home at 10:00pm. The coronavirus outbreak has also forced delivery workers and customers to maintain cleanliness and hygiene standards in their interactions. Deen Islam Imran of Chaldal is wearing a mask while delivering orders, and sanitising his hands after handling cash. \"Our office has provided safety kits and has been monitoring whether we are strictly maintaining these standards,\" he said. According to Chaldal's CEO, the platform has taken precautions to prevent the risk of the virus passing on to their delivery workers. From March 16, they have formed an internal policy. \"Bike handles, bike seats, and steering wheels should be disinfected with hexisol or Savlon by the respective driver at the beginning of every shift. Deliverymen should maintain a distance of at least one metre from customers when delivering orders,\" mentioned the policy provided by the Chaldal CEO. Supershop Shwapno is also providing hand sanitisers, gloves, and masks for its delivery workers. Delivery and logistics businesses in general have also taken new policies to reduce risks of the virus spreading by giving customers the option of contactless delivery. Pathao, for example, is promoting contactless delivery by dropping off items at doors and asking users to pay digitally. \"We have also taken extra precautions for the safety of users and delivery agents and distributed over 5,000 safety kits to foodmen, couriers, and delivery agents,\" said Syeda Nabila Mahbub, director of marketing and public relations at Pathao. Recently, it also started Pathao Tong service, a shopping service where users could buy daily necessities and get those delivered to their doorsteps, to deliver groceries in Gulshan and Banani. However, contactless delivery is not a standard, as many customers choose to pay cash on delivery. \"It is not possible to avoid contact especially when we need to give change,\" said Arif. In spite of this, riders notice a visible change in customer behaviour. \"Many customers want to make sure that we are wearing masks. Some also offer us handwash or sanitiser before entering their house,\" said Deen. Promi Islam, a Dhanmondi resident, said she keeps a hand sanitiser and deodorant at her door. \"At first, I sanitise the parcel with the deodorant containing alcohol and then we offer hand sanitiser to the deliverymen after they touch our money,\" she said. But the question of the riders' safety still remains. According to the riders, their job involves interacting with a lot of customers every day. \"Most often, we need to enter their house to leave the products. My family worries about whether I end up making deliveries to a home where someone has the virus,\" said a Shwapno delivery worker in the Mirpur area. \"Contactless delivery can be a great way to reduce our risks of being infected, especially in the days to come as we don't know what is going next,\" he stated. \"We have been caring for the customers, and we hope, they too will assist us for the safety of both parties.\""
+}

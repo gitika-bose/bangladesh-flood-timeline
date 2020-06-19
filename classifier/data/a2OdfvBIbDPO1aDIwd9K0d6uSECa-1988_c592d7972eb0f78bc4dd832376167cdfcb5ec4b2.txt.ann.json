@@ -1,0 +1,569 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "monsoon",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 39,
+          "text": "1988-09-06"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "1988-09",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1108,
+          "text": "leaving at least 550 people dead"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "550",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1145,
+          "text": "25 million homeless"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_36": {
+          "value": "25000000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1398,
+          "text": "Flooding during the monsoon season is an annual event"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "monsoon",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1512,
+          "text": "the 1987 floods"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "1987",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1535,
+          "text": "killed 1,600 people"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "1600",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2070,
+          "text": "s.'' Prices Soar\nIn the capital, prices of such necessities as rice, cooking oil, salt and kerosene shot up anywhere from 30 percent to 200 percent."
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2365,
+          "text": "21 million homes had been washed away"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_54": {
+          "value": "21000000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2422,
+          "text": "30 million of the country's 110 million people were directly affected"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_35": {
+          "value": "30000000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2569,
+          "text": "Mr. Rahman said three more districts have been flooded, raising the number affected to 50 out of 64 districts in the country."
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "50 of 64 districts",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:btellman"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3469,
+          "text": "uthorities to abandon their efforts to rescue an estimated two million people marooned in remote areas"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_36": {
+          "value": "2 million",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:btellman"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3712,
+          "text": "istricts like Faridpur, Madaripur and Sariatpur in the south, helicopters carrying relief supplies cannot land for lack of dry space.\nRelief Ministry officials acknowledged that their efforts are being severely hamp"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Faridpur, Madariupur, Sariatpur",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:btellman"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 4245,
+          "text": "Dhaka itself, where flooding is unusual"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 4336,
+          "text": "two million out of five million city dwellers affected."
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_35": {
+          "value": "2-5 million",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:btellman"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_2|4245,4283",
+        "s1v1|e_15|4336,4390"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|1108,1139",
+        "s1v1|e_49|39,48"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|1145,1163",
+        "s1v1|e_49|39,48"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|2365,2401",
+        "s1v1|e_49|39,48"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|2422,2490",
+        "s1v1|e_49|39,48"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  ],
+  "filename": "1988_c592d7972eb0f78bc4dd832376167cdfcb5ec4b2.txt",
+  "text": "Misery Rises With Rivers In Bangladesh\n1988-09-06T05:00:00.000Z\nWad-ing through waist-deep water late last week in the Muhammadpur residential district of the capital, Iqbal Ahmed, his few belongings on his shoulder, headed for the school on the Mirpur Road, which was still unaffected by the devastating floods.\nA few hours later, Mr. Ahmed, 45 years old, waded back 300 yards from the school to his home at the refugee camp where he was forced by the flood, to pick up his ill 5-year-old daughter.\nAt first he could not find her. Then, Mr. Ahmed, groping in the flooded shack where he lives with his family, discovered her lying dead in a pool of water into which she apparently fell in her sleep. There was some solace: at least Mr. Ahmed was able to bury his daughter, while bodies of many flood victims in Bangladesh are being put on makeshift rafts - there not being enough dry space for burial.\nEmaciated, unfed and without sleep for 24 hours, Mr. Ahmed mumbled: ''What will I do now? I'll go mad.''\nSuch poignant uncertainty seems to have gripped much of this country as flood waters cover the land, leaving at least 550 people dead and 25 million homeless. And the toll could go much higher, officials fear. One-third of Bangladesh is reported to still be under water.\n''The situation is beyond any description, any definition,'' Information Minister Mahbubur Rahman told reporters today.\nFlooding during the monsoon season is an annual event in this nation and is highly beneficial to agriculture. But the 1987 floods, which killed 1,600 people, were described as the worst in 70 years, and President H. M. Ershad has called this year's devastation ''far worse than last year's.''\nThe Brahmaputra and the Ganges, two of the major rivers in Bangladesh, a nation whose geography is delineated by rivers and deltas, had fallen since Sunday night, but the situation remained grave. Heavy rain fell again this afternoon, and the Dhaka weather bureau predicted that rain ''may continue intermittently, further swelling rivers already flowing above their danger levels.'' Prices Soar\nIn the capital, prices of such necessities as rice, cooking oil, salt and kerosene shot up anywhere from 30 percent to 200 percent. Kerosene to light lamps was in the shortest supply, with electricity cut off in most areas.\nMr. Rahman, the Information Minister, said today that 21 million homes had been washed away and that more than 30 million of the country's 110 million people were directly affected. He added that the actual losses will be known only after the water recedes.\nMr. Rahman said three more districts have been flooded, raising the number affected to 50 out of 64 districts in the country.\nCommunications in most areas affected remained disrupted or nonexistent, making it all but impossible to obtain food, medicine and other relief goods. Lack of pure drinking water is reported to have caused an outbreak of diarrhea and other stomach ailments. A senior Health Ministry official, Taslim Ahmed, said the number of people suffering from dysentery is also rising. The Matter of Starvation\nAlthough the Government denied that anyone had yet died of starvation, witnesses said a man died today at a relief center in the Kishalaya school, in the Zigatala district of the capital.\nOfficials said the United States, Britain, Japan, Australia, Canada, India, Pakistan, and Saudi Arabia have responded to the Government's appeal for help.\nThe devastation has forced the authorities to abandon their efforts to rescue an estimated two million people marooned in remote areas. They are inaccessible because of the lack of small boats.\nRoad and rail communication in the flooded areas collapsed 10 days ago.\nIn some districts like Faridpur, Madaripur and Sariatpur in the south, helicopters carrying relief supplies cannot land for lack of dry space.\nRelief Ministry officials acknowledged that their efforts are being severely hampered. ''We have food in our stock,'' President Ershad said, ''but the question is how to deliver it.'' It has similarly become all but impossible for the authorities to accurately assess the extent of damage and the loss of life.\nAerial photos showed village after village leveled by flood waters. Panic in Capital\nIn Dhaka itself, where flooding is unusual, a panic seemed to have spread among the estimated two million out of five million city dwellers affected.\nMen, women and children by the thousands - with a few essentials on their heads and babies tightly held to mothers' breasts - are wading through water in search of shelter. Older people unable to walk are being piggybacked.\nThey are mostly the poor; others who are better off, were seen escaping by boats and rafts that now ply most of the streets of Dhaka.\nThe powerful are not immune. The state television network has showed pictures of President Ershad's official residence under knee-deep water. Airport Also Flooded\nDhaka, severed a week ago by road and rail link from the rest of Bangladesh, is cut off from the outside world, as well. The international airport was closed on Friday, its runway flooded.\nAll schools have been shut down in the affected areas, and inmates of hospitals and prisons evacuted.\nGas for cooking is in critically short supply, and the wells, now under water, have become contaminated with sewage.\nFor some, though, the picture is not altogether bleak. Boatmen are doing a brisk business. And some children, too young to fathom the magnitude of the disaster, are enthusiastic. They can be seen splashing and frolicking in the water."
+}

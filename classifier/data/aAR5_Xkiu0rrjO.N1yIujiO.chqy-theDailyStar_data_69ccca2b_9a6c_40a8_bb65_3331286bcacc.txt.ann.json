@@ -1,0 +1,150 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun",
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun",
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 985,
+          "text": "The deputy director noted that farmers, who could save their crop from flood during the last season"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_60": {
+          "value": "last year (2019)",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:btellman"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1682,
+          "text": "This correspondent visited Santhia and Sujanagar upazilas, where most of the onions in the district are grown. An onion farmer of Sujanagar upazila Md Ishhaque Ali said, \"In last season, I cultivated 66 decimals of land but I did not get expected profit as most of the crop was damaged in sudden flood this year. I managed to save 20 mounds of onion and sold those for Tk 60,000. The handsome price of onion inspired me to cultivate again in more areas this season.\" Ishaque is cultivating onions on 165 decimals of land by leasing 99 decimals, expecting to earn Tk five lakh to Tk six lakh from sale of the crop, he said. He, however, is concerned about winter rain damaging his crop again. \"If it rains during winter, we may face loss again,\" he said. Forgetting the loss that he had incurred in the last season,"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1900,
+          "text": "d but I did not get expected profit as most of the crop was damaged in sudden flood this year. I managed to save 20 mounds of onion and sold those for Tk 60,000. The handsome price of onion inspired me to cultivate again in more areas this season.\" Ishaque is cultivating onions on 165 decimals of land by leasing 99 decimals, expecting to earn Tk five lakh to Tk six lakh from sale of the crop, he said. He, however, is concerned about winter rain damaging his crop again. \"If it rains during winter, we may face loss again,\" he said. Forgetting the loss that he had incurred in the last season,"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "lost onion crop",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:btellman"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [],
+  "filename": "theDailyStar_data_69ccca2b-9a6c-40a8-bb65-3331286bcacc.txt",
+  "text": "Date Published:2020-01-02 00:00:00      \n Pabna farmers are cultivating more land for the second season of onion eyeing the high price of the spice in the market, forgetting the loss they had suffered from their flood-hit crops in the September-October season. Deputy Director Md Azhar Ali of Pabna Department of Agriculture Extension (DAE) told The Daily Star, \"In the last season, farmers cultivated 44,000 hectares of land and produced 6.5 lakh metric tons of onions. This season, we have targeted to cultivate 49,800-hectare for producing 7.5 lakh metric tons of onions.\" If the weather remains dry and favourable, then this season's target will be the highest ever production in Pabna, according to officials of DAE. Deputy director Azhar informed that the total yearly demand for onion in the country is 24 lakh metric tons, and the nine upazilas of Pabna usually supplies 25 percent of it. Next year, they are hoping to supply 33 percent of the total demand of onion, he added. The deputy director noted that farmers, who could save their crop from flood during the last season, earned a lofty profit from the Mulkata variety selling it at the high market price. This motivated the other farmers to increase their cultivation for the current season. Since mid-September price of onion kept on rising from Tk 40/kg to the record high of Tk 250/kg, becoming somewhat steadier in the last two weeks selling between Tk 50 to Tk 100 per kg, as quoted on the website of the Trading Corporation of Bangladesh. Sources at the DAE explained that Mulkata sown during September-October is harvested around December while the current variety sown now will be ready for harvest by March. This correspondent visited Santhia and Sujanagar upazilas, where most of the onions in the district are grown. An onion farmer of Sujanagar upazila Md Ishhaque Ali said, \"In last season, I cultivated 66 decimals of land but I did not get expected profit as most of the crop was damaged in sudden flood this year. I managed to save 20 mounds of onion and sold those for Tk 60,000. The handsome price of onion inspired me to cultivate again in more areas this season.\" Ishaque is cultivating onions on 165 decimals of land by leasing 99 decimals, expecting to earn Tk five lakh to Tk six lakh from sale of the crop, he said. He, however, is concerned about winter rain damaging his crop again. \"If it rains during winter, we may face loss again,\" he said. Forgetting the loss that he had incurred in the last season, retired college teacher Dulal Hossain of Narinda village in Santhia upazila cultivated five bigha of land for onion expecting to earn Tk five lakh. He, too, is worried about the weather.  \"The recent dense fog disrupts onion cultivation. At the same time, we are worried about rain during winter,\" Dulal said. Farmers also urged the government to stop importing onions during harvesting time, so that they can get expected profit."
+}

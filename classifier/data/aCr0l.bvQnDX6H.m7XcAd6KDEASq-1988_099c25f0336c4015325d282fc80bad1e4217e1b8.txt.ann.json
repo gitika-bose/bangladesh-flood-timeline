@@ -1,0 +1,295 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "monsoon",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 54,
+          "text": "1988-09-09"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_50": {
+          "value": "1988-09-09",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1593,
+          "text": "The flooding this year is unlike the expected annual inundation that comes with the monsoon season"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "monsoon",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3838,
+          "text": "Tangail district"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Tangail",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3980,
+          "text": "All of the district's 384,309 people have been dislocated"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_36": {
+          "value": "384309",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 4059,
+          "text": "At least 247,670 houses have been damaged or destroyed"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_54": {
+          "value": "247670",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 4781,
+          "text": "The national death toll from all causes during the flooding now stands at about 510"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "510",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|3980,4036",
+        "s1v1|e_2|3838,3853"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|4059,4112",
+        "s1v1|e_2|3838,3853"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  ],
+  "filename": "1988_099c25f0336c4015325d282fc80bad1e4217e1b8.txt",
+  "text": "Flood-Ravaged Bangladesh Seeks Plan to Control Rivers\n1988-09-09T05:00:00.000Z\nThe Government of Bangladesh, reacting to what may be the worst flood of the country's history, called today for an international panel of experts to devise plans to control the rivers of South Asia.\nAt a news conference here tonight, Bangladesh's Minister of Information, Mahbubur Rahman, announced that the Foreign Minister, Humayun Rashid Chowdhury, had called for the prompt convening of an international panel so that a plan for the river systems could be discussed in December at a summit meeting of nations in the region.\nEarlier today, in an interview in a badly stricken area near the northern outpost of Ghatail, close to the Indian border, Mr. Rahman said that his country would seek to draw Nepal, Bhutan and India into substantive talks on the river systems.\nHe added that ''involving China may also be ultimately necessary,'' because of the proximity of Tibet.\nIt is in areas like Ghatail that the toll of the flooding, which began late last month, is most starkly revealed. Officials there think it will be three to six months before something resembling a normal existence returns. 'A Terrible Human Tragedy'\nBrig. Gen. Subed Ali Bhuya and his infantry brigade there are feeding and housing nearly 30,000 people, 12,000 head of cattle and innumerable chickens and goats. ''Their houses were washed away,'' the general said today of the people who have converged on his garrison since Aug. 30, leading cattle and carrying what they could salvage of their homes. ''It was a terrible human tragedy.''\nThe flooding this year is unlike the expected annual inundation that comes with the monsoon season. It has been a sudden flood ''out of season,'' destroying the barriers and embankments that this impoverished country has managed to construct.\nBangladesh is on the receiving end of mighty river systems - among them the Ganges, Brahmaputra, Jamuna and Meghna - that descend from the Himalayas. From ancient times, it has been destined to suffer major floods with great regularity.\nAdding to the problem in modern times, the great mountains of South Asia have become increasingly denuded and eroded in many places, and the cascade of earth and water each year grows more devastating to Bangladesh, which sprawls over delta after delta at the rivers' mouths.\nIf an international effort were to be mounted to control the rivers, the task would be mammoth, not only because of the technical challenges involved but also because of regional politics. India Called Key to Effort\nNo effective plan can be drawn up without the active support of the regional power, India. Although Bangladesh has sought to involve other neighbors, especially Nepal, where deforestation has also contributed to problems downriver, India continues to insist that the rivers are a matter for direct negotiation between New Delhi and Dhaka. But joint commissions have produced no comprehensive improvement.\nIn addition, relations between China and India have been cool since they fought a border war in the 1960's, and diplomats think India would be unlikely to welcome Chinese involvement in such talks.\nThe Government of Bangladesh today was decribing the floods as ''an unprecedented human tragedy.'' [ The Indian Government announced that it was sending two transport aircraft to drop food supplies to flood victims in Bangladesh.\nAn Indian spokesman said the craft are to carry about 30 tons of foodgrains on Friday and that four Indian helicopters already are assisting in relief work. ] No Place to Land a Helicopter In Ghatail, which is in one of the most severely affected parts of the country, nearly 100 percent of the farmland was under water today.\n''There is no place to land even a helicopter,'' General Bhuya said of the outlying villages in this area in the Tangail district, nearly 100 miles north of Dhaka. Reporters were brought to the general's headquarters by a Bangladesh Air Force helicopter.\nAll of the district's 384,309 people have been dislocated, General Bhuya said. At least 247,670 houses have been damaged or destroyed.\nThe situation is as bad or worse across three-fourths of Bangladesh's land area and for most of the country's 110 million people. Unlike Ghatail, many other areas have no military base where refuge can be sought.\nAmala Hussain, waiting with her seven children for a meal of rice taken from the rations of the men at the Ghatail garrison, said today that throughout her life of hardship as the wife of a landless tenant farmer she had ''never seen anything like this.''\nAt the garrison, medical treatment is administered by army doctors and there is clean water to drink, but when flood victims return home they will have no medicine to fight disease or snake bites. The national death toll from all causes during the flooding now stands at about 510."
+}

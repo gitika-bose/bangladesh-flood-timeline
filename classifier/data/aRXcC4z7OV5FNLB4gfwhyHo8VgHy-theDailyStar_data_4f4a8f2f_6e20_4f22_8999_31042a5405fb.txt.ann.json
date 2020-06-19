@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_4f4a8f2f-6e20-4f22-8999-31042a5405fb.txt",
+  "text": "Date Published:2020-04-21 00:00:00      \nAt a time when the government is engaged in the multifarious activities involved in crisis management during the ongoing pandemic, it is encouraging to learn that the non-government organisations (NGOs) are emphasising their eagerness to share their expertise and experience with the government to help in tackling the crisis too. Various alliances of NGOs have expressed this at a virtual press conference recently. There is no doubt that these organisations can significantly help the government in its fight against Covid-19. With their widespread presence at the grassroots level, NGOs have been working alongside the government during times of disaster for decades. And such collaborative measures have proven successful in various aspects. Moreover, the presence of the surging cases of dengue, along with the approaching flood season, will surely weigh heavy on the crisis and make matters more challenging in the days to come. Thus, a collaborative means of preparedness between the government and NGOs will help ease some of the suffering during such times. With hands-on experience in dealing with vulnerable groups and disaster management, among others, NGOs can be involved in various spheres of operations--from helping farmers save their crops to the distribution of relief and much more. Furthermore, with government assistance, micro-finance NGOs can also operate to help boost rural economic activities as the moderately poor are entering the bracket of the ultra-poor. NGOs can also assist in implementing the activities at the core level under the government stimulus package declared to tackle Covid-19 impacts. The possibilities are many and will prove promising once the collaborative efforts are put into practice. It is to be noted that people's lives and health are at stake here, not to mention the adverse economic impact on the entire nation. The government should therefore take advantage of this opportunity to involve NGOs and their human resources to tackle the Herculean task that looms. Needless to say, during these challenging times, people's wellbeing in terms of health and the economic situation should be kept above all other considerations. The government should take all the help it can get."
+}

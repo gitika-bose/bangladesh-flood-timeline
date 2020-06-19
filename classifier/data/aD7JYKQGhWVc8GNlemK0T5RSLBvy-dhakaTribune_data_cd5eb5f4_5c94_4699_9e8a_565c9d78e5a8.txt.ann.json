@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_cd5eb5f4-5c94-4699-9e8a-565c9d78e5a8.txt",
+  "text": "Date Published:2020-04-17 00:00:00      \nThe day was observed remembering the oath taking of the Bangladesh government-in-exile during the Liberation War in 1971 at Baidyanathtala of Meherpur in Kushtia on April 17, 1971 The historic Mujibnagar Day has been observed in a subdued way in fear of the coronavirus pandemic with a pledge to let the new generation know the history of the Liberation War. On the occasion, Meherpur Deputy Commissioner (DC) Mohammad Ataul Gani started the day's activities by hoisting the national flag atop the Mujibnagar Memorial Museum in the morning. DC Ataul urged everyone to stay at home to combat the Covid-19 pandemic to continue the economic growth of the country. On behalf of the Public Administration Ministry, State Minister for Public Administration Farhad Hossain and Meherpur district administration, Ataul Gani later placed a wreath at the Mujibnagar Memorial. Meherpur-2 MP Shahiduzzaman Khokon, Meherpur district police, district freedom fighters' unit, Meherpur district Awami League and other socio-political organisations also placed wreaths at the memorial. They also paid homage to the four national leaders there. The day was observed remembering the oath taking of the Bangladesh government-in-exile during the Liberation War in 1971 at Baidyanathtala of Meherpur in Kushtia on April 17, 1971. The then government formally announced the proclamation of independence at the program."
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_c7f03fab-4852-4329-9bae-9a09e6edcc11.txt",
+  "text": "Date Published:2019-03-26 00:00:00      \nThis newspaper on March 24 reported how Rajuk is trying to change land allotted for educational institutions and environmental preservation in the Purbachal Project into commercial and business plots. Since the scheme was launched in 1995, due to pressure from \"influential people\", the plans have been changed five times, leading to arable land and flood flow zones being gradually reduced. In the latest revision, Rajuk intends to decrease the 269 acres dedicated to 157 educational institutions to 119 acres for more residential, commercial and other purposes. We reported insiders telling us that this has been done to increase the number of plots, thus allowing allotment to more applicants. More importantly, we also learned that doing so would compromise \"some indispensable standard characters and features\". One result would be that educational institutions, which would have had their own playing fields, would now share common fields. That a planned project is being changed over and over again as per the wishes of the wealthy, influential and politically-connected people, is absurd. More so because a common complaint about our rapidly urbanising city is the lack of green spaces and playing fields for children. The High Court's comment, in declining to approve the proposed revision earlier this year, comparing it to a \"smart trick\" turning playgrounds of educational institutions into commercial plots, is revealing. Yet, Rajuk has now appealed the HC's directive. Going back further, we see more anomalies in this project. There are allegations of secretly allotting institutional plots from areas earmarked for schools and playgrounds, violating a 2014 HC judgment. Officials approached for our report turned out to be evasive or vague in their answers. Trees have been felled and water bodies have been filled up indiscriminately, which could harm the environment and make the area concrete jungles with very little open spaces. No one in Dhaka is unfamiliar with the consequences of such a scenario. The court's decision is yet to come. But we would urge the authorities to launch an independent investigation into the anomalies and allegations of pressure from certain quarters. Otherwise, it is public money that will be spent in an unaccountable manner according to the whims of the rich and influential."
+}

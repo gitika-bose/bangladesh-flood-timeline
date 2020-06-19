@@ -1,0 +1,258 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "monsoon",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 52,
+          "text": "1988-09-07"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_50": {
+          "value": "1988-09-07",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 228,
+          "text": "as many as 28 million people homeless or stranded"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_36": {
+          "value": "28000000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 996,
+          "text": "The flooding, brought on by brutal monsoon rains"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "monsoon",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1530,
+          "text": "One flooded village is Nichkasia, south of the capital, Dhaka"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_41": {
+          "value": "Nichkasia",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_39": {
+          "value": "Dhaka",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1643,
+          "text": "more than 8,000 people were forced to take shelter on a river embankment"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_36": {
+          "value": "8000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|1643,1714",
+        "s1v1|e_2|1530,1590"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  ],
+  "filename": "1988_192fc6aa7ff9c9e1d62b714cb3e773634a4f1f2d.txt",
+  "text": "BANGLADESH GETS PLEDGE OF MILLIONS FOR FLOOD RELIEF\n1988-09-07T05:00:00.000Z\nDonor nations have pledged millions of dollars in aid to Bangladesh, where the worst flooding in 70 years has left much of the country under water and as many as 28 million people homeless or stranded.\nAfter an urgent international appeal for aid by the President of Bangladesh, Lieut. Gen. H.M. Ershad, the United States has initially pledged nearly $3.6 million in food, transportation and other emergency aid, the State Department spokesman, Charles E. Redman, said today.\n''We continue to be in touch with Bangladesh authorities to see what other assistance we might be able to provide,'' he said. Japan Pledges $13 Million\nJapan, which has now surpassed the United States as the world's largest foreign aid donor, has pledged $13 million in food and money for the lease of two helicopters and medical equipment. A Japanese medical team has already arrived in Bangladesh, the Bangladesh Embassy in Washington said.\nThe flooding, brought on by brutal monsoon rains that began in June, has brought even more misery to one of the world's poorest countries and, with 110 million people in a land the size of Wisconsin, one of its most densely populated.\nThe most common estimate of the amount of land still under water is 75 percent, the figure used by the State Department and the Bangladesh Embassy here. CARE, which is represented in 80 percent of the country's 65 districts, said 75 to 90 percent of the county was under water. A Village in Trouble\nOne flooded village is Nichkasia, south of the capital, Dhaka, where no relief had been distributed by today and more than 8,000 people were forced to take shelter on a river embankment. A helicopter trip to the area showed water stretching as far as the eye could see, interrupted by treetops and tin roofs, some packed with victims of the flooding. [ Page A8. ] So far, relief officials have been unable to get to most flooded areas, and communications between the capital and outlying regions are spotty at best. The devastation will take weeks to assess. Most relief officials agree that only as the water levels decline will the problems in aiding a homeless population exposed to waterborne disease become evident.\n''Bangladesh is one vast swamp and what you're confronted with is rebuilding a country,'' said Thomas Drahman, the Asia regional manager for CARE. ''I hate to sound hyperbolic, but this could be one of the largest natural disasters of the century.'' Casualty Figures Uncertain\nThere is no reliable estimate of what it will cost to feed, house and provide medical care to the population and rebuild roads, buildings and bridges, but $4.5 billion was the total estimate of damage for the flood last year, which was not nearly as severe.\nInformation is so unreliable that it has been impossible to estimate casualty figures. The official death count of more than 400, from drowning, house collapse and snake bites, is widely regarded as far too low.\nBecause so little is known about the condition of the country, some donors like the United States have been reluctant to pour in large amounts of money and aid until they can consult with relief officials on the most crucial needs.\nAccording to the Agency for International Development, Australia has pledged $241,000, Pakistan $568,000, Britain $927,000 and various United Nations agencies $115,000.\nCanada has pledged about $4 million for food aid and Denmark $275,000, according to the Bangladesh Embassy, which added that India and Saudi Arabia have each lent four helicopters and Kuwait has offered to send four jumbo jets filled with relief materials once the Dhaka airport fully reopens.\nWhy Japan has made such a generous initial pledge was unclear and embassy officials in Washington could not confirm the $13 million figure. But in recent months, Japan has emerged as a champion of the developing nations of Asia, by such actions as initiating its own plan for debtor nations at the Toronto summit meeting and sending money as well as personnel to United Nations peacekeeping operations in Iran and Afghanistan. Immediate Needs Listed\n''Our immediate requirement is ready-to-eat high-protein dry food because people have no cooking oil, kerosene or firewood and cannot cook,'' said Tajul Islam, press attache at the Bangladesh Embassy. ''We also urgently need water purification tablets, medicine for the prevention of diarrhea and anti-snake venom.''\nAfter that, officials in Bangladesh estimate, the country will need three million extra tons of food grains to make up for the lost harvests until January.\nAlthough no deaths by starvation have been reported, private relief agency officials fear that a sizable percentage of the country's 110 million people will suffer malnutrition and even starvation because of the flood, as well as life-threatening waterborne diseases such as cholera.\nFinally, the country will need construction materials for an unparalleled reconstruction effort, including homes, buildings, roads and bridges. Even Worse Conditions Feared\n''It's a major disaster,'' said Rene Bafalis, a spokeswoman for A.I.D.'s Office of United States Foreign Disaster Assistance, which is coordinating United States Government aid efforts. ''We expect it to get worse before it gets better.''\nOverall flood conditions in the country showed some signs of improvement today, Mr. Redman said, as water levels in two major northern river basins and in Dhaka showed declines. But he said that a number of tributaries feeding into major basins have risen in the last 24 hours, ''indicating that the situation could change rapidly.''\nIn addition, ''fuel and essential goods may become increasingly scarce,'' Mr. Redman said.\nThe nearly $3.6 million pledged in aid by the United States includes 10,000 tons of food valued at $2.5 million, more than 2,000 tons of corn and wheat seed valued at up to $1 million, $50,000 to CARE, $40,000 to Save the Children for food and water purification tablets and $25,000 to be used at the discretion of the United States Ambassador, Willard A. De Pree.\nA.I.D. is also preparing to send disaster management experts to Dhaka to advise on further ways the United States can help the relief effort."
+}

@@ -1,0 +1,89 @@
+[
+  {
+    "query": "bangladesh floods",
+    "paper": "theAsianAge",
+    "date_range": [
+      "1/1/2015",
+      "12/31/2015"
+    ],
+    "sites": [
+      "http://dailyasianage.com/news/5342/climate-action-after-paris"
+    ]
+  },
+  {
+    "query": "bangladesh floods",
+    "paper": "theAsianAge",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": [
+      "http://dailyasianage.com/news/41182/cyclone-vardah-batters-south-india-coast-killing-four",
+      "https://dailyasianage.com/news/38542/bangladesh-armed-forces-enhancing-the-nations-glory",
+      "https://dailyasianage.com/news/15958/vegetable-farming-brings--fortune-to-charwomen",
+      "https://dailyasianage.com/news/7673/sustainable-development-in-chittagong-hill-tracts-of-bangladesh",
+      "https://dailyasianage.com/news/26457/flood-affects-16-districts-14-die-govt-taken-all-measures",
+      "https://dailyasianage.com/news/36454/incentives-for-flood-hit--farmers-in-boro-season"
+    ]
+  },
+  {
+    "query": "bangladesh floods",
+    "paper": "theAsianAge",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "https://dailyasianage.com/news/63353/cyclones-and-storm-surges-in-bangladesh",
+      "https://dailyasianage.com/news/79768/teesta-barrage-flood-bypass-road-collapses-red-alert-issued",
+      "https://dailyasianage.com/news/68940/rice-crisis-lowest-stock-highest-price",
+      "https://dailyasianage.com/news/60603/huge-fodder-crisis-in-haor-areas",
+      "http://dailyasianage.com/news/72266/japan-flood-deaths-rise-to-15-with-6-missing",
+      "https://dailyasianage.com/news/74947/bangladesh-growth-beats-forecasts-adb",
+      "https://dailyasianage.com/news/93190/dhirendranath-datta",
+      "https://dailyasianage.com/news/79998/water-in-the-saidpur-airport",
+      "https://dailyasianage.com/news/57443/crops-fishes-birds-lost-in-early-floods",
+      "https://dailyasianage.com/news/82804/houston-crippled-by-catastrophic-flooding",
+      "https://dailyasianage.com/news/79464/syndicates-control-onion-market",
+      "https://dailyasianage.com/news/97703/people-of-3-villages-demand--a-bridge-in-sarail-of-bbaria",
+      "https://dailyasianage.com/news/71391/water-level-of-brahmaputra-teesta-continues-to-rise-in-gaibandha",
+      "https://dailyasianage.com/news/71413/china-donates-us-100000-for-bd-flood-victims",
+      "https://dailyasianage.com/news/59522/worst-job-in-the-world-bangladesh-sewer-cleaner-dive-into-liquid-filth",
+      "https://dailyasianage.com/news/98517/hoarders-drive-up-rice-price",
+      "https://dailyasianage.com/news/78369/siddharth-roy-kapur-wont-cast-wife-vidya-balan-in-his-films",
+      "https://dailyasianage.com/news/100651/fields-covered-with-mustard-flowers",
+      "https://dailyasianage.com/news/79638/heavy-rain-floods-primary--schools-in-gopalganj",
+      "https://dailyasianage.com/news/86296/rashids-rice-mill-raided-again",
+      "https://dailyasianage.com/news/76300/rains-wreak-havoc-across-country",
+      "https://dailyasianage.com/news/97947/colder-than-usual-winter-in-bangladesh-foretasted",
+      "https://dailyasianage.com/news/86400/trickery-over-rice-price-in-ashuganj-of-bbaria",
+      "http://dailyasianage.com/news/47541/return-to-a-dangerous-normal",
+      "https://dailyasianage.com/news/90150/landslides-floods-kill-37-in-vietnam",
+      "https://dailyasianage.com/news/79876/bangladesh-faces-difficulties-in-buying-wheat"
+    ]
+  },
+  {
+    "query": "bangladesh floods",
+    "paper": "theAsianAge",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh floods",
+    "paper": "theAsianAge",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://dailyasianage.com/news/193211/leela-nag-first-female-student-of-dhaka-university",
+      "https://dailyasianage.com/news/167209/prospects-and-challenges-of--bangladesh-delta-plan",
+      "https://dailyasianage.com/news/184386/bangladesh-wfp-working-together-to-lift-rural-women-out-of-extreme-poverty",
+      "https://dailyasianage.com/news/209776/the-world-needs-to-recover--from-the-climate-crisis",
+      "https://dailyasianage.com/news/203882/us-initiates-withdrawal-from-paris-climate-accord"
+    ]
+  }
+]

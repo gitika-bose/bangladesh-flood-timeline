@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_dc8e393f-0052-4e13-a3f0-77d2f6db32d8.txt",
+  "text": "Date Published:2019-07-29 00:00:00      \nStudents from different departments of Jatiya Kabi Kazi Nazrul Islam University (JKKNIU) in Mymensingh, kicked off musical shows titled, Banbhasi, at and outside their campus to collect funds to support flood victims across Bangladesh.  The programme included musical performances, poetry recitations as well as art-based activities. Mahedi Tanjir from the Theatre and Performance Studies Department of the university, leads the initiative. The programme opened with a two-day musical soiree on July 22, on a stage built at the university's pond, where a large number of students took part. As a part of the initiative, the Udichi Shilpi Sangsad unit at the university also organised a two-day programme, where documentaries and films were screened. The programme concluded on July 25. Three more teams are also working at different areas of the country to raise funds, informed Jakirul Islam Jahangir, a final year student of JKKNIU's Theatre and Performance Studies Department. A group of teachers and students also distributed relief materials to flood victims at Razibpur in Kurigram recently. Kazi Mahmudul Hassan, a teacher of the Computer Science and Engineering Department, Kalyanangsu Naha and Dr Sdhartha Dey of the Fine Arts Department and Shanjoy Kumar Mukherjee of the Public Administration Department were present.  The Vice-Chancellor of JKKNIU, Professor Dr AHM Mustafizur Rahman, praised the efforts of the students and teachers in helping flood victims across the country."
+}

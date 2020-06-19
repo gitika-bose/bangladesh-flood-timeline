@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_1d448b61-3c12-49ef-8d8d-09cdef477810.txt",
+  "text": "Date Published:2020-03-20 00:00:00      \nIn Tangail, a seventh-grade student was killed after his motorcycle lost control and hit a roadside tree At least 11 people were killed in separate road accidents in seven districts on Thursday and Friday.  In Narsingdi, two people were killed in a head-on collision between a truck and a pickup van on Dhaka-Sylhet highway in Bhagirathpur area of Madhabdi upazila on Friday. The deceased, identified as Barek and Kalam, were from Kandail and Panchdona villages of Sadar upazila respectively, said Madhabdi police station Sub-Inspector (SI) Mir Kayesh. Kayesh said: \"A pickup van carrying a group of cloth traders was heading to Shekher char bazar on Friday morning. At one point, the vehicle collided head-on with a truck, leaving cloth trader Barek and pick up van driver Kalam dead on the spot, and leaving six others injured in the area.\" In Tangail, a seventh-grade student was killed after his motorcycle lost control and hit a roadside tree in Jordighi Phulmali area in Ghatail upazila around 12: 30 pm on Friday.  The deceased  Shahin, was the son of Rostom Miah from the village, said Sagordighi police investigation centre in charge Jakir Hossain. In Khulna, a motorcycle rider was killed after his vehicle collided with a truck in Moikhali area of Dumuria upazila on Friday. The deceased was  Anupom Mandal, 30, said Dumuria police station Officer-in-Charge Md Aminul Islam. In Habiganj, a man was killed after a bus hit a CNG-run auto-rickshaw in Nasratpur area in Sayestaganj upazila on Friday. Rumon Miah from Chanpur village of the Upazila died after a CNG run auto-rickshaw that he was on, was run over by a bus on Dhaka-Sylhet highway in the area, said Shayestaganj highway police station Officer-in-Charge (OC) Moniruzzaman. In Mymensingh, two people were killed in a collision between two trucks on Dhaka-Mymensingh highway in Bhandav area of Bhaluka upazila on Friday. The deceased Jamal Uddin and Shakil Miah hailed from Jamalpur district, said Bhaluka Model police station Officer-in-Charge (OC) Main Uddin. Main said: \"A poultry feed-laden truck coming from Jamalpur district hit a sand-laden truck and its driver lost control of the steering, killing the former's driver Jamal and helper Shakil on the spot.\" In Brahmanbaria, a motorcycle rider was killed in a head-on collision between a truck and a motorcycle on Comilla- Sylhet highway in Nandanpur area in Sadar upazila around 10 pm on Thursday. The deceased identified as Yasin Miah,20 was from Bakail village under Mojlishpur union of the upazila. Khatihata highway police outpost Officer-in-Charge Md Mainul Islam said: \"The body was sent to Brahmanbaria  Sadar Hospital and the truck was seized.\" In Joypurhat, a motorcycle rider was killed after his vehicle lost control and hit the roadside wall of a fish hatchery in Panchbibi upazila around 3 pm on Friday. The deceased identified as Rezwan Hossain was from Ganeshpur village from the Upazila, said Panchbibi police station Officer-in-Charge Monsur Rahman. In another accident, a man was killed after a truck hit a  locally-improvised vehicle called bhotbhoti in Tetultoli area in Sadar Upazila around 11 pm on Thursday. The deceased identified as Mehedi was from Biswaspara area of Joypurhat Municipality, said Joypurhat Sadar police station officer-in-Charge Shahriar Khan. In Barisal,  a man named Abdus Sobhan Bepari died after being run over by a vehicle on Barisal-Dhaka highway at Katoksthal Sauder Khalpar in Gournadi Upazila early yesterday, said Gournadi police station OC Golam Sarwar. Our correspondents Asaduzzaman Ripon, Narsingdi, Abdullah Al Numan, Tangail, Hedait Hossain Molla, Khulna, Md Noor Uddin, Habiganj, A correspondent, Mymensingh, Ujjal Chakraborty, Brahmanbaria, Alamgir Chowdhury, Joypurhat, Anisur Rahman Swapan, Barisal contributed to this report."
+}

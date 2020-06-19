@@ -1,0 +1,240 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "urban",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 15,
+          "text": "2019-07-13"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_50": {
+          "value": "2019-07-13",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 283,
+          "text": "The Dhaka met office"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Dhaka",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 313,
+          "text": "48mm of rainfall from 12pm-2pm on Friday"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "2019-07-11",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 419,
+          "text": "two hours of rain was enough to flood a considerable part of the city"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "urban",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 490,
+          "text": "Mirpur Road, Nayapaltan, Green Road, Kazi Nazrul Islam Avenue, Motijheel, Rampura, Banani-11, Tejgaon, Karwan Bazar, Monipuri para, Kazipara, Begum Rokeya Sarani, Mohammadpur, and Dhanmondi were among the areas flooded by the rain"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 847,
+          "text": "Malibagh and Rokeya Sharani"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    }
+  ],
+  "relations": [],
+  "filename": "dhakaTribune_data_62efabfd-9c00-4c1e-b1ab-4bcfd78d0147.txt",
+  "text": "Date Published:2019-07-13 00:00:00      \nAt least 3,483 acres of water bodies, low-lying lands filled up over the last nine years Residents of Dhaka are once again facing the threat of severe water logging, as incessant rain has inundated many parts and major roads of the capital.  The Dhaka met office recorded 48mm of rainfall from 12pm-2pm on Friday but the poor state of the capital's drainage system ensured that two hours of rain was enough to flood a considerable part of the city. Mirpur Road, Nayapaltan, Green Road, Kazi Nazrul Islam Avenue, Motijheel, Rampura, Banani-11, Tejgaon, Karwan Bazar, Monipuri para, Kazipara, Begum Rokeya Sarani, Mohammadpur, and Dhanmondi were among the areas flooded by the rain, with water even entering homes and business establishments in low-lying areas. The situation was even worse in areas such as Malibagh and Rokeya Sharani, where road renovation work and ongoing development projects, like the Metro Rail, pose further obstacles for commuters and residents.  However, the Gulshan area saw little to no water logging, following the revamp of the drainage system during the tenure of late Dhaka North City Corporation (DNCC) mayor Anisul Huq. 36% of Dhaka's water bodies filled up in 9 years At least 3,483 acres of water bodies and lowlands across the metropolitan area in Dhaka have been filled up in the last nine years, according to a recent study. Presenting the findings of the study at an event on April 25, the Bangladesh Institute of Planners (BIP) General Secretary Adil Mohammad Khan said 36% of the water bodies in Dhaka had been filled up, violating the Detailed Area Plan (DAP) for the capital adopted in 2010. The parts of the city under the jurisdiction of Rajdhani Unnayan Kartripakkah (Rajuk) had 100,937 acres of water bodies and lowlands nine years ago, but 22% of those - 22,156 acres - have been filled up since then, greatly contributing to the perennial water-logging issue, he added. The report was prepared on the basis of satellite images. No immediate relief In Dhaka, the drainage system, water pump, canals, and rivers are maintained by a total seven government agencies:  The Bangladesh Water Development Board (WDB), Bangladesh Inland Water Transport Authority (BIWTA), Rajdhani Unnayan Katripakha (Rajuk), Dhaka District Administration, Dhaka Water Supply and Sewerage Authority (Dhaka Wasa), Dhaka South City Corporation (DSCC) and Dhaka North City Corporation (DNCC).   Each of the organizations works separately to improve the drainage system in different parts of the capital. Dhaka Wasa works on the storm drain system, which handles surface water. Most drains in Dhaka are clogged by solid waste and plastic garbage, due to irregular cleanup and lack of awareness of city dwellers. Dhaka used to have 65 natural canals running throughout the city, but the number currently stands at only 26, as most of them are clogged by garbage and illegal occupiers. Urban planner and BIP General Secretary Adil Mohammad Khan said the city has been planned in a manner that does not consider the connectivity of the water management. \"There is no shortcut remedy. We have already blocked the natural connectivity to accommodate the high population density in this mega-city. We have made it a concrete jungle. Now, we have to improve the efficiencies of all existing water bodies first, and then immediately recover all the canals from grabbers and re-install their connectivity, to help the water drain from city properly,\" he added. Both Dhaka city mayors said illegally occupied city canals must be reclaimed to save Dhaka, as the blocking of the canals is largely responsible for the water logging.  DNCC Mayor Atiqul Islam said the water in Dhaka should reach rivers through canals and drainage lines of Dhaka Wasa.  \"However, the drainage lines are clogged and canals have been illegally occupied,\" he added. \"Dhaka was supposed to have 12% Aadhar (reservoir), which is now only 3%. All the ponds and water bodies have been filled up. Also, unplanned urbanization has put us in trouble, as 330 sq-km out of the total 400 sq-km area of Dhaka has already full of houses, hampering water flow routes,\" the DNCC mayor further said, adding that the authorities are in the process of mapping problem areas to find a solution. Dhaka South City Corporation (DSCC) Mayor Sayeed Khokhon said: \"Due to lack of proper maintenance of box culverts, water flows very slowly- at maybe at 5-10% the speed of the usual flow.\" Criticizing Dhaka Wasa, he said most city canals have been illegally occupied, and the few remaining ones are not even cleaned regularly. The DSCC mayor emphasized the need to increase the capacity of public service organizations and raise public awareness in order to address water logging. Dhaka Water Supply & Sewerage Authority (Wasa) Managing Director Taqsem A Khan could not be reached for comment as he is out of the country, while other senior Dhaka Wasa officials refused to speak on the matter."
+}

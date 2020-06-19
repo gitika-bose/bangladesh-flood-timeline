@@ -1,0 +1,122 @@
+[
+  {
+    "query": "bangladesh \"floods\"",
+    "paper": "newAge",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh \"floods\"",
+    "paper": "newAge",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "https://www.newagebd.net/article/17145/flash-floods-inundate-100-villages-in-moulvibazar-again",
+      "http://www.newagebd.net/article/12254/cyclone-debbie-queensland-braced-for-dangerous-floods",
+      "https://www.newagebd.net/article/22779/flood-adversely-affected-life-livelihood-in-dinajpur",
+      "http://www.newagebd.net/article/22779/flood-adversely-affected-life-livelihood-in-dinajpur",
+      "https://www.newagebd.net/article/20232/heavy-rain-causes-flooding-in-parts-of-feni-chittagong",
+      "https://www.newagebd.net/article/22761/green-chilli-price-soars-by-tk-100-a-kg",
+      "https://www.newagebd.net/article/18921/flood-forces-360-schools-into-closure",
+      "http://www.newagebd.net/article/24043/no-politics-over-rice:-food-minister",
+      "http://www.newagebd.net/article/23604/prices-of-vegetables-increase-",
+      "http://www.newagebd.net/print/article/18921",
+      "http://www.newagebd.net/article/21933/10-lakh-people-marooned-18-die",
+      "http://www.newagebd.net/article/15454/govt-yet-to-begin-boro-procurement",
+      "http://www.newagebd.net/article/23166/building-collapses-in-mumbai-two-dead-over-30-feared-trapped",
+      "https://www.newagebd.net/article/15454/govt-yet-to-begin-boro-procurement",
+      "http://www.newagebd.net/article/22791/disaster-looms-as-hurricane-harvey-bears-down-on-texas",
+      "http://www.newagebd.net/article/18533/imports-rise-by-594pc-in-may-on-ramadan-food-items",
+      "http://www.newagebd.net/article/27833/2017-set-to-be-hottest-non-el-nino-year-un",
+      "https://www.newagebd.net/article/27714/articlelist/323/Cartoon",
+      "http://www.newagebd.net/article/23250/search-goes-on-for-harvey-survivors-trump-requests-aid",
+      "https://www.newagebd.net/article/30181/bangladesh-loses-1pc-gdp-for-air-pollution",
+      "http://www.newagebd.net/article/21884/two-lakh-people-marooned-bus-train-links-snapped",
+      "http://www.newagebd.net/article/18895/acc-sues-15-bwdb-officials-among-61",
+      "https://www.newagebd.net/article/19832/the-poor-need-microsavings-not-microcredit",
+      "https://www.newagebd.net/article/22433/flood-hit-families-to-get-food-assistance-for-3-months-pm",
+      "https://www.newagebd.net/print/article/14248"
+    ]
+  },
+  {
+    "query": "bangladesh \"floods\"",
+    "paper": "newAge",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": [
+      "https://www.newagebd.net/article/45507/floods-situation-worsens-in-bogra-jamalpur-sirajganj",
+      "https://www.newagebd.net/article/49984/bangladesh-alert-to-brahmaputras-likely-swell-up",
+      "http://www.newagebd.net/article/45507/floods-situation-worsens-in-bogra-jamalpur-sirajganj",
+      "https://www.newagebd.net/article/43320/highest-ever-rice-import-from-india-in-fy18",
+      "http://www.newagebd.net/article/43320/highest-ever-rice-import-from-india-in-fy18",
+      "http://www.newagebd.net/article/35972/40pc-works-still-to-be-done-as-deadline-missed/articlelist/323/Cartoon",
+      "http://www.newagebd.net/article/50203/atrocities-against-rohingyas:-un-urges-icc-to-urgently-open-probe-",
+      "https://www.newagebd.net/article/54107/india-rice-export-prices-dive",
+      "https://www.newagebd.net/article/43949/thousands-marooned-in-sylhet-flood",
+      "https://www.newagebd.net/article/52138/govt-to-dredge-river-old-brahmaputra",
+      "http://www.newagebd.net/article/48396/dhaka-stands-2nd-next-to-syrias-damascus",
+      "http://www.newagebd.net/article/58217/lowland-filling-driving-last-nail-in-dhakas-coffin-iqbal-habib",
+      "https://www.newagebd.net/article/43893/rice-prices-go-up-after-govt-hikes-import-duty",
+      "http://www.newagebd.net/article/42031/crop-intensification-looms-large-in-coastal-region"
+    ]
+  },
+  {
+    "query": "bangladesh \"floods\"",
+    "paper": "newAge",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://www.newagebd.net/article/86264/fresh-flood-feared-in-bangladesh-as-india-opens-all-farakka-gates",
+      "https://www.newagebd.net/article/80279/bangladesh-floods-damage-crops-worth-tk-1153cr",
+      "https://www.newagebd.net/article/80611/fresh-floods-likely-in-bangladesh-after-mid-august",
+      "https://www.newagebd.net/article/79692/floods-inundate-new-areas",
+      "https://www.newagebd.net/article/79899/floods-make-children-skip-school",
+      "http://www.newagebd.net/article/79899/floods-make-children-skip-school",
+      "https://www.newagebd.net/article/79565/fresh-floods-hit-north",
+      "https://www.newagebd.net/article/86287/brief-shower-floods-dhaka",
+      "https://www.newagebd.net/article/70388/loan-sharks-prey-on-people-affected-by-disasters-in-bangladesh",
+      "http://www.newagebd.net/article/70388/loan-sharks-prey-on-people-affected-by-disasters-in-bangladesh",
+      "https://www.newagebd.net/article/89222/sea-water-likely-to-flood-a-fourth-of-bangladesh-by-2050-study",
+      "https://www.newagebd.net/article/86456/flood-woes-intensify-as-ganges-flow-keeps-rising",
+      "https://www.newagebd.net/article/79637/bangladesh-flood-thailand-drought-stoke-concern-of-drop-in-asia-rice-supply",
+      "https://www.newagebd.net/article/92685/bangladesh-7th-most-climate-affected-country",
+      "https://www.newagebd.net/article/78681/six-die-as-flooding-worsens",
+      "https://www.newagebd.net/article/87458/on-feni-river-water-allocation-agreement",
+      "https://www.newagebd.net/article/81757/material-belongings-of-thousands-of-families-burnt-to-ashes",
+      "http://www.newagebd.net/article/69544/early-boro-rice-harvest-advised-in-north-eastern-region",
+      "http://www.newagebd.net/article/89866/use-insurance-industry-for-humanitarian-welfare-pm",
+      "https://www.newagebd.net/article/69544/early-boro-rice-harvest-advised-in-north-eastern-region",
+      "https://www.newagebd.net/article/71582/flash-flood-strikes-haor-areas-in-north-east-bangladesh",
+      "http://www.newagebd.net/article/64259/100-year-delta-plan-threat-to-deltaic-equilibrium-experts?fbclid=IwAR23Rtx5q_UvMvIAJ1k7_HgnnSYiOawGRpkdo7k-1CRQ7Noghz83V2dEyTI",
+      "https://www.newagebd.net/article/68075/man-made-disasters-increase-vulnerability-experts",
+      "https://www.newagebd.net/article/80455/bangladesh-bank-intervenes-nominally-in-forex-market-in-july",
+      "http://www.newagebd.net/article/93882/farm-loan-release-rises-by-111pc-in-july-nov",
+      "https://www.newagebd.net/article/86350/indias-river-water-withdrawal-causes-encroachment-pollution",
+      "https://www.newagebd.net/article/84885/frequent-long-heat-waves-reduce-monsoon",
+      "https://www.newagebd.net/article/65239/dollar-exceeds-tk-84-despite-injection-of-15b-in-8-months",
+      "http://www.newagebd.net/article/64218/12th-death-anniversary-of-kazi-anowar-observed",
+      "https://www.newagebd.net/article/87292/rohingyas-should-be-educated-in-their-mother-tongue-dipu-moni",
+      "https://www.newagebd.net/article/62787/india-rice-export-prices-rise-vietnam-slip-before-holiday",
+      "https://www.newagebd.net/article/81122/nature-gridlocks-disrupt-eid-journeys",
+      "http://www.newagebd.net/article/81122/nature-gridlocks-disrupt-eid-journeys",
+      "http://www.newagebd.net/article/75234/full-text-of-budget-speech",
+      "http://www.newagebd.net/article/89474/impacts-of-climate-change-on-children",
+      "https://www.newagebd.net/article/89474/impacts-of-climate-change-on-children",
+      "https://www.newagebd.net/article/71776/world-red-cross-day-today",
+      "http://www.newagebd.net/article/68019/strong-rupee-pushes-india-rice-export-prices-to-7-month-high",
+      "https://www.newagebd.net/article/72910/conservatives-keep-power-in-australia-election-victory",
+      "https://www.newagebd.net/article/92443/un-chief-warns-of-climate-chaos-as-cop25-kicks-off",
+      "https://www.newagebd.net/article/78928/rain-waterlogging-and-the-futility-of-government-agencies",
+      "https://www.newagebd.net/article/85590/saving-planet-means-overthrowing-ruling-elites"
+    ]
+  }
+]

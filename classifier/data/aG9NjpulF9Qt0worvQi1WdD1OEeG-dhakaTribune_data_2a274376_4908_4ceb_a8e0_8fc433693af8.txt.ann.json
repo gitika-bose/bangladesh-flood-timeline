@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_2a274376-4908-4ceb-a8e0-8fc433693af8.txt",
+  "text": "Date Published:2019-04-09 00:00:00      \nAs part of the demonstration, the Uber riders also staged a sit-in procession in the afternoon Several hundred Uber riders on Tuesday formed a human chain at Shohoshahar in Chattogram protesting the fare-cut and alleged miscalculation in their accounts with the ride-sharing company. As part of the demonstration, the Uber riders also staged a sit-in procession in the afternoon. The agitating riders alleged that the ride-sharing company suddenly decided to trim its base fare from Tk 30 to Tk 25 and per kilometer fare from Tk 12 to Tk 10. During the demonstration, which continued for around two hours from 11am in front of the Uber office, the aggrieved riders chanted slogans against the fare-cut and asked the authorities concerned to withdraw the decision. Md Russel, an Uber rider, told the Dhaka Tribune that the Uber authorities suddenly reduced the base fare by Tk 5 and kilometre fare by Tk 2. \"When we approached the local office about the reduction, they said that they have nothing to do as it was decided centrally,\" said the Uber rider. Threatening to go on tougher movement if the decision is not repelled, the riders said they would boycott the ride-sharing platform, if necessary.   The Uber riders announced to stage demonstrations in the Agrabad area on Wednesday.      At present, around 15,000 Uber riders are operating the port city."
+}

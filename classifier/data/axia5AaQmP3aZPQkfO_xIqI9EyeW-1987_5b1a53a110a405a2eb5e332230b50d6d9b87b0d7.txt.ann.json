@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1987_5b1a53a110a405a2eb5e332230b50d6d9b87b0d7.txt",
+  "text": "POPULATION BOMB': CONCERN FOR FUTURE GENERATIONS\n1987-12-06T05:00:00.000Z\nThe need for population control is so critical that at the risk of belaboring the point, I would like to rebut the arguments challenging Diana Gerhardt's article.\nThe biblical passage quoted refers to Creation and the necessity of filling an earth not yet sown with human seed.\nAs to proper usage of land - converting from tobacco to grain crops - these are stopgap measures. Land areas are finite, and eventually the doubling and tripling of numbers will manifest itself as it has in the past.\nFortunately, we as a nation do not know the face of famine. Other societies have been less favored. When there was a migration into India from Bangladesh, the desperate villagers fell upon the intruders and hacked them to death. The media reported the incident as an act of savagery, but the underlying conditions, depletion of food resources and ultimate disaster, demonstrated in all its ugliness that what little remains can be divided, subdivided, just so far before the bowl is emptied of its last grain.\nParents who have not seen their young wither cannot comprehend famine. A baby who is amply fed emits a strident, lusty cry. A dying offspring slumbers, its cries feeble, till it succumbs to its pitiful fate.\nLest we lull ourselves to the realities, we must educate so that ignorance, stubbornness and pride do not become the apocalyptic horsemen who replicate on our continent the horrors of other worlds.\nThe signs are already present. In September, a news photo showed a father holding the hand of his year-and-a-half-old son being treated for malnutrition in an El Salvadoran hospital. The toddler weighed 11 pounds! HELEN KRANTZ Hempstead"
+}

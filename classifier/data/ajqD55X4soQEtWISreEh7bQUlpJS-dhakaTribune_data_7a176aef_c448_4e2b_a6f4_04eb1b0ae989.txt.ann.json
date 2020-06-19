@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_7a176aef-c448-4e2b-a6f4-04eb1b0ae989.txt",
+  "text": "Date Published:2019-07-20 00:00:00      \n'I was admitted two days ago but I was not given a bed yet. I am not getting proper health care. Doctors are never on time; they come, and go as they please' The Cox's Bazar Sadar Hospital was designed and built to accommodate 250 in-patients. But, on any given day there are between 400 to 600 in-patients from all corners of the district, during the current monsoon, and cyclone season. International non-governmental organizations (NGOs) along with the Bangladesh government are working to improve the services of the much important hospital, which is the primary source of health care for nearly 250,000 people in the district. Although the hospital is returning to its former glory in providing standardized services, the grievance of the patients from near, and far has not minimized in proportion.  The patients coming to receive health care are raising various complaints regarding mismanagement, irregularities, corruption, and overall patient-doctor experience. The health care process has improved somewhat, but to no good end. Patients said, they are suffering from a shortage of beds, frequent power outages, and hassle from brokers looking for commissions. The hospital should be able to accommodate 250 patients, but in reality, it does not have the required manpower or resources to even run a 150-bed hospital, said locals.   Patients waiting in a jam-packed line in front of the ticket counter to see the doctor is an everyday scenario. After a daylong wait, some who manage to see the doctor is satisfied, while others are disappointed as they do not get the chance.  According to patients and visitors, the women's ward on the fourth floor is always crowded with patients, making it difficult for doctors to attend to each, and everyone. Due to the shortage of beds some patients share beds, while others are accommodated on the floor, and the corridors. Razia Begum, a patient accommodated on the floor said: \"I was admitted two days ago but I was not given a bed yet. I am not getting proper health care. Doctors are never on time; they come, and go as they please.\"  Another patient, Mehrab Hossain said: \"A hospital is supposed to have the cleanest environment, but this place is making people even sicker. The management should promptly take steps to provide more patient-centric services.\" Hospital Coordinator Md Mohiuddin said: \"International Committee of the Red Cross (ICRC), an NGO, along with the Health and Planning Ministry yesterday inaugurated the newly improved emergency room with increased staff members, and modern equipment. \"We hope to provide modern, and international standard services from now on.\""
+}

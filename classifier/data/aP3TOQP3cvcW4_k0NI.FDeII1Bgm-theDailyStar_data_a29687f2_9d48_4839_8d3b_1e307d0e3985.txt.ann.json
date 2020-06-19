@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_a29687f2-9d48-4839-8d3b-1e307d0e3985.txt",
+  "text": "Date Published:2020-05-22 00:00:00      \nMay 22, 1972 BANGABANDHU'S MEETING WITH STUDENT LEAGUE MEMBERS In a meeting with members of the Student League,Bangabandhu Sheikh Mujibur Rahman expresses his strong belief in the four principles of nationalism, socialism, democracy and secularism. \"It doesn't matter if it is called Mujibism or not. These four were the guiding principles of the Independence movement and the country will be run by these principles,\" he adds. Nur e Alam Siddiqi and Abdul Kuddus Makhon, along with some elected Student League members in the Ducsu elections, call on the prime minister today at Bangabhaban to seek his blessings. SCREENING BOARD DEMANDED Zillur Rahman, general secretary of the Awami League, execrates the bureaucratic attitude of some government officials. \"They still hold the ideology of Pakistan and they are trying to tarnish the image of the government,\" he adds.  In a statement issued today, he demands immediate formation of a screening board to scrutinise activities of these government employees. INDO-BANGLADESH JOINT PROGRAMME ON RIVER DEVELOPMENT Bangladesh and India have formulated a joint programme on flood and cyclone warning system and power, irrigation and river development. This progamme will be implemented soon after the formation of the Joint River Commission and Joint Power Development Board. DHAKA TRANSPORT PLAN\n The government is formulating a detailed transport plan to resolve the transport crisis in the capital. Under this plan, there will be a bus every five minutes in the long routes of greater Dhaka region including Narayanganj, Demra and Tongi. There will also be arrangements for special buses at rush hours. Around 500 buses will be required to implement this transport plan. MINIMUM WAGE OF TK 200 DEMANDED The two-day National Convention of Sramik League ends today. The leaders of the organisation appeal to the workers to devote themselves to the task of reconstruction of the war-ravaged economy by increasing production in industrial units. The Convention demands Tk 200 as minimum wage for workers. They also urge the government to take immediate action to resume operation of the closed mills and factories.  SOURCE: May 23, 1972 issue of Dainik Bangla.                                                                                                                                         "
+}

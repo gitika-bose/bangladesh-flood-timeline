@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_14e91354-f0b5-4e39-b0a3-300b97c111b1.txt",
+  "text": "Date Published:2020-01-01 00:00:00      \nLike previous years, monitoring of water level at different points of the Ganges and Padma, the two major rivers of India and Bangladesh, kicked off this morning under the Ganges Water Sharing Treaty 1996. A two-member Indian delegation accompanied by Rejaul Karim, executive engineer of Hydrology of Pabna, and twi other Bangladeshi experts started monitoring flow of water at Hardinge Bridge point, about 2500 feet upstream from the Padma river at Kushthia's Veramara point. The Indian delegation members are Nashid Iqbal and Rahul PR, deputy director and sub-divisional engineer of Indian Central Water Commission (CWC). \"Under the Ganges water sharing treaty, the experts of the two countries monitor the flow of water in Ganges and Padma from January 1 to May 31 every year.\" said engineer Md Rejaul Karim. At the same time, a four-member Bangladesh delegation including Md Mujibur Rahman, executive engineer of Joint Rivers Commission (JRC); and AKM Anisur Rahman, executive engineer of Water Development Board; also started monitoring water level at the Farrakkah point in India. The flow of water in the mighty river Padma is much better than that of previous years, all because of the sudden rise of water level in September and October last year, according to the Hydrology Department, a wing of Ministry of Water Resources. \"Padma is flowing above 1 lakh to 1.4 lakh cusec at the Hardinge bridge point at this moment this year although the water level was 80 to 90 thousands cusec last year.\" Md Rejaul Karim said. This is the highest ever water level in Padma during dry season, Rejaul said adding that the water level increased in September and October last year due to the sudden flood."
+}

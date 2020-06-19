@@ -1,0 +1,498 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "cyclone",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 15,
+          "text": "2019-05-27"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_50": {
+          "value": "2019-05-05",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 41,
+          "text": "Around 60 kilometres of flood control embankment"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "60 kilometres of flood control embankment damaged",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 90,
+          "text": "in Patuakhali and Barguna"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 145,
+          "text": "tidal surges caused by the impact of cyclone Fani"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "coastal_cyclone",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 573,
+          "text": "Of the damaged embankment, around 30 kilometre"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "30 km embankment damage",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 623,
+          "text": "under Patuakhali"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Patuakhali",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 671,
+          "text": "10.5 kilometre"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "10.5 kilometre embankment damage",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 686,
+          "text": "under Kalapara WDB in Patuakhali"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_40": {
+          "value": "Kalapara",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_39": {
+          "value": "Patuakhali",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 723,
+          "text": "18.5 kilometre"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "18.5 kilometre embankment damage",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 741,
+          "text": "in Barguna"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Barguna",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|573,618",
+        "s1v1|e_2|623,638"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|671,684",
+        "s1v1|e_2|686,717"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|723,736",
+        "s1v1|e_2|741,750"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|41,88",
+        "s1v1|e_49|15,24"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|573,618",
+        "s1v1|e_49|15,24"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|671,684",
+        "s1v1|e_49|15,24"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|723,736",
+        "s1v1|e_49|15,24"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  ],
+  "filename": "theDailyStar_data_4b569704-eaf6-4a52-aca7-6275761fc994.txt",
+  "text": "Date Published:2019-05-27 00:00:00      \nAround 60 kilometres of flood control embankment in Patuakhali and Barguna got badly damaged due to the tidal surges caused by the impact of cyclone Fani. Moreover, thousands of people at different villages in those two districts have been suffering a lot as their dwelling houses and vast tracts of agricultural land remained inundated due to the impact of the recent cyclone. Besides, tidal water keeps entering those villages through the damaged portion of the flood control embankment since the cyclone hit the southern region. Of the damaged embankment, around 30 kilometre is under Patuakhali Water Development Board (WDB), 10.5 kilometre under Kalapara WDB in Patuakhali and 18.5 kilometre is in Barguna, according to Patuakhali and Barguna WDB offices. Patuakhali WDB Executive Engineer Mohammad Hasanuzzaman said of the 30 kilometre, about 5.5 kilometre was damaged fully and 24.5 kilometre partly. The most affected villages are Mehendiabad, Ranipur, Golkhali, Hazikhali and Charkhali, all along the Payra river in Mirzaganj upazila. \"We have already sent a letter to the higher authorities, seeking allocation of fund to repair the badly damaged portion in an emergency basis,\" he said. Meanwhile, in Kalapara, around 10.5 kilometre dyke was badly damaged and tidal water keeps entering through the damaged portion in different villages. Of the villages, Kamarpur, Nizampur, Puran Mohipur, Yousufpur, Monoharpur, Najibpur under Mohipur union and Chairpara, Nawapara, Chowdhuripara, Nayakata, Munshipara, Chandupara, Hasnapara, Poshurbunia under Lalua union are most vulnerable. Abul Talukder, a resident of Nayakata village, said the flood control embankment along on the Ramnabad river was badly damaged during the super cyclone Sidr and later repaired hurriedly. Feroza Begum of Charipara village said they often suffer from waterborne diseases as their houses and croplands remained inundated during the rainy season. \"We cannot even cook our food properly during the rainy season,\" she said. Lalua Union Parishad Chairman Shawkat Hossain said at least 16 villages under his union have been inundated after a portion of the flood control dyke along the Ramnabad river broke down. Kumar Sastik, acting executive engineer of Kalapara WDB, said they sent a fax to the higher authorities for allocation of fund. After getting allocation we will take step to repair the dyke, he said. In Barguna, due to lack of repair around 18 kilometre of the flood control dyke at 37 spots is under threats. The most vulnerable areas are Chotobaliatali, Noltona, Lakurtala, Dalvanga, Angerpara, Jangalia, Patakata, Gudighata, Gulishakhali, Chalitatali and Noli under Barguna Sadar upazila, Boloybinia, Deshantorkathi and Jhopkhali under Betagi upazila, Kakchira, Charlathimara, Ruhita, Jintala and Padma under Pathorghata upazila, Ramna, Shafipur, Chechan, Shinrabunia and Borotaleshwar under Bamna upazila and Poshorbunia, Poshimghotkhali and Purbochila under Amtali upazila. Barguna WDB Executive Engineer Dipak Ranjon Das said they have informed their higher authorities about the damaged embankment."
+}

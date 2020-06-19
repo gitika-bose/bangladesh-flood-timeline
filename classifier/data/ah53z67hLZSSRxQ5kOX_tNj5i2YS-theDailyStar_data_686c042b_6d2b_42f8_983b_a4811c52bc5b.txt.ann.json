@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_686c042b-6d2b-42f8-983b-a4811c52bc5b.txt",
+  "text": "Date Published:2019-04-18 00:00:00      \nThousands of Santal and Bangalee students of eight high schools Gobindaganj upazila of Gaibandha have taken oath to build a humanitarian Bangladesh with communal harmony.  Local people also participated in the programme jointly organised by Abalambon, a voluntary organisation, and Human Rights Programme of UNDP at Mahmudbagh Islamia High School ground around 4:00pm today, our local correspondent reports.   The programme included discussion meeting, oath taking, debate competition and cultural events. The programme would enable students to learn how to behave with children, women, ethnic minorities and people with disabilities with fairness, speakers said. Education is not only for becoming doctors and engineers, but the students should also learn humanity from education, they said. The speakers also urged all the students to be loyal to the country's constitution and human rights and not to get involved in terrorism, militancy, drug addiction and corruption. They also called upon all to play a vital role in building the country in the spirit of the great Liberation War. The students also pledged to behave respectfully with the elderly and with the people of other communities, and agreed to be fair to all irrespective of religion and caste. The two-day event started yesterday when contestants from each school participated in debates and other events. On the concluding day, artists of ethnic and Bangalee communities performed in cultural events today. The programme was presided over by Shafique Mahmud Golap, president of the managing committee of the school. Philimon Baske, president of Shahebgan-Bagda Farm Bhumi Uddher Sangram Committee; Sadequl Islam, agriculturist; Anjali Rani Devi, human rights activist; Rumilla Hembrom, debate coordinator; Abdus Samad, principal of the school; and British Soren, adivasi jubo leader, spoke during the event among others."
+}

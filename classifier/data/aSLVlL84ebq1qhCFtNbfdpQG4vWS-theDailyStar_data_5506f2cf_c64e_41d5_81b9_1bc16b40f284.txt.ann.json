@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_5506f2cf-c64e-41d5-81b9-1bc16b40f284.txt",
+  "text": "Date Published:2019-08-11 00:00:00      \nCattle markets in Lalmonirhat Sadar upazila are seeing an oversupply on the occasion of Eid-ul-Azha as flood-hit farmers are putting up their cows for sale due to dearth of animal fodder. Villages and chars along the Teesta and Dharala rivers were hit hard by flash flood twice lately when huge amounts of fodder got damaged. As a result, farmers and small scale traders are seeing no option but to sell off their cows. In consequence, the prices have dropped sharply in all 25 cattle markets of the district. Mozibur Rahman, 55, brought three cows to sell at Durakuti Haat, one of the biggest cattle markets in the Sadar upazila, on August 6, five days before Eid-ul-Azha. He could sell only one cow at Tk 42,000 and returned home with the rest. \"I bought the cow at Tk 55,000 three months ago but now had to sell it at a loss in the same market,\" said Mozibur, a farmer of Kalmati village located on the bank of Teesta. \"I would never have sold it at such a low price if was not in a financial crisis,\" he told this correspondent. Another farmer, Nazu Miah, 50, of Bongram village said, \"Grasses and hays were largely damaged by the recent flood. The crisis of fodder has compelled us to sell cattle at low rates. \"I had nurtured four cows with an aim to earn Tk 200,000 by selling them. But I got only Tk 82,000 by selling two of them, the rest are still unsold,\" he said adding, supply of cattle was greater than demand this season. Jitish Chandra Sen of Falimari char had 19 cows. \"My two cows got washed away by flood while I have sold 10 dirt-cheap. This happened due to an acute crisis of fodder in our flood affected village,\" said the 63-year-old farmer. \"Prices have fallen sharply this year due to oversupply. The flood affected farmers are bringing their cattle but are returning with disappointment.\" Said Hazrat Ali, a trader in Durakuti Haat. Similar condition was prevailing in 25 other cattle markets in the district, he told this paper. Mizanur Rahman, 50, who came from Thana Para of Lalmonirhat town, said he purchased one cow at price lower than last year. \"From a large number of verities, I selected one and bought it at Tk 48,000,\" said the content customer. Lalmonirhat Zila Parishad Chairman Matiar Rahman was at the Haat on August 6. \"Buyers are happy to get cattle at reasonable prices but flood affected farmers and small scale traders are unhappy as they are being compelled to sell off their cows on the occasion of Eid,\" said Matiar, also general secretary of Awami League Lalmonirhat district unit.  "
+}

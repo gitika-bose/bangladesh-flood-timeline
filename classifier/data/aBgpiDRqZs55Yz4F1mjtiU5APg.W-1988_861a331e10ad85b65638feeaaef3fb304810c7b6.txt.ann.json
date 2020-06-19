@@ -1,0 +1,128 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 46,
+          "text": "1988-09-22"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_50": {
+          "value": "1988-09-22",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 259,
+          "text": "have claimed at least 1,000 lives"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "1000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [],
+  "filename": "1988_861a331e10ad85b65638feeaaef3fb304810c7b6.txt",
+  "text": "U.S. Agency Urges More Aid for Bangladesh Now\n1988-09-22T05:00:00.000Z\nThe Agency for International Development has urged President Reagan to send additional relief assistance immediately to Bangladesh, where floods that affected three-fourths of the country have claimed at least 1,000 lives, according to a report by the agency.\nThe report, which was requested by the President and presented this week to White House officials by Jay F. Morris, the A.I.D. deputy administrator, concludes that the United States should immediately provide an additional $20 million in 80,000 tons of food aid, between $1 million and $2 million in urgently needed medical supplies, oral rehydration salts and water purification tablets as well as other disaster and surveillance assistance.\nThe report also recommends that the aid agency develop a plan with other countries to rehabilitate Bangladesh and address the long-term causes of flooding in the region.\n''It is a disaster of historic proportions, mind-numbing,'' said Mr. Morris, who returned last week from a six-day tour of the flood-ravaged country. ''I don't really know how to describe it except to say that it's certainly the largest flood I could ever imagine.'' During his visit, Mr. Morris met with officials, relief workers and flood victims and delivered a letter from President Reagan to President H. M. Ershad expressing concern and a promise ''to do what we can to help.''\nAs part of its relief effort, the United States has already speeded up the availability of about $150 million in aid to Bangladesh, including food aid, disaster relief supplies and local currency earnings.\nThe report stressed that the full effect of the flood and the ultimate needs of the people of Bangladesh will become known only over the next few months. It predicted the possibility of ''significant loss of life and degradation of human welfare over the next three to six months.''\nOfficials in Bangladesh say millions of people in the capital, Dhaka, have been exposed to disease by drinking contaminated water. #25 Million Homeless The flood has so far claimed 1,000 lives, according to official figures, but unofficial estimates put the dead at 2,000 or more. The Bangladeshi Government says that a fourth of the deaths were caused by diarrhea, and that the others were caused by drowning, building collapses and snake bites.\nAccording to the A.I.D. report, 25 million people lost their homes in the flood, which inundated five million acres of rice land and damaged 43,000 miles of roads."
+}

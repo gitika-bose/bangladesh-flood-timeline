@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_cb205de9-5df4-479e-a4dc-371ad06507e7.txt",
+  "text": "Date Published:2020-01-16 00:00:00      \nThree compartments of Chittagong-bound 'Bijoy Express' from Mymensingh veered off the tracks near Gouripur rail station Rail communication on the Mymensingh-Chittagong route have resumed after an eight-hour suspension following the derailment of three coaches at Gouripur rail station on Wednesday night. Three compartments of Chittagong-bound \"Bijoy Express\" from Mymensingh veered off the tracks around 9:30pm on Wednesday, reports UNB. The accident halted train movement on the route, Mosharraf Hossain, officer-in-charge of Government Railway Police confirmed the news. Rail services resumed around 5:30am on Thursday after a relief train from Mymensingh salvaged the derailed coaches, he said."
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1989_9bf3d6911d4888cd85d66fd511b887140e495f94.txt",
+  "text": "India Keeps Border With Nepal Open\n1989-06-22T05:00:00.000Z\nTo the Editor:\nIt is surprising you speak of a ''blockade'' of Nepal imposed by India (''India as International Bully,'' Topics item May 25), while on the same day you carry a report from your correspondent in Nepal categorically stating that ''India is allowing transit of essential goods.''\nYou speak of Nepal's rights to transit points as a landlocked country. According to international law, Nepal is entitled to one transit point. India has kept open four transit points on the India-Nepal border. No consignments are held up or awaiting clearance.\nYou write that Representative Durbin was ''disturbed'' after visiting the region and has asked Congress to urge India to reopen the border. We understand that Mr. Durbin visited Nepal, Bangladesh and India in January-February, almost two months before the treaties lapsed. Your report is to that extent not correct. The India-Nepal border is not closed. Only the transit trade crossings have been decreased in number.\nIt is highly unfair on your part to attribute the current trade and transit dispute between India and Nepal to Nepal's relations with third countries. When bilateral treaties lapse, they are renegotiated bilaterally. You may like to note that India has unilaterally offered to Nepal essential commodities for purchase - such as sugar, baby food, medicines, coal, etc. - which demonstrates a degree of magnanimity on the part of India, not the characteristics of a ''bully.'' Total availability of such products in Nepal will depend upon the volume and value for which contracts are signed by Nepal and the Nepalese parties, and not merely upon the number of transit points. R. DAYAKAR Press Counselor, Embassy of India Washington, June 5, 1989"
+}

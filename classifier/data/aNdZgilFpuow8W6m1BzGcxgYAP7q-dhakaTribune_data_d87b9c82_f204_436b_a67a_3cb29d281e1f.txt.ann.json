@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_d87b9c82-f204-436b-a67a-3cb29d281e1f.txt",
+  "text": "Date Published:2020-03-06 00:00:00      \nHe proposed a three-point plan for India's current economic slowdown and social unrest Former Indian prime minister Manmohan Singh has spoken out against the recent predicaments unravelling in India including the economic slowdown, social unrest, and global coronavirus epidemic. Over the past few weeks, Delhi has been subjected to extreme violence over religious disputes following the enactment of the Citizenship (Amendment) Act, which provides access to citizenship for religiously persecuted minorities, excluding Muslims.  Singh, in an op-ed in The Hindu, even criticized people who use past instances of such violence in India's history to justify the present violence in the country, adding that: \"Every act of sectarian violence is a blemish on Mahatma Gandhi's India.\" Singh suggested that the Indian government implement a three-point plan which includes taking measures to contain the coronavirus threat, withdrawing or amending the Citizenship Act, and creating a holistic fiscal stimulus plan to boost consumption demand.  By removing religious stipulations from the Citizenship Act, India would be ending the toxic social climate and foster national unity, as well as reviving the economy. India's economy is currently facing an economic slowdown due to a lack of new private investment, since investors are unwilling to take on new projects over the looming uncertainty of volatile social tensions.  The lack of investment translates to a lack of jobs and incomes, which in turn means a lack of consumption and demand in the economy. This lack of demand further suppresses private investments, leading to a vicious cycle.  Singh, a renowned economist, stated that no amount of tweaking of tax rates, showering of corporate incentives, or goading will propel Indian or foreign businesses to invest, when the risk of eruption of sudden violence in one's neighbourhood looms large. Furthermore, the fear of the coronavirus epidemic reaching India threatens to dampen economic growth, further exacerbating the dire situation of the Indian economy. Despite the ambiguity of the situation, Singh proposes that India launch a full-scale, mission-mode operation to counter the threat immediately. Moreover, Singh has said that Indian Prime Minister Narendra Modi must convince the nation that he is cognizant of the dangers and reassure the nation that he can help tide over this period of violence and uncertainty as smoothly as possible. He must also provide details of a contingency plan for the threat of the coronavirus scare. He adds that the virus contagion and the slowing down of China can potentially open up an opportunity for India to unleash reforms to become a larger player in the global economy and vastly improve prosperity levels for millions of Indians. \"It is time to confront the harsh reality of the grave risks we face as a nation and address them squarely and sufficiently.\" "
+}

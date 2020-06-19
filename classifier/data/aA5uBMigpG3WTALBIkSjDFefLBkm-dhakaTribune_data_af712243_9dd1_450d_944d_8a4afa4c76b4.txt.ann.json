@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_af712243-9dd1-450d-944d-8a4afa4c76b4.txt",
+  "text": "Date Published:2020-02-28 00:00:00      \nBoth the officials sustained burn injuries in the explosion, which occurred on Friday night  Two policemen and a child have been injured in an explosion near a traffic police box in Sholoshahar Gate No 2 area of Chittagong city. The incident took place on Friday night. Both the officials sustained burn injuries in the explosion, which occurred around 9:30pm, said Inspector Zahirul Bhuiyan, in-charge of the Chittagong Medical College and Hospital (CMCH) police outpost. They were admitted to the burn unit at the hospital, he said. One of the injured is Traffic Sergeant Arafat Hossain while the other is an assistant town sub-inspector (ATSI), but Zahirul could not say his name.  The injured child, who could not be identified immediately, was also undergoing treatment at the hospital's casualty ward, he added. Soon after the incident, police cordoned off the area. A bomb disposal unit of the Chittagong Metropolitan Police (CMP), members of Police Bureau of Investigation (PBI) and other law enforcement agencies rushed to the spot and were looking into the incident. "
+}

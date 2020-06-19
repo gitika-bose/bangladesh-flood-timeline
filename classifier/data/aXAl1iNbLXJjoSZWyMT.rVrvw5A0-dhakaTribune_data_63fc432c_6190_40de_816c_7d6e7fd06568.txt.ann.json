@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_63fc432c-6190-40de-816c-7d6e7fd06568.txt",
+  "text": "Date Published:2020-03-02 00:00:00      \nEarlier in the day, the Supreme Court rejected Gupta's curative petition A court in Delhi on Monday stayed the execution of the four convicts in the 2012 Delhi gangrape and murder case, ANI reported.  Akshay Thakur, Vinay Sharma, Mukesh Singh and Pawan Gupta were scheduled to be hanged at Tihar Jail in Delhi on Tuesday at 6am. The court deferred the matter after one of the convicts, Pawan Gupta, filed a mercy petition before India's President Ram Nath Kovind earlier in the day. His lawyer had requested the court to stop the execution citing the petition. Additional Session Judge Dharmender Rana rapped his lawyer for filing the curative and mercy pleas so late. \"You are playing with fire, you should be cautious,\" said the judge, adding, \"One wrong move by anybody and you know the consequences.\" Earlier in the day, the Supreme Court rejected Gupta's curative petition. He had sought commutation of his death penalty to life imprisonment. The four convicts were given the death penalty - first by a trial court in September 2013, which was upheld by the Delhi High Court six months later and the Supreme Court in May 2017.  The death warrants were first issued for January 22, and then postponed to February 1 because of the mercy pleas filed by two of the convicts.  Gupta was the only one among the four convicts who had not availed of the legal remedies. His counsel had told a sessions court in Delhi earlier this that he could not avail any legal remedy as his earlier lawyer did not meet him during the seven-day period granted by the Delhi High Court. The four men, along with two others, raped and brutally assaulted a 23-year-old physiotherapy student in a moving bus in Delhi on the night of December 16, 2012.  The woman succumbed to her injuries two weeks later at a hospital in Singapore. The gangrape triggered huge protests in the Indian capital and across the country.  One convict died in prison, while a minor convict was sent to a detention home for juveniles and was released in December 2015."
+}

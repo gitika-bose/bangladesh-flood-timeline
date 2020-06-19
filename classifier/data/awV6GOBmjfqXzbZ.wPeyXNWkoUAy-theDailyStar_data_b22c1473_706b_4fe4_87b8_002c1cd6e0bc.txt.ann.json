@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_b22c1473-706b-4fe4-87b8-002c1cd6e0bc.txt",
+  "text": "Date Published:2020-04-13 00:00:00      \nBangladesh Water Development Board (BWDB) today forecasted flash flood in Haor regions of Sunamganj and Sylhet as India's Meteorological Department predicted excessive rainfall in the north-eastern part of Bangladesh and in the bordering areas of India from April 17 to 20.   Flood Forecast and Warning Centre (FFWC) of the BWDB issued a forecast notice in this regard on its official website today, reports our Sylhet correspondent. Talking to our correspondent, Md Arifuzzaman Bhuiyan, executive engineer of FFWC in Dhaka, said \"India's Meteorological Department forecasted 150-250 millimetre of rain in Meghalaya and Barak valley of India, and 100-120 millimetre at Tripura valley of India. The rainfall might occur from April 17 to 20. Moreover, it will rain in the north-eastern part of Bangladesh.\" \"Following the forecast of rainfall, we are predicting that the water of all major rivers of the Meghna Basin will rise promptly and small rivers might flow over the danger level. That's why we are forecasting a possible flash flood in the region,\" he said. Taking the forecast in consideration, Sunamganj Deputy Commissioner Mohammad Abdul Ahad today circulated a notice to harvest Boro paddy as soon as possible before the flash flood hits the haor region. In the notice, the DC ordered all the Project Implementation Committees (PIC) to strictly monitor the conditions of dykes, constructed under Kajer Binimoye Taka (KaBiTa) to protect the Boro harvest of the haor. This year, 633.36 kilometres of rehabilitation work of the levees at 36 haors was completed under 746 projects in the district spending around Tk 132 crore. According to the Department of Agriculture Extension (DAE), Boro paddy has been cultivated on 2,19,450 hectares of land in Sunamganj this year while last year's cultivation area was 2,28,440 hectares."
+}

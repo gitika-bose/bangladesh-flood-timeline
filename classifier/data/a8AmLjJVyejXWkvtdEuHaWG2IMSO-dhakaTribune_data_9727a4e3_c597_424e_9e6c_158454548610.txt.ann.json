@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_9727a4e3-c597-424e-9e6c-158454548610.txt",
+  "text": "Date Published:2019-11-12 00:00:00      \nIt is alarming given the fact that only 15 percent of the ilish caught in the previous year had eggs in them, officials said After a 22-day fishing embargo, about 90 percent of the ilish available in Khulna and Chandpur markets are full of eggs, triggering fears of poor production in the next season and prompting calls for extending the fishing ban, reports news agency UNB. It is alarming given the fact that only 15 percent of the ilish caught in the previous year had eggs in them, officials said. Eighty-five percent of ilish caught in Khulna this time contain eggs, said Bangladesh Fisheries Development Corporation Manager of Khulna region Md Jahidul Islam. He said the wholesale markets at Boro Rail Station fish jetty in Chandpur, and those along the shore, are packed with ilish with eggs since 90 percent of the catch is pregnant ilish.  The government had imposed a 22-day ban from October 9 to October 30 on catching, selling, storing, and transporting ilish during its peak breeding period. But the mother ilish could not complete releasing the eggs.  Consequently, shoals of mother ilish full of eggs have been caught by fishermen after the ban was lifted. The lack of rainfall delayed the cycle. \"Ilish breeding is related to rainfall,\" said Professor Abdul Wahab, who is leading the ECOFISHBD Project of WorldFish. Bangladesh's southern region did not receive much rain this monsoon. It recorded only 143mm of rainfall in June and 235mm in July. Last year, it was 220mm in June and 367mm in July. Prof Wahab said he was surprised that most of the fish contained eggs. Fish traders in Chandpur said the production will fall if the breeding is not protected. They feared the national fish will face extinction if mother ilish continues to be caught at this rate.  They say the fishing ban during the breeding season should have been extended by 10-12 days.  Chandpur Fisheries Officer Md Asadul Baki claimed the drive to protect mother ilish was successful. \"That is why the fishermen have been able to catch a huge quantity of ilish,\" he said, claiming that 80 percent  of the ilish have released eggs.  Dr Anisur Rahman of the Fisheries Research Institute said they need a few more days to determine the percentage of mother ilish that have released eggs.  In Khulna, ilish weighing 1 kg was selling at Tk 800. The same size of fish is selling at Tk 700 in Chandpur. But the huge supply of the fish is hardly making people happy.  \"Ilish with eggs don't taste good,\" one of the buyers said."
+}

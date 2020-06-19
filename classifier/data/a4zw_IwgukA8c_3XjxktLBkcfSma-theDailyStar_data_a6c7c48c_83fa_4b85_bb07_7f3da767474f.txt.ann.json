@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_a6c7c48c-83fa-4b85-bb07-7f3da767474f.txt",
+  "text": "Date Published:2019-11-16 00:00:00      \nThe first consignment of onion will arrive from Egypt on Tuesday, according to a commerce ministry official.   Senior Information Officer of the ministry Abdul Latif Bakshi confirmed The Daily Star today that S Alam group is importing huge quantities of onions and the first batch will arrive through cargo planes on Tuesday.   Price of onion has continued to rise since September after India restricted its onion export after yield of the bulb-type vegetable was heavily damaged due to flood in a number of states of the neighbouring country. Each kilogramme of onion was sold for Tk 240-260 in the capital yesterday and the prices kept rising by the hour. Earlier this month, each kg of locally grown onion was sold for Tk 100-120 in the kitchen markets in the capital. But the price jumped to Tk 160 on Tuesday morning and then kept rising. The prices rose by Tk 30 to 40 every day since Wednesday. To boost supplies, the government and private companies are using cargo planes to import the essential spice within the shortest possible time. According to the National Board of Revenue (NBR), 50,191 tonnes of onion worth Tk 241.92 crore were imported from Myanmar, Egypt, China, Thailand, India, United Arab Emirate (UAE), Sri Lanka, Pakistan, Turkish and Australia in the last 45 days. A total of 926 consignments were imported by 186 importers though the seven land and sea ports. During the same period, another 15.73 tonnes of onion worth US$ 25,100 (Tk 21 lakh approximately) were imported by cargo planes mainly from Thailand, Egypt and UAE in 81 consignments, NBR data revealed. S Alam Group will import about 55 tonnes of onion out of 69 tonnes to be brought to the country by a total of 19 traders, as per data from the Plant Quarantine Center of Chattogram Seaport.  "
+}

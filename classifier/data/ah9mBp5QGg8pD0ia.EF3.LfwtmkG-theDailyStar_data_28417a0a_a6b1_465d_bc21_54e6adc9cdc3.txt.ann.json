@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_28417a0a-a6b1-465d-bc21-54e6adc9cdc3.txt",
+  "text": "Date Published:2019-10-24 00:00:00      \nThe government sought financial support from the development partners to implement the ambitious Delta Plan that would need $37 billion by 2030 for ensuring food and water security and fighting disasters.  The Planning Commission shared the plan with the development partners at the National Economic Council (NEC) conference room at Sher-e-Bangla Nagar in the city yesterday. Shamsul Alam, member of the General Economics Division (GED), made a presentation on the plan. Representatives of multilateral, bilateral development partners, including the United Nations resident coordinator Mia Seppo, were present at the programme. Ideally, the government wants to implement the plan with its own funds, but the plan needs vast amount of money and hence the development partners' support, Planning Minister MA Mannan said. The government will welcome the development partners if they become interested, he said. As per the Delta Plan, which was approved in September last year by the NEC, were primarily selected for implementation. Of them, 65 would be infrastructure projects and 15 aimed at enhancing institutional capacity, efficiency and research. The required fund for the projects would come from the government, Green Climate Fund, development partners, foreign direct investment and the private sector. At present, the government spends 0.8 percent of the GDP for Delta management projects and programmes. To implement the plan, 2 percent of the GDP would be required. Bangladesh is likely to get $2 billion assistance from the Green Climate Fund every year. Besides, about 0.5 percent from the private sector's annual income could be added to the Delta Plan fund. Coastal, Varendra (Barind) and drought-prone, haor and flood-prone, Chittagong Hill Tracts, riverine and urban are the six areas to be given priority by the Delta Plan. Due to climate change, the country's agricultural production may seriously be affected.  The production of paddy and wheat may decrease by 17 percent and 61 percent respectively. About 70 percent of the areas in 16 districts, where the poverty rate is very high, are most vulnerable to natural disasters, the planning ministry document mentioned. Mannan said the Delta plan will be emphasised in different development plans including the upcoming Eighth Five-Year Plan. The representatives of development partners urged the government to be strict against river pollution and grabbing to cut the impacts of climate change."
+}

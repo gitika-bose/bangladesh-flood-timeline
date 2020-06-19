@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_39462c1c-5892-4039-817b-b3191a8bab15.txt",
+  "text": "Date Published:2019-07-22 00:00:00      \nTrucks, lorries and covered vans will be off the roads for three days before and after Eid Road, Transport and Bridges Minister Obaidul Quader has said CNG filling stations will be in operation 24 hours a day for seven days prior to Eid and three days after Eid.  The minister also said: \"The highways all over the country are in good shape at the moment, and better than any time prior - except the ones in flood-affected areas, which got damaged and are being repaired on an emergency basis.\" He made the statement at a press briefing held at the Secretariat on Monday. Quader blamed the cattle markets on roads and alongside highways as the main cause of congestion during Eid days. \"This is totally prohibited this time, and orders have been sent to the concerned authorities to take steps,\" the minister said. The two city corporations in Dhaka have also been requested to look after the matter, so roads do not get blocked for cattle markets, he added. Quader said to ensure smooth movement for homebound people, trucks, lorries and covered vans will be off the roads for three days before and after Eid.  Vehicles carrying medicine, export-oriented garments, goods and fuel will be outside the purview of the restrictions. The expected date for Eid-ul-Azha is August 12. The government will help the BGMEA to send garment workers back home by providing BRTC buses. The garment owners have been asked to give Eid holidays to workers in phases, so the last minute rush can be avoided, the minister added."
+}

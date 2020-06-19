@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_7288289a-23e5-4674-864a-c288c0bcb976.txt",
+  "text": "Date Published:2020-04-18 00:00:00      \n'All the dairy farmers in the district will turn paupers if this situation continues' Hundreds of dairy farmers in Satkhira are counting huge losses as they are forced to dump over 50,000 litres milk every day for lack of demand at every level amid the virtual lockdown in the country after the coronavirus breakout. As the dairy farmers have no alternative source of income, particularly after this pandemic, farm owners in the district are even failing to arrange feed for their cattle. President of Tala Milk Production Samity Dibas Chandra Ghosh said around 1,000 dairy farms in the district, including 400 at Jiala Nalta village and 50 farms in Athari village in Tala upazila, produce over 50,000 litres of milk every day. \"All the dairy farmers in the district will turn paupers if this situation continues...the milk dumping must be stopped as soon as possible for their survival,\" he said. Local dairy farm owners said Milk Vita used to collect 8,000 litres milk while Akij Group 600 litres from them and they used to supply the rest of the milk to different sweet-making factories in Satkhira and Khulna. As soon as the pandemic broke out, all the sweetmeat shops and factories were either shut or cut production, forcing the dairy farm owners to sell milk at Tk10 per litres only, they added. Amid the deteriorating scenario, dairy farmers have sought government help just to survive.  Tala Upazila Nirbahi Officer Md Iqbal Hossain said they have already brought it to the notice of the higher authorities concerned. Asked about the dire state of the dairy sector in the district, Deputy Commissioner SM Mostafa Kamal said they have decided to purchase milk through Milk Vita from the farm owners with the fund allotted by the Prime Minister for children's food. He also informed that he personally urged the Chairman of Milk Vita to collect milk from the district for producing food for babies and children. Meanwhile, the district administration has decided to keep the sweetmeat shops in the district open by maintaining social distancing, the DC said hoping that it will reduce the loss of the dairy farmers. Fisheries and Livestock Minister SM Rezaul Karim has recently assured that the government would provide all kinds of support to continue the production of fish, meat, milk and eggs during the coronavirus pandemic. He came up with the assurance in a video message prepared by the Ministry's Livestock and Dairy Development Project to create awareness among people. The minister urged all to keep milk, egg, fish and meat in their menu as that help boost the immunity of people."
+}

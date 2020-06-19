@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_8cfcf145-0b19-4033-af4b-2ff1a137f3eb.txt",
+  "text": "Date Published:2020-04-26 00:00:00      \nApril 26, 1972 BANGABANDHU'S INTERVIEW\n\tWITH THE STATESMAN Bangabandhu is today quoted as saying India will not and cannot negotiate any settlement with Pakistan on the prisoners of war issue without Bangladesh's concurrence. Resident Editor of The Statesman, Delhi, Kuldip Nayar, who had an 80-minute interview with Bangabandhu in Dhaka, says in despatch that Bangabandhu would not comment on India holding talks with Pakistan because it is an independent  country and thus free to have a dialogue with anyone it wishes. The report says that the point Bangabandhu made repeatedly, at times in a raised voice, was that Bangladesh is an independent country without any string pulled from outside. He further said that Pakistan held that Bangladesh was dependent on New Delhi's wishes and that the surrender of Pakistan Army before the joint command of Indian and Muktibahini forces was a fiction. Bangabandhu said, \"It is not fiction but a hard fact.\" He said that he knew that Bhutto wanted to exchange the PoWs with the Bangalees in Pakistan. Soldiers were never exchanged with civilians, \"I am willing to exchange the Biharis in Bangladesh with the Bangalees in Pakistan,\" the Bangladesh Prime Minister added. INDIA-BANGLADESH WATER TALKS OPEN Bangladesh and India reaches complete understanding today in all issues in the first round of minister-level talks on flood control, water and power resources. In a two-hour long talk, the representatives of the two countries discuss the sphere of mutual cooperation in the fields of flood control, flood forecasting, flood and cyclone warning and irrigation of common rivers. The topic of power resources also features in the discussion. INDO-PAK TALKS BEGIN The emissaries of Prime Minister Indira Gandhi and President Bhutto today hold a discussion for three and half hours on various aspects of India-Pakistan relations in a bid to frame an agenda for a summit meeting between the two countries.  SUGGESTION INVITED FOR THE DRAFT CONSTITUTION The Constitution Drafting Committee has so far considered the clauses relating to fundamental rights and the fundamental principles of state policy for inclusion in the draft. Interested people have been requested to submit their suggestions to the committee for consideration. These suggestions should reach the secretary of the Committee by May 8, 1972. ABANDONED PROPERTY OWNERS ASKED TO SUBMIT VALID DOCUMENTS Dhaka Nagar Committee has asked the lawful owners of abandoned properties to come forward with valid documents to establish their right of ownership. The persons concerned have been advised to submit applications to the sub-divisional officer, Sadar South, within three days. SOURCES: April 27, 1972 issues of Bangladesh Observer, Dainik Bangla and Ittefaq  "
+}

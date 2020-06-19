@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_9424fea3-c9cc-44a5-a3ef-c7e775707010.txt",
+  "text": "Date Published:2020-02-01 00:00:00      \nUnidentified miscreants carried out the attack at Bajunia Chhotokhola Sarbojonin Kali Mandir A Hindu temple was under an arson attack in Kajulia union of Gopalganj Sadar upazila on Friday night. Unidentified miscreants carried out the attack at Bajunia Chhotokhola Sarbojonin Kali Mandir. Similarly, on Wednesday, some miscreants carried out another arson attack at the Saraswati puja mandap on the Kajulia Palli Mangal School and College premises. Local Hindu devotees have demanded a proper investigation into these two incidents. Bidhan Biswas, president of Kali Mandir, quoting a witness, said: \"Two unidentified miscreants entered the Kali temple premises Friday night and used flammable substances to set fire to the idols inside. The cloth and ornaments of four idols were destroyed in the fire.\" Kajulia Union Parishad Chairman Makhon Lal Das said: \"A group of miscreants have carried out consecutive arson attacks at two temples to hamper the existing communal harmony here.  \"Police have taken safety measures in this regard and I have directed temple committees to stay alert against future attacks.\" Gopalganj acting Superintendent of Police Md Aslam Khan said police detectives have been tasked with the investigation of these two incidents of arson attack. We have taken statements from prominent locals and collected CCTV footage from Kajulia School. Police will soon solve the case and arrest the criminals involved.\""
+}

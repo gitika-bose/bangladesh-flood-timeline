@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_568cb5e0-b90b-4de8-a86b-bcdbcd543f28.txt",
+  "text": "Date Published:2020-03-08 00:00:00      \nGender equality is a core principle of EU, though it is still not a reality, speakers say European Union (EU) Ambassador to Bangladesh Rensje Teerink  has praised Bangladesh for performing better than The Netherlands and Luxembourg in terms of Global Gender Gap Index. She made the comment while attending an International Women's Day program arranged by European Union at a city hotel in Dhaka on Sunday, reports BSS. Teerink said not only in Bangladesh but in many countries of the world, women are facing different types of social and economic challenges. \"There are so many taboos in The Netherlands. Only 34% women are actually financially independent there. If a married woman does any job, she has to face different types of criticism, including not spending time with their children and sending their kids to daycare centres\", she said. The ambassador said Bangladesh is doing well in the field of women empowerment. As women still face a lot of challenges here, these should be addressed, besides making the people aware about gender equality, she added. At the function speakers said gender equality is a core principle of the European Union, though it is still not a reality. While sharing the views, they said in business, politics and society, to reach full potential the use of talent and diversity is a must. They said women face too many hurdles and barriers on their way and added in Europe and beyond, women continue to be targets of gender-based violence, stereotypes and hate speech. Even if Europe is a good address for women, one in three women in the EU are subject to physical and sexual violence, they said. The speakers said even though more women graduate from universities, they earn on average 16% less than men do. Only 8% of CEO's of the EU's largest companies are women, they mentioned. The function was told that this is not what EU stands for. Everyone, regardless of his or her gender, should be able to live free from violence and pursue his or her chosen path in life. A change is needed and the moment is now. Everyone needs to remember: progress towards equality between women and men is neither inevitable nor irreversible, speakers at the program said. The EU adopted the EU's Gender Equality Strategy, setting out concrete actions for the next five years, including on pay transparency. The strategy is also the EU's contribution to the \"Beijing Declaration and Platform for Action\" - the first universal commitment and action plan to advance on equality between women and men. The EU will continue to support, promote and protect women's rights and women empowerment, while tackling gender-based violence, including in fragile, conflict and emergency situations."
+}

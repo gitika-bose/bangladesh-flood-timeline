@@ -1,0 +1,35 @@
+[
+  {
+    "query": "bangladesh \"flooding\"",
+    "paper": "ntvbd",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": [
+      "https://en.ntvbd.com/bangladesh/42237/Climate-induced-migration-to-escalate-in-South-Asia"
+    ]
+  },
+  {
+    "query": "bangladesh \"flooding\"",
+    "paper": "ntvbd",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh \"flooding\"",
+    "paper": "ntvbd",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://en.ntvbd.com/entertainment/183145/Body-shaming-Swastika-Mukherjee-shuts-down-trolls-in-style",
+      "https://en.ntvbd.com/bangladesh/187219/Second-edition-of-TEDxBUET-held-successfully",
+      "https://en.ntvbd.com/bangladesh/185581/Five-year-long-Flood-Resilience-Project-launched"
+    ]
+  }
+]

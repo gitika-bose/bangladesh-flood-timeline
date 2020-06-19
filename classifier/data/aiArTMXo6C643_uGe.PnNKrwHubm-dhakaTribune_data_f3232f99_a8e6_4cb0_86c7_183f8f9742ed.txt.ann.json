@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_f3232f99-a8e6-4cb0-86c7-183f8f9742ed.txt",
+  "text": "Date Published:2020-04-15 00:00:00      \nThe lockdown came into effect from 6pm on Wednesday The local administration has decided to put Satkania upazila of Chittagong under complete lockdown after eight people from the upazila have so far been diagnosed with the new coronavirus (Covid-19). The upazila committee to contain and prevent coronavirus took the decision on Wednesday, in accordance with the Infectious Disease (Prevention, Control and Elimination) Act, 2018.        The lockdown came into effect from 6pm on Wednesday and it will remain effective until further notice, said Satkania Upazila Nirbahi Officer (UNO) Noor-E-Alam. \"Neither people nor vehicles can enter the upazila until further notice.\""
+}

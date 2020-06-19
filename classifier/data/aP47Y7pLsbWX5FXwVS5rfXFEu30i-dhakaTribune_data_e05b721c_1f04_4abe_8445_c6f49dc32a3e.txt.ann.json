@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_e05b721c-1f04-4abe-8445-c6f49dc32a3e.txt",
+  "text": "Date Published:2019-02-26 00:00:00      \nWhat makes it different from the last DNCC polls is the absence of strong candidates As many as three million voters are set to go to the polls tomorrow to elect a new mayor and councillors for new wards, in the Dhaka North City Corporation (DNCC) by-polls, without any enthusiasm or electioneering in sight. What makes it different from the last DNCC polls is the absence of strong candidates.  This has failed to generate a buzz among voters, not to mention lack of strong opposition candidates. While five candidates will vie for the mayoral position, only ruling Awami League-nominated candidate Atiqul Islam was seen to be electioneering, which ended yesterday.  The other candidates are Shafin Ahmed from Jatiya Party, Anisur Rahman Dewan from National People's Party, Shahin Khan of Progressive Democratic Party, and independent candidate Abdur Rahim. Polling for mayoral elections will be held in 54 wards of DNCC. Also 36 new wards, 18 in DNCC and 18 in Dhaka South City Corporation, are up for elections on the same day. Unlike the mayoral by-polls, vigorous campaigns are being conducted by candidates for councillor posts, as the posts are being contested for the first time. Election materials, including ballot papers, have already reached the offices of the returning officers concerned, as the Election Commission finalizes its preparations for the elections scheduled tomorrow. Arrangements are already in place to send the election materials to the polling centres by today, before voters head to cast their ballots starting 8am tomorrow.  The elections will take place until 4pm without any interval. A public holiday has been announced in DNCC areas so that all voters can exercise their voting rights. Electioneering concluded on Tuesday Returning Officer for the DNCC mayoral polls, Md Abul Kashem, told BSS that no candidate or none in favor of any candidate can conduct any meeting, rally, or procession starting midnight in the DNCC areas, after the electioneering schedule ended on Tuesday.  \"No offices will remain open on that day. But Public academic examinations will be held as per schedule. Students residing in hostels or residences for study purposes will be exempt from the directives concerning leaving election areas\" the RO said. Kashem added that the ban on traffic movement will be relaxed on highways and inter-district roads inside DNCC, considering the issue of public suffering, but vehicular movement on connecting roads will remain banned. Vehicle restrictions According to a home ministry circular, motorcycle transport will be banned in DNCC polling areas from today till Friday 6am.   Meanwhile, all vehicle traffic in the area--excluding emergency services--will be banned for 24 hours starting Wednesday midnight (12am) to Thursday midnight (12am). Vehicles affected by the ban during the by-elections are: motorcycles, trucks, motorized three-wheelers, taxis, microbuses, jeeps, pickups, and cars. Water vessels moving through the area will also fall under the vehicle ban. However, the restriction on vehicle traffic will be loosely implemented on important roads, streets, and highways leading into and out of Dhaka, and at inter-district bus terminals. The circular also directed non residents or voters in the DNCC to leave the area by Tuesday midnight (12am), to ensure a peaceful by-election, and to avoid facing legal action on voting day. Filling a void The DNCC mayoral post fell vacant with the death of Annisul Huq on November 30, 2017. According to the schedule declared by the Election Commission, the by-polls for the DNCC mayoral post were supposed to be held on February 26 last year. But a High Court bench stayed the election for six months after hearing two separate writ petitions on January 14 last year. However, another High Court bench later cleared the way to hold the by-election by withdrawing the stay order."
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "query": "bangladesh cyclone",
+    "paper": "ntvbd",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": [
+      "https://en.ntvbd.com/bangladesh/42237/Climate-induced-migration-to-escalate-in-South-Asia"
+    ]
+  },
+  {
+    "query": "bangladesh cyclone",
+    "paper": "ntvbd",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "http://en.ntvbd.com/bangladesh/45149/Zianagar-upazila-retitled",
+      "https://en.ntvbd.com/bangladesh/155977/Google-Bangladesh-announces-top-results-see-what-was-trending-in-2017"
+    ]
+  },
+  {
+    "query": "bangladesh cyclone",
+    "paper": "ntvbd",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://en.ntvbd.com/bangladesh/186171/Cyclone-Fani-crossing-Pabna-Tangail-Mymensingh-region",
+      "https://en.ntvbd.com/bangladesh/187901/Sir-Fazle-Hasan-Abed-passes-away"
+    ]
+  }
+]

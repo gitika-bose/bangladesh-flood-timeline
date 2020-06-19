@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_9188bf4f-a3a9-464f-aec1-b3adb6313c0e.txt",
+  "text": "Date Published:2020-04-10 00:00:00      \nNusrat's family to this day remain under police protection as they continue to receive threats from prime accused Sirajuddaula's cohorts and followers A year had passed since the murder of Nusrat Jahan Rafi, an alim examinee of Sonagazi Islamia Senior Fazil Madrasa in Feni. But her family still awaits implementation of the verdict against the accused in her murder case. On April 6 last, the 18-year-old was set on fire in broad daylight on the roof of the madrasa by people loyal to principal Sirajuddaula, when she refused to withdraw a sexual harassment case her family filed against Sirajuddaula.  After battling for life for four days, she succumbed to her critical burn injuries at the Dhaka Medical College Hospital on April 10, which sparked nationwide outrage and public demand for swift justice against the perpetrators.  On October 24, following a trial all 16 accused were proven guilty, and a Feni court awarded them death sentence under Section 4(1)/30 of the Woman and Children Repression Prevention Act 2000. However, Nusrat's family till this day remain under police protection as they continue to receive threats from Sirajuddaula's cohorts and followers. \"I cannot sleep, thinking of the pain Nusrat had gone through when she was burnt alive,\" said Nusrat's mother, Shirin Akhter. \"We were happy with the verdict and we know the whole country is with us, still I don't understand why the sentence is not being carried out yet?\" she asks with agony. Nusrat's brother Mahmudul Hasan said they constantly receive threats and also have been targeted in social media by the wellwishers of the convicts ever since the murder took place. He said: \"My sister gave her life to fight for her honour and it seems like it has no end.\" The Public Prosecutor of the court Adv Hafez Ahmed said the prompt prosecution of the case could not have been possible without Prime Minister Sheikh Hasina's direct involvement and her assurance of providing proper justice to the girl. \"We are satisfied with the verdict. But the ongoing trial should soon be addressed and justice should be given to the family as they are waiting for long,\" the lawyer added. The convicts are prime accused SM Sirajuddaula, who orchestrated Nusrat's murder, Nur Uddin, Shahdat Hossain Shamim, Maksud Alam, Saifur Rahman Md Zobayer, Sakhawat Hossain Jabed, Abdul Kader, Absar Uddin, Kamrun Nahar Moni, Umme Sultana Popy, Abdur Rahim Sharif, Eftekhar Uddin Rana, Imran Hossain Mamun, Mohammad Shamim, Ruhul Amin, and Mohiuddin Shakil."
+}

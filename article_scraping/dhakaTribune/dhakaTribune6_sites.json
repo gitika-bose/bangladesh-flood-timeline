@@ -1,0 +1,87 @@
+[
+  {
+    "query": "bangladesh inundation",
+    "paper": "dhakaTribune",
+    "date_range": [
+      "1/1/2013",
+      "12/31/2013"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh inundation",
+    "paper": "dhakaTribune",
+    "date_range": [
+      "1/1/2014",
+      "12/31/2014"
+    ],
+    "sites": [
+      "https://www.dhakatribune.com/bangladesh/2014/08/19/adb-warns-of-2-gdp-loss-by-2050/"
+    ]
+  },
+  {
+    "query": "bangladesh inundation",
+    "paper": "dhakaTribune",
+    "date_range": [
+      "1/1/2015",
+      "12/31/2015"
+    ],
+    "sites": [
+      "https://www.dhakatribune.com/bangladesh/2015/10/09/jatrabari-gulistan-road-the-nightmare-route/"
+    ]
+  },
+  {
+    "query": "bangladesh inundation",
+    "paper": "dhakaTribune",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh inundation",
+    "paper": "dhakaTribune",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "https://www.dhakatribune.com/bangladesh/2017/04/21/5000-hectares-freshly-inundated-kishoreganj",
+      "https://www.dhakatribune.com/opinion/2017/08/26/why-so-flooded/"
+    ]
+  },
+  {
+    "query": "bangladesh inundation",
+    "paper": "dhakaTribune",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": [
+      "https://www.dhakatribune.com/bangladesh/nation/2018/07/06/brahmaputra-basin-flooding-likely-on-saturday",
+      "https://www.dhakatribune.com/bangladesh/environment/2018/09/16/world-bank-urban-pollution-costs-bangladesh-6-5bn-a-year",
+      "https://www.dhakatribune.com/climate-change/2018/05/20/sinking-cities",
+      "https://www.dhakatribune.com/science/2018/01/08/haor-short-duration-crop-damage/",
+      "https://www.dhakatribune.com/bangladesh/nation/2018/06/12/record-rainfall-severely-disrupts-city-life-in-chittagong",
+      "https://www.dhakatribune.com/bangladesh/nation/2018/06/13/hundreds-of-people-marooned-in-chittagong",
+      "https://www.dhakatribune.com/world/south-asia/2018/09/22/water-experts-warn-as-sand-mining-grows-asia-s-deltas-are-sinking"
+    ]
+  },
+  {
+    "query": "bangladesh inundation",
+    "paper": "dhakaTribune",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://www.dhakatribune.com/bangladesh/nation/2019/07/22/nearly-1-4-million-people-hit-by-post-flood-diseases-in-kurigram-gaibandha",
+      "https://www.dhakatribune.com/climate-change/2019/02/19/bangladesh-s-geography-will-naturally-counter-sea-level-rise-until-it-becomes-too-rapid-due-to-climate-change",
+      "https://www.dhakatribune.com/opinion/op-ed/2019/02/05/dhaka-s-water-problems",
+      "https://www.dhakatribune.com/world/south-asia/2019/05/04/cyclone-fani-kills-at-least-12-dead-in-india-before-swiping-bangladesh",
+      "https://www.dhakatribune.com/opinion/op-ed/2019/12/08/fighting-for-climate-action",
+      "https://www.dhakatribune.com/bangladesh/nation/2019/03/25/waterlogging-waste-hindering-khulna-s-green-city-aspirations"
+    ]
+  }
+]

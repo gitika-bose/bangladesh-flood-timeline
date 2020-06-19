@@ -1,0 +1,33 @@
+[
+  {
+    "query": "bangladesh floods",
+    "paper": "ntvbd",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh floods",
+    "paper": "ntvbd",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": [
+      "https://en.ntvbd.com/sci-tech/162129/13-cities-may-exceed-2C-temperature-rise-by-2020s-say-scientists"
+    ]
+  },
+  {
+    "query": "bangladesh floods",
+    "paper": "ntvbd",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://en.ntvbd.com/bangladesh/185581/Five-year-long-Flood-Resilience-Project-launched"
+    ]
+  }
+]

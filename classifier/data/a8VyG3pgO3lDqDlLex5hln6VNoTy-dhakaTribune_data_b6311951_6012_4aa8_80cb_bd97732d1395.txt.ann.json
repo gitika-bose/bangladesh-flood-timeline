@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_b6311951-6012-4aa8-80cb-bd97732d1395.txt",
+  "text": "Date Published:2019-09-20 00:00:00      \nAnyone can be jailed for up to 14 years for for violating the law that was passed in September last year It has been a year now since the Digital Security Bill, 2018, was passed in the parliament on September 19, 2018, amid much criticism from journalists, and human rights activists.  Within the first year of its enactment, four cases were recorded under the Digital Security Act (DSA) in Khulna, where two journalists were sued.  Md Hedait Hossain Molla, local correspondent of Dhaka Tribune and Bangla Tribune, was sued, and arrested on January 1, for publishing \"false\" information on the number of votes cast in a constituency in the aftermath of the general election.  Rashidul Islam, staff reporter of the daily Manab Zamin was also accused in the same case. According to the initial announcement of the election results, the number of votes cast in Khulna 1 was higher than the total number of voters in the constituency. As the matter was brought to the returning officer's attention, he said it was a mistake, and later came up with a correction. By the time the correction could be made, the two media outlets ran reports saying the number of votes cast was around 22,000 higher than the actual number of voters. Even though Hedayet was released on permanent bail two days later, the police have yet to submit the case investigation report in court, despite the passage of eight months. Yet, it is clearly mentioned in the law that, for cases filed under the act, the investigation reports must be submitted within 120 days. Later on August 22, publisher and editor of 'Prothom Shomoy', an online media portal, Shahin Rahman was arrested for allegedly spreading defamatory information on social media.  Khulna Press Club President SM Habib started a case against him under sections 29 and 31 of the Digital Security Act on August 9. Two more cases under the same act was filed against him by August 28. The law authorises prison sentences for up to 14 years for anyone who secretly records government officials, or gathers information from a government agency using a computer or other digital device. Mominul Islam, district convener of Bangladesh Society for the Enforcement of Human Rights (BSEHR), said: \"Each law poses some variations of pros and cons. However, in the first year of enactment of the Digital Security Act, it has mostly been abused, and journalists were victimized. This new law puts restraints on the media's freedom of expression. I think several sections of the act need to be revised again.\" Kudrot E Khoda, district general secretary of Shushashoner Jonno Nagorik (Shujan), said: \"The Digital Security Act was enacted after scrapping the ICT act. The law looks good on paper, but it is important to monitor if it is implemented objectively. The misuse of this law is preventing journalists in the district to practice their right to freedom of expression.\""
+}

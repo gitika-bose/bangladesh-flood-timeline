@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_c01de5a0-b3f6-4572-aac8-bd5b7af444aa.txt",
+  "text": "Date Published:2020-04-17 00:00:00      \nPrayer 'can be performed at home due to the coronavirus preventive measures' Saudi Arabia's Grand Mufti Sheikh Abdulaziz Al al-Sheikh, the highest religious authority in the country, said that Muslim prayers during Ramadan and for the subsequent Eid al-Fitr feast should be performed at home if the coronavirus outbreak continues, Saudi's Okaz newspaper reported on Friday. \"Ramadan's Taraweeh (evening) prayer can be performed at home if it cannot be performed at mosques due to the preventive measures taken to fight the spread of coronavirus,\" he said in response to a question, adding that the same applies for Eid prayers, according to the paper. The holy fasting month of Ramadan begins next week. Saudi Arabia in mid-March stopped people performing their five daily prayers and the weekly Friday prayer inside mosques as part of efforts to limit the spread of the coronavirus. On Thursday, the Prophet's Mosque in the holy city of Medina said it was banning events which dispense evening meals in the mosque to those in need during Ramadan to break their daily fast. The kingdom has reported 6,380 cases of Covid-19, the highly contagious respiratory disease caused by the new coronavirus, and 83 deaths so far."
+}

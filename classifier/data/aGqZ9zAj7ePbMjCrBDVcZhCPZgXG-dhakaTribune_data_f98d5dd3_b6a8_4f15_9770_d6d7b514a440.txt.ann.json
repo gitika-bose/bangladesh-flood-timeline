@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_f98d5dd3-b6a8-4f15-9770-d6d7b514a440.txt",
+  "text": "Date Published:2020-04-07 00:00:00      \nOn March 20, another person died after completing 14-day home-quarantine A woman has died with fever and cold in Khulna. The deceased Sahela, 60, died in her house at Debipur in Rupsha upazila on Tuesday morning. The house was put into lockdown later. She went to Khulna a week ago from Dhaka. Her granddaughter, 25, who is also sick, has been kept in isolation at the upazila hospital. Khulna Civil Surgeon Dr Sujat Ahmed confirmed the matter. He said, samples of those who came into contact with the deceased will be collected. On March 20, a school teacher aged, 50, died after completing 14-day home-quarantine, after returning from India."
+}

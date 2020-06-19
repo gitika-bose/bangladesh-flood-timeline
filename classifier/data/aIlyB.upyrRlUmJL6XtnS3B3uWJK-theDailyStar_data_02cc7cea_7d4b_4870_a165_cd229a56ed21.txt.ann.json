@@ -1,0 +1,117 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 946,
+          "text": "The longstanding flood"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 972,
+          "text": "1998"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "1998",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [],
+  "filename": "theDailyStar_data_02cc7cea-7d4b-4870-a165-cd229a56ed21.txt",
+  "text": "Date Published:2020-03-06 00:00:00      \nRecently I went to Banani kitchen market for my weekly shopping and I saw, to my astonishment, the retailer putting all the purchased items in several polythene bags which were completely banned in Bangladesh in 2002. How did these banned bags make an entry to our markets despite the government's efforts to popularise jute bags? I believe this is due to the fact that the use of jute bags is not yet mandatory for all products. It was 1980s when polythene bags first entered the Bangladeshi market. They were light, cheap and could be disposed of after being used only one time. The bags quickly gained popularity and captured the market driving out jute shopping bags. However, our experience with plastic shopping bags is not good at all. The disposed bags find their way to detrimentally affect the environment. They reduce the fertility of soil, kill marine animals and disrupt the drainage system. The longstanding flood of 1998 was the outcome of water clogging in the sewerage line with heaps of polythene bags. After that unprecedented flood, the government, in the face of popular demand, enacted the ground-breaking law in parliament to ban plastic shopping bags. This ban left our markets with several alternatives such as bags made of jute, cotton, paper and nylon. Which one do you think is the best? I believe no other alternative is as suitable as jute, given that it has the potential to contribute to our economy and good for the enviornment. Jute was our main exporting item until the arrival of plastic shopping bags in the market. The climate and soil of our country is conducive to the production of jute. Thousands of people used to earn their livelihood through farming jute and manufacturing jute products. However, our jute industries started declining due to the onslaught of polythene bags. But I am sure that we can revive the industry if we can ensure the use of jute shopping bags for packaging all of our daily needs. The use of jute shopping bags will help us clean our environment. Researchers found that one hectare of jute plants sequester over 15 tonnes of carbon dioxide. Jute is fully bio-degradable, compostable and recyclable. It has no harmful effects on the human body or on Mother Nature. Jute leaves have medicinal properties and are eaten as vegetables. Jute is 100 percent non-toxic and its cultivation requires less pesticides and fertiliser. Jute bags are strong, durable and reusable. If it has so many economic and eco-friendly attributes, why will people not use jute bags for shopping and packaging? This is because the use of jute bags has not yet been made mandatory for shopping and packaging of all commodities. The government formulated some rules in 2013 (amended up to 2018) under the provision of Section 22 of the \"Mandatory Jute Packaging Act 2010\", that require businesses to compulsorily use jute bags for packaging only 19 commodities. Therefore, we do not see jute being used much for wrapping except for these 19 commodities. Owing to their limited use, jute shopping bags are still not cheaper compared to polythene bags. This factor coupled with the laxity in enforcing the law has paved the way for illegal trading of plastic shopping bags in the market. Then how can people be made to use jute bags for shopping and packaging all goods? We can do that by bringing an amendment to the existing rules 2013 (amended up to 2018) formulated under Section 22 of the Mandatory Jute Packaging Act 2010 so as to make the use of jute bags compulsory for packaging not only 19 products, but also all other products. If we can do so, the demand for jute will rise and farmers will be more encouraged to cultivate jute. To incentivise farmers, the government could disburse microcredit among them. In addition to that, the government may pay a certain amount of subsidy for manufacturing of jute shopping bags at the initial stage to keep their price reasonable. Once the production goes up, the price of jute shopping bags will come down automatically. At the same time, our law enforcing agencies will need to monitor the market strictly to stop the illegal trading of plastic or polythene shopping bags. Finally, I would like to reiterate that the mandatory use of jute bags can bring back the golden days of our jute sector and stop the illegal trading of plastic shopping bags. The regeneration of jute industries will create more employment opportunities, increase our export earnings, keep our environment clean and advance us towards sustainable development.   Quazi Saleh Mustanzir, Additional District Magistrate, Pirojpur. E-mail: s.mustanzir@gmail.com"
+}

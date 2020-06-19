@@ -1,0 +1,70 @@
+[
+  {
+    "query": "bangladesh floods",
+    "paper": "prothomalo",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": [
+      "https://en.prothomalo.com/environment/Natural-disasters-in-Himalaya-to-affect-Bangladesh",
+      "https://en.prothomalo.com/bangladesh/Comilla-Cantt-Board-CEO-gives-statement",
+      "https://en.prothomalo.com/bangladesh/RAB-files-no-complaint-to-minister-against-police"
+    ]
+  },
+  {
+    "query": "bangladesh floods",
+    "paper": "prothomalo",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "https://en.prothomalo.com/environment/Maria-makes-landfall-in-%E2%80%98potentially-catastrophic%E2%80%99",
+      "https://en.prothomalo.com/international/Three-million-Bengalis-to-be-driven-from-Assam",
+      "https://en.prothomalo.com/bangladesh/Govt-vehicles-being-used-for-personal-purposes",
+      "https://en.prothomalo.com/bangladesh/40-000-in-Fenchuganj-surrounded-by-water",
+      "https://en.prothomalo.com/international/news/156273/94-killed-in-Nepal-India-flooding",
+      "https://en.prothomalo.com/environment/Bangladesh-loses-1pc-GDP-for-air-pollution-WB",
+      "https://en.prothomalo.com/science-technology/Pterosaur-hatchlings-needed-their-parents",
+      "https://en.prothomalo.com/bangladesh/Rice-price-spirals-further",
+      "https://en.prothomalo.com/amp/story/bangladesh%2F16m-in-Bangladesh-Nepal-India-affected-by-flood"
+    ]
+  },
+  {
+    "query": "bangladesh floods",
+    "paper": "prothomalo",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": [
+      "https://en.prothomalo.com/environment/news/176138/30-villages-submerged-in-Brahmanbaria",
+      "https://en.prothomalo.com/opinion/Why-we-oppose-Digital-Security-Act",
+      "https://en.prothomalo.com/environment/news/173410/Families-flee-as-fault-line-slices-through-Kenya%E2%80%99s",
+      "https://en.prothomalo.com/international/news/179415/Timeline-of-Thai-cave-rescue",
+      "https://en.prothomalo.com/lifestyle/A-survivalist-lifestyle-from-France"
+    ]
+  },
+  {
+    "query": "bangladesh floods",
+    "paper": "prothomalo",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://en.prothomalo.com/bangladesh/news/207234/India-to-put-smart-fence-along-Bangladesh-border",
+      "https://en.prothomalo.com/bangladesh/news/199073/8-people-drowns-as-flood-situation-worsens",
+      "https://en.prothomalo.com/bangladesh/As-lightning-strikes-surge-Bangladesh-plants-a",
+      "https://en.prothomalo.com/bangladesh/PM-Hasina-says-%E2%80%98world-must-compel-Myanmar-for",
+      "https://en.prothomalo.com/environment/news/205864/Typhoon-Kammuri-lashes-Philippines-forces-Manila",
+      "https://en.prothomalo.com/bangladesh/The-scarecrows-of-Sylhet",
+      "https://en.prothomalo.com/international/news/198848/Assam-floods-kill-3-maroon-400-000",
+      "https://en.prothomalo.com/bangladesh/Roads-and-highways-hit-by-rains-and-repairs",
+      "https://en.prothomalo.com/bangladesh/Bangladesh-not-in-a-position-to-export-rice-IFPRI",
+      "https://en.prothomalo.com/environment/Indonesia-dam-burst-raises-alarm",
+      "https://en.prothomalo.com/international/news/195657/Left-tipped-to-win-scrappy-Aussie-polls"
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_01469b38-6b38-4b38-8554-d28f6a74f15b.txt",
+  "text": "Date Published:2019-07-21 00:00:00      \n'99% presidium members of JaPa are working in unison and there is no room for any division' There is no rift within the Jatiya Party (JaPa) following the death of Ershad, said its newly appointed chairman, GM Quader, when asked about the party's current situation. \"99% presidium members of JaPa are working in unison and there is no room for any division. Joint leadership has made the party stronger and organized than ever. There's no rift among us,\" he said at a press briefing at the party president's Banani office yesterday. GM Quader also said that JaPa is prepared to extend their help for flood victims across the country. \"JaPa will always follow Ershad's footprints in terms of helping people. As his successor, JaPa is prepared to stand by flood affected people,\" GM Quader said. \"Through our work, we will keep Ershad's principle alive which is to serve the country people selflessly,\" he added. JaPa's Secretary General Mashiur Rahman Ranga said at present, a massive area of Bangladesh is under water and the party is ready to extend their help to government's relief activities. Earlier, political analysts and researchers expressed their doubts whether JaPa, that has no definite ideology, organizational strength and most importantly lost the person who kept their politics alive, would sustain as a political party in the future.  They might get extinct like the party established by Maulana Bhasani or AK Fazlul Huq, as those were abolished after their death. They said, to be alive in Bangladesh politics, a party needs an authoritarian leadership and it may be the major lacking for the party in the future. Besides, the party has internal \"lack of democracy.\" The press conference was held following a joint meeting of the party's Central Executive Committee. However, party's Senior Co-Chairman Raushon Ershad and the presidium members, known to be as her followers, skipped the meeting."
+}

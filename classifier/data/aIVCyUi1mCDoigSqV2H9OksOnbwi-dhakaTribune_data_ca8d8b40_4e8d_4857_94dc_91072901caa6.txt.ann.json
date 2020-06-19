@@ -1,0 +1,118 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun",
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "flash",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 4397,
+          "text": "Government said we lost 1.9 million tons of rice in Haor flood in 2017"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_27": {
+          "value": "rice",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:btellman"
+            ],
+            "prob": 1
+          }
+        },
+        "f_44": {
+          "value": "1.9 million tons",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:btellman"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [],
+  "filename": "dhakaTribune_data_ca8d8b40-4e8d-4857-94dc-91072901caa6.txt",
+  "text": "Date Published:2019-05-17 00:00:00      \nThe government's market interventions have been largely ineffective Bangladesh's resilient farmers recouped the 2017 devastating flood-induced crop damages by growing more rice over the last few growing seasons including the current Boro. This high rice output brings much relief to the government that spent millions of Taka importing a record four million tons of rice in 2017-18 through public and private channels. But much to the misery of growers, the prices that they are being offered for their produces in the current marketing season is non-commensurate to their production costs.   For the past one week - news and pictures of aggrieved farmers taking to the streets demanding fair price for rice and different socio-cultural and student groups rallying supports for the same cause hogged the media attention big time and deservedly so.   Yesterday too, farmers blocked a highway in rice-rich northern region of Rangpur - spreading paddy grains on the road - demanding the government to purchase paddy directly from farms, and ensure a fair price.   Production projection Bangladesh's rice production is expected to increase for the second straight year in a row, thanks to good weather and increased yield due to continuing cultivation of hybrid and high-yielding varieties (HYV). Following the crop loss in 2017 due to Haor zone's flood and crop diseases, the country's rice growers bounced back with a higher production - nearly 35 million tons in 2018-19 making the country self reliant in staple production again.    According to the Ministry of Food, country's current stock of rice in public granaries is over one million tons, well above the comfortable food safety threshold level.   Farmers getting poor price  Polash Kanti Nath heads a farmers' organization goes by the name - Krishak Sangram Parishad (KSP).   He said, \"It costs around Tk700-Tk 800 to produce a maund of paddy but we can only sell it for Tk400. Even buyers are few in number.\" Another farmer Momtaj Uddin said: \"The government has promised to buy paddy directly from farmers, but we do not see that happening here. We are not getting a fair price for the paddy, so we are protesting.\"  And in Tangail, some college students came forward to help a local paddy farmer Abdul Malek harvest his crops after he set some of it on fire, protesting the steep fall in paddy prices and after not being able to afford the high labour costs for harvesting the paddy. Shahidul Islam runs a rice mill in Kushtia's Khwajanagar, one of the largest wholesale rice markets in the country. Talking to this correspondent over phone yesterday, Shahidul acknowledged that millers and traders are offering Boro farmers much lower a price this year compared to last year's prices. He said millers have already enough carryover rice in their stock and that's why there is no urgency to buy rice from the growers.  Lukewarm public procurement  On March 31 this year the government decided to procure over a million tons of paddy and rice from the farmers at a good price offers of Tk. 26 and Tk. 36 a kg respectively. Government's food department was supposed to provide the farmers with this price support from April 25 but eventually the public grain procurement process kicked start much later only in mid-May. Dr Akhter Ahmed of the Washington-based food policy think-tank International Food Policy Research Institute (IFPRI) told Dhaka Tribune that government's late entry into the market and buying rice from traders and millers instead of farmers would not help offset the situation. He wondered if the government in West Bengal, India can buy paddy directly from the farmers why can't be it possible in Bangladesh.  Anwar Faruque, who served the agriculture ministry in Bangladesh for many years prior retiring as the ministry secretary, told this correspondent that with a paltry volume of public procurement the food department would not be able to make much impact on rice pricing in the market. \"Why shouldn't government procure three million tons of rice from farmers and give them the price support? If the public granaries suffer from space constraint, the government can always keep the procured rice in hired private godowns.\" Unwise tariff regime    Market is glutted with cheaper imported rice because of zero tariff still in place on rice import, said Faruque adding that \"Government said we lost 1.9 million tons of rice in Haor flood in 2017 and import tariff was cut from a whopping 28 percent to zero.\"  But after periodic reviews, he thinks, the government should have re-imposed tariffs on rice import thereby, giving much required protection to domestic rice growers.  Will exporting rice ease the solution? Agriculture Minister Dr Abdur Razzque told reporters yesterday that government would export rice to ease the situation. He said government is now in a position to even export over a million tons of rice. Dr Akhter considers entering into the rice export market is not that easy and such an intervention even if is conceived now its benefit would not trickle down to the farmers rather, it would only benefit the big millers and traders - who had purchased rice from farmers at a cheap rate and hoarded that for quite some time to make a windfall.  \"Countries like Thailand and Vietnam developed a place for them in a very competitive rice export market over a period of time. It'll not be so easy for Bangladesh to make a sudden inroad into that global rice market,\" explained Dr Akhter. If in tobacco, why not in rice? An expert, who has been following increasing instability in rice pricing in disfavor of paddy growers in Bangladesh, told Dhaka Tribune each year government facilitates fixing procurement price of tobacco from farmers for private tobacco companies.  \"Why can't it do it for the rice growers? It's understandable government will not be able to buy all 35 million tons of rice that Bangladeshi farmers grow a year but the least government can do is dictate the market by fixing floor price for rice for private buyers and sellers,\" said the expert, who works for an organization where he is not authorized to speak to the press on record. All the other experts that t Dhaka Tribune talked to were also of the view that the government needs to streamline its paddy procurement process so that farmers and not traders are benefited and it has to reign in the profit-mongering middlemen, millers who made most of the paddy profits depriving the principal stakeholder - the farmers."
+}

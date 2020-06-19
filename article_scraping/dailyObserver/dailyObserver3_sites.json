@@ -1,0 +1,88 @@
+[
+  {
+    "query": "bangladesh flooding",
+    "paper": "dailyObserver",
+    "date_range": [
+      "1/1/2014",
+      "12/31/2014"
+    ],
+    "sites": [
+      "https://www.observerbd.com/2014/09/06/41457.php",
+      "https://www.observerbd.com/2014/11/08/53280.php"
+    ]
+  },
+  {
+    "query": "bangladesh flooding",
+    "paper": "dailyObserver",
+    "date_range": [
+      "1/1/2015",
+      "12/31/2015"
+    ],
+    "sites": [
+      "https://www.observerbd.com/2015/02/08/71268.php",
+      "https://www.observerbd.com/2015/05/15/88888.php",
+      "https://www.observerbd.com/2015/02/28/75112.php",
+      "https://www.observerbd.com/2015/07/16/100035.php",
+      "https://www.observerbd.com/2015/03/13/77504.php"
+    ]
+  },
+  {
+    "query": "bangladesh flooding",
+    "paper": "dailyObserver",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh flooding",
+    "paper": "dailyObserver",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "http://www.observerbd.com/details.php?id=72468",
+      "http://www.observerbd.com/details.php?id=84078",
+      "http://www.observerbd.com/details.php?id=70174"
+    ]
+  },
+  {
+    "query": "bangladesh flooding",
+    "paper": "dailyObserver",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": [
+      "https://www.observerbd.com/details.php?id=149113"
+    ]
+  },
+  {
+    "query": "bangladesh flooding",
+    "paper": "dailyObserver",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://www.observerbd.com/details.php?id=230110",
+      "https://www.observerbd.com/details.php?id=195421",
+      "https://www.observerbd.com/details.php?id=180045",
+      "https://www.observerbd.com/details.php?id=220352",
+      "https://www.observerbd.com/details.php?id=228084",
+      "https://www.observerbd.com/details.php?id=190035",
+      "https://www.observerbd.com/details.php?id=196137",
+      "https://www.observerbd.com/details.php?id=206618",
+      "https://www.observerbd.com/details.php?id=208249",
+      "https://www.observerbd.com/details.php?id=234029",
+      "https://www.observerbd.com/details.php?id=209115",
+      "https://www.observerbd.com/gallery.php?pg=65",
+      "https://www.observerbd.com/details.php?id=216855",
+      "https://www.observerbd.com/details.php?id=233838",
+      "https://www.observerbd.com/details.php?id=233580",
+      "https://www.observerbd.com/details.php?id=212643"
+    ]
+  }
+]

@@ -1,0 +1,159 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2868,
+          "text": "Dhaka"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Dhaka",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3112,
+          "text": "Back in April, 2018"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "2018-04",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3133,
+          "text": "the city had witnessed 55mm of rainfall in six hours which was enough to produce knee-deep water in major residential and commercial areas"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "urban",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [],
+  "filename": "theDailyStar_data_38a9aa4b-c6f4-4247-92f4-980ce119afdd.txt",
+  "text": "Date Published:2019-05-07 00:00:00      \nAt the end of April, at a joint conference that included Bangladesh Environmental Lawyers' Association (BELA), Bangladesh Institute of Planners (BIP), Transparency International Bangladesh (TIB) and other groups came together to share the findings of a study spanning the last nine years on how there has been a systematic degradation of Dhaka's overall environment to benefit business. The study covers six areas including the Thana(s) Savar, Roopganj, Keraniganj, DAP (2010), the Gazipur part under DAP and the Dhaka metropolitan area. We learned that since 2010, the city has lost around 43,200 out of the total 187,958 acres of wetlands that Dhaka had. That means we have lost 22 percent of our wetlands over the span of nearly a decade. When we look at wetland, there are three types: flood flow zones, water retention areas and water bodies like rivers, canals, lakes and beels. In the DAP area alone, we are losing 2,500 acres of wetland every year. Breaking down the overall loss over the nine-year period, we find that 27 percent of 141,069 acres of free flow flood zones, around 34 percent of 10,419 acres of water retention areas and eight percent of 36,497 acres of other wetlands were grabbed or filled up. In the main city, we have areas like Basila, Bashundhara residential area, Beraid, Amin Bazar, and North Uttara that have been severely affected. The conversion of wetlands which should have been conserved has been done in the name of development and urbanisation, but the reality of course is that such massive violation of DAP has been made possible because of a lack of good governance and oversight. When we look at the fact that Dhaka has been a magnate for economic activity and that has been drawing people by the millions hailing from diverse backgrounds, it is easy to imagine why the realtors have cashed in on a building boom to support an expanding economy. As put by Professor Adil Mohammed Khan, General Secretary, BIP, \"conservation of water bodies like rivers and canals, wetland, retention areas and flood flow zones are all vital to making development and urbanisation sustainable maintaining an ecological balance.\" This is where policymakers got it wrong. By touting Dhaka as the premier investment hub without thinking about developing townships or smaller towns in the periphery of the capital city, we have been left with demand for housing that far outstrips the availability of land. The irresponsible planning and development of the city which simply ignored the DAP and where Rajuk has turned a blind eye to the all-out grabbing of water bodies was highlighted during a thought sharing episode back in 2017 between Rajuk and realtors where the latter basically told Rajuk that it is ludicrous for Rajuk to try and reclaim what has already been grabbed. They went on to state that Dhaka is actually better off without its wetlands because the only purpose water bodies serve is to increase the mosquito population. Experts contend that without these water bodies, the city faces many problems, one of which is water-logging. Back in April, 2018, the city had witnessed 55mm of rainfall in six hours which was enough to produce knee-deep water in major residential and commercial areas. Although city authorities had been working on a major overhaul of the drainage system, the fact of the matter is that today, the city is lacking in enough canals and lowland to let the water run out. But because we have been lacking in foresight, Dhaka's lowlands and canals are being filled up at an unprecedented rate and it simply cannot handle any heavy deluge. That explains why Dhaka has only two percent area dedicated to water retention against a requirement of 12 percent for a city of this size and when we factor in that nearly 90 percent of Dhaka is covered in concrete, the rainy season water has no way to drain out to water bodies and we end up with water-logging on city roads. Filling up wetlands in violation of DAP has been made possible because the custodians of the city turned a blind eye to the syndicate of businessmen backed up by political influence, working with corrupt officials over the years. The bad practices have now become institutional and with no accountability to speak of, laws are violated at will for profit is king and there is enough money to go around superseding the need for a balanced approach to city development.   Syed Mansur Hashim is Assistant Editor, The Daily Star."
+}

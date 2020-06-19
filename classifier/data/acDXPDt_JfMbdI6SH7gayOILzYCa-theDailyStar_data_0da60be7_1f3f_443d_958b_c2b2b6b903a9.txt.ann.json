@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_0da60be7-1f3f-443d-958b-c2b2b6b903a9.txt",
+  "text": "Date Published:2019-02-07 00:00:00      \nIf Volkswagen realizes its ambition of becoming the global leader in electric cars, it will be thanks to a radical and risky bet born out of the biggest calamity in its history. The German giant has staked its future, to the tune of 80 billion euros ($91 billion), on being able to profitably mass-produce electric vehicles - a feat no carmaker has come close to achieving. So far mainstream automakers' electric plans have had one main goal: to protect profits gleaned from high-margin conventional cars by adding enough zero-emission vehicles to their fleet to meet clean-air rules. Customers have meanwhile largely shunned electric vehicles because they are too expensive, can be inconvenient to charge and lack range. The biggest strategy shift in Volkswagen's 80 years has its roots in a weekend crisis meeting at the Rothehof guesthouse in Wolfsburg on October 10, 2015, senior executives told Reuters. At the meeting hosted by then VW brand chief Herbert Diess, nine top managers gathered on a cloudy Saturday afternoon to discuss the way forward after regulators blew the whistle on the company's emissions cheating, a scandal that cost it more than 27 billion euros in fines and tainted its name. \"It was an intense discussion, so was the realization that this could be an opportunity, if we jump far enough,\" said Juergen Stackmann, VW brand's board member for sales. \"It was an initial planning session to do more than just play with the idea of electric cars,\" he told Reuters. \"We asked ourselves: what is our vision for the future of the brand? Everything that you see today is connected to this.\" Just three days after the Rothehof meeting of the VW brand's management board, Volkswagen announced plans to develop an electric vehicle platform, codenamed MEB, paving the way for mass production of an affordable electric car. For months after the Volkswagen scandal blew up in 2015, rival carmakers treated diesel-cheating as a \"VW issue\", according to industry experts. But regulators have since uncovered excessive emissions across the sector and unleashed a clampdown that undermines the business case for combustion engines, forcing a sector-wide rethink. Now the \"villain\" of dieselgate is likely to become the largest producer of electric cars in the world in coming years, analysts say, putting it in pole position to flood the market - should the demand materialize. \"Decisions to convert the Emden factory (in Lower Saxony) to build electric cars, would never have happened without this Saturday meeting,\" said Stackmann, one of five senior VW executives who spoke to Reuters. However the full scale of VW's ambitions were only revealed two months ago when it took the industry by surprise by pledging to spend 80 billion euros to develop electric vehicles and buy batteries, dwarfing the investment of rivals. It plans to raise annual production of electric cars to 3 million by 2025, from 40,000 in 2018. It's a risky bet. With regulators and lawmakers, rather than customers, dictating what kind of vehicles can hit the road, analysts at Deloitte say the industry could produce 14 million electric cars for which there is no consumer demand. It's also an all-or-nothing bet in the long run. VW, whose ID electric car will hit showrooms in 2020, has set a deadline for ending mass production of combustion engines. The final generation of gasoline and diesel engines will be developed by 2026."
+}

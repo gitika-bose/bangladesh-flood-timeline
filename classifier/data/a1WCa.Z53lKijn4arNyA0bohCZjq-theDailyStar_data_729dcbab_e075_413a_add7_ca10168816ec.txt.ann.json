@@ -1,0 +1,289 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "monsoon",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 41,
+          "text": "Prolonged flood in the char lands"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "monsoon",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 294,
+          "text": "This year"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "2019",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:btellman"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 304,
+          "text": "the Brahmaputra river rose 150 centimetres above danger mark"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "monsoon",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 398,
+          "text": "inundated croplands including aman seedbeds"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "inundated croplands including aman seedbeds",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 495,
+          "text": "aman seedlings on 2,881 hectares of land"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "Aman seedlings on 2881 hectares of land",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_27": {
+          "value": "rice",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:btellman"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 536,
+          "text": "in Gaibandha"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Gaibandha",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|495,534",
+        "s1v1|e_2|536,547"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  ],
+  "filename": "theDailyStar_data_729dcbab-e075-413a-add7-ca10168816ec.txt",
+  "text": "Date Published:2019-08-07 00:00:00      \nProlonged flood in the char lands of Gaibandha district has completely damaged aman seedlings causing local farmers to worry about their crops. However, with advice from agriculture officers, farmers found a solution in the floating seedbed technology. This year the Brahmaputra river rose 150 centimetres above danger mark, the highest in two decades, and inundated croplands including aman seedbeds. According to district agriculture extension office, aman seedlings on 2,881 hectares of land in Gaibandha went under five to seven feet of standing water, damaging all prospect of transplanting the seeds in the next phase of aman cultivation. Instead of waiting for the water to subside for preparing regular seedbeds on land, the agriculture department advised farmers to prepare floating aman seedbeds on the floodwater. This way the saplings will be ready for transplantation in time within the aman cultivation season and also not get damaged if another flood occurs.  While visiting the flood ravaged unions of Sundarganj upazila, farmers were seen sowing aman seeds on floating beds made from heaped up water hyacinths and mud. \"I have prepared two floating beds as suggested by our upazila agriculture officer and sowed seed of BRRI- 51 aman variety. The seedlings can later be transplanted to cover four and half bighas of land,\" said Raju Mia, a farmer of Ramjibon union in Sundarganj upazila. BRRI- 51 aman, a flood tolerant variety suitable for flood prone areas, specially char lands along river basins, survives for two weeks under water, said SM Sarower Hossain, sub-assistant agriculture officer of Ramjibon union. Another farmer Rafiqul Islam of Bochagari village in Kapasia union, said \"My aman seedbed on five decimals of land, which could have been transplanted on five bighas of land, got damaged in the recent flood. The land would remain fallow if I do not arrange aman seedlings in time\". When asked why Rafiqul did not prepare floating seedbeds, he said, \"I don't know how to do so but I will talk to the agriculture department and try to start it soon.\" Syed Reza-e-Mahmud, Upazila Agriculture Officer (UAO) of Sundarganj said at least 32 floating seedbeds have already been prepared in different areas of Sundarganj Upazila, some people have leased water bodies to prepare floating seedbeds to sell saplings commercially. Deputy Director S M Ferdous of the Agriculture Extension Directorate, Gaibandha, said, \"As per instruction of the agriculture ministry, we have selected 56 farmers of seven upazilas of the district, trained them, and gave each of them an incentive grant of Taka 1165 to prepare floating seedbeds.\" This will encourage other farmers to follow suit, he hoped."
+}

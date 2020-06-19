@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_46ebe55d-7543-4742-b74c-60e92684c7e6.txt",
+  "text": "Date Published:2020-04-06 00:00:00      \nNarsingdi Civil Surgeon Mohammad Ibrahim Titon confirmed the matter to Dhaka Tribune on Monday night.  A man in Palash upazila of Narsingdi  has tested positive for coronavirus, making him the first confirmed case in the district. Narsingdi Civil Surgeon Mohammad Ibrahim Titon confirmed the matter to Dhaka Tribune on Monday night.  Mohammad Ibrahim Titon said,  \"The man, who works in Narayanganj, went to Dhaka for a coronavirus test after showing  symptoms of Covid-19. Later, he tested positive for the novel coronavirus.\" \"The health authorities will be going to the patient's home to decide whether he will be sent to isolation or treated at home,\" added Mohammad Ibrahim Titon. In Bangladesh, the novel coronavirus affected 123 people and killed 12 until Monday. "
+}

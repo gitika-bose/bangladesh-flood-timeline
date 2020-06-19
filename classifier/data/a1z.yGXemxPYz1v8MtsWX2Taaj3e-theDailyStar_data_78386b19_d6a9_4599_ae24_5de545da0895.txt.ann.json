@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_78386b19-d6a9-4599-ae24-5de545da0895.txt",
+  "text": "Date Published:2019-04-04 00:00:00      \nPrivate banks have donated Tk 30 crore to the Prime Minister's Relief and Welfare Fund as assistance for the people who were affected by the recent fire in Churihatta in Old Dhaka's Chawkbazar. The top brass of all the private commercial banks handed over cheques separately to Prime Minister Sheikh Hasina at an event at the Gono Bhaban in Dhaka on Tuesday. The banks that donated the money include Bank Asia, City Bank, IBBL, Mercantile, Mutual Trust, NCC, NRB, NRB Global, NRBC, One, Prime, Pubali, SIBL, UCB and Uttara. Of the 40 private banks, nine new banks donated Tk 25 lakh each, while the rest except ICB Islamic Bank contributed Tk 1 crore each. A devastating fire broke out at Old Dhaka's Chawkbazar on February 20, killing 70 people. Speaking on the occasion, the prime minister asked the directors of the banks to bring down the lending rate to single-digit, according to a meeting source. The directors explained that it was not possible at the moment because the private banks were facing liquidity crunch, the source said. However, the prime minister instructed the banks to take time to implement the single-digit lending rate. She, however, said banks would have to do it. Nazrul Islam Mazumder, chairman of the Bangladesh Association of Banks (BAB), a forum of the directors of the private banks, was present. On June 20 last year, Mazumder on behalf of the BAB announced that the member banks would bring down the lending rate to 9 percent and the deposit rate to 6 percent. At that time, he had said the prime minister met all the demands of the directors of the banks through an amendment to the Bank Companies Act. \"Everyone should agree to the decision to reduce the lending rates to single-digit as per the prime minister's instruction,\" he had told reporters. The promise has not been materialised yet. In April last year, banks donated Tk 163 crore to PM's relief fund. They also provided Tk 85 crore in August 2017 to support flood victims."
+}

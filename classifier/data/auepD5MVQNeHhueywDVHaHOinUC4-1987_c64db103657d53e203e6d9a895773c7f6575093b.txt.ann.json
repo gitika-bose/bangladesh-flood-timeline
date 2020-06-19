@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1987_c64db103657d53e203e6d9a895773c7f6575093b.txt",
+  "text": "Opposition in Bangladesh Calls an End to Strike\n1987-07-25T05:00:00.000Z\nOpposition leaders today ended a 54-hour general strike but immediately announced a new series of protests intended to keep pressure on the President, Lieut. Gen. H. M. Ershad, through next week.\nAt rallies that drew crowds despite a torrential monsoon rain that flooded the streets, leaders of two opposition alliances called for several days of public mourning, to begin Saturday, to mark the deaths of eight people killed in clashes with the police during the strike.\nA torchlight procession in Dhaka is planned Wednesday night, to be followed Thursday by a march on the President's office. Some protesters say they want to march on the President's home, in an army housing area, to protest his continuing reliance on the military.\nThe Government, which has not commented on the protest plans, made no effort to prevent the rallies held today. Almost no policemen were in evidence, and the drenched crowds were orderly.\nMore than 500 people were arrested before and during the general strike. Opposition leaders said today that many were still being held."
+}

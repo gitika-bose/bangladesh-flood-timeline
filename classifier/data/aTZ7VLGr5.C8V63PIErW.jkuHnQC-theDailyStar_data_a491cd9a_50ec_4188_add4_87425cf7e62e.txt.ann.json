@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_a491cd9a-50ec-4188-add4-87425cf7e62e.txt",
+  "text": "Date Published:2020-04-28 00:00:00      \nApril 28, 1972 BANGABANDHU'S EID-E-MILADUNNABI SPEECH  Bangabandhu Sheikh Mujibur Rahman declares that his government will no more permit religion to be used for any political purposes, to accumulate wealth by a small group at the cost of the poor and the exploitation of the common people of Bangladesh. Addressing a Seratunnabi gathering at Baitul Mukarram, Bangabandhu says that the four basic principles -- nationalism, democracy, socialism and secularism -- are compatible with the teachings of the Prophet and a happy and prosperous nation could be built on these four principles. Addressing the large congregation, the prime minister says that the Prophet loved all human beings irrespective of their religion and taught people to resist all oppression carried out in the name of religion. He says that the struggle for the realisation of justice, truth and honour are compatible with the teachings of Islam. Bangabandhu urges the Muslims of Bangladesh to practise Islam and abide by the teachings of the great Prophet to prove themselves better Muslims than others. He says as Bangladesh is the second largest Muslim nation in the world, the Muslims of this new state will surely display their love for Islam by following the teachings of Islam. In Bangladesh there will be no attack on any religion and the citizens of Bangladesh will be completely free to practise and profess their respective religions. WE CAN'T IGNORE BANGLADESH, SAYS INDIRA Bangladesh has an important role to play in the sub-continent and we can certainly not ignore Bangladesh, says Indian Prime Minister Indira Gandhi while talking on major Indian and world problems to the press today. Asked about prisoners of war in India-Pak talks, Indira Gandhi says, \"We are not the only party.\" ACCORD ON FLOOD CONTROL MEASURES The India-Bangladesh talks for mutual cooperation on sharing of water and power resources reach complete accord over cyclone and flood control measures. The representatives of the two countries discuss in detail the terms of reference and the composition of the Joint River Commission. VOTERS' AGE LIMIT MAY BE LOWERED Bangladesh government is considering a proposal for reducing the age limit of voters from 21 to 18, enabling young people to have the opportunity of greater participation in the affairs of the state. Recalling the Awami League pledge embodied in the party's election manifesto to reduce voters' age limit, the Local Government and Rural Development Minister Shamsul Huq says that this decision will amount to the fulfillment of a promise the party had made to the people. SOURCES: April 29, 1972 issues of Bangladesh Observer, Dainik Bangla and Ittefaq"
+}

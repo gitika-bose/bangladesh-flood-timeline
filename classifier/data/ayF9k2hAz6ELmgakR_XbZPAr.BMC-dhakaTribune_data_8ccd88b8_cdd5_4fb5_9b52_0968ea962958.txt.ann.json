@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_8ccd88b8-cdd5-4fb5-9b52-0968ea962958.txt",
+  "text": "Date Published:2019-12-19 00:00:00      \nJamalpur Sadar police station OC Md Salemujjaman confirmed the matter A journalist was reportedly assaulted by a local leader of the Bangladesh Chhatra League in Jamalpur. Police arrested Rakib Khan, the district Chhatra League secretary of religious affairs, following the incident.   Shelu Akondo, the Jamalpur correspondent of Daily Bangla Bazar and journalist of Daily Polly Kontho Protidin, was victim to the attack in Dewanpara area on Wednesday around 11pm. Shelu suffered blunt force trauma to his legs and initially was taken to Jamalpur General Hospital. He was later transferred to National Institute of Traumatology and Orthopedic Rehabilitation in Dhaka for better treatment. Shelu's brother Delowar Hossain Akondo filed a case was filed with Jamalpur Sadar police station accusing Rakib Khan as the prime suspect. Confirming the matter, Jamalpur Sadar police station OC Md Salemuzzaman said: \"The accused Rakib Khan was arrested in the early hours of Thursday and the other suspects will also be arrested soon.\" Around six months ago, on a separate incident, Jamalpur Municipality Councillor Runu Khan and his son Rakib Khan, along with their associates, assaulted another journalist Mustafa Monju of Kaler Kantho newspaper. Shelu said he was attacked as he was one of the witnesses in the case filed in connection with that incident."
+}

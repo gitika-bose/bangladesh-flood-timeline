@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_e51a5275-de8c-40e3-83c5-242d1b247233.txt",
+  "text": "Date Published:2019-07-24 00:00:00      \nCountrywide indefinite strike was enforced to press home their 11-point demand The nationwide strike of water transport workers have been postponed over all kinds of water transport - to ease the people's sufferings on the waterways. This decision came right after a meeting between the representatives of Bangladesh Water Transport Workers' Federation (BWTWF), and director general (DG) of Department of Shipping on Wednesday night. Authorities concerned assured the water transport workers that all of their 11-point-demands will be met by August 30. Confirming the matter to Dhaka Tribune BWTWF Secretary General Chowdhury Ashiqul Alam said: \"Considering various factors such as the nationwide flood situation, upcoming Eid-ul-Azha, absence of the State Minister of Labour and Employment Monnujan Sufian, we have decided to postpone our strike.  \"The decision came up based on the assurance to solve all our problems within August 30. All types of water transports can now operate freely.\" Earlier in the morning, water transport workers went on a countrywide indefinite strike to press home their 11-point demand. Bangladesh Water Transport Workers' Federation enforced the strike at Sadarghat in Dhaka on Tuesday midnight with various demands, including increasing salary, providing appointment letter and identity card, and issuing landing pass for India bound workers. Sadarghat police station Officer-in-Charge Md Rezaul Karim Bhuiyan told Dhaka Tribune that launch services of all routes were suspended. \"For the last few days, they [workers] were also putting up posters at Sadarghat launch terminal to press home their demands,\" he said. Passengers of Dhaka-Chandpur route, which leaves the terminal during the day, suffered the most due to the strike.  Prakash Dutta said: \"If there is no positive discussion on our problems, the strike will continue.\"   Earlier on April 15, the workers had staged a strike with the same demands. Following the strike, the government, and the launch owners were given an ultimatum to resolve the problem within 45 working days. The ultimatum ended on June 26, without any outcome. State Minister of Labour and Employment Monnujan Sufian held a meeting regarding the issue on July 15. However, no solution was reached."
+}

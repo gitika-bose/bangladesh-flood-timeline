@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_547a04a1-205f-4d2c-9f84-ad9bea26ccc4.txt",
+  "text": "Date Published:2020-02-25 00:00:00      \nThe harbinger of the famous cartoon character, 'Tokai', is eminent artist Professor Rafiqun Nabi, popularly known as 'Ranabi'. His father, renowned artist Rasidun Nabi (1914-1995), was a police officer. \"My father used to paint under the light of lanterns every night, after returning from office. He was an honest man,\" said an emotional Rafiqun Nabi at the opening ceremony of the group art exhibition Parampara, currently underway at Gallery Chitrak. Prominent artist Mustafa Monwar inaugurated the exhibition as the chief guest. The exhibition features exquisite artworks of Rasidun Nabi, and his three sons -- celebrated artist Rafiqun Nabi, eminent photographer Tauhidun Nabi, and famous artist Rezaun Nabi along with his daughter-in-law, artist Sohana Shahreen. \"My father was close to many pioneering artists of Bangladesh, including Shilpacharya Zainul Abedin. In 1954, when I was in the fourth grade, he took me to the All Pakistan National Art Exhibition held at Burdhawan House (Now Bangla Academy), as a way of inspiring me to take up art,\" shared Rafiqun Nabi. \"During that time, a heavy flood inundated Dhaka and some foreign aid agencies distributed food, along with story and rhyme books and watercolour bars. My father coloured many paintings during that time.\" Rasidun Nabi's compositions range from beautiful landscapes to portraits, boats, rivers, humans, birds, woods and animals. He painted with pencil, ink, watercolour and mixed-media, depicting images of boats, village sceneries, unidentified gypsies, palm trees, horses and women. He also created clay and cork sheet sculptures. Two sculptures with marvelous paintings of Rasidun Nabi are on display at the gallery.  \"The artists of today boast of merit. Art is not done with talent - It is created from the heart. I believe that nature is the biggest teacher, when it comes to art. Rasidun Nabi was inspired by nature,\" said Mostafa Monwar. \"That's why he was able to teach his children, who are carrying his artistic legacy forward.\"  \"Rasidun Nabi painted magnanimously themed paintings with dedication. The paintings and photographs that are now hung on the walls of the gallery are not just works of art - they showcase a family's legacy,\" said Hashem Khan, the guest of honour at the event.  Professor Bulban Osman, who presided over the opening ceremony of Parampara, expressed his gratitude to the Nabi family. \"Rasidun Nabi saw my father, litterateur Shawkat Osman and my name in the list of the then Pakistani forces,\" he said. \"He shared this information with his wife. As a responsible police officer, he was in a dilemma of professional integrity and patriotism. But he prioritised patriotism. That's why we survived on that day.\" Parampara, opening from 10 am to 8 pm daily, will conclude on February 29."
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_f14d4415-ea95-434c-84d9-7103597bf5df.txt",
+  "text": "Date Published:2020-04-17 00:00:00      \nThe move followed highly publicized complaints from some governments and hospitals that they received PPE from China that they considered faulty The United States has asked China to revise new export quality control rules for protective equipment needed during the coronavirus pandemic so they are not an obstacle to timely supplies, a spokesman for the US State Department said on Thursday. China tightened restrictions on exports of masks and other personal protective equipment (PPE) last Friday, calling for shipments of the items to be subjected to a mandatory customs inspection. It was a bid by China to balance the global demand for PPE to help treat the rising number of cases of the new coronavirus, while ensuring that manufacturers and sellers do not flood the market with uncertified or shoddy products. The move followed highly publicized complaints from some governments and hospitals that they received PPE from China that they considered faulty. \"We appreciate the efforts to ensure quality control. But we do not want this to serve as an obstacle for the timely export of important supplies,\" a State Department spokesman said. \"The US Government has raised these concerns with (China). We have requested that China revise its new requirements to allow the expeditious export of vital PPE to the United States,\" he said. The United States is heavily reliant on medical supplies produced in China, a major strategic and trade rival, something that has been highlighted in the pandemic, in which the United States has been the worst-affected country. Earlier on Thursday, the Wall Street Journal cited US businesses and diplomatic memos as saying that China's export restrictions had left US-bound face masks, test kits and other medical equipment stranded. It cited suppliers and brokers as saying that large quantities were sitting in warehouses across China unable to receive necessary clearances. On Wednesday, US Secretary of State Mike Pompeo spoke by phone with China's top diplomat Yang Jiechi and stressed the \"high importance\" Washington attached to China's facilitation of medical supply exports to meet critical demand in the United States. The US-China Business Council trade lobby group president Craig Allen told reporters on Thursday it had \"had a very good set of discussions with a relatively high level of the Chinese government over the last few days ... and the Chinese government is making allowances and working with our companies to ensure that they're able to ship out.\""
+}

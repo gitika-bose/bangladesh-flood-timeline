@@ -1,0 +1,72 @@
+[
+  {
+    "query": "bangladesh inundation",
+    "paper": "bdnews",
+    "date_range": [
+      "1/1/2014",
+      "12/31/2014"
+    ],
+    "sites": [
+      "https://bdnews24.com/bangladesh/2014/05/29/overflowing-teesta-floods-banks"
+    ]
+  },
+  {
+    "query": "bangladesh inundation",
+    "paper": "bdnews",
+    "date_range": [
+      "1/1/2015",
+      "12/31/2015"
+    ],
+    "sites": [
+      "https://bdnews24.com/bangladesh/2015/06/26/dhakas-mirpur-reels-under-waist-high-water-after-30-minute-rain"
+    ]
+  },
+  {
+    "query": "bangladesh inundation",
+    "paper": "bdnews",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh inundation",
+    "paper": "bdnews",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "https://bdnews24.com/bangladesh/2017/05/29/danger-signal-no.-7-for-chittagong-cox-s-bazar-as-cyclone-mora-moves-in",
+      "https://bdnews24.com/bangladesh/2017/07/06/thousands-marooned-in-sylhet-region-water-level-rising-in-northern-bangladesh",
+      "https://bdnews24.com/bangladesh/2017/02/25/new-government-report-finds-bangladesh-island-chosen-to-relocate-rohingyas-as-fit-for-habitation",
+      "https://bdnews24.com/socialmedia/2017/04/22/stranded-by-water-logging-chittagong-city-dwellers-flood-social-media-with-satire"
+    ]
+  },
+  {
+    "query": "bangladesh inundation",
+    "paper": "bdnews",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": [
+      "https://bdnews24.com/bangladesh/2018/04/28/tk-50-billion-project-launched-to-end-waterlogging-in-ctg-by-next-monsoon"
+    ]
+  },
+  {
+    "query": "bangladesh inundation",
+    "paper": "bdnews",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://bdnews24.com/environment/2019/03/30/bangladesh-asks-all-countries-to-adhere-to-paris-climate-conference-decisions",
+      "https://bdnews24.com/world/americas/2019/09/05/bahamas-stunned-as-water-recedes-its-like-a-bomb-went-off",
+      "https://bdnews24.com/neighbours/2019/09/30/as-deadly-floods-engulf-nepal-border-anger-turns-to-india",
+      "https://bdnews24.com/media-en/2019/07/30/shelter-on-railroad"
+    ]
+  }
+]

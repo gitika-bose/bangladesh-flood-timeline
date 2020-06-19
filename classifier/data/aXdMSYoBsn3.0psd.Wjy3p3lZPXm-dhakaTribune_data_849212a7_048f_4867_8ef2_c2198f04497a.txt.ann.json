@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_849212a7-048f-4867-8ef2-c2198f04497a.txt",
+  "text": "Date Published:2020-03-02 00:00:00      \nPolice are trying to arrest the others involved and a case will be filed soon Two injured Chhatra League leaders died on Monday after being injured in attacks on Sunday. In Noakhali, a Chhatra League leader died of bullet wounds,  injured in an ambush by suspected Islami Chhatra Shibir activists at Palwaner Pool market in Begumganj upazila. The deceased Rakib Hossain was a joint secretary of Chhatra League's Amanullapur union unit. He died under treatment at Dhaka Medical College Hospital (DMCH). Police conducted a drive on Sunday night shortly after the incident and detained four people, said Begumganj police station OC Harun-Or-Rashid Chowdhury. The detained Faruk Ahmmad, 42, Masud Alam, 30,  Akram Hossain, 24, and Ibrahim, 30, were produced in court on Monday afternoon.  Police are trying to arrest the others involved and a case will be filed soon, said OC Harun. \"Some Chhatra League men were staying at a tea stall when Shibir activists shot and hacked at them indiscriminately. Rakib and Habib were transferred to hospitals in Dhaka when their condition deteriorated after the incident. Rakib had to undergo surgery as bullets penetrated his kidney, liver, and stomach. Habib is currently receiving treatment at a private hospital in Dhaka,\" said Union Parishad Chairman Arifur Rahman, also president of Awami League's Amanullahpur unit.  Three other Chhatra League members were also injured, hacked with sharp weapons. In Khulna, another injured Chhatra League leader died after being severely beaten by a rival group over establishing supremacy.  The deceased Hadiuzzaman Russel, 28, was general secretary of Chhatra League's Koyra Upazila unit. Koyra police station OC Robiul Islam said: \"A dispute arose between Russel and his cousins on Sunday afternoon, over the positioning of an under construction bridge across Batikata canal. Russel was mercilessly beaten by his cousins following the altercation. The incident left him seriously injured.\" Russel succumbed to his injuries on the way to Dhaka while being transferred from Khulna Medical College Hospital, added the OC. Locals said there was a long standing feud between Russel and his cousins over establishing supremacy in the area."
+}

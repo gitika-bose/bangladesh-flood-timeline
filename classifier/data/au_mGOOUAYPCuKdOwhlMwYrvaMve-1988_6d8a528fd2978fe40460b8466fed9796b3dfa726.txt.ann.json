@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1988_6d8a528fd2978fe40460b8466fed9796b3dfa726.txt",
+  "text": "In Africa, a Cow Is Still Not Just a Cow\n1988-11-29T05:00:00.000Z\nTo the Editor:\nWhile Princess Irene of Greece (letter, Nov. 18) is to be congratulated on her many fine projects, including now sending surplus Common Market cows to the third world, I can't help questioning the fate of productive milk cows that go to Uganda or other parts of Africa.\nI don't know what conditions prevail in India or Bangladesh, but I have lived for many years in Africa, and the attitude of the average African toward cattle is such that if such a project were to be undertaken, I think it would fail without strict supervision. Cattle in Africa are regarded as ''lobola,'' or bride price, an index of social prestige and a custom very much alive in Africa, and the more cattle the better, without regard to condition or whether or not they produce milk. Which is why one sees herds of emaciated cattle in rural Africa.\nI had personal experience with this attitude in a semirural environment, where the family had good elementary education. The family, consisting of six children and one adult, had one milk-producing cow, and when a serious drought affected the region, I offered to send money beyond what I was sending for their own needs to keep the cow alive. This was refused, and the cow was sold for a paltry sum that would have bought milk powder for about two months.\nI don't know what the solution might be, but attitudes must first change before inroads can be made to alleviate Africa's mass, periodic famines. ZELDA MACK Vero Beach, Fla., Nov. 19, 1988"
+}

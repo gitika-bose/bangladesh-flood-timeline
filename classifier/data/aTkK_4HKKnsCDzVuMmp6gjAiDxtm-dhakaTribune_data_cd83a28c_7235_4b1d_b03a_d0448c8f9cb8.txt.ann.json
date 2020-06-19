@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_cd83a28c-7235-4b1d-b03a-d0448c8f9cb8.txt",
+  "text": "Date Published:2020-03-02 00:00:00      \nThey are all from Ukhiya and Teknaf refugee camps Police rescued 37 Rohingyas, including women and children, while they were attempting to go to Malaysia illegally by sea from Reju Khal area in Ramu upazila of Cox's Bazar early on Monday. They are all from Ukhiya and Teknaf refugee camps, said Sub-Inspector SM Atik Ullah, the in-charge of Himchari police outpost. Police also detained three people in connection with the human trafficking from the spot. However, police did not disclose the identities of the Rohingyas and the detained human traffickers. SI Atik said: \"On a tip off, we conducted a drive in the Reju canal area where the human traffickers rounded up a group of Rohingyas early in the morning in order to send them to Malaysia illegally by sea.\" Later, police rescued the Rohingyas from the spot, he said.  \"Of the Rohingyas, four are children, 17 women and 16 men. A case was filed against the three human traffickers with Ramu police station.\" Earlier on February 11, a total of 20 Rohingyas died and several others were rescued after a trawler, carrying around 100 Rohingyas, capsized near Saint Martin's Island in the Bay of Bengal.  They were heading to Malaysia by sea illegally, according to law enforcement agencies.  The camps at Ukhiya and Teknaf in Cox's Bazar currently shelters more than 1.1 million Rohingyas who fled persecution in Myanmar.  Taking advantage on the desperation of these Rohingya people, several gangs of national and international human traffickers often lure them into making dangerous journey to aboard by sea illegally for better lives. "
+}

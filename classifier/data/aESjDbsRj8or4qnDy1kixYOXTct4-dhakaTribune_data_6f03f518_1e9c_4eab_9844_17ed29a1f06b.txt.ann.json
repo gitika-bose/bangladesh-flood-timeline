@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_6f03f518-1e9c-4eab-9844-17ed29a1f06b.txt",
+  "text": "Date Published:2019-08-20 00:00:00      \nCustomers find unclean restaurants and food stores unacceptable The Directorate of National Consumer Rights Protection on Tuesday slapped three restaurants and two stores with a hefty fine of Tk 200,000 in a drive against unhygienic and expired foods in the capital's Bailey Road. The three restaurants were Bailey Bar B Q, Dhaka Biriyani, and Rooster Cafe. The quasi-judicial government department also fined Vaggokul Sweets for unclean and expired food items, and S Baker for not labeling their packaged products.  Bailey Bar B Q, Vaggokul Sweets, and S Baker, were fined Tk 50,000 each, while Dhaka Biriyani was fined Tk 30,000 and Rooster Cafe, Tk 20,000. Md Adbul Jabbar Mondol, assistant director of the Directorate of National Consumers' Right Protection, said if they continue to run their businesses in this way, the authorities concerned would cancel their trade licenses.    \"We are keeping them under pressure. If there is any lapse, our team will visit and take necessary action,\" he said.    The Directorate of National Consumers' Rights Protection team also identified expired tomato sauces and other condiments at Vaggokul Sweets. The popular store did not put any price tags for the sweets they were selling. It also stored some sweets in a very unclean bucket.  The staff and employees of Bailey Bar B Q kitchen were working in an unhygienic and congested atmosphere. The authorities found grilled chicken and kebabs being kept overnight on the kitchen countertop.  Dhaka Biriyani stored almost rotten vegetables and stale dough at their restaurant.  The National Consumers' Right Protection team raided BFC and Chittagong General Store in the Bailey Road neighbourhood and found their services and products to be satisfactory.  Sabiha Zaman Shobha, a customer who heading towards BFC, said the average consumer is frustrated with these restaurants and their services, and demanded exemplary punishment against restaurant owners responsible for not living up to maintaining standard operating procedures."
+}

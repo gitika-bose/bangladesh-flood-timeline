@@ -1,0 +1,67 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun",
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun",
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_37e5168e-2fbe-485d-b75e-fccda4a23ef5.txt",
+  "text": "Date Published:2019-03-21 00:00:00      \nThe number of people in Zimbabwe affected by a devastating cyclone and flooding has jumped to 200,000, with most of the damage occurring near the Mozambique border, the UN said today. The initial estimate of those hit in Zimbabwe was 15,000 but World Food Programme (WFP) spokesman Herve Verhoosel told reporters in Geneva that the numbers had surged following an overnight assessment. Read more: Death toll exceeds 300; scores missing The situation in Zimbabwe's eastern district of Chimanimani on the Mozambique border \"is very bad,\" Verhoosel said. \"Some 90 percent of the district has been significantly damaged,\" he added. Zimbabwe's state broadcaster ZBC has also raised the death toll to 139, up from 100 on Wednesday. Five days after tropical cyclone Idai cut a swathe through Mozambique, Zimbabwe and Malawi, the full extent of the devastation is not yet clear. In hardest-hit Mozambique, an estimated 400,000 people have been displaced, according to the UN. As of now, the number of people in Mozambique affected by the storm and floods is 600,000, Verhoosel said, citing government figures. But \"that number will definitely go up,\" he told reporters. The WFP believes it is possible that a total of 1.7 million people in Mozambique will need assistance as a result of the weather-related disasters, Verhoosel added. Aid workers are racing to locate survivors, some of whom may still be stranded on rooftops or in trees. About 15,000 people still need to be rescued from floods after central Mozambique was pounded by a cyclone last week, Land and Environmental Minister Celso Correia said today. \"Yesterday we had counted 15,000 people that still need rescue today -- 15,000 people who are in bad shape. They are alive, we are communicating with them, delivering food, but we need to rescue them and take them out,\" he told reporters. He said around 3,000 people have been rescued so far since Tropical Cyclone Idai struck the flood-prone impoverished southern African country. \"The bad news is that we have lost already 217 lives,\" he said. \"There's still a lot of people on the ground in need of rescue. We are working with 120 specialists and a lot of teams to keep on rescuing.\" \"Our priority now is to make sure we take food, shelter and medicine to the people that are isolated in small islands or in big islands and villages. \"We are working 24 hours to make sure we are taking the food and medicine to those people to make sure we avoid live losses because of sickness,\" the minister said at Beira airport, which has become the humanitarian relief coordination hub. The cyclone made landfall last week in central Mozambique before hitting neighbouring Zimbabwe where at least 139 have been killed."
+}

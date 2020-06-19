@@ -1,0 +1,78 @@
+[
+  {
+    "query": "bangladesh flooding",
+    "paper": "theNewNation",
+    "date_range": [
+      "1/1/2014",
+      "12/31/2014"
+    ],
+    "sites": [
+      "http://thedailynewnation.com/news/8262/watermelon-one-of-the-summer-fruits-of-bangladesh-flooding-city-markets-although-prices-are-still-high-this-photo-was-taken-from-jatrabari-area-on-wednesday.html"
+    ]
+  },
+  {
+    "query": "bangladesh flooding",
+    "paper": "theNewNation",
+    "date_range": [
+      "1/1/2015",
+      "12/31/2015"
+    ],
+    "sites": [
+      "http://thedailynewnation.com/news/74132/humayun-ahmed-the-literary-legend.html",
+      "http://thedailynewnation.com/news/76494/mystic-poet-hason-raja.html",
+      "http://thedailynewnation.com/news/47282/posters-billboards-are-still-there.html",
+      "http://thedailynewnation.com/news/66993/concern-over-hazaribagh-tannery-pollution.html"
+    ]
+  },
+  {
+    "query": "bangladesh flooding",
+    "paper": "theNewNation",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": [
+      "http://m.thedailynewnation.com/news/118848/mystic-poet-philosopher--hason-raja",
+      "http://thedailynewnation.com/news/101056/humayun-ahmed-the-literary-legend.html",
+      "http://thedailynewnation.com/news/114310/humayun-ahmed--the-literary-legend.html",
+      "http://m.thedailynewnation.com/news/114310/humayun-ahmed--the-literary-legend"
+    ]
+  },
+  {
+    "query": "bangladesh flooding",
+    "paper": "theNewNation",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "http://thedailynewnation.com/news/155722/from-myanmar-to-zimbabwe-chinas-global-footprint-grows.html",
+      "http://thedailynewnation.com/news/148240/bd-expects-no-help-from-trump-hasina.html",
+      "http://thedailynewnation.com/news/144536/3-major-rivers-overflowing.html"
+    ]
+  },
+  {
+    "query": "bangladesh flooding",
+    "paper": "theNewNation",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": [
+      "http://m.thedailynewnation.com/news/184585/despair-as-crippling-drought-hammers-australian-farmers"
+    ]
+  },
+  {
+    "query": "bangladesh flooding",
+    "paper": "theNewNation",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "http://m.thedailynewnation.com/news/201485/death-toll-from-philippine-landslides-floods-climbs-to-85",
+      "http://m.thedailynewnation.com/news/222571/deluge-turns-grave",
+      "http://m.thedailynewnation.com/news/229194/5-m-gold-toilet-from-britains-blenheim-palace-stolen"
+    ]
+  }
+]

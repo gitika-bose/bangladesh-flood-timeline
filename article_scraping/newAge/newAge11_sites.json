@@ -1,0 +1,90 @@
+[
+  {
+    "query": "bangladesh \"flooded\"",
+    "paper": "newAge",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": [
+      "http://www.newagebd.net/article/4753/myanmar-calls-asean-talks-over-%E2%80%98rohingya-issue%E2%80%99",
+      "http://www.newagebd.net/article/3623/govt-moves-to-discourage-food-supplement-import",
+      "https://www.newagebd.net/article/5533/does-science-education-hinder-our-development-and-growth"
+    ]
+  },
+  {
+    "query": "bangladesh \"flooded\"",
+    "paper": "newAge",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "https://www.newagebd.net/article/18172/rain-drenches-country-as-lightning-kills-16",
+      "https://www.newagebd.net/article/20232/heavy-rain-causes-flooding-in-parts-of-feni-chittagong",
+      "http://www.newagebd.net/article/21884/two-lakh-people-marooned-bus-train-links-snapped",
+      "https://www.newagebd.net/article/29408/cyclone-kills-19-most-under-landslide-on-indonesian-island-of-java",
+      "https://www.newagebd.net/article/30710/social-movement-and-social-media",
+      "https://www.newagebd.net/print/article/14248",
+      "https://www.newagebd.net/article/20455/quantitative-easing-the-largest-transfer-of-wealth-in-history",
+      "http://www.newagebd.net/article/23250/search-goes-on-for-harvey-survivors-trump-requests-aid",
+      "https://www.newagebd.net/article/19478/flood-situation-worsens-as-india-opens-barrage",
+      "https://www.newagebd.net/article/17597/rain-causes-chaos-all-over",
+      "http://www.newagebd.net/article/17597/rain-causes-chaos-all-over",
+      "https://www.newagebd.net/article/23994/outbreak-of-diseases-feared-in-coxs-bazar",
+      "http://www.newagebd.net/article/21933/10-lakh-people-marooned-18-die"
+    ]
+  },
+  {
+    "query": "bangladesh \"flooded\"",
+    "paper": "newAge",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": [
+      "https://www.newagebd.net/article/45414/the-tea-types",
+      "https://www.newagebd.net/article/45507/floods-situation-worsens-in-bogra-jamalpur-sirajganj",
+      "http://www.newagebd.net/article/45507/floods-situation-worsens-in-bogra-jamalpur-sirajganj",
+      "http://www.newagebd.net/article/41956/water-logging-triggered-by-heavy-rains-hampers-city-life",
+      "https://www.newagebd.net/article/44683/500-tonnes-of-hazardous-ddt-to-be-destroyed",
+      "https://www.newagebd.net/article/48031/anarchy-on-dhaka-streets-returns",
+      "https://www.newagebd.net/article/43949/thousands-marooned-in-sylhet-flood",
+      "https://www.newagebd.net/article/45450/trade-war-fallout-risks-lurk-over-bangladesh-economy",
+      "http://www.newagebd.net/article/59648/handloom-industry-potential-needs-to-be-tapped",
+      "https://www.newagebd.net/article/59890/india-races-against-clock-to-rescue-rat-hole-miners",
+      "http://www.newagebd.net/article/42031/crop-intensification-looms-large-in-coastal-region",
+      "https://www.newagebd.net/article/45205/rain-leaves-ctg-life-in-tatters"
+    ]
+  },
+  {
+    "query": "bangladesh \"flooded\"",
+    "paper": "newAge",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://www.newagebd.net/article/71417/villages-flooded-as-weakened-fani-passes-through-bangladesh",
+      "http://www.newagebd.net/article/87545/11-dead-many-more-injured-as-typhoon-hagibis-lashes-japan",
+      "https://www.newagebd.net/article/89222/sea-water-likely-to-flood-a-fourth-of-bangladesh-by-2050-study",
+      "https://www.newagebd.net/article/86456/flood-woes-intensify-as-ganges-flow-keeps-rising",
+      "https://www.newagebd.net/article/71340/number-of-diarrhoea-patients-on-rise",
+      "https://www.newagebd.net/article/85684/memories-of-susama-chakma",
+      "http://www.newagebd.net/article/71340/number-of-diarrhoea-patients-on-rise",
+      "http://www.newagebd.net/article/73489/chemical-ripening-of-mangoes-must-stop-early",
+      "https://www.newagebd.net/article/81717/india-eyes-duty-free-access-of-tripura-tea-to-bangladesh",
+      "http://www.newagebd.net/article/78343/rain-hits-city-life-hard",
+      "https://www.newagebd.net/article/75677/im-no-hero-says-chernobyl-diver-portrayed-in-hit-tv-series",
+      "http://www.newagebd.net/article/77865/rains-paralyse-ctg-life-2-killed-in-rangamati-landslide",
+      "https://www.newagebd.net/article/79692/floods-inundate-new-areas",
+      "https://www.newagebd.net/article/85850/fake-cosmetics-flood-market-pose-serious-health-hazards",
+      "http://www.newagebd.net/article/91206/cambodian-princess-who-rebuilt-apsara-dance-dies-aged-76",
+      "http://www.newagebd.net/article/84957/dhaka-tells-delhi-offering-tripura-tea-duty-free-access-not-possible",
+      "https://www.newagebd.net/article/90210/cottage-industry-on-verge-of-extinction-in-narsingdi",
+      "https://www.newagebd.net/article/92938/can-we-hear-the-cry-of-jumma-youth",
+      "https://www.newagebd.net/article/70425/grammo-the-feel-of-rural-life",
+      "http://www.newagebd.net/article/66257/a-visit-to-amar-ekushey-granthamela"
+    ]
+  }
+]

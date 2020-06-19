@@ -1,0 +1,91 @@
+[
+  {
+    "query": "bangladesh flooding",
+    "paper": "theIndependent",
+    "date_range": [
+      "1/1/2015",
+      "12/31/2015"
+    ],
+    "sites": [
+      "http://www.theindependentbd.com/post/10780",
+      "http://www.theindependentbd.com/arcprint/details/8720/2015-07-24",
+      "http://www.theindependentbd.com/magazine/details/24940/Internal-migration-and-urbanisation-in-Bangladesh",
+      "http://www.theindependentbd.com/arcprint/details/7521/2015-07-13",
+      "http://www.theindependentbd.com/magazine/details/9590/How-does-chronic-stress-affect-our-physical-and-mental-health?",
+      "http://www.theindependentbd.com/magazine/details/24481/Erosion-threaten-coastal-areas",
+      "http://www.theindependentbd.com/arcprint/details/14201/2015-09-03",
+      "http://www.theindependentbd.com/arcprint/details/14702/2015-09-07",
+      "http://www.theindependentbd.com/arcprint/details/10680/2015-08-08",
+      "http://www.theindependentbd.com/printversion/details/4220",
+      "http://www.theindependentbd.com/arcprint/details/15805/2015-09-15",
+      "http://www.theindependentbd.com/printversion/details/16004",
+      "http://www.theindependentbd.com/arcprint/details/14202/2015-09-03",
+      "http://www.theindependentbd.com/printversion/details/9038"
+    ]
+  },
+  {
+    "query": "bangladesh flooding",
+    "paper": "theIndependent",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": [
+      "http://www.theindependentbd.com/post/58828",
+      "http://www.theindependentbd.com/arcprint/details/60387/2016-09-18",
+      "http://www.theindependentbd.com/arcprint/details/57791/2016-08-28",
+      "http://www.theindependentbd.com/home/printnews/73443",
+      "http://www.theindependentbd.com/arcprint/details/53323/2016-07-29",
+      "http://www.theindependentbd.com/arcprint/details/57869/2016-08-28",
+      "http://www.theindependentbd.com/arcprint/details/30787/2016-01-19",
+      "http://www.theindependentbd.com/arcprint/details/51256/2016-07-15"
+    ]
+  },
+  {
+    "query": "bangladesh flooding",
+    "paper": "theIndependent",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": [
+      "http://www.theindependentbd.com/post/161100",
+      "https://www.theindependentbd.com/post/153712",
+      "http://www.theindependentbd.com/post/160721",
+      "http://www.theindependentbd.com/post/162714",
+      "http://www.theindependentbd.com/post/170665",
+      "http://www.theindependentbd.com/post/179451",
+      "http://www.theindependentbd.com/post/176564",
+      "http://www.theindependentbd.com/post/153598",
+      "https://www.theindependentbd.com/post/162292"
+    ]
+  },
+  {
+    "query": "bangladesh flooding",
+    "paper": "theIndependent",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "http://www.theindependentbd.com/post/221774",
+      "http://www.theindependentbd.com/post/217809",
+      "http://www.theindependentbd.com/post/194649",
+      "http://www.theindependentbd.com/post/206866",
+      "http://www.theindependentbd.com/post/197864",
+      "http://www.theindependentbd.com/post/217669",
+      "http://www.theindependentbd.com/post/212508",
+      "http://www.theindependentbd.com/post/201385",
+      "http://www.theindependentbd.com/post/213819",
+      "http://www.theindependentbd.com/post/183833",
+      "http://www.theindependentbd.com/post/191329",
+      "http://www.theindependentbd.com/post/223142",
+      "http://www.theindependentbd.com/post/229682",
+      "http://www.theindependentbd.com/post/197916",
+      "http://www.theindependentbd.com/post/184972",
+      "http://www.theindependentbd.com/post/194794",
+      "http://www.theindependentbd.com/post/184807",
+      "http://www.theindependentbd.com/post/214760"
+    ]
+  }
+]

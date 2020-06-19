@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_f382a8fa-23d6-42a5-a003-a529a2bc671f.txt",
+  "text": "Date Published:2019-01-15 00:00:00      \nNew FM's foreign tour to begin with India Bangladesh and India will hold the next round of foreign minister-level bilateral talks in the first week of February, aiming to take the relations between the two countries to newer heights. The meeting - 5th Joint Consultative Commission (JCC) - will be held in New Delhi, paving the way for new Foreign Minister Dr AK Abdul Momen to make his maiden foreign tour to India after formation of the new government, reports UNB. A preparatory inter-ministerial meeting is scheduled to be held at the Ministry of Foreign Affairs on Wednesday to finalize  5th JCC agenda. Foreign Secretary M Shahidul Haque will preside over the meeting. The representatives of relevant ministries, divisions, and agencies will attend the meeting. The 4th Joint Consultative Commission between Bangladesh and India, led by former Foreign Minister AH Mahmood Ali and Indian External Affairs Minister Sushma Swaraj respectively, was held in October 2017. The 5th JCC meeting, once the date is set, will review progress made in areas such as trade and investment, security, connectivity, border management, power, energy, shipping, and people-to-people exchanges, said a diplomatic source. The two countries will also discuss common challenges and find ways on how the two friendly countries, along with other like-minded nations can continue fighting the scourge of terrorism, extremism, and radicalisation, the source indicates. The Rohingya issue might come up for discussions as well during the meeting. Meanwhile, Foreign Minister Momen on Monday said he will make his maiden visit as the Foreign Minister to New Delhi as India has invited him. \"India is our neighbour and friendly country and we have a warm relationship\" he said, without giving any date and purpose of his India trip. Earlier, acting High Commissioner of India to Bangladesh, Dr Adarsh Swaika, met the new Foreign Minister of Bangladesh and handed over a letter of congratulations from the External Affairs Minister of India, Sushma Swaraj. Indian Prime Minister Narendra Modi was the first among global leaders to congratulate Prime Minister Sheikh Hasina after her party, Awami League's absolute victory in the December 30 elections. Prime Minister Modi expressed confidence that the partnership between Bangladesh and India will continue to flourish under her \"farsighted\" leadership. He also reiterated the priority India attaches to Bangladesh as a neighbour, a close partner for regional development, security and cooperation, and a central pillar in India's ''Neighbourhood First\" policy."
+}

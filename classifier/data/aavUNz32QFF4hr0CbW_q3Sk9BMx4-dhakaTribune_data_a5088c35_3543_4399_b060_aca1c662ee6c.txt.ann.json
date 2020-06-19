@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_a5088c35-3543-4399-b060-aca1c662ee6c.txt",
+  "text": "Date Published:2020-04-10 00:00:00      \nAt least 266 people have been arrested for posting coronavirus-related information in 10 Asian countries Hundreds of people have been arrested across Asia for posting purported false coronavirus information, according to an AFP investigation, deepening concerns that growing government efforts to combat \"fake news\" will target the wrong people and silence dissent. From teenagers to a TV star, people have been wrongly detained under vaguely worded cybercrime laws or broad state-of-emergency powers ushered in since the outbreak began, rights groups say. \"Governments are using the 'fake news' label to dress up their rights-abusing efforts to censor views and statements that are at odds with whatever strategy they have taken to deal with the Covid-19 crisis,\" said Phil Robertson, Asia deputy director for Human Rights Watch (HRW). \"It's insane frankly. In many cases it's people being dragged out of their homes to the lock-up, put in pre-trial detention, in crowded spaces where they're more likely to get Covid-19.\" At least 266 people have been arrested for posting coronavirus-related information in 10 Asian countries, from Thailand to India and Mongolia, according to an AFP tally based on police reports. They include a local politician in India who claimed on Facebook that the government was downplaying virus fatalities, and a Malaysian TV personality made to pay a fine of several thousand US dollars after he posted a YouTube video criticising a hospital's handling of the pandemic. Authorities say criminalisation is needed to curb the online flood of dangerous fake cures and conspiracy theories that the World Health Organization (WHO) has called an \"infodemic.\" But HRW and other campaigners point to cases where opposition figures or journalists have been targeted - as well as questioning the fairness of arresting ordinary people who may not even realize they are spreading misinformation. A middle-aged woman in Sri Lanka spent three days in custody this week after posting a prank message on Facebook saying the president had tested positive for Covid-19, police said. In Cambodia, a Facebook pundit who posted a quote from Prime Minister Hun Sen was charged with incitement to commit felony and is facing up to two years in jail, according to a court warrant seen by AFP. Officials say Hun Sen was joking when he told motorbike taxi drivers to sell their vehicles if they cannot make money in the pandemic. 'Rumour mongering' Cambodian authorities have also detained four opposition politicians, according to HRW, while a local rights group and police sources said a 14-year-old girl was among more than a dozen people arrested. She was released soon after questioning with no charges. The surge in arrests in Asia focused on coronoavirus misinformation has come after various countries toughened laws or introduced new ones on so-called fake news. \"Regulating misinformation by either introducing new legislation or by expanding the scope of existing laws has been the trend in Asia for the last few years,\" said Masato Kajimoto, a journalism researcher at the University of Hong Kong. The pandemic has accelerated this because a crackdown can be perceived as protecting public health, rather than infringing on freedom of speech, he said. In Thailand, a state-of-emergency decree passed in late March criminalised sharing misinformation online about Covid-19 that could \"instigate fear.\" This is on top of the Computer Crimes Act, which has a five-year maximum jail penalty and is often used to stifle dissent online. The Philippines also recently adopted an emergency law giving it more powers to combat the pandemic, including arresting people who share false information about the disease. Nearly 100 people in India have been arrested for spreading virus misinformation under existing penal laws and the disaster management act - with punishments including up to one year in prison. \"While India lacks any specific fake news law, there do exist provisions of laws that can be used for 'rumour mongering,'\" said Apar Gupta, director of the Delhi-based Internet Freedom Foundation. \"It is fair to state that these laws are broadly phrased and can result in arbitrary action, given India's slow judicial system that also generally displays a prosecutorial bias,\" he said. Karuna Nandy, an Indian Supreme Court lawyer, told AFP that such arrests were particularly alarming in a lockdown, when courts are mostly shut."
+}

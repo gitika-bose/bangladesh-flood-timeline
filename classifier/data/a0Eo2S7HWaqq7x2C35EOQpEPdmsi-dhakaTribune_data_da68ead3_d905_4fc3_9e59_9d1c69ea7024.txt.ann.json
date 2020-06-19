@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_da68ead3-d905-4fc3-9e59-9d1c69ea7024.txt",
+  "text": "Date Published:2019-11-25 00:00:00      \nThe box had Indian flag on it An Indian weather balloon fell down in Deuli village of bordering Damurhuda upazila of Chuadanga , triggering panic among locals. Damurhuda police station Officer-in-Charge Sukumar Biswas said on information from the locals, they rushed to the spot around 7pm on Sunday and recovered a box containing a solar box, a battery and a camera. He said the tool is used for reading weather and the possibility of rain.  The box had Indian flag on it, and there were several messages written on its surface warning anyone finding the box to not destroy or harm it in any way. The messages also said the box was not dangerous and destroying it will be punishable by law. Box containing a solar box, a battery and a camera | Dhaka Tribune On the other hand, UNB reported that Jahidul Islam, superintendent of police, said they contacted the number on the box and confirmed that it is a weather tool invented by Prof Sanjib Chakrabarty of a university in India's Krishnanagar. The tool flied into Bangladesh territory and fell down while they were testing it, the SP added. Deputy Commissioner Nazrul Islam said they have informed the Foreign Ministry about it and steps will be taken according to the directives."
+}

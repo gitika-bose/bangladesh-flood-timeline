@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_752bdf69-4dc9-4dd8-b560-06712088373f.txt",
+  "text": "Date Published:2020-03-15 00:00:00      \nItalians blocked in their homes by the coronavirus outbreak joined together to sing patriotic songs from their balconies, a defiant response to a crisis that has pushed the country's health system to the limit and turned daily life on its head. From Milan, near the northern epicentre of the crisis, to the capital Rome and Naples and Palermo in the south, social media showed people on their balconies or leaning from windows and singing the national anthem or popular songs over the past couple of days. Yesterday at noon, many people across the country went onto their balconies to offer a round of applause to the doctors and nurses working on the frontlines of the crisis. With the coronavirus pandemic spreading rapidly across the world, Italy is the worst affected country in Europe, with at least 17,660 cases and 1,266 deaths by Friday. Italy's hardest hit area remains the prosperous northern region of Lombardy around the financial capital Milan, but the virus has spread across the country. The government has imposed an unprecedented lockdown, closing schools and most shops, barring all but essential movement and telling people to remain in their homes. On social media, celebrities have urged people to stay at home and to wash their hands regularly. Ordinary Italians have posted a flood of images showing life under lockdown, as well as jokes about the crisis and the difficulty of maintaining domestic harmony. The government and leading public figures have also sought to reassure the public. Hashtags with encouraging messages like #allwillbewell have proliferated as authorities and individuals have tried to maintain a sense of optimism amid the shutdown."
+}

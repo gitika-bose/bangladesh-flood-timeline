@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_e6165112-5668-4604-bad6-62e8b367e3ea.txt",
+  "text": "Date Published:2020-04-18 00:00:00      \nThe official death toll since the outbreak in the country has risen to 22,745 Deaths from the Covid-19 epidemic in Italy rose by 575 on Friday, up from 525 the day before, while the number of new cases declined slightly and scientists warned that infections were now mainly happening among family members. The daily tally of new cases stood at 3,493, down from a previous 3,786, with both deaths and infections extending the broadly stable situation in place over the last 12 days. This plateau is considerably lower than the peaks reached around the end of March, but the downtrend has not proceeded as was widely hoped in a country that has been in lockdown for almost six weeks. \"Probably most of the infections that have occurred since the lockdown have occurred within families,\" Giovanni Rezza, a director of Italy's top health body, the Superior Health Institute (ISS), told a news conference. Nuclear physicist Paolo Branchini, who has been focusing on the trend of cases and deaths in Italy, told daily Corriere della Sera on Friday that the lockdown initially put a lid on infections but had now \"exhausted its beneficial effect\". Branchini said that because the main source of infections was now within families, the only way to reduce deaths and cases further was to put all people who tested positive in dedicated centres away from their relatives. The official death toll since the outbreak came to light on February 21, has risen to 22,745, the Civil Protection Agency said, the second highest in the world after that of the United States. However, the Italian authorities acknowledge that the true number of fatalities is much higher. The Superior Health Institute said a survey on a sample of nursing homes suggested more than 40% of residents who died from February 1 to April 15 had either tested positive for the new coronavirus or had symptoms consistent with the disease. Restive regions The government has said its tough restrictions on movement and the closure of most businesses will continue at least until May 3, but there is not yet any clear plan over to what extent, or how gradually, it will then be lifted. In the meantime, some of Italy's 20 regions are threatening to take autonomous action. Luca Zaia, the head of the northern Veneto region which has made particular progress in bringing the outbreak under control, said on Friday he wanted to relax restrictions before May 3. \"The lockdown doesn't exist anymore,\" Zaia told reporters, in reference to the government having allowed a few types of business to reopen over the last week. In response, the chief of the southern Campania region around Naples, Vincenzo De Luca, said if northern regions did not respect all the curbs in place, Campania would \"close its borders\" and refuse entry to non-residents for any reason. The outbreak remains heavily concentrated in the northern regions of Lombardy, around the financial capital Milan, and neighbouring Piedmont and Emilia-Romagna. The number of officially confirmed cases in Italy on Friday totalled 172,434, the third highest global tally behind those of the United States and Spain."
+}

@@ -1,0 +1,407 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "monsoon",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3301,
+          "text": "2017"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "ml:regex",
+          "user:btellman"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_50": {
+          "value": "2017",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_51": {
+          "value": "2017",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3390,
+          "text": "Tropical Cyclone Mora"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3412,
+          "text": "in May"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_50": {
+          "value": "2017-05",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_51": {
+          "value": "2017-05",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3423,
+          "text": "Monsoon flooding"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "monsoon",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3440,
+          "text": "between June and August"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_50": {
+          "value": "2017-08",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_51": {
+          "value": "2017-06",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3465,
+          "text": "A total of 946,000 new displacements"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_36": {
+          "value": "946000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3526,
+          "text": "The South Asian flood"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3549,
+          "text": "2017"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_50": {
+          "value": "2017",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_51": {
+          "value": "2017",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 3555,
+          "text": "impacted 8 million people"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_35": {
+          "value": "8000000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|3465,3500",
+        "s1v1|e_49|3440,3462"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|3465,3500",
+        "s1v1|e_49|3412,3417"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  ],
+  "filename": "dhakaTribune_data_2be5064a-564d-41ab-9a4e-7287e2417b5b.txt",
+  "text": "Date Published:2019-02-28 00:00:00      \nMigration continues to be a serious issue for climate-vulnerable Bangladesh There are over 258 million migrants around the world living outside their country of birth. This figure is expected to grow for a number of reasons, including population growth, increasing connectivity, trade, rising inequality, demographic imbalances, and climate change. Globally, over 68.5 million people are forcibly displaced among which 25.4 million are refugees. To address the growing number of migrants and refugees in a way that upholds the principles of human rights, in 2018, the global leaders adopted two major reports to address issues related to refugees and migration. These are called the Global Compact on Refugees and Global Compact for Migration. Bangladesh is signatory to both the agreements will be addressing the agreements taking series of actions nationally and globally. To better understand the implications of these agreement in Bangladesh, it is important to look at what the compacts are about.  The Refugee Compact The Refugee Compact has four objectives: Ease pressures on host countries; enhance refugee self-reliance; expand access to third country solutions, and support conditions in countries of origin for return in safety and dignity.  The Migration Compact The Migration Compact comprises 23 objectives for better managing migration at local, national, regional and global levels. It expresses states' \"collective commitment to improving cooperation on international migration.\" Both compacts were being questioned by various stakeholders especially with regards to how this will be delivered when there is less clarity about few definitions (such as refugee). It is widely agreed that the compacts will only make a difference to the lives of the refugees and migrants if there is enough political will of the government to live up to their commitments. While we continue demanding for better clarity and implementation of the compacts in line with Agenda 2030, it is important to also recognize that climate change and conflict-related displacement and forced migration are on the rise -- we can start thinking of supporting the proposal of the New NANSEN Passport as one of the response mechanisms. However, this doesn't take away the fact that we need take action to prevent displacement and forced migration to take place.  National response Bangladesh continues to be within the top 10 at-risk countries to climate change impacts and disasters in the world. There are a number of scenarios with linking the temperature raise trajectory, especially how this will displace and force people to migrate. There are a number of efforts made to understand the future scenario including efforts to track what is happening with regards to displacement and migration in recent years:  * Between 1980 and 2008, it experienced 219 natural disasters -- but not enough information about how many people are displaced. Cyclone Sidr alone impacted 9 million people and at least 3 million people were displaced (NRC)  * Between 2008 and 2014 it is estimated that 4.7 million people were displaced due to disasters in Bangladesh (displacement solutions). Some of the major events include Cyclone Aila (as many as two million people lost their home)  * In 2017, the majority of new displacements occurred due to sudden-onset disasters including Tropical Cyclone Mora in May and Monsoon flooding between June and August. A total of 946,000 new displacements due to these disasters. The South Asian flood (2017) impacted 8 million people in Bangladesh   * A recent RMMRU study found Dhaka receives three out of every five (59.2%) migrants from rural areas, with one in five (20.1%) preferring the port city of Chittagong  * RMMRU surveyed 1,431 internal migrant households of 20 districts and found other urban destinations included Gazipur (2.9% of all migrants), Sylhet (1.9%), Khulna (1%), Mymensingh and Narayanganj (0.6% each), and Satkhira (0.4%). The remaining 13.2% of migrants were spread among the other districts and towns of the country Dhaka alone receives about 500,000 people each year The silver lining Bangladesh has the potential to be the biggest mover in the global gross domestic product rankings in 2030. According to the latest report of HSBC Global Research, the country is becoming the 26th largest economy in the world from 42nd now. However, such growth is tied up with the migrant workers' hard earned money and how the entire economy will be impacted by climate change and development-induced displacement and migration.  It is crucial to recognize that the government is the primary duty bearer to address the issue of migrants and refugees while the civil society organizations and movements can support in developing policy instruments to field level implementation. It is absolutely critical, while implementing the commitments, to recognize the differentiated vulnerability and struggle of women and children as migrant and refugees. Therefore, the government must develop a safeguard mechanism for the most vulnerable and marginalized. Furthermore, the government can also consider the following:  * At the policy level in Bangladesh, the government can adopt a \"people's safeguard policy\"   * Establish a national tracking mechanism for displaced and migrated people   * Establish a safety-net mechanism/fund for displaced and forcibly migrated people  For civil society organizations addressing such massive issues is a collective responsibility. Furthermore, CSOs can support the government's position on compensation from polluter countries. As the government is planning to develop 100 economic zones, support developing skills, and of local communities who can be employed within the zone, therefore, reduce displacement and migration.  Farah Kabir is Country Director, ActionAid Bangladesh. Tanjir Hossain and AM Nasir Uddin work in ActionAid."
+}

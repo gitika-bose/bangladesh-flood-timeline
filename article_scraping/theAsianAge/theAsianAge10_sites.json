@@ -1,0 +1,74 @@
+[
+  {
+    "query": "bangladesh \"flooding\"",
+    "paper": "theAsianAge",
+    "date_range": [
+      "1/1/2015",
+      "12/31/2015"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh \"flooding\"",
+    "paper": "theAsianAge",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": [
+      "https://dailyasianage.com/news/16114/pohela-boishakh-a-festival-of-national-integration",
+      "https://dailyasianage.com/news/26457/flood-affects-16-districts-14-die-govt-taken-all-measures",
+      "https://dailyasianage.com/news/27654/water-logging-a-chronic-problem-in-chittagong",
+      "https://dailyasianage.com/news/23457/avoid-binge-eating-during-eid",
+      "https://dailyasianage.com/news/10224/stop-wasting-funds-pm",
+      "https://dailyasianage.com/news/12320/jute-and-jute-geotextile",
+      "https://dailyasianage.com/news/16916/over-170-states-sign-paris-climate-deal"
+    ]
+  },
+  {
+    "query": "bangladesh \"flooding\"",
+    "paper": "theAsianAge",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "https://dailyasianage.com/news/82804/houston-crippled-by-catastrophic-flooding",
+      "https://dailyasianage.com/news/76300/rains-wreak-havoc-across-country",
+      "https://dailyasianage.com/news/82550/canada-gives-210000-in-flood-aid",
+      "https://dailyasianage.com/news/57145/rangamati-tourist-places",
+      "http://dailyasianage.com/news/72266/japan-flood-deaths-rise-to-15-with-6-missing",
+      "https://dailyasianage.com/news/60603/huge-fodder-crisis-in-haor-areas",
+      "https://dailyasianage.com/news/58275/water-logging-prime-problems-of-ctg",
+      "https://dailyasianage.com/news/90150/landslides-floods-kill-37-in-vietnam",
+      "https://dailyasianage.com/news/83049/donald-trump-to-visit-storm-ravaged-texas",
+      "https://dailyasianage.com/news/55475/ratification-of-un-convention-on-the-law-of-the-international-watercourses",
+      "https://dailyasianage.com/news/66614/how-not-to-be-jealous",
+      "https://dailyasianage.com/news/85909/widespread-destruction-in-central-vietnam-after-major-typhoon"
+    ]
+  },
+  {
+    "query": "bangladesh \"flooding\"",
+    "paper": "theAsianAge",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": [
+      "https://dailyasianage.com/news/125034/living-on-a-plastic-planet"
+    ]
+  },
+  {
+    "query": "bangladesh \"flooding\"",
+    "paper": "theAsianAge",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://dailyasianage.com/news/195656/scope-and-speciality-of-floating-agriculture-in-bangladesh",
+      "https://dailyasianage.com/news/193306/kirtankhola-river-in-barisal",
+      "https://dailyasianage.com/news/167209/prospects-and-challenges-of--bangladesh-delta-plan"
+    ]
+  }
+]

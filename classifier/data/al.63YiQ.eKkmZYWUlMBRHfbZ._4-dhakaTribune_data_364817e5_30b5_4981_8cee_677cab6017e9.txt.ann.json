@@ -1,0 +1,169 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "river_erosion",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 15,
+          "text": "2019-10-07"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_50": {
+          "value": "2019-10-07",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 121,
+          "text": "rise in water levels, land erosion by the Madhumati, and Nabaganga rivers has taken a serious turn"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "river",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 220,
+          "text": "at different places of Narail"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Narail",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [],
+  "filename": "dhakaTribune_data_364817e5-30b5-4981-8cee-677cab6017e9.txt",
+  "text": "Date Published:2019-10-07 00:00:00      \nLocals accused the administration of doing little to help them With the sudden  rise in water levels, land erosion by the Madhumati, and Nabaganga rivers has taken a serious turn at different places of Narail, forcing people to look for safer places. According to local sources, the erosion has taken a serious turn in Ghagha, Mollikpur, Shierbr, and Makrail areas along Madhumati's banks, and at 15 points including Kargati, Soto Kalia, and Suktogram, of Nabaganga banks. People  of the affected areas have accused the local Water Development Board (WDB) of its negligence as water from the rivers poured into houses in Kalia upazila. \"I have never seen Nabaganga rise so much in the last 35 years. My house was destroyed in a matter of seconds,\" said Ilias Ali, a resident of Sukragram. Many, who have lost their houses in river erosion, are living with their relatives, but some like Julmat Sheikh of Kalia upazila's Noragati village, have been staying under the open sky with their families as they have nowhere else to go. Locals accused the administration of doing little to help them. According to the locals, the WDB has failed to prevent recurring erosion because of their lackadaisical attitude.  Babra-Hachla Union Parishad Chairman Mojammel Hossain said the situation will be brought under control soon. The local contractors declined to perform the emergency work at the beginning of monsoon as WDB officials usually demand 10 percent bribe for such projects, alleged contractors. When contacted, WDB Executive Engineer Md Zulfikar Ali declined to comment over the issue. Meanwhile locals formed a human chain in the district yesterday protesting the  negligence of WDB. Among others, Monisha Ghosh, Profullo Barman, Liton Kumar Ghosh, Kalyani Barman, and Modon Ghosh of the affected areas spoke at the gathering. They urged the administration to take immediate steps to save the people from becoming victims of river erosion."
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_7647f7ba-e4cc-44ae-afb8-e7aa26d5e03c.txt",
+  "text": "Date Published:2020-01-28 00:00:00      \nRailways Minister Nurul Islam Sujan today in parliament identified at least 14 reasons for the recent train-related accidents, including lack of maintenance of railway tracks, coaches, bridges due to lack of manpower and unregulated movement of vehicles through illegal level crossing gates. The other reasons include malfunction of railway engines, passengers jumping recklessly from the train, breaking of rail lines, disruption of telephone systems, derailment and destructive activities on the train, disruption of rail movement due to excessive flood and head-on collision of trains, among others. The Railways Minister said this in reply to a query from Workers Party MP Lutfun Nesa Khan.  In his response, the minister said the government has taken various initiatives so that respective officials and railway staff carry out their responsibilities more consciously. \"Besides, actions are being taken against the responsible staff for their involvement in train accident,\" the minister also said. In reply to a query from ruling Awami League MP M Abdul Latif, the Railways Minister said a deal was signed with a consultation firm in 2018 for completion of the feasibility study and detailed design of the construction of Dhaka-Chattogram high-speed rail track. \"Progress of the project is 62 per cent as of December 2019,\" added the minister. In reply to a query from Jatiya Party MP Mujibul Haque, the Railways Minister said a total of 230 projects were included in the 30 year-long updated master plan (2016-2045) for Railways for implementation at a cost of Tk 5,53,662 crore."
+}

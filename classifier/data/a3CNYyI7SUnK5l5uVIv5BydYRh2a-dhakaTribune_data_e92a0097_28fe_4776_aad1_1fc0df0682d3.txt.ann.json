@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_e92a0097-28fe-4776-aad1-1fc0df0682d3.txt",
+  "text": "Date Published:2020-04-14 00:00:00      \nThe earthquake, measuring 3.6 magnitude on the Richter scale, lasted for a few seconds A mild tremor jolted different parts of Sylhet early Tuesday.  The earthquake, measuring 3.6 magnitude on the Richter scale, was felt at 3:43am which lasted for a few seconds, according to Sylhet Meteorological Department, reports UNB.  Quamrul Islam, a resident of city's Lalbazar area, said he felt the tremor as the building trembled for a few seconds.  However, no casualty was reported."
+}

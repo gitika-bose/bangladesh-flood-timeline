@@ -1,0 +1,46 @@
+[
+  {
+    "query": "bangladesh \"floods\"",
+    "paper": "ntvbd",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh \"floods\"",
+    "paper": "ntvbd",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "https://en.ntvbd.com/business/147715/Bangladesh-to-import-100000-T-of-white-rice-from-Myanmar-at-%24442/T",
+      "https://en.ntvbd.com/bangladesh/146631/Govt-revives-plan-to-settle-Rohingya-on-Thengar-Char",
+      "https://en.ntvbd.com/bangladesh/144479/Teesta-flow-above-danger-mark-as-India-opens-Gajoldoba-barrage"
+    ]
+  },
+  {
+    "query": "bangladesh \"floods\"",
+    "paper": "ntvbd",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": [
+      "https://en.ntvbd.com/sci-tech/162129/13-cities-may-exceed-2C-temperature-rise-by-2020s-say-scientists"
+    ]
+  },
+  {
+    "query": "bangladesh \"floods\"",
+    "paper": "ntvbd",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://en.ntvbd.com/bangladesh/185581/Five-year-long-Flood-Resilience-Project-launched"
+    ]
+  }
+]

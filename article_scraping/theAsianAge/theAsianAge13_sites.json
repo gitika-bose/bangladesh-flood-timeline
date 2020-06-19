@@ -1,0 +1,53 @@
+[
+  {
+    "query": "bangladesh \"inundation\"",
+    "paper": "theAsianAge",
+    "date_range": [
+      "1/1/2015",
+      "12/31/2015"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh \"inundation\"",
+    "paper": "theAsianAge",
+    "date_range": [
+      "1/1/2016",
+      "12/31/2016"
+    ],
+    "sites": [
+      "https://dailyasianage.com/news/27654/water-logging-a-chronic-problem-in-chittagong"
+    ]
+  },
+  {
+    "query": "bangladesh \"inundation\"",
+    "paper": "theAsianAge",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": [
+      "https://dailyasianage.com/news/80211/padma-embankment-blocks-collapse-at-singra-in-natore",
+      "https://dailyasianage.com/news/60603/huge-fodder-crisis-in-haor-areas",
+      "https://dailyasianage.com/news/57443/crops-fishes-birds-lost-in-early-floods"
+    ]
+  },
+  {
+    "query": "bangladesh \"inundation\"",
+    "paper": "theAsianAge",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh \"inundation\"",
+    "paper": "theAsianAge",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": []
+  }
+]

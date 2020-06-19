@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_d0686e65-2f0e-4d15-a064-551634c8293a.txt",
+  "text": "Date Published:2019-03-01 00:00:00      \nIt is difficult for farmers to develop a good marketing plan without proper market information, as is the case for managers of any industry. Fortunately, in today's day and age, digital technology can help the agriculture industry in many ways. From daily prices of agricultural products to costs of fertilisers, seeds and renting tractors, digital technology can help disseminate the market information that the farmers need. This timely information for agricultural commodities can assist farmers to not only plan production and harvesting dates, but also decide when and where to sell their products. While farmers can get to know current prices of their local markets through middlemen or by directly visiting the market places, at times, they do not receive the correct market information and get exploited. Proper market information gives farmers more bargaining power against middlemen. They can sell their products to different wholesalers or directly to the vegetable sellers in the market place if they know the availing prices.   The Department of Agricultural Marketing (DAM), a section of the Ministry of Agriculture, Bangladesh, updates the daily retailer and wholesaler prices for key agricultural commodities such as rice, fish, flour, betel leaves and vegetables, in addition to prices of seeds and fertilisers and many markets of several sub districts of Bangladesh.   Teaming up with the DAM, a group of undergraduate students, led by Mohammad Hassan, an adjunct lecturer of the Department of Economics & Banking at International Islamic University Chittagong (IIUC), has taken steps to raise awareness about market data and enhance data literacy among the farmers, so that they can collect and interpret data to make informed decisions. Under the title, 'Sharing Market Data with Farmers', the project is currently covering the Sitakunda upazila in the Chattogram district. Predominantly funded by the initiators, the project was launched in November 2018. The activities of the project include teaching farmers how to see daily price data of specific products for a specific location, generate bar charts for monthly, weekly and yearly prices, and read and interpret the data charts. The project is designed to make things simpler for farmers so that they can easily use the DAM website and mobile app.  Farmers in Sitakunda have responded to the project positively. Mohammad Sayedul, who owns two poultry farms, uses the website to check the daily price of eggs. \"As an arable farmer, my father grows tomatoes and cabbages. He does not use a smartphone. Ever since I have come across this project, I let him know of the market prices with its help,\" says Rabiul Islam. \"I think it is also useful for buying vegetables from the market.\" The students who are a part of the project also shared their experiences. \"We are currently taking a course in Agricultural Economics with Mohammad Hassan,\" says Kawsar Ahmed. \"It is exciting to engage in real-world applications of agricultural practices. We work on the project during our time off from classes. We are also thankful to the IIUC family for encouraging us.\""
+}

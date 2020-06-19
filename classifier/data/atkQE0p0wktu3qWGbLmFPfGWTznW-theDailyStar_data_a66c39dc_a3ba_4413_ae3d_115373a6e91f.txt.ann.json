@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_a66c39dc-a3ba-4413-ae3d-115373a6e91f.txt",
+  "text": "Date Published:2019-01-18 00:00:00      \nPeople of three villages in Ishwarganj upazila have been suffering for nearly two years since the approach roads on both sides of an important bridge, constructed about three years ago, were washed away within a year of its construction. Local people said the bridge, which connects four upazilas--Mymensingh Sadar, Trishal, Gouripur and Ishwarganj--is located in remote Moricharchar area along the Old Brahmaputra river under Uchakhila union of the upazila. In 2016, Local Government Engineering Department built the bridge spending Tk 16 lakh to ease communication between Khodaboxpur, Bhabokhali and Bhola Algi villages and the upazila headquarters after a portion of Moricharchar area was devoured by the Brahmaputra river. However, the approach roads on both sides of the bridge were washed away by the flood the following year. Uchakhila Union Parishad (UP) Chairman Shafiqul Islam said although villagers in cooperation with the local UP rebuilt the approach roads by filling earth and dumping sand bags, within a short time the temporary approach roads were eroded again. Villagers later erected a bamboo-made platform connecting the bridge, which also broke down shortly after, the UP chairman said. College student Emdadul Haque said the bridge is the only means for them to cross Moricharchar area and reach the upazila headquarters. Though the area is famous for vegetable farming round the year, it is very difficult for thousands of farmers to carry their produce to local markets using the bridge, he added. The bridge was built to mitigate the sufferings of the village people, but it is no longer usable for them, farmer Motiur Rahman of Moricharchar area said.  Echoing the same, a number of farmers like Nazrul Islam, Monjurul Haque, Azizul Islam and Abdul Halim of the area said they are often deprived of fair prices for their produce due to lack of direct communication to Ishwarganj upazila headquarters and Mymensingh town. There are some five educational institutions, including a primary and a high school, on either sides of the bridge, ward member Golam Mustafa said, adding that around 400 students have to cross the bridge daily. Ishwarganj Upazila Nirbahi Officer (UNO) Umme Rumana said she was informed of the matter recently, adding that necessary steps will be taken soon to mitigate the trouble."
+}

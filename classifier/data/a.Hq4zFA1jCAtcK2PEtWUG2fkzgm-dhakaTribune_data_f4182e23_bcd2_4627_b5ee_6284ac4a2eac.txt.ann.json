@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_f4182e23-bcd2-4627-b5ee-6284ac4a2eac.txt",
+  "text": "Date Published:2019-06-14 00:00:00      \nThe deceased are Shahadat and Tareque, with an additional three people becoming sick due to the incident  Two died being trapped in a septic tank in the Pachak village of the Naria upazila of Shariatpur on Friday. The deceased are Shahadat and Tareque, with an additional three people becoming sick due to the incident. According to the police and family members of the deceased, Shahadat entered into the septic tank to clean it and became sick. To rescue Shahadat, Tareque entered tank and also became sick. Subsequently, Apu, Azizul and Rubel entered into the tank  and   rescued Shahadat and Tareque and afterwards fell ill. Later, locals brought the five people to the Shariatpur Sadar Hospital where the physician on duty declared Shahadat and Tareque dead. The other three are undergoing treatment at the hospital. Shariatpur Sadar Hospital Physician Dr Tofayel Ahmed said: \"Shahadat and Tareque died on the way to hospital and  lack of oxygen inside the septic tank may have caused the deaths. \"The lives of the other three patients are still in danger and Azizul has been instructed to be sent to Dhaka for treatment.\"   Naria police station acting OC AKM Manjurul Haque confirmed the matter and said, legal action will be taken if the family members of the deceased file a case over the incident."
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_3384bd6e-090e-421b-b4f8-b7dfcf97e6a3.txt",
+  "text": "Date Published:2019-10-31 00:00:00      \nA new research shows coastal flooding will hit nearly 42 million people in Bangladesh by 2050, meaning that the situation is likely to be worse than what was feared earlier. The number of victims could reach 57 million by the end of this century, according to the study conducted by US-based non-profit research group Climate Central and published in British scientific journal Nature on Tuesday. A previous projection by the group had said the flooding would affect around 5 million Bangladeshis living in coastal areas by the mid-century. Some other studies, however, said the number could be 20 to 30 million. The new study says researchers have developed a more accurate way of estimating the effects of sea level rise over large areas, and found that nearly 300m people across the world will be vulnerable by 2050 to flooding made worse by climate change. Globally, more than three times more people are at risk from rising sea levels than previously believed, the researchers suggest. \"When we use our new elevation data, we find far more people living in vulnerable areas than we previously understood,\" the study's co-author Ben Strauss, CEO and chief scientist of Climate Central, told AFP. Eminent Bangladeshi climate expert Saleemul Haq agreed with the study findings. He, however, said, \"It needs further research at the national level to know exactly what will happen in Bangladesh.\" 'ASIA TO BE HIT HARDEST' The new study, which contains findings from individual assessments of 135 countries across multiple climate scenarios and years, says deadly storm surges, cyclones and rising sea would hit Asia the hardest. More than two thirds of the vulnerable populations live in some countries of Asia, including Bangladesh, China, India, Vietnam, Indonesia and Thailand, says the study, titled \"New Elevation Data Triple Estimates of Global Vulnerability to Sea-Level Rise and Coastal Flooding\". A map created using a form of artificial intelligence, known as neural networks, shows that by 2050 some coastal cities from South and South East Asia will be under water during high tide. Millions of people living in the cities of those countries, including Dhaka, Bangkok, Hong Kong, Shanghai, Taizhou, Surabaya, Mumbai, Ho Chi Minh City and Osaka -- would find themselves in flood zones, the report mentions. \"These assessments show the potential of climate change to reshape cities, economies, coastlines, and entire global regions within our lifetimes,\" said Dr Scott Kulp, a senior scientist at Climate Central and lead author of the study. Dr Benjamin Strauss said, \"For most of the global coasts we didn't know the height of the ground beneath our feet.\" The researchers used a model called CoastalDEM digital elevation modelling, a new digital elevation model developed by Climate Central, for the study. Earlier, researchers had used Nasa's Shuttle Radar Topography Mission (SRTM) which gave an estimation of population at risk due to sea level rise three times lower than the current one. Although the Intergovernmental Panel for Climate Change (IPCC) in its sixth report published last month projected that sea level would go up by a metre by the end of the century, the new report says the height will rise by at least two metres. Contacted, Dr Atik Rahman, executive director of Bangladesh Centre for Advanced Studies (BCAS), one of the lead authors of IPCC, said the panel projected the sea level rise based on old published papers. \"So the IPCC did not project the sea level rise correctly. Actually the sea level is rising more rapidly as Arctic, Antarctic and mountain glaciers are melting faster than we thought,\" he said. \"So the impact of climate change is going to be harder than we thought.\" Meanwhile, some experts differ from the study findings relating to Bangladesh. Dr Ainun Nishat, professor emeritus, Brac University, said most of the coastal areas in the country have embankments which are four to five metres high and the government has taken initiatives to increase the height to 6.5 metres. \"So the areas, as projected in the new study, are not going to be inundated,\" he said. The expert believed areas 100 kilometres away from the coastal zones in districts like Pirojpur and Shariatpur would be badly affected as there are no embankments there. \"But for us, the main challenge would be the increasing salinity in the river water due to the rising sea level and tackling natural disasters with what we have,\" he added."
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_eda0f218-9d7c-4b28-a0f3-1eaf3a2005da.txt",
+  "text": "Date Published:2020-03-07 00:00:00      \nAt least 38 people have so far been rescued from the rubble of the 80-room Xinjia hotel in coastal Quanzhou city Around 70 people were trapped after the collapse of a hotel used as a coronavirus quarantine facility in eastern China on Saturday evening, officials said.  At least 38 people have so far been rescued from the rubble of the 80-room Xinjia hotel in coastal Quanzhou city, said the local government. Footage circulating on microblogging platform Weibo showed rescue workers combing through the building's wreckage in the dark and reassuring a woman trapped under heavy debris as other wounded victims were carried into ambulances. The hotel's facade appeared to have crumbled into the ground, exposing the building's steel frame, and a crowd had gathered around the area as the evening wore on. Officials have yet to confirm whether anyone died in the accident. Quanzhou authorities said over 700 rescue workers had been deployed to the scene along with ambulances, excavators and cranes.  Representatives from Beijing are also en route to Quanzhou to assist in relief efforts, Xinhua news agency reported. Quanzhou has recorded 47 cases of the COVID-19 infection and the hotel, which opened just two years ago, was recently repurposed to house people who had been in recent contact with confirmed patients, the People's Daily state newspaper reported. China is no stranger to building collapses and deadly construction accidents, which are typically blamed on the country's rapid growth leading to corner-cutting by builders and the widespread flouting of safety rules. At least 20 people died in 2016 when a series of crudely-constructed multi-storey buildings packed with migrant workers collapsed in the eastern city of Wenzhou. Another 10 were killed last year in Shanghai after the collapse of a commercial building during renovations."
+}

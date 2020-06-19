@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_03e6ba3b-44f3-45bb-8d30-3fc720a8dc3f.txt",
+  "text": "Date Published:2020-03-18 00:00:00      \nGulshan and Bashundhara show AQI scores of 143 and 155 respectively Bangladesh's capital Dhaka has ranked 17th worst on the world Air Quality Index (AQI) as its extreme air pollution makes it one of the most polluted cities in the world. On the real-time rankings, Dhaka showed an average AQI score of 136 at 10:06am on Wednesday, according to AirVisual, which monitors global air quality. Dhaka's air quality was classified as \"unhealthy for sensitive groups.\" Residential areas like Gulshan and Bashundhara showed AQI scores of 143 and 155 respectively. Pakistan's Lahore, India's Mumbai, and Nepal's Kathmandu occupied the first, second, and third spots in the list of cities with the worst air quality with AQI scores of 228, 177, and 174 respectively. A numerical value between 101 and 150 indicates that sensitive groups may begin to experience health effects.  A value between 151 and 200 indicates that everyone may begin to experience health effects. Members of sensitive groups may experience more serious health effects.  Air quality between 201 and 300 is classified as \"very unhealthy.\" If the score is between 301 and 500, then it is classified as \"hazardous.\" The AQI, an index for reporting daily air quality, informs people how clean or polluted the air of a certain city is, and what associated health effects might be a concern for them. In Bangladesh, the AQI is based on five criteria pollutants -- Particulate Matter (PM10 and PM2.5), NO2, CO, SO2, and Ozone (O3). The Department of Environment has also set national ambient air quality standards for these pollutants. These standards aim to protect against adverse human health impacts. As one of the most densely populated countries in the world, Bangladesh has been struggling with air pollution for a long time. Dhaka continuously ranks among the world's most polluted cities. Brick kilns, vehicles run on fuel containing higher levels of sulphur, as well as construction work, have all been identified as major sources of air pollution. Air quality further declines during the dry months -- from October to April -- but improves during the monsoon."
+}

@@ -1,0 +1,514 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "cyclone",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 15,
+          "text": "2020-05-21"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "2020-05-20",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        },
+        "f_50": {
+          "value": "2020-05-21",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 94,
+          "text": "an island in Bangladesh's Noakhali district"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "ml:regex"
+        ],
+        "prob": 0
+      },
+      "fields": {
+        "f_39": {
+          "value": "Noakhali",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 139,
+          "text": "destroying more than 500 homes"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "ml:regex",
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_54": {
+          "value": "500",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 170,
+          "text": "A powerful cyclone pounded eastern India and Bangladesh"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "coastal_cyclone",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 240,
+          "text": "killing at least 14 people"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "14",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 271,
+          "text": "destroying thousands of homes"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {},
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1674,
+          "text": "In neighbouring Bangladesh, at least four people were killed"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_48": {
+          "value": "4",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 1799,
+          "text": "Authorities there had shifted around 2.4 million people"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_36": {
+          "value": "2400000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2205,
+          "text": "\"Fortunately, the harvesting of the rice crop has almost been completed. Still it could leave a trail of destruction,\" said Mizanur Rahman Khan, a senior official in the Bangladesh agriculture ministry."
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:btellman"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_45": {
+          "value": "NO DAMAGE due to timing",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:btellman"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2656,
+          "text": "an island in Bangladesh's Noakhali district"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Noakhali",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 2701,
+          "text": "destroying more than 500 homes"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_54": {
+          "value": "500",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [
+    {
+      "classId": "r_29",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|139,168",
+        "s1v1|e_2|94,136"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|139,168",
+        "s1v1|e_49|15,24"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|240,265",
+        "s1v1|e_49|15,24"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|271,299",
+        "s1v1|e_49|15,24"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|1799,1853",
+        "s1v1|e_49|15,24"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    {
+      "classId": "r_59",
+      "type": "linked",
+      "directed": false,
+      "entities": [
+        "s1v1|e_15|2701,2730",
+        "s1v1|e_49|15,24"
+      ],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  ],
+  "filename": "dhakaTribune_data_79e6e0c6-6388-4421-ac19-422159f0341f.txt",
+  "text": "Date Published:2020-05-21 00:00:00      \nSurging waters broke through embankments surrounding an island in Bangladesh's Noakhali district, destroying more than 500 homes A powerful cyclone pounded eastern India and Bangladesh on Wednesday, killing at least 14 people and destroying thousands of homes, officials said, leaving authorities struggling to mount relief efforts amid a surging coronavirus outbreak. The populous Indian state of West Bengal took the brunt of Cyclone Amphan, which barrelled out of the Bay of Bengal with gusting winds of up to 185 km per hour (115 mph) and a storm surge of around five metres. West Bengal Chief Minister Mamata Banerjee said at least 10 people had died in the state, and two districts been completely battered by one of the strongest storms to hit the region in several years. \"Area after area has been devastated. Communications are disrupted,\" Banerjee said, adding that although 500,000 people had been evacuated, state authorities had not entirely anticipated the ferocity of the storm. With rains continuing, she said the hardest hits areas were not immediately accessible. Federal authorities said they could only make a proper assessment of the destruction on Thursday morning. \"We are facing greater damage and devastation than the Covid-19,\" Banerjee said, referring to the disease caused by the novel coronavirus, which has so far killed 250 people in the state. In West Bengal's capital city, Kolkata, strong winds upturned cars and felled trees and electricity poles. Parts of the city were plunged into darkness. An official in the adjoining Hooghly district said thousands of mud homes were damaged by raging winds. In neighbouring Bangladesh, at least four people were killed, officials said, with power supplies cut off in some districts. Authorities there had shifted around 2.4 million people to more than 15,000 storm shelters this week. Bangladeshi officials also said they had moved hundreds of Rohingya refugees from Myanmar, living on a flood-prone island in the Bay of Bengal, to shelter. But officials said they feared that standing crops could be damaged and large tracts of fertile land in the densely-populated country washed away.  \"Fortunately, the harvesting of the rice crop has almost been completed. Still it could leave a trail of destruction,\" said Mizanur Rahman Khan, a senior official in the Bangladesh agriculture ministry. Cyclones frequently batter parts of eastern India and Bangladesh between April and December, often forcing the evacuations of tens of thousands and causing widespread damage. Surge and high tide Surging waters broke through embankments surrounding an island in Bangladesh's Noakhali district, destroying more than 500 homes, local official Rezaul Karim said. \"We could avoid casualties as people were moved to cyclone centres earlier,\" Karim said. Embankments were also breached in West Bengal's Sundarban delta, where weather authorities had said the surge whipped up by the cyclone could inundate up to 15 km inland. The ecologically-fragile region straddling the Indian-Bangladesh border is best known for thick mangrove forests that are a critical tiger habitat, and is home to around 4 million people in India. On the Sundarbans' Ghoramara island, resident Sanjib Sagar said several embankments surrounding settlements had been damaged, and some flooding had started. \"A lot of houses have been damaged,\" he told Reuters by phone. Anamitra Anurag Danda, a senior fellow at the Observer Research Foundation think-tank who has extensively studied the Sundarbans, said that embankments across the area may have been breached. \"The cyclone surge coincided with the new moon high tides. It is devastation in the coastal belt,\" he said."
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_abace533-8fe2-4962-9e71-36da48baf97f.txt",
+  "text": "Date Published:2020-02-02 00:00:00      \nA flood of votes ensured that the boat continued to sail on high tide. In the much-anticipated elections of the Dhaka South City Corporation, Sheikh Fazle Noor Taposh was unofficially declared the winner and voted mayor of DSCC today. Taposh secured 4,24,595 votes to beat his closest contender, BNP candidate Ishraque Hossain, by a margin of nearly two lakh votes. The AL mayoral candidate for the north city corporation Atiqul Islam is also expected to secure the post. WHAT TO EXPECT FROM THE MAYOR IN THE SOUTH\n Sheikh Fazle Noor Taposh, a barrister by profession, was elected as lawmaker from Dhaka-10 constituency in the 2018 parliamentary elections. He resigned from his post to contest the mayoral polls. In his manifesto for this election, Taposh unveiled plans to turn Dhaka south into a tourist destination, including making the old central jail into an amusement park. \"If elected, I will construct museums and art galleries in collaboration with everyone and revive both Old Dhaka and the city,\" Taposh had said, appealing to cultural elites. Some roads will be dedicated for fast vehicles, some for medium-speed vehicles and some for pedestrians only, he had said. There will be roads for fire trucks and the city corporation will have its own team of firefighters, he pledged. He also promised enough women's hostels equipped with round-the-clock helplines and an app for service seekers. In a welcomed pledge, he said, \"We will not allow any service providing organisation to dig up a road until three years after it was repaired.\" He said the footpaths would be free from hawkers and illegal occupants. He also promised not to raise holding taxes and said proper management could generate revenues for the DSCC.  "
+}

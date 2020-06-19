@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1987_6b8dcda64a5356531b5e049b1ec5f1eb84ef68b6.txt",
+  "text": "A Hotel-Jail for Refugees\n1987-09-23T05:00:00.000Z\nIt's hard to imagine officials of the Immigration and Naturalization Service as devotees of the French surrealist Jean-Paul Sartre. Yet a jail they have established in a luxury hotel at Kennedy Airport so closely resembles Sartre's vision of hell in his play ''No Exit'' - perpetual and unrelieved confinement in a small room with three strangers - that one is hard-pressed to avoid such a conclusion.\nSince April, the I.N.S. has contracted with a private security company, Tri-Way Security and Escort Services Inc., to detain in a wing of the hotel, the Viscount International, as many as 60 aliens at a time, at a cost of $4 million annually. Several Afghans have been held already in this privately managed detention facility, as have individuals from Sri Lanka, Ghana, Chad, India, Bangladesh, Libya and Pakistan - all countries that could produce legitimate refugees.\nIndeed, many of these people have applied for political asylum, claiming that they would be persecuted if they were returned to their home countries. But they can remain imprisoned for up to a year or more, irrespective of the merits of their claims.\nConditions at the facility are inhumane. According to notarized affidavits of detainees, taken by the Lawyers Committee for Human Rights, several of the aliens being held have reported overcrowding, with detainees sometimes sleeping four and five to a room. Many have said that they have slept two to a bed with strangers. They are confined 24 hours a day, except for excursions to Manhattan for court appearances. There are no provisions for exercise. Their only recreational activities are playing cards and watching television.\nThe detainees - who are not criminals but aliens who arrived without valid passports and visas - are held at the hotel generally for as long as it takes to decide their cases for admission, sometimes up to several months. In that time, they are almost completely isolated from the outside world. They cannot receive family visits, and they have been denied access to communications by telephone and mail. No medical officer is on duty, and the detainees are not even informed of their rights and responsibilities.\nWhile the hotel-cum-jail has been operating for some time, it might have escaped notice if not for a recent tragedy involving an escape attempt by two Indian Sikhs, who had been detained three weeks. One, Kuldib Singh Dhariwal, age 28, fell more than 30 feet from a fourth floor window when the rope he had fashioned from his turban snapped. He died from his injuries on Aug. 31.\nThis fatal escape attempt raises questions both about the continued use of the hotel as a detention center and about alien detention policy in general.\nThe ultimate source of the alien detention problem is an administrative ruling issued in July 1982 that requires the incarceration of most arriving undocumented aliens, including those applying for political asylum, irrespective either of the likelihood of their fleeing or of the danger they pose to the American community. The ruling followed complaints from Haitian detainees, who claimed they were being discriminated against. In response, the immigration service decided to mistreat others equally.\nThe problem is complicated at the Viscount Hotel by the private and unaccountable nature of the custody. Overcrowded and lacking exercise areas or facilities for family visits, the hotel is singularly unsuited for long-term detention. Moreover, by the terms of Tri-Way's contract with the I.N.S., guards are required to receive only one hour of training in human relations - hardly adequate for the demands of overseeing long-term detainees.\nThe I.N.S. defends the Viscount as a stop-gap measure. But this assertion is untrue: The contract with Tri-Way could run through 1989. And, while inferior conditions may have improved temporarily under public scrutiny and pressure, they will inevitably recur.\nThe authorities, apparently recognizing the drawbacks of the arrangement, have recently arranged to transfer some of the longer-term detainees to Federal facilities. The I.N.S. should establish guidelines to insure similar transfers for anyone held longer than a few days. Moreover, the I.N.S. should maintain a stronger presence, rather than leaving management of the detention facility entirely in the hands of a private company.\nAvoiding further abuse and tragedies will require systematic and vigorous oversight by the I.N.S, and, if necessary, by other authorities."
+}

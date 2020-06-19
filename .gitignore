@@ -2,3 +2,8 @@
 bangladesh_flood_venv/
 .env
 **/__pycache__
+rough/
+tagtog/config.yaml
+classifier/word2vec_model/*
+**/.ipynb_checkpoints
+tagtog/output

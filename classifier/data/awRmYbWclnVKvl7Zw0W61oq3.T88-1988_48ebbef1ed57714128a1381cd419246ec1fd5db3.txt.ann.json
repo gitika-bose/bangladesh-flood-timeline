@@ -1,0 +1,128 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 99,
+          "text": "1988-09-13"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "1988-08-01",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_15",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 177,
+          "text": "25 million Bangladeshis homeless from floods"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_36": {
+          "value": "25000000",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [],
+  "filename": "1988_48ebbef1ed57714128a1381cd419246ec1fd5db3.txt",
+  "text": "WASHINGTON TALK: AIDING DISASTER VICTIMS; Small Agency Helps a Great Power Lighten Human Suffering\n1988-09-13T05:00:00.000Z\nWhen the devastation and human misery are so large - 25 million Bangladeshis homeless from floods covering an area almost three times the size of New Jersey - the generous efforts of even the richest friend may seem minuscule.\nThe way Washington responds to dozens of international disasters each year is nonetheless a highly refined but free-wheeling process that invariably manages to gather resources to make a difference in even the most overwhelming circumstances.\nThe main coordination is supplied by a small band of 21 full-time people who make up the Office of United States Foreign Disaster Assistance, a part of the Agency for International Development that is housed in a first-floor corner of the State Department.\nIt is there, usually around a gray, horseshoe-shaped battery of desks and telephones in its operations center, that daily life and death decisions are made to deploy the planes that carry all manner of relief to victims almost anywhere in the world. Intensity Is Normal\nDespite Bangladesh's enormous needs, activity these days is said to be only somewhat more intense than usual.\n''We're working 16 disasters right now,'' Julia V. Taft, the harried but unfailingly courteous dynamo who has run the O.F.D.A. since early 1986, said on Thursday as she prepared for the 3 P.M. Bangladesh strategy session. ''We are just busting ourselves.''\nSince Sept. 1, when Bangladesh was officially declared a disaster - a life-threatening situation beyond the ability of the victims' government to handle - five other disasters have been added to the O.F.D.A.'s list. These little publicized tragedies, bringing the total to a record-tying 54 for the office this year, involve floods in the Dominican Republic, insect infestation in Ethiopia, floods in Niger, displaced people in Burundi and floods in India.\nThe job of Mrs. Taft and her staff, which includes some former members of the Peace Corps, is to identify, with the help of A.I.D. missions and American embassies, the need for help and to coordinate the Federal Government's response. This generally also involves liaison with private voluntary organizations like CARE and the Save the Children Fund that have a a permanent presence in stricken countries. 'The Focal Point'\n''They're the focal point,'' said Robert J. McCloskey, a former State Department official and Ambassador who is now Washington representative for Catholic Relief Services, which has contributed $300,000 so far through its Caritas Bangladesh affiliate.\nJoy Carol, director of Save the Children's Asia-Pacific region, said that even when her group acts on its own, perhaps before the Government can mount an airlift, ''we always report immediately'' to the State Department office as to what has been done.\nThe office also keeps track of what other countries and international organizations are doing. Saudi Arabia and India, for example, were listed on a situation report last week as having lent four helicopters each to the Bangladesh relief effort, and Japan was shown as pledging $13 million for food and transportation.\nMrs. Taft seems a master at marshaling the vast Government resources at her disposal. She is a veteran relief worker; in the 1970's she was director of the Interagency Task Force for Indochina Refugees based in the State Department, and has also worked in this field at the Pentagon. In addition to the Defense Department, the office has close ties with the Centers for Disease Control, the Forest Service and its A.I.D. sister unit, the Bureau for Food for Peace. Response on Same Day\nThe Government's first cash donation to this year's victims of monsoon rains and subsequent flooding came the same day that Bangladesh's President, H.M. Ershad, made his international appeal for help. Willard A. DePree, the United States Ambassador in Dhaka, exercising his disaster-assistance authority, released $25,000 for the President's emergency fund. The O.F.D.A. quickly added a $40,000 grant to Save the Children, $50,000 to CARE, $132,000 to World Vision and $1.1 million to two arms of the United Nations. In addition, Food for Peace released 10,000 tons of ''food-for-work'' program wheat from Bangladesh stocks, the grain and transport for it valued at about $2.5 million.\nMeanwhile, Mrs. Taft and her staff had begun planning for the first shipments of goods to Bangladesh, on a giant Air Force C-5A crammed with supplies drawn mainly from a depot at New Windsor, Md., one of the O.F.D.A.'s six stockpiles. The others are in Panama, Guam, Singapore, and Pisa, Italy. There is also a cache of survival kits and communications equipment at headquarters.\nThis cargo plane, loaded at Dover Air Force Base in Delaware and Andrews Air Force Base in suburban Washington, left Friday night and arrived, with the aid of midair refuelings, in Bangladesh today after a layover in Japan. The airport in Dhaka was reopened only late last week.\nIn the shipment were 850 rolls, or 2.2 million square feet, of plastic sheeting for shelter; 10,000 collapsible five-gallon water jugs; 26 water storage tanks, each with a 3,000-gallon capacity, and two water purifier systems, each with an operator to run it and to train Bangladeshis in its use. A Three-Week Stay\nA dozen other Americans from various agencies were on the plane, including Jay F. Morris, the Deputy Administrator of A.I.D. All but Mr. Morris are to remain in Bangladesh least three weeks.\n''The marching orders are to do everything we can,'' Mrs. Taft said.\nLater this week, a second plane, a C-141, will leave Panama with more American equipment for Bangladesh, including six large fiberglass boats with 40-horsepower engines, 150 large tents and 10,000 blankets. Some equipment will be picked up en route at a Defense Department depot on Okinawa.\nThe O.F.D.A. flights generally do not carry privately donated goods, which on some occasions, including the 1985 Mexican earthquake, have proven more a hindrance than a help.\n''Some people clean out their closets with lots of junk, and the important stuff doesn't get through,'' said Mrs. Taft.\nAlthough the O.F.D.A. has more financial latitude than most agencies - Congress is a good bet to approve a compelling special request even in the budget-conscious era - it has resources, including borrowings from A.I.D. accounts, other than budgetary appropriations. For example, Mr. Morris and his staff will seek to ''reprogram'' some $84 million built up in Bangladeshi currency under a program by which American food is given to that country for local sale. Tries to Avoid Politics\nThe disaster office, which in the 1987 fiscal year administered $25.7 million in emergency assistance involving 54 situations, spent another $4.1 million for various programs to mitigate hazards, to improve warning systems and otherwise to prepare for disruptions.\nIn 1986, because of the famine in Ethiopia, the office presided over a record-shattering $130 million in aid.\nMrs. Taft, although appointed to her post by the President, is careful to keep her office free from both international politics - the United States need not have diplomatic relations with a country to offer aid -and domestic partisanship. The latter, however, doesn't prevent her on occasion from discussing things with her husband, William Howard Taft 4th, a deputy Secretary of Defense and a prominent member of the Administration.\nThe department, she says, has traditionally paid ''special attention'' to the needs of the disaster office, but she on occasion plays the spouse card as well to obtain transportation and other support. ''I think it may help -a little bit,'' Mrs. Taft said."
+}

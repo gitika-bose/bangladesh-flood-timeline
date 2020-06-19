@@ -1,0 +1,169 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_6": {
+      "value": "urban",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 15,
+          "text": "2019-08-17"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "2019-08-17",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 127,
+          "text": "Heavy monsoon rain has inundated"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "urban",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 160,
+          "text": "most parts of Khulna city"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Khulna",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [],
+  "filename": "dhakaTribune_data_4c4e8e4d-c92b-4415-92ad-c093df1d2511.txt",
+  "text": "Date Published:2019-08-17 00:00:00      \nThe local Met office has recorded 114 millimeters of rain from 3am to 6am on Saturday Heavy monsoon rain has inundated most parts of Khulna city, inflicting immense suffering on the city dwellers. After six hours of heavy rainfall since Friday night, the streets have become submerged on Saturday. Water has seeped into households as well. Students were unable to attend school after the end of the Eid vacations. Most of the important streets including KDA Avenue, Lower Jessore Road, Dakbangla intersection, PTI intersection, Royal Hotel intersection, Shantidham intersection, Fulmarket, Tutpara, Notun Bazar, Joragate, Khalishpur Colony, Boira area, Mujgunni, Housing Bazar, Notun Colony, Daulatpur, and others became waterlogged. Khulna's local Meteorological official Amirul Azad said: \"From 3am to 9am, our office recorded 114 millimeters of rain.\" Chief planning officer of Khulna City Corporation (KCC) Abirul Azad said: \"We have already started working on reducing water logging in Khulna city. We have identified the illegal occupants, and we are improving the drainage system of KDA Avenue. Only after we have completed these work, will the city dwellers get relief from water logging.\""
+}

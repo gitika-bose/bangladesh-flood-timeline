@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_769dccb7-e801-4944-bb93-b3f68337aa72.txt",
+  "text": "Date Published:2019-06-21 00:00:00      \nPM Hasina to hold exclusive meeting with Chinese President Xi Jinping Bangladesh and China have planned to take their 'strategic partnership' to a new height when Prime Minister Sheikh Hasina visits the country next month. Beijing has invited Prime Minister Hasina to pay an official visit from July 1-5, a senior official in Dhaka told UNB, saying that both sides are finalizing things for the important visit. The Chinese government also invited the Prime Minister to attend the annual meeting of the \"New Champions\" which is known as \"Summer Davos\" to be held in Dalian, July 1-3. It will be Sheikh Hasina's first bilateral visit to Beijing following her party's victory in the last parliamentary election. She will have meetings with President Xi, and Prime Minister Li Keqiang, and discuss ways to strengthen cooperation in broader areas. A good number of bilateral documents are likely to be signed during the visit. Prime Minister Hasina is expected to have an exclusive meeting, on July 2, with the founder and Executive Chairman of World Economic Forum (WEF) Prof Klaus Schwab in Dalian. She is also expected to be a panelist at a session on Cooperation in the Pacific Rim at the WEF Dalian. Beijing has already placed five specific suggestions for deepening Bangladesh-China strategic partnership of cooperation with an emphasis on strengthening 'strategic mutual trust'. \"First, we need to deepen strategic mutual trust, and then we need to deepen economic integration,\" Chinese Ambassador to Bangladesh Zhang Zuo said at Cosmos Dialogue recently.  Other suggestions put forward by him were to deepen interaction, have stronger cooperation on security, cultural exchange, and people's connectivity. He said that China wants to join hands with Bangladesh to become good partners with equality, and mutual trust. Summer Davos, themed 'Leadership 4.0: Succeeding in a New Era of Globalization', is bringing together leaders from every sector, and every part of the world to discuss how to cooperate on the challenges ahead. Globalization 4.0 represents fundamental changes in the global economy that are reshaping companies, communities, and countries at an unprecedented scale. These changes are driven by environmental challenges, regional competition, economic disparities, and technological disruption. They, in turn, require different forms of leadership, and collaboration adapted to this new era of globalization. Platform strategies, and systems leadership are key business concepts behind the sweeping technological changes propelling the Fourth Industrial Revolution. Leadership 4.0 requires an understanding of how new champions, that are gaining economic influence, are disrupting. and transforming current industry models. WEF engages leaders who have the vision, and values to shape the future in this new context. The Annual Meeting of the New Champions is designed as the foremost global summit on innovation, and entrepreneurship with more than 1,500 participants, 100 working sessions, and community activities, along with the opportunity to engage in several new forum initiatives."
+}

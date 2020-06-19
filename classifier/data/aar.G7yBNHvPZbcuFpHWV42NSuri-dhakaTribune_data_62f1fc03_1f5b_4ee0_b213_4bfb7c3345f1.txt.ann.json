@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_62f1fc03-1f5b-4ee0-b213-4bfb7c3345f1.txt",
+  "text": "Date Published:2019-06-30 00:00:00      \nA 'Dead Stop' sign at rail bridges instruct train to stop first before crossing it at only 5km/h There are at least 13 rail bridges with \"Dead Stop\" signs on the 179km Sylhet-Akhaura route, posing a serious risk of accident to thousands of passengers. A \"Dead Stop\" sign at rail bridges instruct trains to stop first before crossing it at only 5km/h. Sources at Bangladesh Railway (East) said six trains - Parabat, Jayantika, Paharika, Udayan, Upaban and Kalni - carry 12,000 to 15,000 passengers every day over these dangerouse locations, reports UNB. Eight of these \"Dead Stops\" are situated in an 18km stretch from Sylhet to Mogla Bazar and five in 164km stretch from Mogla Bazar to Akhaura Bridge.  According to Railway Engineering's Sylhet branch, the 13 bridges with \"Dead Stop\" signs are - Samshernagar-Tilagon section's bridge No 200, Mogla Bazar-Maijgaon section's bridge No 43, 45 and 47, Kulaura-Baramchal section's bridge No 5 and 7, Satgaon-Sreemangal section's bridge No 141, Sreemangal-Vanugach section's bridge No 157, Maijgaon-Vater Bazar section's bridge No 29, and Montola-Itakhola section's bridge No 56. Sajib Kumar Malakar, assistant station manager of Sylhet railway station, said most of the bridges in this section are in risky condition. \"I cannot confirm whether the June 23 accident happened only because of the bridge's condition,\" he added. Five people were killed when six coaches of Dhaka-bound \"Upaban Express\" went off the rails on June 23 after a culvert over the Barochhara canal, near the Baramchal railway station, caved in. A coach of fertilizer-carrying BC Special Train from Shahjalal Fertilizer Factory derailed at Maijgaon station adjacent area on April 5. A coach of Jalalabad Express ran off the tracks at Mollikapur area under Fenchuganj upazila on May 16. An oil tanker train derailed at Kulaura in Moulvibazar in March 2018, snapping rail communication for two hours with other parts of the country. Trains on Sylhet-Chittagong and Dhaka-Sylhet routes were halted for 15 hours on February 23 last year due to derailment of Upaban Express at Satgaon in Sreemangal. In 2017, media reports highlighted the sorry state of Monu Bridge and how bamboo was used to repair it. The bridge remained that way since then and is currently included in the list of risky bridges. Bhoismara Rail Bridge between Sreemangal and Satgaon stations was damaged in a flash flood on April 5, 2017. The condition of the bridge has not improved yet. The same is the case with the rest of the bridges that are using \"Dead Stops\" to prevent accidents and loss of life. Prime Minister Sheikh Hasina on June 25 ordered the authorities concerned to conduct a survey of rail bridges and culverts across the country and repair those damaged or risky."
+}

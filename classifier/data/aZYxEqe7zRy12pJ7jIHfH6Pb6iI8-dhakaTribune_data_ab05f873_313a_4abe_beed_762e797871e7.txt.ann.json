@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_ab05f873-313a-4abe-beed-762e797871e7.txt",
+  "text": "Date Published:2020-03-16 00:00:00      \nSultana Pervin came under fire after approving a questionable mobile court raid at Ariful Islam's home The government has appointed a new deputy commissioner (DC) in Kurigram district, removing Sultana Pervin. She came under fire following the questionable arrest, incarceration, and torture of Dhaka Tribune journalist Ariful Islam by a mobile court raid she approved. A circular from the Ministry of Public Administration announcing Sultana's removal from the post and attachment to the ministry was issued on Monday. Another circular, issued on Monday, said Mohammad Rezaul Karim, deputy secretary of the ministry, will replace Sultana as the new Kurigram DC and district magistrate. The ministry has also withdrawn three executive magistrates from Kurigram connected to the incident, by issuing another circular. The officials are - Senior Assistant Commissioner Nazim Uddin, and assistant commissioners Rintu Bikash Chakma, and SM Rahatul Islam of Kurigram. All three orders were effective immediately, said the circulars. Meanwhile, State Minister for Public Administration, Farhad Hossain, told Dhaka Tribune: \"There are allegations against them [the four commissioners] and they have been made officers on special duty [OSD]. \"We will initiate divisional inquiry, and punitive action will be taken against them if they are found guilty after investigation,\" he added. However, the High Court on Monday asked state lawyer, Deputy Attorney General Debashis Bhattacharyya, to collect and submit all documents related to Ariful's conviction and bail by March 23. The bench of Justice Md Ashraful Kamal and Justice Sardar Md Rashed Jahangir issued the order on Monday. Supreme Court Bar Association President, advocate AM Amin Uddin, and advocate Ishrat Hasan with Barrister Syed Sayedul Haque Suman, stood for the writ. During the hearing, the court made a comment stating that a single person does not represent the whole country. The state will not take responsibility for someone's mistake. On Sunday, the High Court ordered the state to submit before it a copy of the conviction and one-year imprisonment sentence of the journalist, issued by a mobile court. During the hearing, the bench also asked the state to respond to some questions over the mobile court's judgment. Responding to a question about whether the drive was conducted by a mobile court or a special taskforce, the state lawyer informed the court that it was a special taskforce and there were 13 people including six from police, five from Ansar battalion, one from the department of narcotics, and one executive magistrate. The drive was conducted around 11:45pm of March 13, 2020, and they found 450ml of local liquor and 100gm of cannabis, with a price of approximately TK150 and Tk1,000 respectively, the DAG informed the court. The DAG told the court that everything was done by law. Advocate Amin Uddin said to the court that a mobile court cannot hand out punishment this way. Mobile courts are appreciated and operations of all mobile courts are not being questioned, he said. Drawing an example of an abuse of power, he said a mobile court had punished a teacher earlier by asking him to \"perform squats holding his ears\" at an examination hall for using a mobile phone. Over the Kurigram incident, the lawyer mentioned that this too was an abuse of power. The way the mobile court operated has proven a mala fide intent. \"One can hand out punishment if a journalist commits an offence, but not in this way.\" The senior lawyer also appraised the role of the media in the country. The court asked the lawyer to bring in journalist Ariful as petitioner if possible and told the state lawyer that there is a gray area regarding how bail was granted to the journalist. Earlier on Sunday, advocate Ishrat Hasan filed the petition on behalf of online news portal Bangla Tribune's Executive Editor, Harun-Ur-Rashid. On March 14, Ariful Islam, Kurigram district correspondent of Dhaka Tribune and Bangla Tribune , was sent to one-year in jail, soon after the mobile court, set up at the Kurigram DC's office, ended the trial proceedings. The mobile court in the dead of night jailed the journalist for a year, after law enforcement led by magistrates picked him up from his home in Kurigram town. The mobile court brought an allegation against the journalist that drugs and alcohol were recovered from his possession, which his family termed absurd. DC's comments contradictory with documents The Deputy Commissioner (DC) Sultana Parvin on March 14 told Dhaka Tribune that a task force was set up to apprehend the journalist as a routine drive against narcotics.  However, her comments in the documents, placed before the court by the state lawyer, contradict that statement. In the witness record, one of the witnesses, Md Arif, stated that Ariful was apprehended by mobile court and the task force while he was drinking liquor and smoking cannabis. Meanwhile countrywide processions were organized by journalists and civil society to seek justice and protest the abuse of power and torture of journalists. They were held in Comilla, Khulna, Natore, Nilphamari, Jhalakati, Joypurhat, Naogaon, Narsingdi, Thakurgaon, Rangpur, Netrokona, Sirajganj and Tangail, according to our correspondents. Our district correspondents Masud Alam, Comilla, Hedait Hossain Molla, Khulna, contributed to this report."
+}

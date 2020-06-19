@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_7071a807-5a74-4df3-88c5-0e09b473d8e7.txt",
+  "text": "Date Published:2019-07-10 00:00:00      \nPrime Minister Sheikh Hasina told parliament today that the country's governance system will be decentralised by the year 2041 as the country will turn into a developed one by this time. She said this while replying to a tabled question from treasury bench lawmaker M Abdul Latif (Chattogram-11). \"Bangladesh will be a peaceful, prosperous and developed country by 2041 implementing the vision 2041, which can be compared to the developed world. The governance system of Bangladesh will be decentralised by this time,\" PM said in a scripted answer.  She also said, \"The lion's share of government expenses will be implemented in the local level and the local administration will carry out the responsibility (of expending the government funds). The plans will be designed with clear coordination between the local administration and the central administration.\" Hasina, also Leader of the House, said, good governance, capacity and empowerment of the people will be the key policy for the progress of the country. Mentioning that the economy of Bangladesh stands on strong position overall, the premier said the investment is increasing gradually and the balance of payment of Bangladesh remain in good position due to high growth in export and remittance. Inflation remains under control while the budget deficit remains limited within 5 per cent of Gross Domestic Product (GDP), she further said. In this context, it can be expected that the economic growth will accelerate further in the days to come, she said. \"Bangladesh will turn into a developed nation with $ 16,000 per capita income and the poverty will be a matter of distant past in this Sonar Bangla (Golden Bangla) in 2041,\" Sheikh Hasina said. According to the World Economic Situation and Prospects 2019 of the United Nations, Bangladesh was one of the 10 top growth economies in the world in 2018, she added."
+}

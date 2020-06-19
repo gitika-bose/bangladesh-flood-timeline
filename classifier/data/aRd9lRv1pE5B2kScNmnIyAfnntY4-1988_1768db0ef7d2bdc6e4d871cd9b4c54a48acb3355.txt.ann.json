@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1988_1768db0ef7d2bdc6e4d871cd9b4c54a48acb3355.txt",
+  "text": "Bangladeshi - and Proud\n1988-11-17T05:00:00.000Z\nIt is not easy being a Bangladeshi these days. While our country is going under - literally and figuratively - the international community has responded with generous aid as well as a strong dose of cynicism and sarcasm. Ever since Henry Kissinger dehumanized Bangladesh by labeling it ''an international basket case,'' Bangladesh has been the butt of many cruel jokes.\nWe have been accused of behaving as though the world owes us a living. When cyclones lash out at our seacoast, killing thousands, it is because of our ''fatalistic attitude.'' I have heard Bangladesh blasted as the ''most backward country on earth.'' I have seen it kicked around as ''Bang-the-dish'' in satirical cartoons.\nYet, not so long ago, Bangladesh was the breadbasket of the region. In pre-industrial days, our prosperity earned us the name ''Golden Bengal.'' Every inch of land was cultivated for two and three crops each year. Life was so easy that neighboring Indians settled in droves on this fertile plain. Everyone stayed put, with the result that now 100 million people are jammed into an area the size of Wisconsin.\nThe massive deforestation and the construction of numerous river dams in India and Nepal has a lot to do with the recent floods in Bangladesh. Bangladesh is a delta through which the eastern part of the Indian subcontinent discharges its water to the sea.\nDuring the monsoon rains, some flooding is inevitable and is actually beneficial for the paddy fields. But when combined with an overflow from dams, the rivers - which have not been dredged recently because of the prohibitive cost - cannot discharge the water to the sea fast enough. Consequently, the water backs up, submerging a very flat, sea level country. Our neighbors, who consistently refuse to discuss a solution to our flood problem, share some moral responsibility for our misery.\nWe Bangladeshis are a proud people, famous for our poetry, songs and cuisine - maybe the best in the world. We may be poor, but we are not backward.\nThe civil war with Pakistan in 1971 completely destroyed our land's infrastructure. It took a monumental effort to get the country back on its feet. The hot, humid climate is not conducive to heavy, prolonged physical labor. Saddled with the burden of feeding millions, our development plans have to be scrapped regularly because of catastrophes like this year's.\nBut our population control plan is in place and births are decreasing. Given a stable, representative political system - already within reach -and a few flood-free years, our genius will make us rebound.\nThe land that produced literary giants like Rabindranath Tagore, the first Asian to win the Nobel Prize, and poet laureate Kazi Nazrul Islam, will not stay down for long.\nIn the meantime, as we fight to save our people from disease and starvation, we ask the international community to be helpful and understanding - and not to indulge in ridicule and pontification."
+}

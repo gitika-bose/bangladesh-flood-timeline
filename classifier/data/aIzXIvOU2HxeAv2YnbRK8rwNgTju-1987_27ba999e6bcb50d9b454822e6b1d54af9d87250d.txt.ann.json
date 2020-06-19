@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1987_27ba999e6bcb50d9b454822e6b1d54af9d87250d.txt",
+  "text": "A Bank Battles Poverty\n1987-07-12T05:00:00.000Z\nRABEA stepped out of her dirt-floored house, stamped one bare foot on the ground and snapped a smart salute. Rabea is so poor that she cannot offer a visitor a chair or protect her children from rain leaking though her thatched roof. But she is a proud borrower at an innovative rural bank. Like nearly 300,000 other landless Bangladeshis, she has managed, without collateral, to borrow enough to start a small business and slowly advance her family's standard of living.\nThe salute reflects steps taken by the Grameen Bank to improve the outlook and habits of its mostly female borrowers and to achieve what it maintains is an extraordinary 98 percent rate of loan repayments. ''Now that you are earning, you can stand up straight and look into people's eyes,'' the bank's founder, Mohammad Yunus, says. The bank also works to improve the nutrition, family planning, sanitation and literacy of borrowers.\nAll this is provided for within the bank's financing, which offers a new approach to problems that are endemic throughout Asia and the third world. The bank has attracted widespread attention; in Washington, for example, Congress is studying the possibility of tying some foreign aid to credit for the poor.\n''We are not doing any favors. We are in business,'' Mr. Yunus said, noting that healthy, literate borrowers, not burdened by a large family, are better credit risks. ''The entry point is credit,'' added an aide, Muzammel Huq. ''Development through credit can be done without any cost to the Government. These people are borrowing at the commercial rate of 16 percent.''\nDespite their subordinate role in this Moslem society, 74 percent of Grameen borrowers are women. ''Women are better clients in terms of repayment, and in terms of the objectives of the bank, the alleviation of poverty,'' Mr. Huq said. ''We have found that poverty, hunger and disease are primarily women's issues.''\nIn Bathoimuri, a village 40 miles north of Dhaka, the capital, the bank has lent money to 575 people, two-thirds of them women. Last year, Rabea borrowed $90, bought a cow and started selling milk. Her earnings made possible a $85 family investment in a bicycle rickshaw, with which her two grown sons now make a living. When her loan is repaid, Rabea said, she plans to borrow again to improve her house.\nThe Grameen Bank grew out of an argument between Mr. Yunus, an economics professor on leave from Chittagong University, and bankers who said they could not do business with the 50 percent of Bangladeshis who are landless, the 80 percent who are illiterate or the more than 50 percent who are women. Started in 1979, the project has grown to 330 branches serving 6,000 villages. Owned 75 percent by its borrowers and 25 percent by the Government, Mr. Yunus said, the bank has made a modest profit from the start.\nThe average Grameen loan is for the equivalent of $60. The smallest was for one dollar, to a woman who wanted to sell plastic bangles door-to-door. Borrowers have financed small-scale perfume making, bookbinding, peanut frying and the selling of matches, mirrors, bullocks and bananas. Mr. Yunus attributed the bank's success to the close contact between borrower and lender, peer pressure and the seriousness with which illiterate, poor people approach financial transactions.\nPotential borrowers are organized in groups of five. All transactions, including the approval and the weekly repayment of one-year loans, take place at group meetings. A borrower who cannot meet a payment can seek help from the group. Bank representatives meet with borrowers every week in their home villages."
+}

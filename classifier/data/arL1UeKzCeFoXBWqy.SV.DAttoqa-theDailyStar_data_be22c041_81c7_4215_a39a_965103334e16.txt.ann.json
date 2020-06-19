@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_be22c041-81c7-4215-a39a-965103334e16.txt",
+  "text": "Date Published:2019-03-15 00:00:00      \nFacebook yesterday grappled with a widespread outage, forcing millions of people to taste life without the world's largest social media platform. It was probably the last thing Facebook needed as it stumbles from problem to problem, including outrage over its use of customers' private data. The outage began Wednesday afternoon and triggered a flood of gripes on downdetector.com, which tracks trouble accessing online pages, and on rival Twitter. A Downdetector map late Wednesday showed Facebook service troubles persisting in parts of Australia, Asia, Europe, South America and North America. As of early yesterday the problem remained in parts of Europe and Asia, although moaning from America and else where kept coming. \"You guys should look in the mirror at yourselves and hear how you sound,\" a person with the handle Johanna wrote on Downdetector around 0745 GMT. Another whose handle is Palmina D'Allesandro mused that time without Mark Zuckerberg's baby might have been good for making the real, human kind. \"Up and running here.....for now.....But I predict a baby boom in 9 months, Remember that day FB went down and people were forced to notice each other?\", this person wrote. Some media outlets branded the outage as the biggest in Facebook's history. The outage, of unknown origin, also affected Facebook-owned Instagram, as well as Messenger, although Instagram later said it was back up. While the outage continued, The New York Times reported that US prosecutors have launched a criminal investigation into the social network's practice of sharing users' data with companies without letting them know. A grand jury in New York has subpoenaed information from at least two major smartphone makers about such arrangements with Facebook, according to the Times."
+}

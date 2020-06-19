@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_b8068188-3b26-4145-9ebf-1acda1d2f2a1.txt",
+  "text": "Date Published:2020-03-25 00:00:00      \nThe White House and Senate leaders of both parties announced agreement early Wednesday on unprecedented emergency legislation to rush sweeping aid to businesses, workers and a health care system slammed by the coronavirus pandemic. The urgently needed pandemic response measure is the largest economic rescue measure in history and is intended as a weeks- or months-long patch for an economy spiraling into recession and a nation facing a potentially ghastly toll. Top White House aide Eric Ueland announced the agreement in a Capitol hallway shortly after midnight, capping days of often intense haggling and mounting pressure. It still needs to be finalized in detailed legislative language. \"Ladies and gentlemen, we are done. We have a deal,\" Ueland said. The unprecedented economic rescue package would give direct payments to most Americans, expand unemployment benefits and provide a $367 billion program for small businesses to keep making payroll while workers are forced to stay home. One of the last issues to close concerned $500 billion for guaranteed, subsidised loans to larger industries, including a fight over how generous to be with the airlines. Hospitals would get significant help as well. \"After days of intense discussions, the Senate has reached a bipartisan agreement on a historic relief package for this pandemic,\" said Majority Leader Mitch McConnell, R-Ky, a key negotiator. \"It will rush new resources onto the front lines of our nation's health care fight. And it will inject trillions of dollars of cash into the economy as fast as possible to help Americans workers, families, small businesses and industries make it through this disruption and emerge on the other side ready to soar.\" At the White House on Tuesday, even as the public-health crisis deepened, President Donald Trump expressed eagerness to nudge many people back to work in coming weeks and held out a prospect, based more on hope than science, that the country could be returning to normal in less than a month. \"We have to go back to work, much sooner than people thought,\" Trump told a Fox News town hall. He said he'd like to have the country \"opened up and just raring to go\" by Easter, April 12. But in a White House briefing later, Trump said that \"our decision will be based on hard facts and data.\" Medical professionals say social distancing needs to be stepped up, not relaxed, to slow the spread of infections. At the White House briefing, the public-health authorities said it was particularly important for people in the hard-hit New York City metropolitan area to quarantine themselves for 14 days, and for those who have recently left the city to do the same. Dr Anthony Fauci, the government's top infectious disease expert, said pointedly at the briefing, \"No one is going to want to tone down anything when you see what is going on in a place like New York City.\" On Capitol Hill, five days of arduous talks produced the bill, creating tensions among Congress' top leaders, who each took care to tend to party politics as they maneuvered and battled over crafting the legislation. But failure was never an option, which permitted both sides to mark big wins. Even before the deal was reached, news of the likely but elusive agreement had sent the stock market rocketing on Tuesday. The emerging rescue package would be larger than the 2008 bank bailout and 2009 recovery act combined. The unprecedented economic rescue package would give direct a one-time payment of $1,200 per adult and $500 per child directly to the public. A huge cash infusion for hospitals expecting a flood of COVID-19 patients grew during the talks at the insistence of Senator Chuck Schumer, the Democratic leader, while Republicans pressed for tens of billions of dollars for additional relief to be delivered through the Federal Emergency Management Agency, the lead federal disaster agency. Democrats said the package would help replace the salary of furloughed workers for four months, rather than the three months first proposed. Furloughed workers would get whatever amount a state usually provides for unemployment, plus a $600 per week add-on, with gig workers like Uber drivers covered for the first time. \"It ensures that all workers are protected whether they work for businesses small, medium or large, along with self-employed and workers in the gig economy,\" Schumer said. Republicans won inclusion of an \"employee retention\" tax credit that's estimated to provide $50 billion to companies who retain employees on payroll and cover 50% of workers' paychecks. Companies would also be able to defer payment of the 6.2% Social Security payroll tax. Democrats pointed to gains for hospitals, additional oversight of the huge industry stabilization fund, and money for cash-strapped states. A companion appropriations package ballooned as well, growing from a $46 billion White House proposal to more than $300 billion, which dwarfs earlier disasters -- including Hurricane Katrina and Superstorm Sandy combined. To provide transparency, the package is expected to create a new inspector general and oversight board for the corporate dollars, much as was done during the 2008 Troubled Asset Relief Program bank rescue, officials said. Trump in recent days has sounded a note of frustration about the unprecedented modern-day effort to halt the virus' march by essentially shutting down public activities in ways that now threaten the US economy. Even though Trump's administration recommended Americans curtail activities for 15 days, starting just over a week ago, the president said he may soon allow parts of the economy, in regions so far less badly hit by the virus, to begin reopening. He continued on that theme Tuesday as he weighed a relaxation of social distancing guidelines after the 15-day period is up. His suggestion that the pandemic could ease and allow a return to normalcy in a mere few weeks is not supported by public health officials or many others in government. On Tuesday, top defense and military leaders warned department personnel that the virus problems could extend for eight to 10 weeks, or longer. Army General Mark Milley, chairman of the Joint Chiefs of Staff, said during a Defense Department town hall meeting that the crisis could even extend into July. Trump has balked at using his authority under the recently invoked Defense Protection Act to compel the private sector to manufacture needed medical supplies like masks and ventilators, even as he encourages them to spur production. \"We are a country not based on nationalizing our business,\" said Trump, who has repeatedly railed against socialism overseas and among Democrats. For most people, the new coronavirus causes only mild or moderate symptoms, such as fever and cough. For some, especially older adults and people with existing health problems, it can cause more severe illness, including pneumonia. The vast majority of people recover from the new virus. According to the World Health Organization, people with mild illness recover in about two weeks, while those with more severe illness may take three to six weeks to recover."
+}

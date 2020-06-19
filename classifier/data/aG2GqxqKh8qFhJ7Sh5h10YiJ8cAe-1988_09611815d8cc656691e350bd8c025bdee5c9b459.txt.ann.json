@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1988_09611815d8cc656691e350bd8c025bdee5c9b459.txt",
+  "text": "U.N. Says Bangladesh Needs $1.1 Billion in Flood Repairs\n1988-11-18T05:00:00.000Z\nBangladesh will need $1.1 billion in extra aid to repair damage from catastrophic flooding there in September and prevent future flooding, according to a United Nations study.\nThe study by the United Nations Disaster Relief Organization also says flooding will reoccur unless countries bordering Bangladesh develop a regional plan to control the many water systems that flow into Bangladesh.\nThe study was presented at a conference Wednesday. The conference raised $500 million, United Nations officials said today."
+}

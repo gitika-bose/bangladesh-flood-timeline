@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_59b92066-94cb-43b5-b06d-6fd45c8a8d7d.txt",
+  "text": "Date Published:2020-02-06 00:00:00      \nFEBRUARY 6, 1972 BANGABANDHU'S HISTORIC  VISIT TO KOLKATA\n Bangladesh Prime Minister Bangabandhu Sheikh Mujibur Rahman is accorded a hearty welcome on his arrival in Kolkata this morning on a two-day visit. Bangabandhu is presented the guard of honour by a contingent of the Dogra Regiment. The national anthem of Bangladesh and India are played.  Bangabandhu and Indira Gandhi have had wide-ranging talks on various issues, including the future economic planning and review of the situation in the subcontinent, for a little over three hours.    Speaking at a huge public rally at Brigade Parade Ground in the afternoon Bangabandhu says that the bond between Bangladesh and India is not based on expediency. He maintains that the close bond between the countries exist because the peoples of both countries have unflinching faith in the principles of secularism, democracy, socialism and nationalism. He tells the gathering, \"I bring with me the love and gratitude from the people of Bangladesh for the people of India.\" He is wildly cheered when he says that the liberation of Bangladesh would not have been possible if not for the gallant support of Indira Gandhi and the Indian Armed Forces. The venue of the public meeting turns into a human sea.   The banquet tonight is hosted by Indira Gandhi in his honour. Bangabandhu calls for peace and stability in the subcontinent saying, \"Let there be an end, once and for all, to the sterile policy of confrontation between neighbours. Let us not fritter away our national resources, but to use them to lift the standard of living of our people.\"    Referring to the growing cooperation between Bangladesh and India, Bangabandhu says that geography dictates that the two countries should cooperate in all possible fields, and particularly in the fields of economy, construction of barrages, flood control and taming of the mighty Brahmaputra and Ganges.   Mujib's portrait in currency notes Bangladesh Bank governor discloses that Bangladesh's currency will bear the portrait of Bangabandhu. The currency will be available by the last week of this month. Bhashani NAP extends cooperation The extended meeting of the Bangladesh NAP (Bhashani group) working committee resolves to extend cooperation and give enough time to the Awami League government in materialising socialism, democracy and secularism in Bangladesh. The meeting also calls for immediate measures to arrest the price hike and stop the smuggling of goods.  Mass graves found in Pabna Horrifying signs of barbarism by the Pak Army have been revealed in Pabna after several mass graves were dug open inside the WAPDA office compound. The site had been serving as Pak Army's headquarter in the district. The graves prove that more than 3,000 civilians were slaughtered by the Pak Army.  Sources: February 7, 1972 issues of Dainik Bangla, The Daily Ittefaq, Azad, Morning News, The Bangladesh Observer and Purbodesh."
+}

@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_fe89eb45-7bb8-4ec3-bc97-ce97313feb17.txt",
+  "text": "Date Published:2019-06-03 00:00:00      \nThe 57-member bloc says all international legal instruments will be used to hold perpetrators accountable The Organization of Islamic Cooperation (OIC) has called upon the ad hoc ministerial committee, led by Gambia, to take immediate measures to launch a case of Myanmar's human rights violations against the Rohingyas at the International Court of Justice (ICJ) on its behalf. It also affirmed its support for the committee on human rights violations against the Rohingyas in Myanmar, using all international legal instruments to hold accountable the perpetrators of the crimes, according to the final communique issued after the 14th Islamic Summit Conference held in Mecca, Saudi Arabia last Friday, reports UNB. Bangladesh is currently hosting more than 1.1 million Rohingyas in Cox's Bazar -- a vast population which is putting immense economic, environmental and diplomatic pressure on Bangladesh. The OIC's call came after Bangladesh Prime Minister Sheikh Hasina at the conference sought OIC's help in providing justice to the Rohingyas and ensuring their safe repatriation to Myanmar. Some 750,000 Rohingyas had fled brutal military atrocities in Myanmar's Rakhine state since August 25, 2017. Before them, over 300,000 others fled to Bangladesh after several waves of violence. The conference insisted on the importance of conducting international, independent and transparent investigations into the human rights violations in Myanmar -- including sexual violence and aggression against children -- and to hold accountable all those responsible for these brutal acts in order to give justice to the victims. The 57-member bloc also called for ensuring free and unrestricted access to humanitarian assistance by affected persons and communities. They also reiterated deep appreciation for the people of Bangladesh and the Hasina administration for opening their borders and giving shelter to the forcibly displaced Rohingyas, consistently supporting them with the country's scarce resources. The conference called on the member states to come up generously to share the increasing burden of Bangladesh. Myanmar urged to take steps The Myanmar military has been accused of torching Rohingya villages, killing Rohingyas and even raping Rohingya women -- allegations that rights groups say are tantamount to genocide. Even after signing of deals with Bangladesh and UN agencies on repatriation, the Rohingyas say the conditions in Rakhine are not safe enough for them return and there is no guarantee of citizenship and security. Meanwhile, violence in Rakhine is escalating due to fights between the security forces and the Arakan Army in the recent months and further complicating the situation. The OIC summit welcomed various mechanisms established at international level to improve the situation in Rakhine State, and reiterated its support to regional mechanisms -- particularly Asean -- in conducting the necessary needs assessment to identify areas of cooperation in order to create conducive conditions for the Rohingyas' safe, voluntary, and dignified return. The conference also condemned the inhumane situation in which the Rohingya Muslim community lives, and called for urgent action to end acts of violence and all brutal practices targeting this minority. It also urged giving them their rights without any discrimination or racial profiling. It emphasised that the Myanmar government is fully responsible for the protection of its citizens and underscored the need to stop the use of military power in Rakhine immediately. The conference urged Myanmar to take practical, time-bound and concrete steps to restore the citizenship of Rohingya IDPs and forcibly displaced Rohingya Muslims who were deprived of their nationality, with all associated rights, especially the right to full citizenship. It also urged the country to allow and facilitate the return in safety, security and dignity of all Rohingyas internally and externally displaced, including those forced into taking shelter in Bangladesh. It reaffirmed its commitment to the implementation of the resolutions of OIC summits and ministerial conferences."
+}

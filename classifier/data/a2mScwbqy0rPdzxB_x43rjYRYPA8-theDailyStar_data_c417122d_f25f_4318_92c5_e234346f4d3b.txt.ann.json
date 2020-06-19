@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_c417122d-f25f-4318-92c5-e234346f4d3b.txt",
+  "text": "Date Published:2020-03-21 00:00:00      \nLong despised by German fans as the face of big-money football, billionaire Dietmar Hopp is now being held up by some as a national hero in the coronavirus crisis. Three weeks ago, the 79-year-old owner of the Hoffenheim club was the subject of nationwide protests in Germany's stadiums, with fans calling him a \"son of a b***h\" and holding up pictures of his face in crosshairs. This week, Hopp raised hopes of a vaccine for the COVID-19 disease, suggesting a company he owns could develop one as soon as the autumn. Ranked by Forbes as the eighth richest person in Germany, Hopp made his fortune with SAP, a software company he co-founded in 1972. Decades later, he used his wealth to propel Hoffenheim, based near Sinsheim in southwestern Germany, from amateur league anonymity to the top-flight Bundesliga and a place among Europe's elite in the Champions League. That made him a hate figure for football fans across the country. For Germany's \"ultras\", Hopp is a symbol for how wealthy investors hold too much power in football. They see him as a threat to the culture and traditions of the German game, and more specifically to the 50+1 rule, which underpins the considerable influence of supporters in the way German clubs are run. Hopp has also riled fans by taking legal action over insulting chants sung about him by away supporters. A decision by the German Football Association to ban Borussia Dortmund fans from Hoffenheim for two years prompted a flood of protests last month, with fans across the country accusing football authorities of pandering to Hopp's personal wishes. Supporters of clubs such as Bayern Munich, Borussia Moenchengladbach and Union Berlin held up banners insulting Hopp and the DFB, leading in some cases to games being suspended. Three weeks on, the Bundesliga has been suspended due to the coronavirus crisis, but Hopp remains firmly in the headlines. He is now being heralded as a hero in some quarters, after it emerged that one of his companies, biotech firm CureVac, is working on a vaccine for COVID-19. CureVac's research was at the centre of a diplomatic row last weekend. According to a report in Welt newspaper on Sunday, US President Donald Trump offered the company up to a billion dollars to secure exclusive rights to the vaccine research for the United States. CureVac denied the report, while Hopp said such a deal \"would not be an option\". \"It's obvious for me that it can't be the case that a German company develops a vaccine which is then used exclusively in the US.\" The firm response earned him praise but football fans remain largely unmoved by Hopp's comments on the vaccine, which he says should be for \"people across the world\". \"It's very nice that a successful businessman is recognising his social responsibility and acting accordingly, but that has nothing to do with his involvement in football,\" said Sig Zelt, a spokesman for the organisation \"Pro-Fans\", on Wednesday."
+}

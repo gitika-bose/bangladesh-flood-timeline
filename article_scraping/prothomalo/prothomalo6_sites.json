@@ -1,0 +1,40 @@
+[
+  {
+    "query": "bangladesh inundation",
+    "paper": "prothomalo",
+    "date_range": [
+      "1/1/2015",
+      "12/31/2015"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh inundation",
+    "paper": "prothomalo",
+    "date_range": [
+      "1/1/2017",
+      "12/31/2017"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh inundation",
+    "paper": "prothomalo",
+    "date_range": [
+      "1/1/2018",
+      "12/31/2018"
+    ],
+    "sites": []
+  },
+  {
+    "query": "bangladesh inundation",
+    "paper": "prothomalo",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://en.prothomalo.com/bangladesh/4-upazilas-in-Sylhet-flooded"
+    ]
+  }
+]

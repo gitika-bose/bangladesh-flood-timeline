@@ -1,0 +1,20 @@
+[
+  {
+    "query": "bangladesh \"cyclone\"",
+    "paper": "bangladeshPost",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://www.bangladeshpost.net/posts/cyclone-bulbul-may-hit-today-16889",
+      "https://www.bangladeshpost.net/posts/bd-now-role-model-in-disaster-management-pm-14579",
+      "https://www.bangladeshpost.net/posts/bulbul-hits-khulna-coast-16988",
+      "https://www.bangladeshpost.net/posts/rubel-s-seven-for-puts-rajshahi-in-trouble-17010",
+      "https://www.bangladeshpost.net/posts/why-agitation-after-demands-met-pm-14501",
+      "https://www.bangladeshpost.net/posts/serious-manipulation-in-wasa-contract-12144",
+      "https://www.bangladeshpost.net/posts/ramadan-fruits-in-abundance-1137",
+      "https://www.bangladeshpost.net/posts/beggars-bounty-hunt-in-khulna-ahead-of-eid-2609"
+    ]
+  }
+]

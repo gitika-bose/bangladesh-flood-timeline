@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_526d5dc8-c175-4b31-aa8b-e1cd875b98ff.txt",
+  "text": "Date Published:2019-03-23 00:00:00      \nA document drawn up by the World Food Programme (WFP), the UN's food aid arm, shows the agency has supplied the Bangladesh government with detailed plans - including a timeline and budget - of how it could provide for thousands of Rohingya transported to the island within weeks The United Nations is making plans to help Bangladesh relocate thousands of Rohingya refugees to a remote island off its coast, documents seen by Reuters show. Dhaka says transporting refugees to Bhashan Char - a Bay of Bengal island hours by boat from the mainland - will ease chronic overcrowding in its camps at Cox's Bazar, which are home to more than 1 million Rohingya, members of a Muslim minority who have fled neighbouring Myanmar. A document drawn up by the World Food Programme (WFP), the UN's food aid arm, shows the agency has supplied the Bangladesh government with detailed plans - including a timeline and budget - of how it could provide for thousands of Rohingya transported to the island within weeks. It stresses that any relocation should be voluntary and done \"in accordance with humanitarian principles and code of conduct.\" The document, labelled as a \"Concept of Operations\" and dated March 12, outlines how the organization and its partners \"may facilitate the identification, staging, forward movement, reception, and sustainment of refugees\" on Bhashan Char, estimating an initial appeal for donor funding of between $8.6 and $19 million. More detailed operational planning would be needed it says, noting the Concept of Operations had been \"developed quickly and without the benefit of any recent on-site assessment.\" Gemma Snowdon, communications officer for WFP in Cox's Bazar, said the organization was part of \"ongoing discussions\" with the government over the future of the refugee response. \"The viability of safely relocating people to Bhashan Char needs to be thoroughly assessed and WFP is investigating the potential operational needs, financial costs, and challenges in several areas that we traditionally support in emergencies: food security, emergency telecommunications and logistics,\" she said. Refugee influx The numbers of refugees in the Cox's Bazar camps have grown dramatically since August 2017, when a Myanmar military-led crackdown that UN investigators have said was conducted with \"genocidal intent\" prompted some 730,000 Rohingya to flee. Myanmar has denied almost all allegations of atrocities made by refugees during what is says was a legitimate counterterrorism operation by its security forces.  Dhaka is struggling to cope with the influx and wants to start relocating thousands of refugees to the island, which it says has been secured with flood defence embankments and cyclone shelters. A senior UN official told reporters in Dhaka on Thursday the organization welcomed the fact the government had \"taken steps to identify alternative settlements.\" \"As you also know if you have been to Kutapalong and the various camps in Cox's Bazar area, it is clear that there is huge congestion,\" said Volker Turk, Assistant High Commissioner for the UN refugee agency. Liberation War Affairs Minister AKM Mozammel Haque, who is also the chairman of Cabinet Committee on Law and Order, told Reuters in an interview the government planned to start moving refugees next month. A group of Rohingya refugee people walk in the water after crossing the Bangladesh-Myanmar border in Teknaf, Bangladesh  | Reuters \"We are in talks with UN agencies and they have agreed,\" he said. \"Now we are working on other things like how to move them and other strategies. We are the host country. We will decide where to keep them. And we are doing everything to ensure their safety and security.\" The Refugee Relief and Repatriation Commissioner, Mohammad Abul Kalam told Reuters preparations were \"still going on\" and the site was not ready. Bhashan Char, a flat and featureless island that emerged from the sea 20 years ago, has never been inhabited. Housing with corrugated iron roofs and concrete floors and walls for about 70,000 people had been built, but there were only enough cyclone shelters for 17,000. In Cox's Bazar, local officials are compiling lists of the first refugees to be moved, District Commissioner Mohammad Kamal Hossain told Reuters."
+}

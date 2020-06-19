@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_0cd602b5-4681-4e0b-b831-519d36e493bd.txt",
+  "text": "Date Published:2019-09-14 00:00:00      \nThe Ministry of Environment Forest and Climate Change has assured that action will be taken against DNCC A parliamentary standing committee has recommended that the highest amount of fines be realized from the Dhaka North City Corporation (DNCC) for polluting environment by dumping waste haphazardly at the Amin Bazar sanitary landfill. The Standing Committee on Ministry of Environment Forest and Climate Change, at a meeting held at the parliament on Satruday, came up with the decision as the DNCC has been using the landfill for dumping waste without any environmental clearance. Appearing from the meeting, Committee Chairman Saber Hossain Chowdhury, said the law is equal for all and there are provisions for fines if a person or an organisation pollutes the environment.  \"The dumping ground used by DNCC is illegal. The environment department earlier issued letters to the organization, but they did not respond. Also Read - A landfill in flood flow zone The ministry has assured that action will be taken against the DNCC, in line with the recommendations made by the standing committee, he added. According to the meeting minutes, three separate letters had been issued to shut the dumping station, but the DNCC has not paid heed to the letters. Dhaka Tribune on August 29 ran a report on \"A landfill in flood flow zone\" that said that Aminbazar sanitary landfill, the lone landfill for all the DNCC waste has turned into an artificial floating island in the flood flow zone near the Turag River, severely damaging the ecosystem. About 2,000 tons of waste is dumped on a daily basis from different parts of north Dhaka to the landfill that does not have an environmental clearance certificate from the Department of Environment (DoE). An August 5 inter-ministerial meeting at the Ministry of Environment, Forest, and Climate Change claimed that  DNCC did not follow the directives prescribed in the Environment Conservation Rules, 1997, in the first place while building the landfill, failing to ensure a sound environment, it says. The dump yard has become over-loaded from all sides and falls on the path of a flood flow zone near a canal of the Turag River. The landfill built-in 2007 on 52 acres of land was expanded in 2017 as the garbage over the years exceeded the capacity, but the sanitary landfill has turned into an open dump due to the haphazard disposal of waste. The Environment Conservation Rules 1997 made it mandatory to have an environmental impact assessment (EIA) and maintain sound environmental conditions in all steps of building and operation of landfills. However, the DNCC neither conducted the EIA nor obtained any environmental clearance - a clear violation of the rules."
+}

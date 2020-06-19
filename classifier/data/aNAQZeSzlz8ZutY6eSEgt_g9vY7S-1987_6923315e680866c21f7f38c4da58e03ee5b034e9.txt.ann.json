@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "ny_times",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "1987_6923315e680866c21f7f38c4da58e03ee5b034e9.txt",
+  "text": "THIRD-WORLD CONCERN: DEATHS DURING CHILDBIRTH\n1987-02-14T05:00:00.000Z\nInternational health experts here began a campaign today to conquer a third-world health problem that has been largely overcome in the West: the death of women in childbirth.\n''The third world is where we were in Europe and the United States at the turn of the century,'' said Dr. Halfdan Mahler, Director General of the World Health Organization, one of several sponsors of a ''Safe Motherhood'' conference held here this week to focus attention on what participants called ''a hidden tragedy.''\nAt the opening session, on Tuesday, Barber B. Conable Jr., president of the World Bank, challenged participants to ''reduce by half the number of women who die in pregnancy or childbirth by the year 2000.''\nTo further this goal, Mr. Conable pledged $1 million in World Bank funds for a ''Safe Motherhood Fund'' to be managed by the World Health Organization. Mr. Conable also promised to double World Bank lending for population, health and nutrition programs to $500 million by 1990. New Research Cited\n''Common decency tells us that it is intolerable that 1,400 women die every day in the process of carrying or delivering their children,'' said Mr. Conable, a former Republican Representative from upstate New York.\nThe Nairobi meeting was partly an outgrowth of a conference held here two years ago to mark the end of the United Nations Decade for Women. This week's conference drew on new research and personal experiences to bring the problem of maternal mortality into focus.\nAccording to the World Health Organization, one quarter of all deaths of women of childbearing age in developing countries occur during pregnancy or childbirth.\nLast year, of 500,000 women who died worldwide in pregnancy or childbirth, 99 percent lived in underdeveloped nations. An American has one chance in 6,366 of dying while pregnant; an East African one chance in 15. Child Dies if Mother Dies\nThe death of a mother often means death or hardship for surviving children. In Bangladesh, a study found that when a mother dies in childbirth her infant has a 95 percent chance of dying within a year.\n''I remember a group of 20 women in rural Kenya telling me that three women from their community had died in childbirth,'' said Barbara Herz, an adviser to the World Bank. ''I asked them what happened to the children. They said, 'The older ones went to the city to beg, and the younger ones died.' ''\nIn Latin America and in urban Africa, about half of maternal deaths are a result of complications arising from illicit abortions, experts said. Mortality could be cut by a third if women who did not want more children had access to contraceptives, one study said.\nOne participant in the conference, Barbara E. Kwast, recalled interviewing an Ethiopian tailor whose 35-year-old wife had died because of an attempt to abort her 10th pregnancy. ''He did not know anything about family planning services,'' said Ms. Kwast, a professor of public health who worked in Addis Ababa from 1981 to 1985.\nIn developing countries, about half of all women go through labor and childbirth without anesthesia or trained attendants. In addition, two-thirds of pregnant women in developing countries are believed to be anemic.\nSeveral conference participants, citing recent medical history, were optimistic that maternal mortality rates could be reduced in underdeveloped countries.\nIn 1935, it was pointed out, England and Wales had a maternal mortality rate of 400 for each 100,000 live births - not much below India's current rate of about 500. Today, Britain's rate is about 10 deaths for each 100,000 births.\nThe difference, experts here said, is not economic development but the widespread extension of modern health services: family planning, antibiotics, Caesarian sections, blood transfusions, and hygenic medical practices. Family Planning Favored\nA key step, participants said, is access to family planning. Through the 1970's, many Africans criticized family planning programs as racially inspired limits on their growth. But at this week's conference, which was attended by health professionals from 13 African countries, the mood was heavily in favor of family planning.\n''I believe an effective population-management program will considerably improve the quality of life for women and thereby insure safe motherhood,'' President Daniel arap Moi of Kenya said in the keynote speech.\nParticipants also discussed other low-cost methods for reducing maternal deaths.\nOne method that has worked successfully in several countries is building maternity waiting homes adjacent to health centers. One week before her due date a woman moves with her children to one of the homes. This eliminates the need to transport her from a remote site to a health center when an emergency develops unexpectedly. Caesarians by Midwives\nAnother proposal that drew much comment was a move by Dr. Sambe Duale of Zaire to teach nurse-midwives how to perform Caesarians if a doctor is not available. In his rural area, he said, midwives perform 80 percent of the 200 to 300 Caesarians a year.\nOther solutions included improving rural health centers, extending ambulance service to remote areas and training community health workers to identify pregnant women at high risk.\nDown a dirt road in the Nairobi slum of Kawangware, a community of 59,000, the effect of a modestly financed maternal health program could be seen. Built about 10 years ago, the Kabiro Health Care Outpost sends 37 health-care workers into local shacks to explain maternal and child care.\n''I haven't seen a mother die of childbirth in five years,'' Sister Eroni Nakagwa, a nurse-midwife, said today."
+}

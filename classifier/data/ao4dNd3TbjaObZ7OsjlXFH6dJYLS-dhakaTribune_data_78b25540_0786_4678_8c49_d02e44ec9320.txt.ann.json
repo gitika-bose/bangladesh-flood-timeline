@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "dhakaTribune_data_78b25540-0786-4678-8c49-d02e44ec9320.txt",
+  "text": "Date Published:2020-04-10 00:00:00      \nThe deceased has been identified as Fahim Ahmed A Qatar expatriate was stabbed to death by some miscreants at Haiderpur village in Tukerbazar area of the city on Thursday.  The deceased was identified as Fahim Ahmed, 24, son of Abdul Manik of the village. He returned from Qatar three-four months back, reports UNB.  Jalalabad Police Station Officer-in-Charge Akil Uddin Ahmed said the miscreants stabbed the man indiscriminately and dumped the body near his house in the night.  On information, police recovered the body and sent it to Sylhet Osmani Medical College Hospital.  Police said miscreants might have killed him over previous enmity.  "
+}

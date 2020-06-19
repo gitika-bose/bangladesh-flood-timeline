@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_9da74bbb-e0b6-4e54-a3fb-7c3f20af600a.txt",
+  "text": "Date Published:2020-01-11 00:00:00      \nAwami League General Secretary and Road Transport and Bridges Minister Obaidul Quader today said BNP does not want Digital Bangladesh as they cannot tolerate the country's development. He was addressing a winter clothes distribution programme at Five Star ground at Saidpur upazila in the district. About the use of electronic voting machines (EVMs) in the Dhaka city polls, Quader said they will accept any decision of the Election Commission in this regard as \"we have no fear\". The AL general secretary said elections using EVMs is a modern system. But as election date is approaching, BNP raises questions over EVM and neutrality of poll, he added. Quader said BNP does not do pro-people politics rather it performs politics for the looters or millionaires. \"BNP has public support neither in election nor in movement,\" he said. The minister said the government led by Bangabandhu's daughter Prime Minister Sheikh Hasina is a government for the poor people. The government always stands beside people in their well and woes, he added. The AL general secretary said BNP does not stand beside people, who suffer in cold or flood rather they make complaints staying in Dhaka. Commerce Minister Tipu Munshi, State Minister for Relief and Disaster Management Dr Md Enamur Rahman, AL Joint General Secretary AFM Bahauddin Nasim, Rabeya Alim, MP, District unit AL president Dewan Kamal Ahmed and General Secretary Mamtajul Haque, addressed the function, among others. AL Organizing Secretary BM Mozammel Haque presided over the function. According to party sources, around 50,000 blankets will be distributed in Rangpur division under the auspices of AL. The AL general secretary handed over the blankets among the district unit leaders for distribution while he also distributed 3,000 blankets among cold-hit people on the occasion."
+}

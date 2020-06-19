@@ -1,0 +1,65 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "daily_star",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [],
+  "relations": [],
+  "filename": "theDailyStar_data_8a16df2d-8f7b-4272-b101-b1b2fd3e7fee.txt",
+  "text": "Date Published:2019-05-05 00:00:00      \nScience and Technology Minister Yafes Osman on Friday inaugurated the installation of core catcher, a device for catching the molten core material, at Unit-2 of Rooppur Nuclear Power Plant. The initiative, following completion of installing core catcher at Unit-1 of the plant two months ago, is meant for ensuring effective passive safety system there, officials said. \"The core catcher has been introduced for ensuring the highest safety measures for the country's first nuclear power plant, especially keeping in mind the 2011 Fukushima nuclear disaster in Japan,\" said Yafes Osman after inaugurating the installing of core catcher. Atomstroyexport, engineering division of ROSATOM, the general contractor of Rooppur Nuclear Power Plant, is conducting the installation of 'core catcher' at the site. Core catcher for Rooppur NPP is designed considering the condition of the site and its safety requirements, said Vury Kushelev, chief engineer of Atomstroyexport. \"With improved hydro-dynamic and shock absorption properties, it is more resistant to seismic activities. It is also equipped with flood protection features and possesses simplified installation and assembly technology,\" he said. Core catchers at the two units of the Rooppur plant will make it safe from any disaster, said Dr Shawkat Akbar, project director of Rooppur Nuclear Plant. \"The plant, being constructed with the technical and financial assistance from Russia, will have two units, each with 1200MW capacity. World's latest 3+ Generation VVER 1200 reactors have been chosen for the plant, completely fulfilling the safety requirements set by International Atomic Energy Agency,\" he added.  "
+}

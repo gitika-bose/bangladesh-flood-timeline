@@ -1,0 +1,159 @@
+{
+  "annotatable": {
+    "parts": [
+      "s1v1"
+    ]
+  },
+  "anncomplete": true,
+  "sources": [],
+  "metas": {
+    "m_57": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_33": {
+      "value": false,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_55": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_30": {
+      "value": "dhaka_tribune",
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    },
+    "m_28": {
+      "value": true,
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      }
+    }
+  },
+  "entities": [
+    {
+      "classId": "e_49",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 15,
+          "text": "2019-02-27"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_51": {
+          "value": "2019-02-07",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_2",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 106,
+          "text": "Comilla City Corporation's"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_39": {
+          "value": "Comilla",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    },
+    {
+      "classId": "e_58",
+      "part": "s1v1",
+      "offsets": [
+        {
+          "start": 201,
+          "text": "polluted water is flooding hundreds of hectares of farmland"
+        }
+      ],
+      "coordinates": [],
+      "confidence": {
+        "state": "pre-added",
+        "who": [
+          "user:shammun"
+        ],
+        "prob": 1
+      },
+      "fields": {
+        "f_53": {
+          "value": "urban",
+          "confidence": {
+            "state": "pre-added",
+            "who": [
+              "user:shammun"
+            ],
+            "prob": 1
+          }
+        }
+      },
+      "normalizations": {}
+    }
+  ],
+  "relations": [],
+  "filename": "dhakaTribune_data_34590650-a480-4b92-a66c-0d55579abb78.txt",
+  "text": "Date Published:2019-02-27 00:00:00      \nFarmers are acutely at risk of contracting sewage-borne diseases Comilla City Corporation's unplanned drainage system is turning farmland into water bodies; as polluted water is flooding hundreds of hectares of farmland. However, the city corporation has undertaken several mega projects to improve  rural infrastructure and increase opportunities for urbanization. Among these projects, one of them was undertaken to ensure a better sewerage system. However, the newly-constructed drainage system--in nine wards of Comilla City Corporation, including wards 23 and 24-- has brought sewage onto arable farmland, into open fields, and near educational institutions; mostly harming farmers in the process. Diseases--such as: cholera, dysentery, typhoid, and diarrhea--are emerging from these unhealthy conditions. Various crops, dwellings, schools, and other institutions, are in danger of becoming water-logged. Farmers complain that due to the negligence of the city corporation officials, the drains empty onto farmland instead of into rivers or canals. They claim that if the sewerage system had been carefully planned, the farmers would not be suffering. Comilla City Corporation Mayor Monirul Haque Sakku said the drainage line empties onto farmland for various reasons; including that some cases filed against construction of the line, by people who do not want drains over their land, have left the process incomplete. He said: \"We are trying to find a solution to this problem.\" Visiting the area, this correspondent found that starting from the Border Guards Bangladesh (BGB) Comilla sector, the main drain pipe ends near Nandanpur Bishwaroad. Branches of drainpipes from other areas link to this main drain line, leading the sewage water away to places near farmlands, houses, and educational institutions in several areas, including: Gandhamati, Changini, Batabaria, and Rampur. The main drain line of the 23rd and 24th ward ends near Batabaria school, while Ghungaijhuri canal is only 2700 square feet away. If the drain had been extended by 2700 square feet--over the Changini-Nandanpur area to the canal--then the problems would not have existed. There are at least 30 government and non-government institutions in wards 23 and 24, including: the Bangladesh Academy for Rural Development (Bard), the BGB sector headquarters, Comilla University, a section of cantonment, a cadet college, Shalban Vihara, and the Buddhist Bihar Museum. Locals said if the unplanned sewerage system persists, these places will flood with polluted water. A farmer from Nandanpur, Abul Hashem said they are struggling to yield crops as contaminated water is flooding their arable farmland. They demand the pipeline be moved so that it ends at Ghungaijhuri canal, rather than on the farmland. Many people--including Md Ayub Ali, Md Lutfur Rahman, Zahid Hossain Mithu, and Md Abul Kalam--have complained that apart from harming the crops, farmers are also contracting skin diseases from the contaminated water. Dr Mosleh Uddin, president of Comilla Environment Movement, said: \"Due to the dirty and contaminated water of the drains, the farmers of those areas are [working] in extremely dangerous conditions. \"All the polluted water from the city is flowing onto agricultural land. As there is no way to dispose of the sewage--other than in the southern area of the city corporation--the area will be considered a recycling zone.\" He said it is possible to protect the agricultural land--at least in those areas--by creating a recycling project. Comilla City Corporation Mayor Monirul Haque Sakku said: \"The work to extend the drainpipes, for them to empty into canals, is going ahead according to the master plan. It will be completed in phases. He also said alongside it, there is a plan to extend the main drain line of Nandanpur towards Ghungaijhuri canal. The mayor said: \"A man named Abdul Jalil from ward 24 has filed cases against seven city corporation officials, including me. Construction of drains in various places is hindered due to these problems.\""
+}

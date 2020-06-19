@@ -1,0 +1,15 @@
+[
+  {
+    "query": "bangladesh floods",
+    "paper": "bangladeshPost",
+    "date_range": [
+      "1/1/2019",
+      "12/31/2019"
+    ],
+    "sites": [
+      "https://www.bangladeshpost.net/posts/se-asia-s-plastic-waste-problem-4894",
+      "https://www.bangladeshpost.net/posts/india-to-generate-electricity-from-ocean-9990",
+      "https://www.bangladeshpost.net/posts/river-erosion-taking-heavy-toll-14612"
+    ]
+  }
+]
