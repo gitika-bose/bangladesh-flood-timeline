@@ -21,6 +21,8 @@ ann_legend_path = Path(root_path, "annotations-legend.json")
 with open(ann_legend_path, "r") as f:
     legend = json.load(f)
 
+regex_abra_cadabra = r"^[@#]*$"
+
 
 class ContentParser(HTMLParser):
     def __init__(self):
@@ -39,7 +41,9 @@ class ContentParser(HTMLParser):
     def handle_data(self, content: str):
         if self.is_content != 0:
             self.content += [
-                x.strip() for x in content.strip().split("\n") if x.strip() != ""
+                y
+                for y in (x.strip() for x in content.strip().split("\n"))
+                if re.match(regex_abra_cadabra, y) is None
             ]
 
 
@@ -52,7 +56,8 @@ def empty_entry(legend: Dict[str, str]) -> Dict[str, Any]:
     return rs
 
 
-date_regex_articles = re.compile(r"^(\d\d\d\d-\d\d-\d\d)T\d\d:\d\d:\d\d.\d\d\dZ$")
+date_regex_articles = re.compile(r"^(\d\d\d\d-\d\d-\d\d).*$")
+date_regex_dhaka = re.compile(r"^Date Published:\s*(\d\d\d\d-\d\d-\d\d).*$")
 
 
 def parse_article(
@@ -62,22 +67,14 @@ def parse_article(
     parser.feed(content)
     dt = None
 
-    if folder in ("/pool/articles"):
-        for i, s in enumerate(parser.content):
-            m = re.match(date_regex_articles, s)
-            if m is not None:
-                dt = datetime.datetime.strptime(m.group(1), "%Y-%m-%d").date()
-                parser.content.pop(i)
-                break
-
-    elif folder in ("/pool/daily_star", "/pool/dhaka_tribune"):
-        pass
-
-    elif folder in ("/pool/is_flood", "/pool/is_flood3"):
-        pass
-
-    else:
-        pass
+    for i, s in enumerate(parser.content):
+        m = re.match(
+            date_regex_articles if folder == "/pool/articles" else date_regex_dhaka, s
+        )
+        if m is not None:
+            dt = datetime.datetime.strptime(m.group(1), "%Y-%m-%d").date()
+            parser.content.pop(i)
+            break
 
     return (parser.content, dt)
 
@@ -111,12 +108,20 @@ def traverse_articles(output: Dict[str, Any], root_path: Path, path: Path) -> No
             with open(x.path, "r") as f:
                 article = f.read()
             content, dt = parse_article(article_id, folder, article)
+            lines = len(content)
             length = len(article)
+            max_line_length = max(len(x) for x in content)
+            min_line_length = min(len(x) for x in content)
+            avg_line_length = sum(len(x) for x in content) / len(content)
             output[article_id] = dict(
                 __article_id=article_id,
                 __folder=folder,
-                __content=content,
+                __content="\n".join(content),
                 __length=length,
+                __lines=lines,
+                __min_line_length=min_line_length,
+                __avg_line_length=avg_line_length,
+                __max_line_length=max_line_length,
                 __date=dt,
             )
 
@@ -137,17 +142,21 @@ if len(articles) != 0:
 
     keys = [
         "__article_id",
+        "__date",
         "__anncomplete",
         "__length",
-        "__date",
+        "__lines",
+        "__min_line_length",
+        "__avg_line_length",
+        "__max_line_length",
         "__folder",
         "is_flood",
         "is_Bangladesh",
         "type",
         "flood_related",
         "flood-climatechange",
-        "anomaly_issue",
         "newspaper",
+        "anomaly_issue",
         "Date",
         "Division1",
         "Division2",
