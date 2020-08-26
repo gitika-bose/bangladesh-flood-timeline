@@ -6,7 +6,7 @@ import json
 
 # import yaml
 import csv
-from typing import Tuple, Dict, Any, Optional
+from typing import Tuple, Dict, List, Any, Optional
 import datetime
 import re
 from html.parser import HTMLParser
@@ -30,7 +30,7 @@ class ContentParser(HTMLParser):
         self.is_content = 0
         self.content = []
 
-    def handle_starttag(self, tag: str, attrs: Tuple[str, str]):
+    def handle_starttag(self, tag: str, attrs: List[Tuple[str, Optional[str]]]):
         if tag == "div":
             self.is_content += 1
 
@@ -47,6 +47,19 @@ class ContentParser(HTMLParser):
             ]
 
 
+drop_list = [
+    "Date",
+    "Division1",
+    "Division2",
+    "Division3",
+    "District1",
+    "District2",
+    "District3",
+    "District4",
+    "District5",
+]
+
+
 def empty_entry(legend: Dict[str, str]) -> Dict[str, Any]:
     rs: Dict[str, Any] = {}
     for k in legend.keys():
@@ -54,6 +67,10 @@ def empty_entry(legend: Dict[str, str]) -> Dict[str, Any]:
             rs[legend[k]] = None
     rs["__anncomplete"] = False
     return rs
+
+
+def drop_fields(d: Dict[str, Any], drop_list: List[str]) -> Dict[str, Any]:
+    return {k: v for k, v in d.items() if k not in drop_list}
 
 
 date_regex_articles = re.compile(r"^(\d\d\d\d-\d\d-\d\d).*$")
@@ -109,19 +126,11 @@ def traverse_articles(output: Dict[str, Any], root_path: Path, path: Path) -> No
                 article = f.read()
             content, dt = parse_article(article_id, folder, article)
             lines = len(content)
-            length = len(article)
-            max_line_length = max(len(x) for x in content)
-            min_line_length = min(len(x) for x in content)
-            avg_line_length = sum(len(x) for x in content) / len(content)
+            length = len(content)
             output[article_id] = dict(
                 __article_id=article_id,
                 __folder=folder,
                 __content="\n".join(content),
-                __length=length,
-                __lines=lines,
-                __min_line_length=min_line_length,
-                __avg_line_length=avg_line_length,
-                __max_line_length=max_line_length,
                 __date=dt,
             )
 
@@ -144,11 +153,6 @@ if len(articles) != 0:
         "__article_id",
         "__date",
         "__anncomplete",
-        "__length",
-        "__lines",
-        "__min_line_length",
-        "__avg_line_length",
-        "__max_line_length",
         "__folder",
         "is_flood",
         "is_Bangladesh",
@@ -157,15 +161,6 @@ if len(articles) != 0:
         "flood-climatechange",
         "newspaper",
         "anomaly_issue",
-        "Date",
-        "Division1",
-        "Division2",
-        "Division3",
-        "District1",
-        "District2",
-        "District3",
-        "District4",
-        "District5",
         "__content",
     ]
 
@@ -176,6 +171,7 @@ if len(articles) != 0:
         if k in annotations:
             r.update(annotations[k])
         r.update(articles[k])
+        r = drop_fields(r, drop_list)
         w.writerow(r)
 
 # yaml.dump(rs, sys.stdout, default_flow_style=False, width=120, allow_unicode=True)
